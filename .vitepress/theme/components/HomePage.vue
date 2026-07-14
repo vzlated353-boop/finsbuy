@@ -427,7 +427,7 @@ body, html {
 .hero-stats {
   display: flex;
   justify-content: center;
-  gap: 40px;
+  gap: 20px;
   margin: 30px 0;
   flex-wrap: wrap;
 }
