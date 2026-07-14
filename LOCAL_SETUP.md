@@ -28,7 +28,7 @@ npm install
 ```bash
 npm run dev
 ```
-然后访问 http://localhost:5173
+然后访问 `http://localhost:5173` (本地开发环境)
 
 ### 3. 修改商品数据
 

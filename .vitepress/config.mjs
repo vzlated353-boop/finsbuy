@@ -64,6 +64,11 @@ export default defineConfig({
     hostname,
   },
   
+  // Ignore localhost links in development docs
+  ignoreDeadLinks: [
+    /^http:\/\/localhost/,
+  ],
+  
   // Enable SPA mode for client-side routing
   cleanUrls: 'with-subfolders',
 })
