@@ -60,15 +60,13 @@
  100% { transform: translateX(-50%); }
 }
 
-/* ===== Layout Adjustments for Fixed Banner ===== */
+/* ===== Hide VitePress Default Navigation ===== */
 .VPNav {
- top: 40px !important;
- z-index: 250 !important;
- background: var(--vp-nav-bg-color, #ffffff) !important;
+ display: none !important;
 }
 
 .dark .VPNav {
- background: var(--vp-nav-bg-color, #1a1a2e) !important;
+ display: none !important;
 }
 
 .VPSidebar {
@@ -77,7 +75,7 @@
 }
 
 .VPContent {
- padding-top: 40px;
+ padding-top: 0;
 }
 
 /* ===== Hide Theme Toggle Button ===== */
