@@ -43,9 +43,7 @@ export default defineConfig({
   ],
 
   themeConfig: {
-    nav: [
-      { text: 'Home', link: '/' },
-    ],
+    nav: [],
     
     // SPA Fallback for Cloudflare Pages
     notFound: {

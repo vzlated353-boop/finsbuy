@@ -332,6 +332,11 @@ body, html {
   color: #333;
 }
 
+/* Hide VitePress default navbar */
+:deep(.VPNav) {
+  display: none !important;
+}
+
 /* Navigation */
 .navbar {
   position: sticky;
@@ -344,13 +349,14 @@ body, html {
 }
 
 .nav-container {
-  max-width: 1400px;
+  max-width: 100%;
   margin: 0 auto;
   padding: 0 20px;
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: center;
   gap: 30px;
+  overflow-x: auto;
 }
 
 .nav-brand {
@@ -363,9 +369,11 @@ body, html {
 .nav-links {
   display: flex;
   list-style: none;
-  gap: 20px;
+  gap: 15px;
   overflow-x: auto;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
+  flex: 1;
+  min-width: 0;
 }
 
 .nav-link {
