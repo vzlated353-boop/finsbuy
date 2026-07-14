@@ -80,6 +80,11 @@
  padding-top: 40px;
 }
 
+/* ===== Hide Theme Toggle Button ===== */
+.VPSwitchAppearance {
+ display: none !important;
+}
+
 /* ===== Hide Default VitePress Hero ===== */
 .VPHero {
  display: none !important;

@@ -215,7 +215,174 @@
 </template>
 
 <script setup>
-import { onMounted } from 'vue'
+import { ref, computed, onMounted } from 'vue'
+
+// 分类结构定义
+const categoryStructure = {
+  'Clothing': ['T-shirt', 'Hoodie', 'Sweatshirt', 'Sweater', 'Down Jacket', 'Shorts Set', 'Jacket', 'Waistcoat', 'Down Vest', 'Tracksuit', 'ZIP Sweater', 'Jersey', 'Suit'],
+  'Pants': ['Shorts', 'Underwear', 'Jeans', 'Sweatpants', 'Pants'],
+  'Shoes': ['Nike Dunk', 'Crocs Shoes', 'ALEXANDER MCQUEE', 'Jordan 4', 'Nike Air Max 95', 'Nike Football Boots', 'Dior B27', 'Nike Max Plus TN', 'Dior B30', 'Off-white', 'Golden Goose', 'Adidas', 'Balenciaga', 'Asics', 'Nike Air Max 97', 'Lanvin', 'Burberry', 'Dunk SB x Off-white', 'Dior B22', 'Dior B23', 'NB 9060', 'Yeezy 350', 'Timberland', 'Bape', 'Nike Shox TL', 'Yeezy Slippers', 'Nike Air Max 95 Corteiz', 'Nike Skepta\'s Tailwind', 'Valentino', 'Nike AF1 Low \'07'],
+  'Watches': ['Rolex Watches', 'Cartier Watches', 'Audemars Piguet Watches', 'Tissot Watches', 'S9–S10 Ultra2 Watches'],
+  'Accessories': ['Belt', 'Wallet', 'Cap', 'Perfume', 'Bag', 'Glasses', 'Hat', 'Phone Case', 'Bracelet', 'Socks', 'Necklace', 'Scarf', 'Beanie', 'Headphones', 'Backpack', 'Mask', 'Sound Equipment', 'Travel Bag', 'Balaclava']
+}
+
+// 响应式状态
+const selectedPrimary = ref('Clothing')
+const selectedSecondary = ref(null)
+
+// 计算属性
+const primaryCategories = computed(() => Object.keys(categoryStructure))
+
+const secondaryCategories = computed(() => {
+  return selectedPrimary.value ? categoryStructure[selectedPrimary.value] : []
+})
+
+// 示例商品数据（框架）
+const products = [
+  {
+    id: 7572836729,
+    badge: 'hot',
+    name: 'Stone Island Sweater',
+    price: '$16.32',
+    primaryCategory: 'Clothing',
+    secondaryCategory: 'Sweater',
+    image: 'https://si.geilicdn.com/pcitem901908374288-70d600000193b0a41fa30a231316_1600_1600.jpg',
+    link: 'https://fansbuy.com/item-micro-7572836729.html?promotionCode=R0dfTU9DRzA2VTk'
+  },
+  {
+    id: 7572864219,
+    badge: 'hot',
+    name: 'Ralph Lauren T-shirt',
+    price: '$11.37',
+    primaryCategory: 'Clothing',
+    secondaryCategory: 'T-shirt',
+    image: 'https://si.geilicdn.com/open1624782517-1624782517-755000000194ead414340a22d234_1920_1920.jpg',
+    link: 'https://fansbuy.com/item-micro-7572864219.html?promotionCode=R0dfTU9DRzA2VTk'
+  },
+  {
+    id: 7572812731,
+    badge: 'new',
+    name: 'Nike Nocta T-shirt',
+    price: '$11.37',
+    primaryCategory: 'Clothing',
+    secondaryCategory: 'T-shirt',
+    image: 'https://si.geilicdn.com/open1624782517-1624782517-02a900000196a570751c0a23b4de_800_800.jpg',
+    link: 'https://fansbuy.com/item-micro-7572812731.html?promotionCode=R0dfTU9DRzA2VTk'
+  },
+  {
+    id: 7574744386,
+    badge: 'value',
+    name: 'Bape T-shirt',
+    price: '$16.32',
+    primaryCategory: 'Clothing',
+    secondaryCategory: 'T-shirt',
+    image: 'https://si.geilicdn.com/open1875660057-252808396-7ede000001919e4cc1270a22d234_1097_1097.jpg',
+    link: 'https://fansbuy.com/item-micro-7574744386.html?promotionCode=R0dfTU9DRzA2VTk'
+  },
+  {
+    id: 7574795754,
+    badge: 'hot',
+    name: 'Ralph Lauren Polo',
+    price: '$11.54',
+    primaryCategory: 'Clothing',
+    secondaryCategory: 'T-shirt',
+    image: 'https://si.geilicdn.com/open1831483949-1831483949-7e2b0000019bd58a54dc0aa08245-unadjust_326_349.png',
+    link: 'https://fansbuy.com/item-micro-7574795754.html?promotionCode=R0dfTU9DRzA2VTk'
+  },
+  {
+    id: 7574705188,
+    badge: 'value',
+    name: 'Ralph Lauren Polo',
+    price: '$13.05',
+    primaryCategory: 'Clothing',
+    secondaryCategory: 'T-shirt',
+    image: 'https://si.geilicdn.com/pcitem901903640419-78f900000192e730b7050a239846_1920_1920.jpg',
+    link: 'https://fansbuy.com/item-micro-7574705188.html?promotionCode=R0dfTU9DRzA2VTk'
+  },
+  {
+    id: 7574805716,
+    badge: 'hot',
+    name: 'Jersey',
+    price: '$11.37',
+    primaryCategory: 'Clothing',
+    secondaryCategory: 'Jersey',
+    image: 'https://si.geilicdn.com/open1831483949-1831483949-131b0000019bd5ba10480a22d249-unadjust_323_323.png',
+    link: 'https://fansbuy.com/item-micro-7574805716.html?promotionCode=R0dfTU9DRzA2VTk'
+  },
+  {
+    id: 7572844599,
+    badge: 'new',
+    name: 'Jersey',
+    price: '$16.32',
+    primaryCategory: 'Clothing',
+    secondaryCategory: 'Jersey',
+    image: 'https://si.geilicdn.com/open1624782517-1624782517-7fe300000199e2ad8bc90aa006e9-unadjust_1031_1031.png',
+    link: 'https://fansbuy.com/item-micro-7572844599.html?promotionCode=R0dfTU9DRzA2VTk'
+  },
+  {
+    id: 7574738806,
+    badge: 'value',
+    name: 'Jersey',
+    price: '$14.84',
+    primaryCategory: 'Clothing',
+    secondaryCategory: 'Jersey',
+    image: 'https://si.geilicdn.com/open1624782517-1624782517-48c300000199e2ada7310aa081c2-unadjust_978_978.png',
+    link: 'https://fansbuy.com/item-micro-7574738806.html?promotionCode=R0dfTU9DRzA2VTk'
+  },
+  {
+    id: 7572793335,
+    badge: 'hot',
+    name: 'Hellstar T-shirt',
+    price: '$11.21',
+    primaryCategory: 'Clothing',
+    secondaryCategory: 'T-shirt',
+    image: 'https://si.geilicdn.com/open1718289365-1234478995-545800000194966be72b0a232357_1600_1600.jpg',
+    link: 'https://fansbuy.com/item-micro-7572793335.html?promotionCode=R0dfTU9DRzA2VTk'
+  }
+]
+
+// 过滤后的商品
+const filteredProducts = computed(() => {
+  return products.filter(product => {
+    const matchesPrimary = product.primaryCategory === selectedPrimary.value
+    const matchesSecondary = selectedSecondary.value === null || product.secondaryCategory === selectedSecondary.value
+    return matchesPrimary && matchesSecondary
+  })
+})
+
+// 方法
+function selectPrimaryCategory(category) {
+  selectedPrimary.value = category
+  selectedSecondary.value = null
+}
+
+function selectSecondaryCategory(subcategory) {
+  selectedSecondary.value = subcategory
+}
+
+function trackClick(product) {
+  if (typeof gtag !== 'undefined') {
+    gtag('event', 'view_item', {
+      'items': [{
+        'item_id': product.id,
+        'item_name': product.name,
+        'price': product.price,
+        'item_category': product.primaryCategory,
+        'item_subcategory': product.secondaryCategory
+      }]
+    })
+  }
+  
+  if (typeof LA !== 'undefined' && LA.track) {
+    LA.track('product_click', {
+      'product_id': product.id,
+      'product_name': product.name,
+      'product_price': product.price,
+      'product_category': product.primaryCategory,
+      'product_subcategory': product.secondaryCategory
+    })
+  }
+}
 
 const categories = [
   { id: 1, name: 'Shoes', description: 'Sneakers, boots, and more', icon: '👟', link: '#shoes' },
@@ -294,13 +461,11 @@ const faqs = [
 ]
 
 onMounted(() => {
-  // Load GA4 Script
   const ga4Script = document.createElement('script')
   ga4Script.async = true
   ga4Script.src = 'https://www.googletagmanager.com/gtag/js?id=G-XTJTTBZTPM'
   document.head.appendChild(ga4Script)
 
-  // Load 51.la Script
   const la51Script = document.createElement('script')
   la51Script.charset = 'UTF-8'
   la51Script.src = '//sdk.51.la/js-sdk-pro.min.js'
@@ -386,7 +551,7 @@ body, html {
 }
 
 .nav-link:hover {
-  color: #d4af37;
+  color: #000;
 }
 
 .nav-link.active {
@@ -867,42 +1032,173 @@ body, html {
 
   .nav-links {
     gap: 10px;
+    font-size: 13px;
   }
 
   .nav-link {
-    font-size: 12px;
+    font-size: 13px;
+    padding: 6px 10px;
+  }
+
+  .nav-brand {
+    font-size: 18px;
   }
 
   .hero-stats {
-    gap: 20px;
+    gap: 15px;
   }
 
   .stat-number {
     font-size: 24px;
   }
+
+  .stat-label {
+    font-size: 12px;
+  }
+
+  .categories-grid {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+  }
+
+  .features-grid {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+  }
+
+  .content-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .content-section,
+  .features-section,
+  .categories-section,
+  .brands-section,
+  .steps-section,
+  .collections-section,
+  .trust-section,
+  .faq-section,
+  .footer-cta-section {
+    padding: 40px 15px;
+  }
 }
 
 @media (max-width: 480px) {
   .hero-title {
-    font-size: 24px;
-  }
-
-  .hero-subtitle {
-    font-size: 16px;
-  }
-
-  .section-title {
     font-size: 22px;
   }
 
+  .hero-subtitle {
+    font-size: 14px;
+  }
+
+  .section-title {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+
   .nav-container {
-    flex-direction: column;
-    gap: 15px;
+    flex-direction: row;
+    gap: 8px;
+    overflow-x: auto;
+    padding: 0 10px;
+  }
+
+  .nav-brand {
+    font-size: 14px;
+    flex-shrink: 0;
   }
 
   .nav-links {
-    flex-direction: column;
+    gap: 5px;
+    font-size: 10px;
+  }
+
+  .nav-link {
+    font-size: 10px;
+    padding: 4px 6px;
+  }
+
+  .spreadsheet-link {
+    padding: 3px 6px;
+    font-size: 10px;
+  }
+
+  .hero-banner {
+    padding: 40px 15px;
+  }
+
+  .hero-stats {
+    gap: 10px;
+    margin: 15px 0;
+  }
+
+  .stat-number {
+    font-size: 18px;
+  }
+
+  .stat-label {
+    font-size: 9px;
+  }
+
+  .cta-button {
+    padding: 10px 20px;
+    font-size: 13px;
+  }
+
+  .categories-grid {
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
     gap: 8px;
+  }
+
+  .features-grid {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+
+  .brands-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
+  }
+
+  .content-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .content-section,
+  .features-section,
+  .categories-section,
+  .brands-section,
+  .steps-section,
+  .collections-section,
+  .trust-section,
+  .faq-section,
+  .footer-cta-section {
+    padding: 25px 12px;
+  }
+
+  .feature-card {
+    padding: 20px;
+  }
+
+  .category-card {
+    padding: 15px;
+  }
+
+  .step-card {
+    padding: 20px;
+  }
+
+  .faq-item {
+    padding: 15px;
+  }
+
+  .cta-title {
+    font-size: 24px;
+  }
+
+  .cta-subtitle {
+    font-size: 14px;
   }
 }
 </style>
