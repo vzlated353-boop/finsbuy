@@ -3,6 +3,7 @@ import { h, onMounted, watch } from 'vue'
 import { useRoute } from 'vitepress'
 import './custom.css'
 import './fashion.css'
+import GlobalNavbar from './components/GlobalNavbar.vue'
 
 export default {
   ...DefaultTheme,
@@ -14,7 +15,10 @@ export default {
     watch(() => route.path, () => {
       setTimeout(initOnlineCounter, 300)
     })
-    return h(DefaultTheme.Layout)
+    return h('div', [
+      h(GlobalNavbar),
+      h(DefaultTheme.Layout)
+    ])
   }
 };
 
