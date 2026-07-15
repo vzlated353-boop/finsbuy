@@ -3,16 +3,16 @@
     <!-- Hero Section -->
     <section class="hero">
       <div class="container">
-        <h1>Platform Overview</h1>
-        <p>Placeholder subtitle for platform</p>
+        <h1>{{ frontmatter.platformName || 'Platform Page' }}</h1>
+        <p>{{ frontmatter.heroSubtitle || 'Discover the best shopping experience on this platform.' }}</p>
       </div>
     </section>
 
     <!-- Platform Overview -->
     <section class="overview">
       <div class="container">
-        <h2>About This Platform</h2>
-        <p>Placeholder introduction text for the platform. This section provides an overview of what the platform offers and its key features.</p>
+        <h2>Platform Overview</h2>
+        <p>{{ frontmatter.overviewText || 'Placeholder introduction text for the platform. This section provides an overview of what the platform offers and its key features.' }}</p>
       </div>
     </section>
 
@@ -23,23 +23,23 @@
         <div class="advantages-grid">
           <div class="advantage-card">
             <div class="advantage-icon">✓</div>
-            <h3>Advantage 1</h3>
-            <p>Placeholder text describing the advantage</p>
+            <h3>{{ frontmatter.advantages[0].title || 'Advantage 1' }}</h3>
+            <p>{{ frontmatter.advantages[0].content || 'Placeholder text describing the advantage' }}</p>
           </div>
           <div class="advantage-card">
             <div class="advantage-icon">✓</div>
-            <h3>Advantage 2</h3>
-            <p>Placeholder text describing the advantage</p>
+            <h3>{{ frontmatter.advantages[1].title || 'Advantage 2' }}</h3>
+            <p>{{ frontmatter.advantages[1].content || 'Placeholder text describing the advantage' }}</p>
           </div>
           <div class="advantage-card">
             <div class="advantage-icon">✓</div>
-            <h3>Advantage 3</h3>
-            <p>Placeholder text describing the advantage</p>
+            <h3>{{ frontmatter.advantages[2].title || 'Advantage 3' }}</h3>
+            <p>{{ frontmatter.advantages[2].content || 'Placeholder text describing the advantage' }}</p>
           </div>
           <div class="advantage-card">
             <div class="advantage-icon">✓</div>
-            <h3>Advantage 4</h3>
-            <p>Placeholder text describing the advantage</p>
+            <h3>{{ frontmatter.advantages[3].title || 'Advantage 4' }}</h3>
+            <p>{{ frontmatter.advantages[3].content || 'Placeholder text describing the advantage' }}</p>
           </div>
         </div>
       </div>
@@ -52,23 +52,23 @@
         <div class="steps-grid">
           <div class="step-card">
             <div class="step-number">1</div>
-            <h3>Step 1</h3>
-            <p>Placeholder text for step 1</p>
+          <h3>{{ frontmatter.howItWorks[0].title || 'Step 1' }}</h3>
+          <p>{{ frontmatter.howItWorks[0].content || 'Placeholder text for step 1' }}</p>
           </div>
           <div class="step-card">
             <div class="step-number">2</div>
-            <h3>Step 2</h3>
-            <p>Placeholder text for step 2</p>
+          <h3>{{ frontmatter.howItWorks[1].title || 'Step 2' }}</h3>
+          <p>{{ frontmatter.howItWorks[1].content || 'Placeholder text for step 2' }}</p>
           </div>
           <div class="step-card">
             <div class="step-number">3</div>
-            <h3>Step 3</h3>
-            <p>Placeholder text for step 3</p>
+          <h3>{{ frontmatter.howItWorks[2].title || 'Step 3' }}</h3>
+          <p>{{ frontmatter.howItWorks[2].content || 'Placeholder text for step 3' }}</p>
           </div>
           <div class="step-card">
             <div class="step-number">4</div>
-            <h3>Step 4</h3>
-            <p>Placeholder text for step 4</p>
+          <h3>{{ frontmatter.howItWorks[3].title || 'Step 4' }}</h3>
+          <p>{{ frontmatter.howItWorks[3].content || 'Placeholder text for step 4' }}</p>
           </div>
         </div>
       </div>
@@ -80,24 +80,24 @@
         <h2>Recommended Categories</h2>
         <div class="categories-grid">
           <a href="/clothes" class="category-card">
-            <h3>Clothes</h3>
-            <p>Placeholder text</p>
+            <h3>{{ frontmatter.recommendedCategories[0].title || 'Clothes' }}</h3>
+            <p>{{ frontmatter.recommendedCategories[0].description || 'Placeholder text' }}</p>
           </a>
           <a href="/shoes" class="category-card">
-            <h3>Shoes</h3>
-            <p>Placeholder text</p>
+            <h3>{{ frontmatter.recommendedCategories[1].title || 'Shoes' }}</h3>
+            <p>{{ frontmatter.recommendedCategories[1].description || 'Placeholder text' }}</p>
           </a>
           <a href="/watches" class="category-card">
-            <h3>Watches</h3>
-            <p>Placeholder text</p>
+            <h3>{{ frontmatter.recommendedCategories[2].title || 'Watches' }}</h3>
+            <p>{{ frontmatter.recommendedCategories[2].description || 'Placeholder text' }}</p>
           </a>
           <a href="/bags" class="category-card">
-            <h3>Bags</h3>
-            <p>Placeholder text</p>
+            <h3>{{ frontmatter.recommendedCategories[3].title || 'Bags' }}</h3>
+            <p>{{ frontmatter.recommendedCategories[3].description || 'Placeholder text' }}</p>
           </a>
           <a href="/accessories" class="category-card">
-            <h3>Accessories</h3>
-            <p>Placeholder text</p>
+            <h3>{{ frontmatter.recommendedCategories[4].title || 'Accessories' }}</h3>
+            <p>{{ frontmatter.recommendedCategories[4].description || 'Placeholder text' }}</p>
           </a>
         </div>
       </div>
@@ -109,16 +109,16 @@
         <h2>Frequently Asked Questions</h2>
         <div class="faq-grid">
           <div class="faq-item">
-            <h3>Question 1?</h3>
-            <p>Placeholder answer text</p>
+            <h3>{{ frontmatter.faq[0].question || 'Question 1?' }}</h3>
+            <p>{{ frontmatter.faq[0].answer || 'Placeholder answer text' }}</p>
           </div>
           <div class="faq-item">
-            <h3>Question 2?</h3>
-            <p>Placeholder answer text</p>
+            <h3>{{ frontmatter.faq[1].question || 'Question 2?' }}</h3>
+            <p>{{ frontmatter.faq[1].answer || 'Placeholder answer text' }}</p>
           </div>
           <div class="faq-item">
-            <h3>Question 3?</h3>
-            <p>Placeholder answer text</p>
+            <h3>{{ frontmatter.faq[2].question || 'Question 3?' }}</h3>
+            <p>{{ frontmatter.faq[2].answer || 'Placeholder answer text' }}</p>
           </div>
         </div>
       </div>
@@ -151,6 +151,10 @@
 </template>
 
 <script setup lang="ts">
+import { computed } from 'vue'
+import { useData } from 'vitepress'
+
+const { frontmatter } = useData()
 const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=999521302#gid=999521302'
 </script>
 
