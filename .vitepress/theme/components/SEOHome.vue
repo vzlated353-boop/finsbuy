@@ -3,9 +3,9 @@
     <!-- Hero Section -->
     <section class="hero">
       <div class="container">
-        <h1>Discover Fashion & Lifestyle</h1>
-        <p>Your Ultimate Shopping Guide Platform</p>
-        <a href="#categories" class="cta-button">Explore Categories</a>
+          <h1>FansBuy Spreadsheet</h1>
+          <p>Discover 10,000+ Trending Fashion Finds With QC Photos, Verified Links & Updated Categories.</p>
+          <a :href="spreadsheetUrl" target="_blank" class="cta-button">Browse Spreadsheet</a>
       </div>
     </section>
 
@@ -17,27 +17,27 @@
           <a href="/clothes" class="category-card">
             <div class="category-icon">👕</div>
             <h3>Clothes</h3>
-            <p>Placeholder text for clothes category</p>
+            <p>Discover trending hoodies, t-shirts, and jackets from top streetwear brands.</p>
           </a>
           <a href="/shoes" class="category-card">
             <div class="category-icon">👟</div>
-            <h3>Shoes</h3>
-            <p>Placeholder text for shoes category</p>
+            <h3>Sneakers</h3>
+            <p>Find the latest sneaker releases, vintage styles, and running shoes with QC photos.</p>
           </a>
           <a href="/watches" class="category-card">
             <div class="category-icon">⌚</div>
             <h3>Watches</h3>
-            <p>Placeholder text for watches category</p>
+            <p>Explore luxury-inspired timepieces and everyday watches with verified links.</p>
           </a>
           <a href="/bags" class="category-card">
             <div class="category-icon">💼</div>
             <h3>Bags</h3>
-            <p>Placeholder text for bags category</p>
+            <p>Browse a curated selection of backpacks, travel bags, and designer-inspired pieces.</p>
           </a>
           <a href="/accessories" class="category-card">
             <div class="category-icon">✨</div>
             <h3>Accessories</h3>
-            <p>Placeholder text for accessories category</p>
+            <p>Complete your outfit with trending hats, belts, sunglasses, and jewelry.</p>
           </a>
         </div>
       </div>
@@ -49,8 +49,8 @@
         <h2>Shopping Platforms</h2>
         <div class="platform-grid">
           <a href="/platform" class="platform-card">
-            <h3>Platform 1</h3>
-            <p>Placeholder text for platform</p>
+            <h3>FansBuy</h3>
+            <p>Your gateway to Taobao, 1688, Weidian, and JD.</p>
           </a>
         </div>
       </div>
@@ -63,33 +63,33 @@
         <div class="features-grid">
           <div class="feature-card">
             <div class="feature-icon">📂</div>
-            <h3>Organized</h3>
-            <p>Placeholder text</p>
+            <h3>One Platform For China Shopping</h3>
+            <p>Integrate multiple Chinese supply channels: Taobao, 1688, Weidian, JD. No need to register multiple platforms separately.</p>
           </div>
           <div class="feature-card">
             <div class="feature-icon">🔄</div>
-            <h3>Updated</h3>
-            <p>Placeholder text</p>
+            <h3>QC Verification Before Shipping</h3>
+            <p>View warehouse photos, product details, and quality conditions before purchase to reduce risks.</p>
           </div>
           <div class="feature-card">
             <div class="feature-icon">🔍</div>
-            <h3>Easy Search</h3>
-            <p>Placeholder text</p>
+            <h3>Curated Spreadsheet Finds</h3>
+            <p>Save time by browsing selected popular finds instead of searching thousands of listings yourself.</p>
           </div>
           <div class="feature-card">
             <div class="feature-icon">💰</div>
-            <h3>Transparent</h3>
-            <p>Placeholder text</p>
+            <h3>International Shipping Solution</h3>
+            <p>Provide parcel consolidation, multiple shipping routes, and warehouse storage for overseas buyers.</p>
           </div>
           <div class="feature-card">
             <div class="feature-icon">🧭</div>
-            <h3>Simple</h3>
-            <p>Placeholder text</p>
+            <h3>Fashion Trend Discovery</h3>
+            <p>Quickly discover trending sneakers, streetwear, seasonal outfits, and new releases.</p>
           </div>
           <div class="feature-card">
             <div class="feature-icon">📈</div>
-            <h3>Growing</h3>
-            <p>Placeholder text</p>
+            <h3>Community Driven</h3>
+            <p>Join a community of fashion enthusiasts and haul buyers to share insights and finds.</p>
           </div>
         </div>
       </div>
@@ -101,28 +101,28 @@
         <h2>Featured Collections</h2>
         <div class="collections-grid">
           <a :href="spreadsheetUrl" target="_blank" class="collection-card">
-            <h3>Collection 1</h3>
-            <p>Placeholder text</p>
+            <h3>Best Sneakers</h3>
+            <p>Discover the hottest sneaker releases and classic styles.</p>
           </a>
           <a :href="spreadsheetUrl" target="_blank" class="collection-card">
-            <h3>Collection 2</h3>
-            <p>Placeholder text</p>
+            <h3>Trending Hoodies</h3>
+            <p>Explore oversized fits, heavyweight designs, and streetwear essentials.</p>
           </a>
           <a :href="spreadsheetUrl" target="_blank" class="collection-card">
-            <h3>Collection 3</h3>
-            <p>Placeholder text</p>
+            <h3>Summer Essentials</h3>
+            <p>Lightweight t-shirts, shorts, and accessories for the warm season.</p>
           </a>
           <a :href="spreadsheetUrl" target="_blank" class="collection-card">
-            <h3>Collection 4</h3>
-            <p>Placeholder text</p>
+            <h3>Luxury Fashion</h3>
+            <p>Find designer-inspired clothing, bags, and accessories.</p>
           </a>
           <a :href="spreadsheetUrl" target="_blank" class="collection-card">
-            <h3>Collection 5</h3>
-            <p>Placeholder text</p>
+            <h3>Budget Finds</h3>
+            <p>High-quality fashion at unbeatable prices.</p>
           </a>
           <a :href="spreadsheetUrl" target="_blank" class="collection-card">
-            <h3>Collection 6</h3>
-            <p>Placeholder text</p>
+            <h3>New Arrivals</h3>
+            <p>Stay updated with the latest drops and fresh styles.</text>
           </a>
         </div>
       </div>
@@ -134,16 +134,16 @@
         <h2>Latest Guides</h2>
         <div class="guides-grid">
           <a href="/blog/article1" class="guide-card">
-            <h3>Article 1</h3>
-            <p>Placeholder text</p>
+            <h3>FansBuy Spreadsheet 2026: The Ultimate Guide To Find Trending Products</h3>
+            <p>Your comprehensive guide to navigating the FansBuy Spreadsheet and discovering the best fashion finds.</p>
           </a>
           <a href="/blog/article2" class="guide-card">
-            <h3>Article 2</h3>
-            <p>Placeholder text</p>
+            <h3>FansBuy Spreadsheet With QC: How To Check Product Quality Before Buying</h3>
+            <p>Learn the importance of QC photos and how to verify product quality before your purchase.</p>
           </a>
           <a href="/blog/article3" class="guide-card">
-            <h3>Article 3</h3>
-            <p>Placeholder text</p>
+            <h3>FansBuy Link: How To Find And Buy Products Easily</h3>
+            <p>Understand how FansBuy links work and streamline your shopping process from discovery to delivery.</p>
           </a>
         </div>
       </div>
@@ -155,20 +155,20 @@
         <h2>Frequently Asked Questions</h2>
         <div class="faq-grid">
           <div class="faq-item">
-            <h3>Question 1?</h3>
-            <p>Placeholder answer text</p>
+            <h3>What is FansBuy Spreadsheet?</h3>
+            <p>FansBuy Spreadsheet is a curated product discovery and organization tool that collects trending product links from Chinese e-commerce platforms like Taobao, 1688, Weidian, and JD. It helps users quickly find popular styles with QC photo references.</p>
           </div>
           <div class="faq-item">
-            <h3>Question 2?</h3>
-            <p>Placeholder answer text</p>
+            <h3>How does FansBuy help me shop from China?</h3>
+            <p>FansBuy acts as a purchasing agent, assisting global users in finding, buying, and shipping products from Chinese platforms. We handle product search, order placement, quality control checks, warehouse storage, and international delivery.</p>
           </div>
           <div class="faq-item">
-            <h3>Question 3?</h3>
-            <p>Placeholder answer text</p>
+            <h3>What kind of products can I find?</h3>
+            <p>Our spreadsheet features a wide range of trending fashion items, including streetwear, sneakers, designer fashion, luxury-inspired clothing, and accessories. We focus on popular styles for young male consumers (18-35) and fashion enthusiasts.</p>
           </div>
           <div class="faq-item">
-            <h3>Question 4?</h3>
-            <p>Placeholder answer text</p>
+            <h3>Is FansBuy Spreadsheet free to access?</h3>
+            <p>Yes, the FansBuy Spreadsheet is a free product discovery tool. You can browse curated finds, QC photos, and verified links without any cost. Purchase and shipping services through FansBuy agent platform will incur standard fees.</p>
           </div>
         </div>
       </div>
@@ -182,7 +182,7 @@
             <h4>Categories</h4>
             <ul>
               <li><a href="/clothes">Clothes</a></li>
-              <li><a href="/shoes">Shoes</a></li>
+              <li><a href="/shoes">Sneakers</a></li>
               <li><a href="/watches">Watches</a></li>
               <li><a href="/bags">Bags</a></li>
               <li><a href="/accessories">Accessories</a></li>
@@ -191,10 +191,9 @@
           <div class="footer-section">
             <h4>Resources</h4>
             <ul>
-              <li><a href="/blog">Blog</a></li>
+              <li><a href="/blog/article1">Blog</a></li>
               <li><a href="/platform">Platform</a></li>
               <li><a href="/about">About</a></li>
-              <li><a href="/contact">Contact</a></li>
             </ul>
           </div>
           <div class="footer-section">
