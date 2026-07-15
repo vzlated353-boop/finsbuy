@@ -15,7 +15,6 @@
         <a href="/platform" class="nav-item">Platform</a>
         <a href="/blog/article1" class="nav-item">Blog</a>
         <a href="/about" class="nav-item">About</a>
-        <a href="/contact" class="nav-item">Contact</a>
       </div>
 
       <!-- CTA Button -->
