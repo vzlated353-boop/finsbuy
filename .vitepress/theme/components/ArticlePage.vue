@@ -3,8 +3,8 @@
     <!-- Hero Section -->
     <section class="hero">
       <div class="container">
-        <h1>{{ articleTitle }}</h1>
-        <p>Placeholder subtitle for article</p>
+        <h1>{{ frontmatter.title || 'Article Title' }}</h1>
+        <p>{{ frontmatter.heroSubtitle || 'Placeholder subtitle for the article' }}</p>
       </div>
     </section>
 
@@ -14,64 +14,38 @@
         <!-- Introduction -->
         <div class="intro">
           <h2>Introduction</h2>
-          <p>Placeholder introduction text for the article. This section provides an overview of the topic and what readers can expect to learn.</p>
+          <p>{{ frontmatter.introduction || 'Placeholder introduction text for the article. This section provides an overview of the topic and what readers can expect to learn.' }}</p>
         </div>
 
         <!-- Table of Contents -->
         <div class="toc">
           <h3>Table of Contents</h3>
           <ul>
-            <li><a href="#section1">Section 1</a></li>
-            <li><a href="#section2">Section 2</a></li>
-            <li><a href="#section3">Section 3</a></li>
-            <li><a href="#section4">Section 4</a></li>
+            <li v-for="section in frontmatter.tableOfContents" :key="section.id">
+              <a :href="'#' + section.id">{{ section.title }}</a>
+            </li>
           </ul>
         </div>
 
         <!-- Content Sections -->
-        <div id="section1" class="content-section">
-          <h2>Section 1</h2>
-          <p>Placeholder content text for section 1. This is where the main article content goes.</p>
-          <h3>Subsection 1.1</h3>
-          <p>Placeholder content text for subsection 1.1</p>
-        </div>
-
-        <div id="section2" class="content-section">
-          <h2>Section 2</h2>
-          <p>Placeholder content text for section 2. This is where the main article content goes.</p>
-          <h3>Subsection 2.1</h3>
-          <p>Placeholder content text for subsection 2.1</p>
-        </div>
-
-        <div id="section3" class="content-section">
-          <h2>Section 3</h2>
-          <p>Placeholder content text for section 3. This is where the main article content goes.</p>
-          <h3>Subsection 3.1</h3>
-          <p>Placeholder content text for subsection 3.1</p>
-        </div>
-
-        <div id="section4" class="content-section">
-          <h2>Section 4</h2>
-          <p>Placeholder content text for section 4. This is where the main article content goes.</p>
-          <h3>Subsection 4.1</h3>
-          <p>Placeholder content text for subsection 4.1</p>
+        <div v-for="section in frontmatter.mainContent" :key="section.id" :id="section.id" class="content-section">
+          <h2>{{ section.title }}</h2>
+          <p>{{ section.content }}</p>
+          <div v-if="section.subsections">
+            <div v-for="subsection in section.subsections" :key="subsection.id">
+              <h3>{{ subsection.title }}</h3>
+              <p>{{ subsection.content }}</p>
+            </div>
+          </div>
         </div>
 
         <!-- FAQ -->
         <div class="article-faq">
           <h2>Frequently Asked Questions</h2>
           <div class="faq-grid">
-            <div class="faq-item">
-              <h3>Question 1?</h3>
-              <p>Placeholder answer text</p>
-            </div>
-            <div class="faq-item">
-              <h3>Question 2?</h3>
-              <p>Placeholder answer text</p>
-            </div>
-            <div class="faq-item">
-              <h3>Question 3?</h3>
-              <p>Placeholder answer text</p>
+            <div class="faq-item" v-for="item in frontmatter.faq" :key="item.question">
+              <h3>{{ item.question }}</h3>
+              <p>{{ item.answer }}</p>
             </div>
           </div>
         </div>
@@ -80,17 +54,9 @@
         <div class="related-articles">
           <h2>Related Articles</h2>
           <div class="articles-grid">
-            <a href="/blog/article1" class="article-card">
-              <h3>Article 1</h3>
-              <p>Placeholder text</p>
-            </a>
-            <a href="/blog/article2" class="article-card">
-              <h3>Article 2</h3>
-              <p>Placeholder text</p>
-            </a>
-            <a href="/blog/article3" class="article-card">
-              <h3>Article 3</h3>
-              <p>Placeholder text</p>
+            <a v-for="article in frontmatter.relatedArticles" :key="article.link" :href="article.link" class="article-card">
+              <h3>{{ article.title }}</h3>
+              <p>{{ article.description || 'Placeholder text' }}</p>
             </a>
           </div>
         </div>
@@ -114,8 +80,11 @@
 </template>
 
 <script setup lang="ts">
+import { computed } from 'vue'
+import { useData } from 'vitepress'
+
+const { frontmatter } = useData()
 const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=999521302#gid=999521302'
-const articleTitle = 'Article'
 </script>
 
 <style scoped>
