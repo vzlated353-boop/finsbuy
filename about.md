@@ -21,11 +21,11 @@ whyTrustUs:
     content: We listen to our users and continuously improve our services and product offerings based on your feedback and trending demands.
 contactInfo:
   - type: Email
-    value: support@fansbuy.com
+    value: "support@fansbuy.com"
   - type: WeChat
-    value: FansBuyOfficial
+    value: "FansBuyOfficial"
   - type: Instagram
-    value: @fansbuy_official
+    value: "@fansbuy_official"
 ---
 
 <script setup>
