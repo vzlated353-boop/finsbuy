@@ -79,26 +79,26 @@
       <div class="container">
         <h2>Recommended Categories</h2>
         <div class="categories-grid">
-          <router-link to="/clothes" class="category-card">
+          <a href="/clothes" class="category-card">
             <h3>Clothes</h3>
             <p>Placeholder text</p>
-          </router-link>
-          <router-link to="/shoes" class="category-card">
+          </a>
+          <a href="/shoes" class="category-card">
             <h3>Shoes</h3>
             <p>Placeholder text</p>
-          </router-link>
-          <router-link to="/watches" class="category-card">
+          </a>
+          <a href="/watches" class="category-card">
             <h3>Watches</h3>
             <p>Placeholder text</p>
-          </router-link>
-          <router-link to="/bags" class="category-card">
+          </a>
+          <a href="/bags" class="category-card">
             <h3>Bags</h3>
             <p>Placeholder text</p>
-          </router-link>
-          <router-link to="/accessories" class="category-card">
+          </a>
+          <a href="/accessories" class="category-card">
             <h3>Accessories</h3>
             <p>Placeholder text</p>
-          </router-link>
+          </a>
         </div>
       </div>
     </section>
@@ -129,14 +129,14 @@
       <div class="container">
         <h2>Related Articles</h2>
         <div class="articles-grid">
-          <router-link to="/blog/article1" class="article-card">
+          <a href="/blog/article1" class="article-card">
             <h3>Article 1</h3>
             <p>Placeholder text</p>
-          </router-link>
-          <router-link to="/blog/article2" class="article-card">
+          </a>
+          <a href="/blog/article2" class="article-card">
             <h3>Article 2</h3>
             <p>Placeholder text</p>
-          </router-link>
+          </a>
         </div>
       </div>
     </section>

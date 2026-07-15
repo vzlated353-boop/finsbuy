@@ -95,10 +95,10 @@
       <div class="container">
         <h2>Recommended Platforms</h2>
         <div class="platforms-grid">
-          <router-link to="/platform" class="platform-card">
+            <a href="/platform" class="platform-card">
             <h3>Platform 1</h3>
             <p>Placeholder text</p>
-          </router-link>
+          </a>
         </div>
       </div>
     </section>
@@ -129,14 +129,14 @@
       <div class="container">
         <h2>Related Articles</h2>
         <div class="articles-grid">
-          <router-link to="/blog/article1" class="article-card">
+          <a href="/blog/article1" class="article-card">
             <h3>Article 1</h3>
             <p>Placeholder text</p>
-          </router-link>
-          <router-link to="/blog/article2" class="article-card">
+          </a>
+          <a href="/blog/article2" class="article-card">
             <h3>Article 2</h3>
             <p>Placeholder text</p>
-          </router-link>
+          </a>
         </div>
       </div>
     </section>
@@ -151,16 +151,8 @@
 </template>
 
 <script setup lang="ts">
-import { computed } from 'vue'
-import { useRoute } from 'vue-router'
-
-const route = useRoute()
 const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=999521302#gid=999521302'
-
-const categoryName = computed(() => {
-  const name = route.params.category as string
-  return name.charAt(0).toUpperCase() + name.slice(1)
-})
+const categoryName = 'Category'
 </script>
 
 <style scoped>

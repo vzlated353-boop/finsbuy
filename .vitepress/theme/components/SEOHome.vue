@@ -14,31 +14,31 @@
       <div class="container">
         <h2>Shop by Category</h2>
         <div class="category-grid">
-          <router-link to="/clothes" class="category-card">
+          <a href="/clothes" class="category-card">
             <div class="category-icon">👕</div>
             <h3>Clothes</h3>
             <p>Placeholder text for clothes category</p>
-          </router-link>
-          <router-link to="/shoes" class="category-card">
+          </a>
+          <a href="/shoes" class="category-card">
             <div class="category-icon">👟</div>
             <h3>Shoes</h3>
             <p>Placeholder text for shoes category</p>
-          </router-link>
-          <router-link to="/watches" class="category-card">
+          </a>
+          <a href="/watches" class="category-card">
             <div class="category-icon">⌚</div>
             <h3>Watches</h3>
             <p>Placeholder text for watches category</p>
-          </router-link>
-          <router-link to="/bags" class="category-card">
+          </a>
+          <a href="/bags" class="category-card">
             <div class="category-icon">💼</div>
             <h3>Bags</h3>
             <p>Placeholder text for bags category</p>
-          </router-link>
-          <router-link to="/accessories" class="category-card">
+          </a>
+          <a href="/accessories" class="category-card">
             <div class="category-icon">✨</div>
             <h3>Accessories</h3>
             <p>Placeholder text for accessories category</p>
-          </router-link>
+          </a>
         </div>
       </div>
     </section>
@@ -48,10 +48,10 @@
       <div class="container">
         <h2>Shopping Platforms</h2>
         <div class="platform-grid">
-          <router-link to="/platform" class="platform-card">
+          <a href="/platform" class="platform-card">
             <h3>Platform 1</h3>
             <p>Placeholder text for platform</p>
-          </router-link>
+          </a>
         </div>
       </div>
     </section>
@@ -133,18 +133,18 @@
       <div class="container">
         <h2>Latest Guides</h2>
         <div class="guides-grid">
-          <router-link to="/blog/article1" class="guide-card">
+          <a href="/blog/article1" class="guide-card">
             <h3>Article 1</h3>
             <p>Placeholder text</p>
-          </router-link>
-          <router-link to="/blog/article2" class="guide-card">
+          </a>
+          <a href="/blog/article2" class="guide-card">
             <h3>Article 2</h3>
             <p>Placeholder text</p>
-          </router-link>
-          <router-link to="/blog/article3" class="guide-card">
+          </a>
+          <a href="/blog/article3" class="guide-card">
             <h3>Article 3</h3>
             <p>Placeholder text</p>
-          </router-link>
+          </a>
         </div>
       </div>
     </section>
@@ -181,20 +181,20 @@
           <div class="footer-section">
             <h4>Categories</h4>
             <ul>
-              <li><router-link to="/clothes">Clothes</router-link></li>
-              <li><router-link to="/shoes">Shoes</router-link></li>
-              <li><router-link to="/watches">Watches</router-link></li>
-              <li><router-link to="/bags">Bags</router-link></li>
-              <li><router-link to="/accessories">Accessories</router-link></li>
+              <li><a href="/clothes">Clothes</a></li>
+              <li><a href="/shoes">Shoes</a></li>
+              <li><a href="/watches">Watches</a></li>
+              <li><a href="/bags">Bags</a></li>
+              <li><a href="/accessories">Accessories</a></li>
             </ul>
           </div>
           <div class="footer-section">
             <h4>Resources</h4>
             <ul>
-              <li><router-link to="/blog">Blog</router-link></li>
-              <li><router-link to="/platform">Platform</router-link></li>
-              <li><router-link to="/about">About</router-link></li>
-              <li><router-link to="/contact">Contact</router-link></li>
+              <li><a href="/blog">Blog</a></li>
+              <li><a href="/platform">Platform</a></li>
+              <li><a href="/about">About</a></li>
+              <li><a href="/contact">Contact</a></li>
             </ul>
           </div>
           <div class="footer-section">
