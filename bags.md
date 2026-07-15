@@ -17,7 +17,7 @@ collections:
     description: Find durable and spacious travel bags, duffels, and luggage for your adventures.
   - title: Designer-Inspired Handbags
     description: Explore a collection of luxury-inspired handbags, totes, and shoulder bags.
-  - title: Crossbody & Shoulder Bags
+  - title: "Crossbody & Shoulder Bags"
     description: Convenient and fashionable options for carrying your essentials.
 brands:
   - Gucci
@@ -35,9 +35,9 @@ faq:
   - question: Are the designer-inspired bags high quality?
     answer: FansBuy Spreadsheet focuses on providing high-quality designer-inspired bags with verified links and QC photos. While not authentic, they aim for excellent craftsmanship and material quality.
 relatedArticles:
-  - title: FansBuy Spreadsheet 2026: The Ultimate Guide To Find Trending Products
+  - title: "FansBuy Spreadsheet 2026: The Ultimate Guide To Find Trending Products"
     link: /blog/article1
-  - title: FansBuy Spreadsheet With QC: How To Check Product Quality Before Buying
+  - title: "FansBuy Spreadsheet With QC: How To Check Product Quality Before Buying"
     link: /blog/article2
 ---
 

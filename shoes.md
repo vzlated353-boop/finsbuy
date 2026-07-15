@@ -17,7 +17,7 @@ collections:
     description: Explore iconic designs that have stood the test of time, perfect for any collection.
   - title: Performance Running
     description: Discover advanced running shoes engineered for comfort, support, and speed.
-  - title: Vintage & Retro Styles
+  - title: "Vintage & Retro Styles"
     description: Step back in time with popular retro sneakers making a comeback.
 brands:
   - Nike
@@ -36,9 +36,9 @@ faq:
   - question: How important are QC photos for sneaker purchases?
     answer: QC (Quality Control) photos are extremely important for sneakers. They allow you to inspect the actual product before it\'s shipped, verifying its condition, accuracy, and quality, which is crucial for high-value items like sneakers.
 relatedArticles:
-  - title: FansBuy Spreadsheet 2026: The Ultimate Guide To Find Trending Products
+  - title: "FansBuy Spreadsheet 2026: The Ultimate Guide To Find Trending Products"
     link: /blog/article1
-  - title: FansBuy Spreadsheet With QC: How To Check Product Quality Before Buying
+  - title: "FansBuy Spreadsheet With QC: How To Check Product Quality Before Buying"
     link: /blog/article2
 ---
 

@@ -17,7 +17,7 @@ collections:
     description: Find premium cotton tees, vintage styles, and luxury streetwear designs.
   - title: Stylish Jackets
     description: Discover winter jackets, varsity jackets, and technical wear for all seasons.
-  - title: Pants & Shorts
+  - title: "Pants & Shorts"
     description: Browse a selection of jeans, sweatpants, and shorts for every occasion.
 brands:
   - Essentials
@@ -37,9 +37,9 @@ faq:
   - question: How can I verify the quality of clothing before shipping?
     answer: FansBuy offers QC (Quality Control) verification. You can view detailed warehouse photos of your actual item, checking for fabric quality, stitching, print accuracy, and overall condition before it\'s shipped internationally.
 relatedArticles:
-  - title: FansBuy Spreadsheet 2026: The Ultimate Guide To Find Trending Products
+  - title: "FansBuy Spreadsheet 2026: The Ultimate Guide To Find Trending Products"
     link: /blog/article1
-  - title: FansBuy Spreadsheet With QC: How To Check Product Quality Before Buying
+  - title: "FansBuy Spreadsheet With QC: How To Check Product Quality Before Buying"
     link: /blog/article2
 ---
 

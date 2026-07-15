@@ -17,7 +17,7 @@ collections:
     description: Explore luxury-inspired timepieces and everyday watches.
   - title: Fashionable Headwear
     description: Find the latest caps, hats, and beanies to complete your look.
-  - title: Essential Belts & Wallets
+  - title: "Essential Belts & Wallets"
     description: Browse high-quality belts and wallets for both style and function.
 brands:
   - Gucci
@@ -36,9 +36,9 @@ faq:
   - question: Are luxury-inspired accessories high quality?
     answer: FansBuy Spreadsheet focuses on providing high-quality luxury-inspired accessories with verified links and QC photos. While not authentic, they aim for excellent craftsmanship and material quality.
 relatedArticles:
-  - title: FansBuy Spreadsheet 2026: The Ultimate Guide To Find Trending Products
+  - title: "FansBuy Spreadsheet 2026: The Ultimate Guide To Find Trending Products"
     link: /blog/article1
-  - title: FansBuy Spreadsheet With QC: How To Check Product Quality Before Buying
+  - title: "FansBuy Spreadsheet With QC: How To Check Product Quality Before Buying"
     link: /blog/article2
 ---
 

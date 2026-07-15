@@ -35,9 +35,9 @@ faq:
   - question: Are these watches genuine or replicas?
     answer: FansBuy Spreadsheet primarily features luxury-inspired and replica watches from Chinese platforms. We focus on providing high-quality options with verified links and QC photos for transparency.
 relatedArticles:
-  - title: FansBuy Spreadsheet 2026: The Ultimate Guide To Find Trending Products
+  - title: "FansBuy Spreadsheet 2026: The Ultimate Guide To Find Trending Products"
     link: /blog/article1
-  - title: FansBuy Spreadsheet With QC: How To Check Product Quality Before Buying
+  - title: "FansBuy Spreadsheet With QC: How To Check Product Quality Before Buying"
     link: /blog/article2
 ---
 

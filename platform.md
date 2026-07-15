@@ -5,7 +5,7 @@ heroSubtitle: Your Ultimate China Shopping Agent for Global Shoppers.
 overviewText: FansBuy is a leading China shopping agent platform dedicated to helping global consumers effortlessly find, purchase, and ship products from top Chinese e-commerce sites like Taobao, 1688, Weidian, and JD. We streamline the entire process, offering comprehensive services from product discovery to international delivery.
 advantages:
   - title: One Platform For China Shopping
-    content: Integrate multiple Chinese supply channels: Taobao, 1688, Weidian, JD. No need to register multiple platforms separately.
+    content: "Integrate multiple Chinese supply channels: Taobao, 1688, Weidian, JD. No need to register multiple platforms separately."
   - title: QC Verification Before Shipping
     content: View warehouse photos, product details, and quality conditions before purchase to reduce risks and ensure satisfaction.
   - title: Curated Spreadsheet Finds
@@ -44,9 +44,9 @@ faq:
   - question: How does FansBuy ensure product quality?
     answer: We offer QC (Quality Control) verification. Before shipping, we provide detailed warehouse photos of your actual items, allowing you to inspect product details and quality conditions.
 relatedArticles:
-  - title: FansBuy Spreadsheet 2026: The Ultimate Guide To Find Trending Products
+  - title: "FansBuy Spreadsheet 2026: The Ultimate Guide To Find Trending Products"
     link: /blog/article1
-  - title: FansBuy Spreadsheet With QC: How To Check Product Quality Before Buying
+  - title: "FansBuy Spreadsheet With QC: How To Check Product Quality Before Buying"
     link: /blog/article2
 ---
 
