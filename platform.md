@@ -2,7 +2,7 @@
 layout: home
 platformName: FansBuy
 heroSubtitle: Your Ultimate China Shopping Agent for Global Shoppers.
-overviewText: FansBuy is a leading China shopping agent platform dedicated to helping global consumers effortlessly find, purchase, and ship products from top Chinese e-commerce sites like Taobao, 1688, Weidian, and JD. We streamline the entire process, offering comprehensive services from product discovery to international delivery.
+overviewText: "FansBuy is a leading China shopping agent platform dedicated to helping global consumers effortlessly find, purchase, and ship products from top Chinese e-commerce sites like Taobao, 1688, Weidian, and JD. We streamline the entire process, offering comprehensive services from product discovery to international delivery."
 advantages:
   - title: One Platform For China Shopping
     content: "Integrate multiple Chinese supply channels: Taobao, 1688, Weidian, JD. No need to register multiple platforms separately."
@@ -27,20 +27,20 @@ howItWorks:
     content: Complete your purchase through our agent platform, and we handle the rest, from buying to shipping.
 recommendedCategories:
   - title: Clothes
-    description: Discover the latest trends in clothing, from streetwear essentials to luxury-inspired pieces.
+    description: "Discover the latest trends in clothing, from streetwear essentials to luxury-inspired pieces."
   - title: Sneakers
     description: Find the latest sneaker releases, vintage styles, and running shoes with QC photos.
   - title: Watches
-    description: Explore luxury-inspired timepieces and everyday watches with verified links.
+    description: "Explore luxury-inspired timepieces and everyday watches with verified links."
   - title: Bags
-    description: Browse a curated selection of backpacks, travel bags, and designer-inspired pieces.
+    description: "Browse a curated selection of backpacks, travel bags, and designer-inspired pieces."
   - title: Accessories
     description: Complete your outfit with trending hats, belts, sunglasses, and jewelry.
 faq:
   - question: What is FansBuy and how does it work?
-    answer: FansBuy is a China shopping agent platform that helps global users buy products from Chinese e-commerce sites. You provide us with product links, we purchase, perform QC, store, and ship them internationally to you.
+    answer: "FansBuy is a China shopping agent platform that helps global users buy products from Chinese e-commerce sites. You provide us with product links, we purchase, perform QC, store, and ship them internationally to you."
   - question: Which Chinese platforms does FansBuy support?
-    answer: FansBuy supports major Chinese e-commerce platforms including Taobao, 1688, Weidian, and JD, offering you a vast selection of products.
+    answer: "FansBuy supports major Chinese e-commerce platforms including Taobao, 1688, Weidian, and JD, offering you a vast selection of products."
   - question: How does FansBuy ensure product quality?
     answer: We offer QC (Quality Control) verification. Before shipping, we provide detailed warehouse photos of your actual items, allowing you to inspect product details and quality conditions.
 relatedArticles:

@@ -2,27 +2,27 @@
 layout: home
 title: "FansBuy Link: How To Find And Buy Products Easily"
 heroSubtitle: Unlock seamless shopping from China with FansBuy links – your direct path to trending products.
-introduction: Navigating the vast landscape of Chinese e-commerce can be daunting, but FansBuy links simplify the process. These direct links, often found in the FansBuy Spreadsheet, are your key to effortlessly finding and purchasing products. This guide will explain what FansBuy links are, how to use them effectively, and how they integrate into your overall shopping and shipping experience.
+introduction: "Navigating the vast landscape of Chinese e-commerce can be daunting, but FansBuy links simplify the process. These direct links, often found in the FansBuy Spreadsheet, are your key to effortlessly finding and purchasing products. This guide will explain what FansBuy links are, how to use them effectively, and how they integrate into your overall shopping and shipping experience."
 tableOfContents:
-  - id: what-are-fansbuy-links
+  - id: "what-are-fansbuy-links"
     title: What are FansBuy Links?
-  - id: how-to-use-product-links
+  - id: "how-to-use-product-links"
     title: How to Use Product Links
-  - id: from-spreadsheet-to-order
+  - id: "from-spreadsheet-to-order"
     title: From Spreadsheet to Order
-  - id: shipping-process-simplified
+  - id: "shipping-process-simplified"
     title: Shipping Process Simplified
 mainContent:
-  - id: what-are-fansbuy-links
+  - id: "what-are-fansbuy-links"
     title: What are FansBuy Links?
-    content: FansBuy links are direct URLs to product listings on Chinese e-commerce platforms like Taobao, 1688, Weidian, and JD, curated and often pre-vetted by the FansBuy community. They are typically found within the FansBuy Spreadsheet, providing a convenient way to access specific items without having to search through the original platforms yourself. These links are designed to be easily copied and pasted into the FansBuy agent platform for purchase.
-  - id: how-to-use-product-links
+    content: "FansBuy links are direct URLs to product listings on Chinese e-commerce platforms like Taobao, 1688, Weidian, and JD, curated and often pre-vetted by the FansBuy community. They are typically found within the FansBuy Spreadsheet, providing a convenient way to access specific items without having to search through the original platforms yourself. These links are designed to be easily copied and pasted into the FansBuy agent platform for purchase."
+  - id: "how-to-use-product-links"
     title: How to Use Product Links
     content: Using FansBuy links is straightforward. Once you find a product you like in the spreadsheet, simply copy its FansBuy link. Then, paste this link into the designated search or order field on the FansBuy agent website. Our system will automatically fetch the product details, allowing you to proceed with your purchase. This eliminates language barriers and complex navigation on Chinese sites.
-  - id: from-spreadsheet-to-order
+  - id: "from-spreadsheet-to-order"
     title: From Spreadsheet to Order
     content: The journey from discovering a product in the spreadsheet to placing an order is seamless. After pasting the FansBuy link, you can specify details like size, color, and quantity. FansBuy will then purchase the item on your behalf. Once the item arrives at our warehouse, you\`ll receive QC photos for verification before it\`s prepared for international shipping.
-  - id: shipping-process-simplified
+  - id: "shipping-process-simplified"
     title: Shipping Process Simplified
     content: FansBuy offers comprehensive international shipping solutions. After your items pass QC and are stored in our warehouse, you can consolidate multiple purchases into one parcel to save on shipping costs. We provide various shipping routes to suit your budget and delivery speed preferences, ensuring your items reach you safely and efficiently, anywhere in the world.
 faq:
