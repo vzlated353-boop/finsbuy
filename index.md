@@ -3,7 +3,7 @@ layout: home
 ---
 
 <script setup>
-import HomePage from './.vitepress/theme/components/HomePage.vue'
+import SEOHome from './.vitepress/theme/components/SEOHome.vue'
 </script>
 
-<HomePage />
+<SEOHome />
