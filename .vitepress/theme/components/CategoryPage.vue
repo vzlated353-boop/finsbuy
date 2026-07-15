@@ -4,7 +4,7 @@
     <section class="hero">
       <div class="container">
         <h1>{{ categoryName }}</h1>
-        <p>Placeholder subtitle for {{ categoryName }}</p>
+        <p>{{ frontmatter.heroSubtitle || 'Discover the best in ' + categoryName + ' with our curated selections.' }}</p>
       </div>
     </section>
 
@@ -12,7 +12,7 @@
     <section class="intro">
       <div class="container">
         <h2>About {{ categoryName }}</h2>
-        <p>Placeholder introduction text for {{ categoryName }} category. This section provides an overview of the category and what users can expect to find.</p>
+        <p>{{ frontmatter.introText || 'Placeholder introduction text for ' + categoryName + ' category. This section provides an overview of the category and what users can expect to find.' }}</p>
       </div>
     </section>
 
@@ -22,16 +22,16 @@
         <h2>Editor's Notes</h2>
         <div class="notes-grid">
           <div class="note-card">
-            <h3>Note 1</h3>
-            <p>Placeholder editor's note text</p>
+            <h3>{{ frontmatter.editorNotes[0].title || 'Note 1' }}</h3>
+            <p>{{ frontmatter.editorNotes[0].content || 'Placeholder editor\'s note text' }}</p>
           </div>
           <div class="note-card">
-            <h3>Note 2</h3>
-            <p>Placeholder editor's note text</p>
+            <h3>{{ frontmatter.editorNotes[1].title || 'Note 2' }}</h3>
+            <p>{{ frontmatter.editorNotes[1].content || 'Placeholder editor\'s note text' }}</p>
           </div>
           <div class="note-card">
-            <h3>Note 3</h3>
-            <p>Placeholder editor's note text</p>
+            <h3>{{ frontmatter.editorNotes[2].title || 'Note 3' }}</h3>
+            <p>{{ frontmatter.editorNotes[2].content || 'Placeholder editor\'s note text' }}</p>
           </div>
         </div>
       </div>
@@ -43,20 +43,20 @@
         <h2>Product Collections</h2>
         <div class="collections-grid">
           <a :href="spreadsheetUrl" target="_blank" class="collection-card">
-            <h3>Collection 1</h3>
-            <p>Placeholder text</p>
+            <h3>{{ frontmatter.collections[0].title || 'Collection 1' }}</h3>
+            <p>{{ frontmatter.collections[0].description || 'Placeholder text' }}</p>
           </a>
           <a :href="spreadsheetUrl" target="_blank" class="collection-card">
-            <h3>Collection 2</h3>
-            <p>Placeholder text</p>
+            <h3>{{ frontmatter.collections[1].title || 'Collection 2' }}</h3>
+            <p>{{ frontmatter.collections[1].description || 'Placeholder text' }}</p>
           </a>
           <a :href="spreadsheetUrl" target="_blank" class="collection-card">
-            <h3>Collection 3</h3>
-            <p>Placeholder text</p>
+            <h3>{{ frontmatter.collections[2].title || 'Collection 3' }}</h3>
+            <p>{{ frontmatter.collections[2].description || 'Placeholder text' }}</p>
           </a>
           <a :href="spreadsheetUrl" target="_blank" class="collection-card">
-            <h3>Collection 4</h3>
-            <p>Placeholder text</p>
+            <h3>{{ frontmatter.collections[3].title || 'Collection 4' }}</h3>
+            <p>{{ frontmatter.collections[3].description || 'Placeholder text' }}</p>
           </a>
         </div>
       </div>
@@ -67,12 +67,7 @@
       <div class="container">
         <h2>Popular Brands</h2>
         <div class="brands-grid">
-          <a :href="spreadsheetUrl" target="_blank" class="brand-card">Brand 1</a>
-          <a :href="spreadsheetUrl" target="_blank" class="brand-card">Brand 2</a>
-          <a :href="spreadsheetUrl" target="_blank" class="brand-card">Brand 3</a>
-          <a :href="spreadsheetUrl" target="_blank" class="brand-card">Brand 4</a>
-          <a :href="spreadsheetUrl" target="_blank" class="brand-card">Brand 5</a>
-          <a :href="spreadsheetUrl" target="_blank" class="brand-card">Brand 6</a>
+          <a v-for="brand in frontmatter.brands" :key="brand" :href="spreadsheetUrl" target="_blank" class="brand-card">{{ brand }}</a>
         </div>
       </div>
     </section>
@@ -83,9 +78,9 @@
         <h2>Buying Guide</h2>
         <div class="guide-content">
           <h3>How to Choose</h3>
-          <p>Placeholder buying guide text. This section helps users understand how to choose the best products in this category.</p>
+          <p>{{ frontmatter.buyingGuide.howToChoose || 'Placeholder buying guide text. This section helps users understand how to choose the best products in this category.' }}</p>
           <h3>What to Look For</h3>
-          <p>Placeholder text about what features and qualities to consider when shopping in this category.</p>
+          <p>{{ frontmatter.buyingGuide.whatToLookFor || 'Placeholder text about what features and qualities to consider when shopping in this category.' }}</p>
         </div>
       </div>
     </section>
@@ -109,16 +104,16 @@
         <h2>Frequently Asked Questions</h2>
         <div class="faq-grid">
           <div class="faq-item">
-            <h3>Question 1?</h3>
-            <p>Placeholder answer text</p>
+            <h3>{{ frontmatter.faq[0].question || 'Question 1?' }}</h3>
+            <p>{{ frontmatter.faq[0].answer || 'Placeholder answer text' }}</p>
           </div>
           <div class="faq-item">
-            <h3>Question 2?</h3>
-            <p>Placeholder answer text</p>
+            <h3>{{ frontmatter.faq[1].question || 'Question 2?' }}</h3>
+            <p>{{ frontmatter.faq[1].answer || 'Placeholder answer text' }}</p>
           </div>
           <div class="faq-item">
-            <h3>Question 3?</h3>
-            <p>Placeholder answer text</p>
+            <h3>{{ frontmatter.faq[2].question || 'Question 3?' }}</h3>
+            <p>{{ frontmatter.faq[2].answer || 'Placeholder answer text' }}</p>
           </div>
         </div>
       </div>
@@ -152,7 +147,13 @@
 
 <script setup lang="ts">
 const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=999521302#gid=999521302'
-const categoryName = 'Category'
+import { computed } from 'vue'
+import { useData } from 'vitepress'
+
+const { frontmatter } = useData()
+const { frontmatter } = useData()
+const categoryName = computed(() => frontmatter.value.categoryName || 'Category')
+const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=999521302#gid=999521302'
 </script>
 
 <style scoped>
