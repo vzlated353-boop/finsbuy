@@ -146,11 +146,9 @@
 </template>
 
 <script setup lang="ts">
-const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=999521302#gid=999521302'
 import { computed } from 'vue'
 import { useData } from 'vitepress'
 
-const { frontmatter } = useData()
 const { frontmatter } = useData()
 const categoryName = computed(() => frontmatter.value.categoryName || 'Category')
 const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=999521302#gid=999521302'
