@@ -31,11 +31,11 @@ buyingGuide:
   whatToLookFor: "Look for durable stitching, high-quality fabrics, accurate sizing, and clear, well-executed prints or embroidery. Always cross-reference with QC photos."
 faq:
   - question: How do I choose the right size for Chinese clothing?
-    answer: Always refer to the specific size chart provided for each product. Measure your own body and compare it to the chart. When in doubt, it\'s often safer to size up, especially for streetwear.
+    answer: Always refer to the specific size chart provided for each product. Measure your own body and compare it to the chart. When in doubt, it's often safer to size up, especially for streetwear.
   - question: What are the best brands for streetwear clothing on FansBuy?
     answer: FansBuy Spreadsheet features popular streetwear brands like Essentials, Fear of God, Supreme, Bape, Stussy, and Amiri. You can browse curated collections for these brands.
   - question: How can I verify the quality of clothing before shipping?
-    answer: FansBuy offers QC (Quality Control) verification. You can view detailed warehouse photos of your actual item, checking for fabric quality, stitching, print accuracy, and overall condition before it\'s shipped internationally.
+    answer: FansBuy offers QC (Quality Control) verification. You can view detailed warehouse photos of your actual item, checking for fabric quality, stitching, print accuracy, and overall condition before it's shipped internationally.
 relatedArticles:
   - title: "FansBuy Spreadsheet 2026: The Ultimate Guide To Find Trending Products"
     link: /blog/article1
