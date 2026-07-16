@@ -122,7 +122,7 @@
           </a>
           <a :href="spreadsheetUrl" target="_blank" class="collection-card">
             <h3>New Arrivals</h3>
-            <p>Stay updated with the latest drops and fresh styles.</text>
+            <p>Stay updated with the latest drops and fresh styles.</p>
           </a>
         </div>
       </div>
