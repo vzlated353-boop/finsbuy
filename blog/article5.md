@@ -2,7 +2,7 @@
 layout: home
 title: "FansBuy Summer Spreadsheet 2026: Best Summer Fashion Finds"
 heroSubtitle: Get ready for summer with the hottest fashion finds from the FansBuy Spreadsheet, featuring trending styles and essential items.
-introduction: Summer 2026 is here, and it\'s time to refresh your wardrobe with the latest trends. The FansBuy Summer Spreadsheet is your ultimate resource for discovering the best summer fashion finds, from lightweight apparel to stylish accessories. This guide will help you navigate through the top summer categories and find everything you need to stay cool and fashionable all season long.
+introduction: Summer 2026 is here, and it's time to refresh your wardrobe with the latest trends. The FansBuy Summer Spreadsheet is your ultimate resource for discovering the best summer fashion finds, from lightweight apparel to stylish accessories. This guide will help you navigate through the top summer categories and find everything you need to stay cool and fashionable all season long.
 tableOfContents:
   - id: "summer-t-shirts"
     title: "Summer T-Shirts"
@@ -47,7 +47,7 @@ relatedArticles:
 ---
 
 <script setup>
-import ArticlePage from \'../.vitepress/theme/components/ArticlePage.vue\'
+import ArticlePage from '../.vitepress/theme/components/ArticlePage.vue'
 </script>
 
 <ArticlePage />

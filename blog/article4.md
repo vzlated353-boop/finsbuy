@@ -2,7 +2,7 @@
 layout: home
 title: "Best FansBuy Spreadsheet 2026: Top Fashion Finds You Should Know"
 heroSubtitle: "Explore the most sought-after fashion items and trending products from the FansBuy Spreadsheet in 2026."
-introduction: "The FansBuy Spreadsheet is a treasure trove of trending fashion, but with thousands of items, knowing where to start can be a challenge. This guide highlights the best fashion finds in 2026, covering everything from must-have sneakers to essential streetwear. Discover what\'s hot, what\'s new, and what you shouldn\'t miss from China\'s dynamic e-commerce scene."
+introduction: "The FansBuy Spreadsheet is a treasure trove of trending fashion, but with thousands of items, knowing where to start can be a challenge. This guide highlights the best fashion finds in 2026, covering everything from must-have sneakers to essential streetwear. Discover what's hot, what's new, and what you shouldn't miss from China's dynamic e-commerce scene."
 tableOfContents:
   - id: "top-sneakers"
     title: Top Sneakers
@@ -21,7 +21,7 @@ mainContent:
     content: Hoodies remain a streetwear staple, with oversized fits and heavyweight fabrics leading the trend. Brands like Essentials, Fear of God, and Stussy are highly sought after. The FansBuy Spreadsheet curates the best hoodies that combine comfort, style, and durability. Pay attention to fabric composition and print quality when making your selection.
   - id: "essential-jackets"
     title: Essential Jackets
-    content: "From functional winter jackets to stylish varsity jackets, the FansBuy Spreadsheet has you covered. Discover technical wear from brands like Arc\'teryx and North Face, or classic pieces from Nike and Carhartt. Whether you need protection from the elements or a statement piece, our curated selection ensures you find high-quality options."
+    content: "From functional winter jackets to stylish varsity jackets, the FansBuy Spreadsheet has you covered. Discover technical wear from brands like Arc'teryx and North Face, or classic pieces from Nike and Carhartt. Whether you need protection from the elements or a statement piece, our curated selection ensures you find high-quality options."
   - id: "must-have-accessories"
     title: "Must-Have Accessories"
     content: "Accessories are key to completing any outfit. The FansBuy Spreadsheet offers a wide range of trending items, including luxury-inspired bags, stylish watches, and essential headwear. Brands like Gucci, Cartier, and Rolex-inspired pieces are popular. Look for unique belts, caps, and jewelry that elevate your personal style."
@@ -31,7 +31,7 @@ faq:
   - question: "Can I find both high-end and budget-friendly options?"
     answer: "Yes, the FansBuy Spreadsheet features a diverse range of products, from luxury-inspired items to affordable streetwear, catering to various budgets and preferences."
   - question: How can I stay updated on the latest trends?
-    answer: Regularly check the \'Latest Guides\' section on our homepage and subscribe to our newsletter for updates on new arrivals, trending products, and exclusive finds.
+    answer: Regularly check the 'Latest Guides' section on our homepage and subscribe to our newsletter for updates on new arrivals, trending products, and exclusive finds.
 relatedArticles:
   - title: "FansBuy Spreadsheet 2026: The Ultimate Guide To Find Trending Products"
     description: Your comprehensive guide to navigating and utilizing the FansBuy Spreadsheet for the best finds.
@@ -42,7 +42,7 @@ relatedArticles:
 ---
 
 <script setup>
-import ArticlePage from \'../.vitepress/theme/components/ArticlePage.vue\'
+import ArticlePage from '../.vitepress/theme/components/ArticlePage.vue'
 </script>
 
 <ArticlePage />
