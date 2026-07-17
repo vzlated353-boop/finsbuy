@@ -1,8 +1,6 @@
 ---
 title: Hats Guide - Caps, Beanies & More | FansBuy
 description: Complete guide to hats including snapbacks, beanies, bucket hats, dad hats and fitted caps. Quality specs, pricing, and logistics info.
-lastUpdated: 2026-07-16
-author: FansBuy Editorial Team
 ---
 
 <script setup>
@@ -174,8 +172,6 @@ const brandOverview = [
 </script>
 
 # The Complete Hats Guide: Styles, Fits, and How to Choose
-
-*Last updated: July 16, 2026 | By FansBuy Editorial Team*
 
 Hats are more than just accessories—they protect from sun and cold, express personal style, and complete outfits. This guide covers everything from cap structures to materials, helping you choose the right hat for your face shape, style, and needs.
 

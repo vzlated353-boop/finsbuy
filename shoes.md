@@ -1,8 +1,6 @@
 ---
 title: Shoes Guide - Sneakers, Boots & More | FansBuy
 description: Complete guide to shoes including running, basketball, casual sneakers, boots and slides. Quality specs, pricing, and logistics info.
-lastUpdated: 2026-07-16
-author: FansBuy Editorial Team
 ---
 
 <script setup>
@@ -131,8 +129,6 @@ const sizingTips = [
 </script>
 
 # The Complete Shoes Guide: How to Choose, Compare, and Buy
-
-*Last updated: July 16, 2026 | By FansBuy Editorial Team*
 
 Whether you are a runner seeking performance, a sneakerhead chasing limited releases, or someone who just wants comfortable everyday footwear, this guide covers everything you need to know about buying shoes. We have tested hundreds of models across brands, analyzed materials and construction, and compiled real user feedback to help you make informed decisions.
 

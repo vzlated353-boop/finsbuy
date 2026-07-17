@@ -1,8 +1,6 @@
 ---
 title: Clothes Guide - Streetwear, Outerwear & More | FansBuy
 description: Complete guide to clothing including t-shirts, hoodies, jackets, pants and shorts. Quality specs, pricing, and logistics info.
-lastUpdated: 2026-07-16
-author: FansBuy Editorial Team
 ---
 
 <script setup>
@@ -153,8 +151,6 @@ const brandOverview = [
 </script>
 
 # The Complete Clothes Guide: Fabrics, Fits, and Style
-
-*Last updated: July 16, 2026 | By FansBuy Editorial Team*
 
 Clothing is more than just covering your body—it is about expressing yourself, feeling comfortable, and making smart purchasing decisions. This guide breaks down everything from fabric weights to fit profiles, helping you choose pieces that last and look great.
 
