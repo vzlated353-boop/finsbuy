@@ -1,30 +1,41 @@
 <template>
   <nav class="global-navbar">
     <div class="navbar-container">
-      <!-- Logo/Brand -->
-      <a href="/" class="navbar-brand">FansBuy</a>
+      <a href="/" class="navbar-brand">{{ brand.logoText }}</a>
 
-      <!-- Menu Items -->
       <div class="navbar-menu">
-        <a href="/" class="nav-item">Home</a>
-        <a href="/clothes" class="nav-item">Clothes</a>
-        <a href="/shoes" class="nav-item">Shoes</a>
-        <a href="/watches" class="nav-item">Watches</a>
-        <a href="/bags" class="nav-item">Bags</a>
-        <a href="/accessories" class="nav-item">Accessories</a>
-        <a href="/platform" class="nav-item">Platform</a>
-        <a href="/blog/article1" class="nav-item">Blog</a>
-        <a href="/about" class="nav-item">About</a>
+        <a
+          v-for="item in nav"
+          :key="item.link"
+          :href="item.link"
+          class="nav-item"
+          :class="{ active: isActive(item.link) }"
+        >
+          {{ item.text }}
+        </a>
       </div>
 
-      <!-- CTA Button -->
-      <a :href="spreadsheetUrl" target="_blank" class="nav-cta">Spreadsheet</a>
+      <a :href="links.spreadsheet" target="_blank" class="nav-cta">Spreadsheet</a>
     </div>
   </nav>
 </template>
 
-<script setup lang="ts">
-const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=999521302#gid=999521302'
+<script setup>
+import { siteConfig } from '../site-config.js'
+import { useData } from 'vitepress'
+import { computed } from 'vue'
+
+const brand = siteConfig.brand
+const nav = siteConfig.nav
+const links = siteConfig.links
+
+const { page } = useData()
+
+function isActive(link) {
+  if (link === '/') return page.value?.relativePath === 'index.md'
+  const path = page.value?.relativePath?.replace(/\.md$/, '') || ''
+  return path === link.replace(/^\//, '') || path.startsWith(link.replace(/^\//, '') + '/')
+}
 </script>
 
 <style scoped>
@@ -78,7 +89,8 @@ const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWU
   transition: all 0.3s ease;
 }
 
-.nav-item:hover {
+.nav-item:hover,
+.nav-item.active {
   color: #d4af37;
   border-bottom-color: #d4af37;
 }
@@ -100,71 +112,25 @@ const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWU
   transform: translateY(-2px);
 }
 
-/* Responsive */
 @media (max-width: 1024px) {
-  .navbar-menu {
-    gap: 10px;
-  }
-
-  .nav-item {
-    font-size: 13px;
-  }
-
-  .nav-cta {
-    padding: 8px 15px;
-    font-size: 13px;
-  }
+  .navbar-menu { gap: 10px; }
+  .nav-item { font-size: 13px; }
+  .nav-cta { padding: 8px 15px; font-size: 13px; }
 }
 
 @media (max-width: 768px) {
-  .navbar-container {
-    padding: 0 15px;
-    height: 50px;
-  }
-
-  .navbar-brand {
-    font-size: 20px;
-    margin-right: 15px;
-  }
-
-  .navbar-menu {
-    gap: 8px;
-  }
-
-  .nav-item {
-    font-size: 12px;
-    padding: 6px 0;
-  }
-
-  .nav-cta {
-    padding: 6px 12px;
-    font-size: 12px;
-  }
+  .navbar-container { padding: 0 15px; height: 50px; }
+  .navbar-brand { font-size: 20px; margin-right: 15px; }
+  .navbar-menu { gap: 8px; }
+  .nav-item { font-size: 12px; padding: 6px 0; }
+  .nav-cta { padding: 6px 12px; font-size: 12px; }
 }
 
 @media (max-width: 480px) {
-  .navbar-container {
-    padding: 0 10px;
-    height: 45px;
-  }
-
-  .navbar-brand {
-    font-size: 18px;
-    margin-right: 10px;
-  }
-
-  .navbar-menu {
-    gap: 5px;
-  }
-
-  .nav-item {
-    font-size: 11px;
-    padding: 5px 0;
-  }
-
-  .nav-cta {
-    padding: 5px 10px;
-    font-size: 11px;
-  }
+  .navbar-container { padding: 0 10px; height: 45px; }
+  .navbar-brand { font-size: 18px; margin-right: 10px; }
+  .navbar-menu { gap: 5px; }
+  .nav-item { font-size: 11px; padding: 5px 0; }
+  .nav-cta { padding: 5px 10px; font-size: 11px; }
 }
 </style>

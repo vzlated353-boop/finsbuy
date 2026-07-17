@@ -1,9 +1,11 @@
 ---
 layout: home
+title: FansBuy - Fashion & Lifestyle Guide
+description: Comprehensive guides on shoes, clothing, hats. Quality specs, pricing, logistics info.
 ---
 
 <script setup>
-import SEOHome from './.vitepress/theme/components/SEOHome.vue'
+import HomePage from './.vitepress/theme/components/HomePage.vue'
 </script>
 
-<SEOHome />
+<HomePage />

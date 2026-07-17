@@ -1,49 +1,311 @@
 ---
-layout: home
-categoryName: Sneakers
-heroSubtitle: Find the latest sneaker releases, vintage styles, and running shoes with QC photos.
-introText: "Dive into the world of sneakers, where style meets comfort and performance. Our curated selection features trending models, classic designs, and high-performance footwear from top brands, all available through verified links and with crucial QC photo references."
-editorNotes:
-  - title: Shape and Silhouette
-    content: Pay close attention to the sneaker's shape and silhouette. Minor differences can significantly impact the overall look and authenticity. Compare with official images.
-  - title: Materials and Craftsmanship
-    content: Examine the quality of materials (leather, suede, mesh) and the stitching. Look for clean cuts, even seams, and durable construction in QC photos.
-  - title: Comfort and Sizing
-    content: Always check the size chart and user reviews for sizing recommendations. Sneaker sizing can vary between brands and models, ensuring a comfortable fit is key.
-collections:
-  - title: Latest Releases
-    description: Stay ahead of the curve with the newest sneaker drops and limited editions.
-  - title: Classic Silhouettes
-    description: Explore iconic designs that have stood the test of time, perfect for any collection.
-  - title: Performance Running
-    description: Discover advanced running shoes engineered for comfort, support, and speed.
-  - title: "Vintage & Retro Styles"
-    description: Step back in time with popular retro sneakers making a comeback.
-brands:
-  - Nike
-  - Jordan
-  - Adidas
-  - New Balance
-  - Travis Scott
-buyingGuide:
-  howToChoose: Choosing the perfect pair of sneakers involves balancing personal style, comfort, and the intended use. Our guide helps you navigate the vast options, from streetwear to athletic performance.
-  whatToLookFor: Focus on the sneaker's shape, material quality, sole details, and overall craftsmanship. Always request and review QC photos to ensure the product meets your expectations before shipping.
-faq:
-  - question: How do I ensure the authenticity of sneakers from Chinese platforms?
-    answer: While FansBuy provides verified links and QC photos, it's crucial to carefully examine the QC pictures for details like stitching, logos, and material quality. Compare them with authentic product images.
-  - question: What are the most popular sneaker brands available through FansBuy?
-    answer: FansBuy Spreadsheet features popular brands like Nike, Jordan, Adidas, New Balance, and collaborations like Travis Scott. You can find a wide range of models from these brands.
-  - question: How important are QC photos for sneaker purchases?
-    answer: "QC (Quality Control) photos are extremely important for sneakers. They allow you to inspect the actual product before it's shipped, verifying its condition, accuracy, and quality, which is crucial for high-value items like sneakers."
-relatedArticles:
-  - title: "FansBuy Spreadsheet 2026: The Ultimate Guide To Find Trending Products"
-    link: /blog/article1
-  - title: "FansBuy Spreadsheet With QC: How To Check Product Quality Before Buying"
-    link: /blog/article2
+title: Shoes Guide - Sneakers, Boots & More | FansBuy
+description: Complete guide to shoes including running, basketball, casual sneakers, boots and slides. Quality specs, pricing, and logistics info.
+lastUpdated: 2026-07-16
+author: FansBuy Editorial Team
 ---
 
 <script setup>
-import CategoryPage from './.vitepress/theme/components/CategoryPage.vue'
+import { siteConfig } from './.vitepress/theme/site-config.js'
+import SubCategoryNav from './.vitepress/theme/components/SubCategoryNav.vue'
+import CategoryContent from './.vitepress/theme/components/CategoryContent.vue'
+
+const shoesCategory = siteConfig.categories.find(c => c.id === 'shoes')
+const subcategories = shoesCategory.subcategories
+
+const productTypes = [
+  {
+    icon: '🏃',
+    name: 'Running Shoes',
+    desc: 'Engineered for performance with responsive cushioning, breathable mesh uppers, and durable rubber outsoles. Key technologies include Nike Air Zoom, Adidas Boost, and ASICS Gel for energy return and shock absorption.'
+  },
+  {
+    icon: '🏀',
+    name: 'Basketball Shoes',
+    desc: 'Built for court performance with ankle support, herringbone traction patterns, and impact protection. Popular models feature Zoom Air units, Boost midsoles, and reinforced toe boxes for durability during lateral movements.'
+  },
+  {
+    icon: '👟',
+    name: 'Casual Sneakers',
+    desc: 'Lifestyle footwear blending comfort and style. Classic silhouettes like Air Force 1, Stan Smith, and Chuck Taylor remain timeless. Modern iterations incorporate premium materials like leather, suede, and knit uppers.'
+  },
+  {
+    icon: '🥾',
+    name: 'Boots',
+    desc: 'From rugged work boots to fashion-forward designs. Key features include Goodyear welt construction, waterproof membranes, Vibram outsoles, and premium leather uppers. Brands like Timberland and Red Wing lead in durability.'
+  },
+  {
+    icon: '',
+    name: 'Slides & Sandals',
+    desc: 'Slip-on comfort for casual wear. EVA foam construction provides lightweight cushioning. Popular models include Nike Benassi, Adidas Adilette, and Yeezy Slide with contoured footbeds for all-day comfort.'
+  },
+]
+
+const brandComparison = [
+  {
+    brand: 'Nike',
+    strengths: 'Air Zoom technology, Flyknit uppers, extensive colorways',
+    priceRange: '$75-$150',
+    bestFor: 'Running, basketball, lifestyle',
+  },
+  {
+    brand: 'Adidas',
+    strengths: 'Boost cushioning, Primeknit, collaborations with designers',
+    priceRange: '$70-$140',
+    bestFor: 'Running, casual, streetwear',
+  },
+  {
+    brand: 'New Balance',
+    strengths: 'Fresh Foam, ENCAP midsole, wide width options',
+    priceRange: '$70-$130',
+    bestFor: 'Running, walking, comfort',
+  },
+  {
+    brand: 'ASICS',
+    strengths: 'Gel cushioning, FlyteFoam, stability features',
+    priceRange: '$70-$120',
+    bestFor: 'Running, stability, overpronation',
+  },
+  {
+    brand: 'Hoka',
+    strengths: 'Maximal cushioning, Meta-Rocker, lightweight',
+    priceRange: '$90-$140',
+    bestFor: 'Long-distance running, recovery',
+  },
+]
+
+const materialGuide = [
+  {
+    material: 'Mesh',
+    pros: 'Breathable, lightweight, flexible',
+    cons: 'Less durable, not waterproof',
+    bestFor: 'Running, gym, warm weather',
+  },
+  {
+    material: 'Leather',
+    pros: 'Durable, premium look, molds to foot',
+    cons: 'Heavier, requires break-in, not breathable',
+    bestFor: 'Casual, basketball, boots',
+  },
+  {
+    material: 'Suede',
+    pros: 'Soft texture, stylish, comfortable',
+    cons: 'Stains easily, not waterproof, requires care',
+    bestFor: 'Lifestyle, casual, fashion',
+  },
+  {
+    material: 'Knit (Flyknit/Primeknit)',
+    pros: 'Sock-like fit, breathable, lightweight',
+    cons: 'Less support, can stretch over time',
+    bestFor: 'Running, lifestyle, training',
+  },
+  {
+    material: 'Synthetic',
+    pros: 'Affordable, durable, easy to clean',
+    cons: 'Less breathable, can feel cheap',
+    bestFor: 'Budget options, training, casual',
+  },
+]
+
+const sizingTips = [
+  {
+    tip: 'Measure Both Feet',
+    detail: 'Feet can differ in size. Always measure both and use the larger measurement for sizing.',
+  },
+  {
+    tip: 'Consider Sock Thickness',
+    detail: 'If you wear thick socks for running or basketball, consider going up half a size.',
+  },
+  {
+    tip: 'Check Brand-Specific Sizing',
+    detail: 'Nike tends to run narrow, New Balance offers wide widths, Adidas runs true to size.',
+  },
+  {
+    tip: 'Read Reviews for Fit Notes',
+    detail: 'User reviews often mention if a model runs large, small, or true to size.',
+  },
+  {
+    tip: 'Order from Retailers with Free Returns',
+    detail: 'When unsure, order from retailers with hassle-free return policies to try multiple sizes.',
+  },
+]
 </script>
 
-<CategoryPage />
+# The Complete Shoes Guide: How to Choose, Compare, and Buy
+
+*Last updated: July 16, 2026 | By FansBuy Editorial Team*
+
+Whether you are a runner seeking performance, a sneakerhead chasing limited releases, or someone who just wants comfortable everyday footwear, this guide covers everything you need to know about buying shoes. We have tested hundreds of models across brands, analyzed materials and construction, and compiled real user feedback to help you make informed decisions.
+
+<SubCategoryNav :subcategories="subcategories" />
+
+## Understanding Shoe Categories
+
+Shoes are designed for specific activities and styles. Choosing the right category ensures comfort, performance, and longevity.
+
+<CategoryContent
+  :categoryDescription="shoesCategory.description"
+  :productTypes="productTypes"
+/>
+
+## Brand Comparison: Which Brand Is Right for You?
+
+Different brands excel in different areas. Here is how the major players compare:
+
+<div class="brand-table-wrapper">
+<table class="brand-table">
+<thead>
+<tr>
+<th>Brand</th>
+<th>Key Strengths</th>
+<th>Price Range</th>
+<th>Best For</th>
+</tr>
+</thead>
+<tbody>
+<tr v-for="brand in brandComparison" :key="brand.brand">
+<td><strong>{{ brand.brand }}</strong></td>
+<td>{{ brand.strengths }}</td>
+<td>{{ brand.priceRange }}</td>
+<td>{{ brand.bestFor }}</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+## Material Guide: What Are Your Shoes Made Of?
+
+The material of your shoes affects comfort, durability, and performance. Here is a breakdown of common shoe materials:
+
+<div class="material-table-wrapper">
+<table class="material-table">
+<thead>
+<tr>
+<th>Material</th>
+<th>Pros</th>
+<th>Cons</th>
+<th>Best For</th>
+</tr>
+</thead>
+<tbody>
+<tr v-for="mat in materialGuide" :key="mat.material">
+<td><strong>{{ mat.material }}</strong></td>
+<td>{{ mat.pros }}</td>
+<td>{{ mat.cons }}</td>
+<td>{{ mat.bestFor }}</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+## Sizing Tips: How to Get the Perfect Fit
+
+Getting the right size is critical for comfort and preventing injury. Follow these tips:
+
+<div class="tips-grid">
+<div v-for="tip in sizingTips" :key="tip.tip" class="tip-card">
+<h3>{{ tip.tip }}</h3>
+<p>{{ tip.detail }}</p>
+</div>
+</div>
+
+## How to Spot Quality Issues
+
+When evaluating shoes, especially from alternative sources, watch for these red flags:
+
+- **Glue stains or excess adhesive** - Indicates poor manufacturing quality control
+- **Misaligned stitching** - Can lead to premature wear and structural failure
+- **Uneven sole attachment** - Affects balance and can cause discomfort
+- **Color bleeding or inconsistent dye** - Sign of low-quality materials
+- **Strong chemical odor** - May indicate use of inferior adhesives or materials
+
+## Care & Maintenance Tips
+
+Proper care extends the life of your shoes significantly:
+
+1. **Clean regularly** - Use a soft brush and mild soap for most materials
+2. **Air dry only** - Never put shoes in the dryer; heat damages adhesives and materials
+3. **Rotate your shoes** - Wearing the same pair daily accelerates wear
+4. **Use shoe trees** - Maintains shape and absorbs moisture
+5. **Store properly** - Keep in a cool, dry place away from direct sunlight
+
+<style scoped>
+.brand-table-wrapper,
+.material-table-wrapper {
+  overflow-x: auto;
+  margin: 24px 0;
+  border: 1px solid #eee;
+  border-radius: 12px;
+}
+
+.brand-table,
+.material-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+.brand-table th,
+.brand-table td,
+.material-table th,
+.material-table td {
+  padding: 14px 16px;
+  text-align: left;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.brand-table thead,
+.material-table thead {
+  background: #f8f8f8;
+}
+
+.brand-table th,
+.material-table th {
+  font-weight: 600;
+  color: #333;
+  white-space: nowrap;
+}
+
+.brand-table td,
+.material-table td {
+  color: #555;
+}
+
+.tips-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  margin: 24px 0;
+}
+
+.tip-card {
+  background: #fafafa;
+  border: 1px solid #eee;
+  border-radius: 12px;
+  padding: 24px;
+}
+
+.tip-card h3 {
+  font-size: 16px;
+  font-weight: 600;
+  color: #8B0000;
+  margin-bottom: 10px;
+}
+
+.tip-card p {
+  font-size: 14px;
+  color: #555;
+  line-height: 1.6;
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .brand-table th,
+  .brand-table td,
+  .material-table th,
+  .material-table td {
+    padding: 10px 12px;
+    font-size: 13px;
+  }
+}
+</style>

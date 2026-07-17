@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
+import { siteConfig } from './theme/site-config.js'
 
-const hostname = 'https://bestfansbuy.com'
+const { seo, brand } = siteConfig
 
 export default defineConfig({
   vite: {
@@ -13,39 +14,40 @@ export default defineConfig({
       },
     },
   },
-  title: 'Best Fansbuy - Fashion Store',
-  description: 'Discover the latest fashion trends and premium clothing. Shop now!',
+
+  title: brand.name,
+  description: brand.description,
   lang: 'en-US',
 
   head: [
-    ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-XTJTTBZTPM' }],
+    ['script', { async: '', src: `https://www.googletagmanager.com/gtag/js?id=${seo.ga4}` }],
     ['script', {}, `
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      gtag('config', 'G-XTJTTBZTPM');
+      gtag('config', '${seo.ga4}');
     `],
     ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'Best Fansbuy - Fashion Store' }],
-    ['meta', { property: 'og:description', content: 'Discover the latest fashion trends and premium clothing. Shop now!' }],
+    ['meta', { property: 'og:title', content: brand.name }],
+    ['meta', { property: 'og:description', content: brand.description }],
     ['meta', { property: 'og:image', content: '/favicon.png' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name: 'twitter:title', content: 'Best Fansbuy - Fashion Store' }],
-    ['meta', { name: 'twitter:description', content: 'Discover the latest fashion trends and premium clothing. Shop now!' }],
+    ['meta', { name: 'twitter:title', content: brand.name }],
+    ['meta', { name: 'twitter:description', content: brand.description }],
+    ['meta', { name: 'keywords', content: seo.keywords.join(', ') }],
     ['script', { type: 'application/ld+json' }, JSON.stringify({
       '@context': 'https://schema.org',
       '@type': 'WebSite',
-      name: 'Best Fansbuy',
-      url: hostname,
-      description: 'Discover the latest fashion trends and premium clothing. Shop now!',
+      name: brand.name,
+      url: seo.hostname,
+      description: brand.description,
     })],
   ],
 
   themeConfig: {
-    nav: [],
-    
-    // SPA Fallback for Cloudflare Pages
+    nav: siteConfig.nav,
+
     notFound: {
       quote: 'The page you are looking for does not exist.',
       linkLabel: 'Back to Home',
@@ -53,20 +55,18 @@ export default defineConfig({
     },
 
     footer: {
-      message: 'Best Fansbuy - Fashion Store',
-      copyright: 'Copyright © ' + new Date().getFullYear(),
+      message: `${brand.name} - ${brand.tagline}`,
+      copyright: 'Copyright &copy; ' + new Date().getFullYear() + ` ${brand.name}`,
     },
   },
 
   sitemap: {
-    hostname,
+    hostname: seo.hostname,
   },
-  
-  // Ignore localhost links in development docs
+
   ignoreDeadLinks: [
     /^http:\/\/localhost/,
   ],
-  
-  // Enable SPA mode for client-side routing
+
   cleanUrls: 'with-subfolders',
 })
