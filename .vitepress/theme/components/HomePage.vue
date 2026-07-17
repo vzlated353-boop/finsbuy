@@ -6,6 +6,18 @@
         <h1 class="hero-title">{{ brand.name }}</h1>
         <p class="hero-subtitle">{{ brand.tagline }}</p>
         <p class="hero-desc">{{ brand.description }}</p>
+        <!-- Category Buttons -->
+        <div class="hero-buttons">
+          <a
+            v-for="cat in categories"
+            :key="cat.id"
+            :href="`/${cat.id}`"
+            class="hero-btn"
+          >
+            <span class="btn-icon">{{ cat.icon }}</span>
+            <span class="btn-text">{{ cat.name }}</span>
+          </a>
+        </div>
       </div>
     </section>
 
@@ -111,6 +123,46 @@ const links = siteConfig.links
   line-height: 1.7;
   max-width: 600px;
   margin: 0 auto;
+}
+
+/* Hero Buttons */
+.hero-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin-top: 32px;
+  flex-wrap: wrap;
+}
+
+.hero-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 14px 28px;
+  background: rgba(255,255,255,0.1);
+  border: 2px solid rgba(255,255,255,0.3);
+  border-radius: 12px;
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  backdrop-filter: blur(10px);
+}
+
+.hero-btn:hover {
+  background: rgba(212,175,55,0.2);
+  border-color: #d4af37;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(212,175,55,0.3);
+}
+
+.btn-icon {
+  font-size: 20px;
+}
+
+.btn-text {
+  letter-spacing: 0.5px;
 }
 
 /* Announcement */

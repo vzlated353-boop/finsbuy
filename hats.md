@@ -12,6 +12,7 @@ import CategoryContent from './.vitepress/theme/components/CategoryContent.vue'
 
 const hatsCategory = siteConfig.categories.find(c => c.id === 'hats')
 const subcategories = hatsCategory.subcategories
+const spreadsheetLink = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972'
 
 const productTypes = [
   {
@@ -181,6 +182,14 @@ const brandOverview = [
 Hats are more than just accessories—they protect from sun and cold, express personal style, and complete outfits. This guide covers everything from cap structures to materials, helping you choose the right hat for your face shape, style, and needs.
 
 <SubCategoryNav :subcategories="subcategories" />
+
+<div class="spreadsheet-cta">
+  <a :href="spreadsheetLink" target="_blank" class="spreadsheet-btn">
+    <span class="btn-icon">📊</span>
+    <span>View Hats Spreadsheet</span>
+    <span class="btn-arrow">→</span>
+  </a>
+</div>
 
 ## Understanding Hat Categories
 
@@ -424,6 +433,45 @@ Red flags that indicate poor manufacturing:
   color: #555;
   line-height: 1.6;
   margin: 0;
+}
+
+/* Spreadsheet CTA */
+.spreadsheet-cta {
+  margin: 32px 0;
+  text-align: center;
+}
+
+.spreadsheet-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 32px;
+  background: linear-gradient(135deg, #8B0000, #a00000);
+  color: #fff;
+  text-decoration: none;
+  border-radius: 12px;
+  font-size: 16px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(139, 0, 0, 0.2);
+}
+
+.spreadsheet-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(139, 0, 0, 0.3);
+}
+
+.spreadsheet-btn .btn-icon {
+  font-size: 20px;
+}
+
+.spreadsheet-btn .btn-arrow {
+  font-size: 18px;
+  transition: transform 0.3s ease;
+}
+
+.spreadsheet-btn:hover .btn-arrow {
+  transform: translateX(4px);
 }
 
 @media (max-width: 768px) {
