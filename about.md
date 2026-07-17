@@ -19,13 +19,6 @@ whyTrustUs:
     content: Clear pricing in USD, with no hidden fees, makes budgeting simple and straightforward.
   - title: Community Driven
     content: We listen to our users and continuously improve our services and product offerings based on your feedback and trending demands.
-contactInfo:
-  - type: Email
-    value: "support@fansbuy.com"
-  - type: WeChat
-    value: "FansBuyOfficial"
-  - type: Instagram
-    value: "@fansbuy_official"
 ---
 
 <script setup>

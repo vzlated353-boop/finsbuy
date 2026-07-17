@@ -7,11 +7,9 @@ author: FansBuy Editorial Team
 
 <script setup>
 import { siteConfig } from './.vitepress/theme/site-config.js'
-import SubCategoryNav from './.vitepress/theme/components/SubCategoryNav.vue'
 import CategoryContent from './.vitepress/theme/components/CategoryContent.vue'
 
 const shoesCategory = siteConfig.categories.find(c => c.id === 'shoes')
-const subcategories = shoesCategory.subcategories
 const spreadsheetLink = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972'
 
 const productTypes = [
@@ -138,11 +136,9 @@ const sizingTips = [
 
 Whether you are a runner seeking performance, a sneakerhead chasing limited releases, or someone who just wants comfortable everyday footwear, this guide covers everything you need to know about buying shoes. We have tested hundreds of models across brands, analyzed materials and construction, and compiled real user feedback to help you make informed decisions.
 
-<SubCategoryNav :subcategories="subcategories" />
-
 <div class="spreadsheet-cta">
   <a :href="spreadsheetLink" target="_blank" class="spreadsheet-btn">
-    <span class="btn-icon">📊</span>
+    <span class="btn-icon"></span>
     <span>View Shoes Spreadsheet</span>
     <span class="btn-arrow">→</span>
   </a>

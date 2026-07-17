@@ -7,11 +7,9 @@ author: FansBuy Editorial Team
 
 <script setup>
 import { siteConfig } from './.vitepress/theme/site-config.js'
-import SubCategoryNav from './.vitepress/theme/components/SubCategoryNav.vue'
 import CategoryContent from './.vitepress/theme/components/CategoryContent.vue'
 
 const hatsCategory = siteConfig.categories.find(c => c.id === 'hats')
-const subcategories = hatsCategory.subcategories
 const spreadsheetLink = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972'
 
 const productTypes = [
@@ -181,11 +179,9 @@ const brandOverview = [
 
 Hats are more than just accessories—they protect from sun and cold, express personal style, and complete outfits. This guide covers everything from cap structures to materials, helping you choose the right hat for your face shape, style, and needs.
 
-<SubCategoryNav :subcategories="subcategories" />
-
 <div class="spreadsheet-cta">
   <a :href="spreadsheetLink" target="_blank" class="spreadsheet-btn">
-    <span class="btn-icon">📊</span>
+    <span class="btn-icon"></span>
     <span>View Hats Spreadsheet</span>
     <span class="btn-arrow">→</span>
   </a>

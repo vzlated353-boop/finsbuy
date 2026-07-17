@@ -25,47 +25,26 @@ export const siteConfig = {
   ],
 
   // ---- Main Categories ----
-  // Each category has subcategories. Each subcategory links to a table page.
-  // To add a new category, just add an entry here and create the corresponding .md file.
+  // Two-level navigation only: Home -> Category page (shoes/clothes/hats).
+  // No third-level subcategory pages.
   categories: [
     {
       id: 'shoes',
       name: 'Shoes',
       icon: '👟',
       description: 'Explore the world of sneakers, boots, and casual footwear. From iconic silhouettes to hidden gems.',
-      subcategories: [
-        { id: 'running', name: 'Running Shoes', link: '/shoes/running' },
-        { id: 'basketball', name: 'Basketball Shoes', link: '/shoes/basketball' },
-        { id: 'casual', name: 'Casual Sneakers', link: '/shoes/casual' },
-        { id: 'boots', name: 'Boots', link: '/shoes/boots' },
-        { id: 'slides', name: 'Slides & Sandals', link: '/shoes/slides' },
-      ],
     },
     {
       id: 'clothes',
       name: 'Clothes',
       icon: '👕',
       description: 'From streetwear essentials to premium outerwear. Discover styles, fabrics, and fits.',
-      subcategories: [
-        { id: 'tshirts', name: 'T-Shirts', link: '/clothes/tshirts' },
-        { id: 'hoodies', name: 'Hoodies & Sweatshirts', link: '/clothes/hoodies' },
-        { id: 'jackets', name: 'Jackets & Outerwear', link: '/clothes/jackets' },
-        { id: 'pants', name: 'Pants & Jeans', link: '/clothes/pants' },
-        { id: 'shorts', name: 'Shorts', link: '/clothes/shorts' },
-      ],
     },
     {
       id: 'hats',
       name: 'Hats',
       icon: '',
       description: 'Complete your look with caps, beanies, and bucket hats. Style meets function.',
-      subcategories: [
-        { id: 'snapback', name: 'Snapback Caps', link: '/hats/snapback' },
-        { id: 'beanie', name: 'Beanies', link: '/hats/beanie' },
-        { id: 'bucket', name: 'Bucket Hats', link: '/hats/bucket' },
-        { id: 'dad-hat', name: 'Dad Hats', link: '/hats/dad-hat' },
-        { id: 'fitted', name: 'Fitted Caps', link: '/hats/fitted' },
-      ],
     },
   ],
 

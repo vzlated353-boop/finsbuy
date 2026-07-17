@@ -7,11 +7,9 @@ author: FansBuy Editorial Team
 
 <script setup>
 import { siteConfig } from './.vitepress/theme/site-config.js'
-import SubCategoryNav from './.vitepress/theme/components/SubCategoryNav.vue'
 import CategoryContent from './.vitepress/theme/components/CategoryContent.vue'
 
 const clothesCategory = siteConfig.categories.find(c => c.id === 'clothes')
-const subcategories = clothesCategory.subcategories
 const spreadsheetLink = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972'
 
 const productTypes = [
@@ -160,11 +158,9 @@ const brandOverview = [
 
 Clothing is more than just covering your body—it is about expressing yourself, feeling comfortable, and making smart purchasing decisions. This guide breaks down everything from fabric weights to fit profiles, helping you choose pieces that last and look great.
 
-<SubCategoryNav :subcategories="subcategories" />
-
 <div class="spreadsheet-cta">
   <a :href="spreadsheetLink" target="_blank" class="spreadsheet-btn">
-    <span class="btn-icon">📊</span>
+    <span class="btn-icon"></span>
     <span>View Clothes Spreadsheet</span>
     <span class="btn-arrow">→</span>
   </a>

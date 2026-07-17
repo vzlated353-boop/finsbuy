@@ -40,19 +40,6 @@
         </div>
       </div>
     </section>
-
-    <!-- Contact -->
-    <section class="contact-section">
-      <div class="container">
-        <h2 class="section-title">Get in Touch</h2>
-        <div class="contact-grid">
-          <div v-for="item in frontmatter.contactInfo" :key="item.type" class="contact-card">
-            <div class="contact-type">{{ item.type }}</div>
-            <div class="contact-value">{{ item.value }}</div>
-          </div>
-        </div>
-      </div>
-    </section>
   </div>
 </template>
 
