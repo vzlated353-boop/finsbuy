@@ -46,6 +46,40 @@
         </div>
       </aside>
     </div>
+
+    <!-- Explore More -->
+    <section class="explore-more">
+      <div class="explore-container">
+        <h2 class="explore-title">Explore More</h2>
+        <div class="explore-grid">
+          <a href="/" class="explore-card">
+            <div class="explore-icon">&#127968;</div>
+            <h3>Home</h3>
+            <p>Return to the homepage for a full overview of our site.</p>
+          </a>
+          <a href="/about" class="explore-card">
+            <div class="explore-icon">&#8505;</div>
+            <h3>About</h3>
+            <p>Learn more about our mission and how we help you find the best products.</p>
+          </a>
+          <a href="/shoes" class="explore-card">
+            <div class="explore-icon">&#128095;</div>
+            <h3>Shoes</h3>
+            <p>Discover the best sneakers, boots, and casual footwear.</p>
+          </a>
+          <a href="/clothes" class="explore-card">
+            <div class="explore-icon">&#128085;</div>
+            <h3>Clothes</h3>
+            <p>Explore streetwear, hoodies, jackets, and more.</p>
+          </a>
+          <a href="/hats" class="explore-card">
+            <div class="explore-icon">&#129509;</div>
+            <h3>Hats</h3>
+            <p>Find the perfect cap, beanie, or bucket hat.</p>
+          </a>
+        </div>
+      </div>
+    </section>
   </div>
 </template>
 
@@ -486,5 +520,72 @@ const recommendedSeries = [
   .article-card {
     padding: 16px;
   }
+
+  .explore-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Explore More */
+.explore-more {
+  background: #f8f9fa;
+  padding: 64px 0;
+  margin-top: 48px;
+}
+
+.explore-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.explore-title {
+  text-align: center;
+  font-size: 28px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 40px;
+}
+
+.explore-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+
+.explore-card {
+  display: block;
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 16px;
+  padding: 28px 20px;
+  text-decoration: none;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.explore-card:hover {
+  box-shadow: 0 8px 30px rgba(0,0,0,0.1);
+  transform: translateY(-4px);
+  border-color: #d4af37;
+}
+
+.explore-icon {
+  font-size: 40px;
+  margin-bottom: 12px;
+}
+
+.explore-card h3 {
+  font-size: 18px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 8px;
+}
+
+.explore-card p {
+  font-size: 14px;
+  color: #666;
+  line-height: 1.6;
+  margin: 0;
 }
 </style>

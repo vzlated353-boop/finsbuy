@@ -67,6 +67,40 @@
         </div>
       </div>
     </section>
+
+    <!-- Explore More -->
+    <section class="explore-more">
+      <div class="container">
+        <h2 class="section-title">Explore More</h2>
+        <div class="explore-grid">
+          <a href="/about" class="explore-card">
+            <div class="explore-icon">&#8505;</div>
+            <h3>About</h3>
+            <p>Learn more about our mission and how we help you find the best products.</p>
+          </a>
+          <a href="/blog" class="explore-card">
+            <div class="explore-icon">&#128218;</div>
+            <h3>Blog</h3>
+            <p>Read our latest guides, reviews, and shopping tips.</p>
+          </a>
+          <a href="/shoes" class="explore-card">
+            <div class="explore-icon">&#128095;</div>
+            <h3>Shoes</h3>
+            <p>Discover the best sneakers, boots, and casual footwear.</p>
+          </a>
+          <a href="/clothes" class="explore-card">
+            <div class="explore-icon">&#128085;</div>
+            <h3>Clothes</h3>
+            <p>Explore streetwear, hoodies, jackets, and more.</p>
+          </a>
+          <a href="/hats" class="explore-card">
+            <div class="explore-icon">&#129509;</div>
+            <h3>Hats</h3>
+            <p>Find the perfect cap, beanie, or bucket hat.</p>
+          </a>
+        </div>
+      </div>
+    </section>
   </div>
 </template>
 
@@ -295,6 +329,54 @@ const links = siteConfig.links
   line-height: 1.6;
 }
 
+/* Explore More */
+.explore-more {
+  background: #f8f9fa;
+  padding: 64px 0;
+}
+
+.explore-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 20px;
+}
+
+.explore-card {
+  display: block;
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 16px;
+  padding: 28px 20px;
+  text-decoration: none;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.explore-card:hover {
+  box-shadow: 0 8px 30px rgba(0,0,0,0.1);
+  transform: translateY(-4px);
+  border-color: #d4af37;
+}
+
+.explore-icon {
+  font-size: 40px;
+  margin-bottom: 12px;
+}
+
+.explore-card h3 {
+  font-size: 18px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 8px;
+}
+
+.explore-card p {
+  font-size: 14px;
+  color: #666;
+  line-height: 1.6;
+  margin: 0;
+}
+
 @media (max-width: 768px) {
   .hero { padding: 48px 20px; }
   .hero-title { font-size: 32px; }
@@ -302,5 +384,6 @@ const links = siteConfig.links
   .section-title { font-size: 24px; }
   .category-grid { grid-template-columns: 1fr; }
   .links-grid { grid-template-columns: 1fr; }
+  .explore-grid { grid-template-columns: 1fr; }
 }
 </style>
