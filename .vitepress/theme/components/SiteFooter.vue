@@ -17,7 +17,7 @@
 
 <style scoped>
 .site-footer {
-  background: #f0f0f0;
+  background: #1a1a2e;
   padding: 20px 16px;
   text-align: center;
 }
@@ -26,18 +26,18 @@
   margin: 0;
   padding: 3px 0;
   font-size: 14px;
-  color: #555;
+  color: rgba(255, 255, 255, 0.7);
   line-height: 1.6;
 }
 
 .site-footer-line a {
-  color: #555;
+  color: rgba(255, 255, 255, 0.7);
   text-decoration: underline;
   transition: color 0.3s ease;
 }
 
 .site-footer-line a:hover {
-  color: #8B0000;
+  color: #d4af37;
 }
 
 @media (max-width: 480px) {

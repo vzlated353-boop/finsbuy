@@ -53,6 +53,14 @@ export default defineConfig({
       linkLabel: 'Back to Home',
       linkUrl: '/',
     },
+
+    docFooter: {
+      prev: false,
+      next: false,
+    },
+
+    lastUpdated: false,
+    editLink: undefined,
   },
 
   sitemap: {
