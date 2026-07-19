@@ -1,4 +1,4 @@
-ï»¿# Fansbuy Spreadsheet Shoes 2026: Complete Shoe Product List
+# Fansbuy Spreadsheet Shoes 2026: Complete Shoe Product List
 
 [Access Fansbuy Spreadsheet](https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=766708488#gid=766708488)
 
@@ -24,7 +24,7 @@ What sets this spreadsheet apart from random forum recommendations is the sheer 
 
 The shoe category breaks down into three main sections: Nike Shoes with 11 products, Designer Shoes with 13 products, and Other Shoes with 9 products. This structure makes it easy to browse by preference and budget. Nike models dominate the entry-level and mid-range price tiers, while designer offerings from Dior, Balenciaga, and Off-White occupy the premium segment. The "Other Shoes" section covers everything in between, including popular choices like the Jordan 4, New Balance 9060, Adidas, Yeezy 350, and Timberland Boots.
 
-If you want a deeper dive into specific brands, we have dedicated guides that complement this overview. Check out our [fansbuy sneakers](fansbuy sneakers 2026-07-17.md) page for quality verification details and top-selling model breakdowns, or the [fansbuy nike](fansbuy nike 2026-07-17.md) guide for a full look at Nike apparel and footwear options. For now, let us walk through every shoe product listed in the spreadsheet so you can find exactly what fits your style and budget.
+If you want a deeper dive into specific brands, we have dedicated guides that complement this overview. Check out our [fansbuy sneakers](sneakers 2026-07-17.md) page for quality verification details and top-selling model breakdowns, or the [fansbuy nike](nike 2026-07-17.md) guide for a full look at Nike apparel and footwear options. For now, let us walk through every shoe product listed in the spreadsheet so you can find exactly what fits your style and budget.
 
 ---
 
@@ -32,39 +32,39 @@ If you want a deeper dive into specific brands, we have dedicated guides that co
 
 Nike is the largest single-brand category in the fansbuy spreadsheet shoes section, with 11 distinct products covering everything from timeless classics to performance-oriented silhouettes. The Nike lineup spans an impressive price range from ~$12.86 to ~$95.93, making it accessible to buyers at virtually every budget level. Here is every Nike shoe currently listed, organized by model family.
 
-**Nike AF1 Low '07 â€” ~$12.86**
+**Nike AF1 Low '07 ¡ª ~$12.86**
 
 The Air Force 1 Low '07 is the most affordable shoe in the entire spreadsheet. At just ~$12.86, it is an almost impulse-buy price for a silhouette that has dominated streetwear for over three decades. Buyers consistently praise the leather quality, clean sole bonding, and accurate Swoosh placement on current batches. This is the go-to recommendation for first-time buyers who want a proven classic without a significant financial commitment.
 
-**Nike Air Max 95 â€” ~$46.15**
+**Nike Air Max 95 ¡ª ~$46.15**
 
 The Air Max 95 remains one of the highest-volume sneakers on the platform. Its layered upper design and dual visible Air units give it a distinctive look that stands out from typical sneaker fare. Batch quality has improved noticeably in recent production runs, with QC photos showing clean gradient transitions on the midsole and accurate color blocking across the panels. At ~$46.15, it represents strong value for a model that retails for many times this amount elsewhere. A variant of the Air Max 95 is also listed at the same price point, giving buyers additional colorway options.
 
-**Nike Air Max 97 â€” ~$95.93**
+**Nike Air Max 97 ¡ª ~$95.93**
 
 Sitting at the top of the Nike price range, the Air Max 97 commands a premium due to its intricate design and full-length visible Air unit. The wavy layered upper requires more complex manufacturing, which is reflected in the ~$95.93 price tag. Despite being the most expensive Nike model in the spreadsheet, it is still dramatically more affordable than retail alternatives. Buyers who prioritize design detail and comfort tend to gravitate toward this model.
 
-**Nike Dunk â€” ~$57.69 to ~$75.00**
+**Nike Dunk ¡ª ~$57.69 to ~$75.00**
 
-The Nike Dunk is available in three variants within the spreadsheet, priced between ~$57.69 and ~$75.00 depending on the specific colorway and batch version. The Dunk's enduring popularity comes from its versatility â€” it pairs with nearly any outfit and works in both casual and slightly dressier contexts. Leather quality on current batches typically receives positive feedback, with soft but structured panels and solid sole bonding. The multiple variants mean buyers can choose the price point and colorway that best suits their preferences.
+The Nike Dunk is available in three variants within the spreadsheet, priced between ~$57.69 and ~$75.00 depending on the specific colorway and batch version. The Dunk's enduring popularity comes from its versatility ¡ª it pairs with nearly any outfit and works in both casual and slightly dressier contexts. Leather quality on current batches typically receives positive feedback, with soft but structured panels and solid sole bonding. The multiple variants mean buyers can choose the price point and colorway that best suits their preferences.
 
-**Nike Max Plus TN â€” ~$36.26**
+**Nike Max Plus TN ¡ª ~$36.26**
 
 The Max Plus TN, also known simply as the TN, offers a bold, aggressive design language with its visible Air unit and distinctive wavy support cages. At ~$36.26, it sits in the budget-friendly tier of the Nike collection. This model is particularly popular among buyers who prefer a sporty, statement-making silhouette.
 
-**Nike Shox TL â€” ~$36.95**
+**Nike Shox TL ¡ª ~$36.95**
 
 The Shox TL brings back one of Nike's most recognizable cushioning technologies. The four-column Shox heel unit is a conversation starter, and at ~$36.95, the price is very approachable. Build quality on recent batches has been solid, with the Shox columns providing genuine visual impact and reasonable comfort for daily wear.
 
-**Nike Skepta's Tailwind â€” ~$41.21**
+**Nike Skepta's Tailwind ¡ª ~$41.21**
 
 A collaboration-influenced take on the classic Tailwind silhouette, this model is priced at ~$41.21. It appeals to buyers who appreciate the intersection of performance heritage and contemporary design. The Tailwind's retro running aesthetic has gained traction in recent years, making this a stylish choice that still offers genuine comfort.
 
-**Nike Football Boots â€” ~$48.46**
+**Nike Football Boots ¡ª ~$48.46**
 
 Rounding out the Nike section at ~$48.46, the Football Boots cater to buyers who need performance footwear for the pitch. While not a lifestyle sneaker, this inclusion shows the breadth of the spreadsheet's shoe catalog. The boots feature accurate stud placement and solid construction based on buyer feedback.
 
-For buyers interested in how these Nike shoes compare to other footwear options on the platform, our [fansbuy jordan](fansbuy jordan 2026-07-17.md) guide covers the Jordan lineup in detail, including the popular Jordan 4.
+For buyers interested in how these Nike shoes compare to other footwear options on the platform, our [fansbuy jordan](jordan 2026-07-17.md) guide covers the Jordan lineup in detail, including the popular Jordan 4.
 
 ---
 
@@ -72,57 +72,57 @@ For buyers interested in how these Nike shoes compare to other footwear options 
 
 The designer shoe section of the fansbuy spreadsheet shoes category features 13 products spanning some of the most sought-after luxury fashion houses in the world. Prices in this section range from ~$39.56 to ~$115.22, reflecting the premium materials and complex construction associated with designer footwear. Here is every designer shoe currently listed.
 
-**Dior B22 â€” ~$45.33**
+**Dior B22 ¡ª ~$45.33**
 
 The Dior B22 is the entry point into the Dior lineup. Priced at ~$45.33, it offers the brand's signature chunky sneaker aesthetic with accurate branding, proper leather quality, and well-proportioned sole units. The B22 has become one of Dior's most recognizable silhouettes, and the spreadsheet version captures the key design elements that make it popular among luxury sneaker enthusiasts.
 
-**Dior B23 â€” ~$56.04**
+**Dior B23 ¡ª ~$56.04**
 
 Stepping up to ~$56.04, the Dior B23 typically features the brand's iconic oblique canvas pattern. This model is a favorite among buyers who want a recognizable luxury statement piece. The canvas material requires careful attention during manufacturing to ensure the pattern alignment matches authentic versions, and current batches generally receive positive feedback in this regard.
 
-**Dior B27 â€” ~$59.34**
+**Dior B27 ¡ª ~$59.34**
 
 At ~$59.34, the Dior B27 sits near the middle of the Dior range. It is a low-top silhouette that balances luxury aesthetics with everyday wearability. Community feedback frequently mentions that the B27 is surprisingly comfortable for daily use, which adds practical value beyond the visual accuracy. The leather quality and branding details on current batches are consistently praised.
 
-**Dior B30 â€” ~$45.99**
+**Dior B30 ¡ª ~$45.99**
 
 The Dior B30 is priced at ~$45.99 and features a sleek, modern design with sporty undertones. It appeals to buyers who prefer a more understated luxury look compared to the chunkier B22 or the canvas-heavy B23. The B30's streamlined profile makes it versatile enough for both casual and smart-casual settings.
 
-**Dunk SB x Off-White â€” ~$90.66**
+**Dunk SB x Off-White ¡ª ~$90.66**
 
 This collaboration-style model is priced at ~$90.66, reflecting the added complexity of replicating Off-White's signature deconstructed design elements. The zip-tie accents, exposed foam tongue, and quotation marks are all key details that current batches attempt to capture accurately. This is a statement piece for buyers who appreciate streetwear's high-fashion crossover.
 
-**Off-White Shoes â€” ~$82.42**
+**Off-White Shoes ¡ª ~$82.42**
 
-The general Off-White Shoes listing at ~$82.42 covers additional silhouettes from the brand beyond the Dunk SB collaboration. Off-White's design language â€” industrial typography, arrow logos, and deconstructed aesthetics â€” is well represented in this offering.
+The general Off-White Shoes listing at ~$82.42 covers additional silhouettes from the brand beyond the Dunk SB collaboration. Off-White's design language ¡ª industrial typography, arrow logos, and deconstructed aesthetics ¡ª is well represented in this offering.
 
-**Valentino Shoes â€” ~$65.93**
+**Valentino Shoes ¡ª ~$65.93**
 
 Valentino Shoes are listed at ~$65.93, offering the brand's signature bold design elements including the iconic VLogo and Rockstud details. This model appeals to buyers who want Italian luxury styling at a fraction of the retail cost.
 
-**Balenciaga Shoes â€” ~$115.22**
+**Balenciaga Shoes ¡ª ~$115.22**
 
 The most expensive shoe in the entire spreadsheet, Balenciaga Shoes at ~$115.22 represent the luxury ceiling of the catalog. Balenciaga's chunky, avant-garde aesthetic is faithfully reproduced in current batches. A variant is also available at ~$61.81, giving buyers a more accessible entry point into the Balenciaga look.
 
-**Balenciaga Shoes (variant) â€” ~$61.81**
+**Balenciaga Shoes (variant) ¡ª ~$61.81**
 
 This alternative Balenciaga option at ~$61.81 typically covers different silhouettes or colorways within the brand's footwear lineup. The lower price point makes it achievable for buyers who want the Balenciaga aesthetic without committing to the top-tier pricing.
 
-**Bape Shoes â€” ~$57.69**
+**Bape Shoes ¡ª ~$57.69**
 
 Bape Shoes at ~$57.69 bring Japanese streetwear credibility to the designer section. Known for bold camouflage patterns and the iconic Ape Head logo, Bape footwear is a solid choice for buyers who lean toward Asian streetwear culture.
 
-**Asics Shoes â€” ~$39.56**
+**Asics Shoes ¡ª ~$39.56**
 
 Asics Shoes at ~$39.56 offer performance-inspired design with genuine comfort technology. While Asics is more of a sportswear brand than a luxury house, its inclusion in the designer section reflects the current trend of retro running shoes crossing over into fashion territory. Models like the Gel-Kayano and Gel-1130 have become streetwear staples.
 
-**Lanvin Shoes â€” ~$60.66**
+**Lanvin Shoes ¡ª ~$60.66**
 
 Lanvin Shoes at ~$60.66 represent one of the oldest French fashion houses. The brand's sneakers typically feature clean, minimalist designs with premium materials. This is a solid pick for buyers who prefer understated luxury over loud branding.
 
-**Golden Goose Shoes â€” ~$50.82**
+**Golden Goose Shoes ¡ª ~$50.82**
 
-Golden Goose Shoes at ~$50.82 are famous for their intentionally distressed, vintage-looking finishes. Each pair is supposed to look uniquely worn-in, which actually works in the buyer's favor when it comes to batch consistency â€” minor variations in the distressing process are part of the design rather than defects.
+Golden Goose Shoes at ~$50.82 are famous for their intentionally distressed, vintage-looking finishes. Each pair is supposed to look uniquely worn-in, which actually works in the buyer's favor when it comes to batch consistency ¡ª minor variations in the distressing process are part of the design rather than defects.
 
 For buyers exploring luxury footwear options, these designer shoes offer exceptional value compared to retail pricing, and the spreadsheet provides the batch details needed to order with confidence.
 
@@ -132,35 +132,35 @@ For buyers exploring luxury footwear options, these designer shoes offer excepti
 
 The "Other Shoes" section of the spreadsheet covers 9 products from brands that do not fall neatly into the Nike or designer categories. This is where you will find some of the most popular everyday footwear choices, including Jordan, New Balance, Adidas, Yeezy, and Timberland. Prices range from just ~$7.78 to ~$65.93, making this section home to both the cheapest and some of the most practical shoes available.
 
-**Jordan 4 â€” ~$55.38**
+**Jordan 4 ¡ª ~$55.38**
 
 The Jordan 4 is arguably the most iconic shoe in this section. At ~$55.38, it offers the classic silhouette with mesh and suede materials that receive positive feedback for texture accuracy and durability. The current batch holds its shape well out of the box, with minimal creasing issues and solid heel counters. Community reviewers consistently rate this model highly for both visual accuracy and wearability.
 
-**NB 9060 â€” ~$42.86**
+**NB 9060 ¡ª ~$42.86**
 
 The New Balance 9060 at ~$42.86 is a modern reinterpretation of classic NB design elements. It combines the chunky proportions that are currently trending with New Balance's reputation for comfort. This model is a strong seller and appeals to buyers who want a distinctive sneaker that does not look like everyone else's choice.
 
-**Adidas Shoes â€” ~$24.73**
+**Adidas Shoes ¡ª ~$24.73**
 
 Adidas Shoes at ~$24.73 are among the best-value footwear options in the entire spreadsheet. With over 550 recorded orders, the Adidas category is one of the highest-volume shoe listings. The simple design means fewer manufacturing complexities, resulting in a quality pass rate of approximately 93 percent. This is an easy add-on to any order.
 
-**Yeezy 350 â€” ~$32.97**
+**Yeezy 350 ¡ª ~$32.97**
 
 The Yeezy 350 at ~$32.97 remains one of the most recognizable sneaker silhouettes in the world. The knitted upper and distinctive stripe pattern are well reproduced in current batches. Comfort is a strong point, with the Boost midsole providing genuine cushioning for all-day wear.
 
-**Yeezy Slippers â€” ~$7.78**
+**Yeezy Slippers ¡ª ~$7.78**
 
 The cheapest shoe in the entire spreadsheet, Yeezy Slippers at ~$7.78 are an easy impulse add-on. They feature the same foam construction as the popular Foam Runner silhouette and are perfect for casual around-the-house wear or quick errands.
 
-**Burberry Slippers â€” ~$46.15 and ~$16.48**
+**Burberry Slippers ¡ª ~$46.15 and ~$16.48**
 
 Burberry offers two slipper variants in the spreadsheet, priced at ~$46.15 and ~$16.48 respectively. The more expensive version typically features the brand's signature check pattern, while the budget option provides a simpler design. Both are popular choices for buyers looking for luxury loungewear.
 
-**Timberland Boots â€” ~$65.93**
+**Timberland Boots ¡ª ~$65.93**
 
 Timberland Boots at ~$65.93 bring rugged outdoor styling to the spreadsheet. The classic yellow-boot aesthetic is well captured, with solid construction and accurate material choices. These are a practical choice for buyers in cooler climates who want durable footwear.
 
-For more details on quality verification and how to check shoes before shipping, our [fansbuy sneakers](fansbuy sneakers 2026-07-17.md) guide covers the QC photo review process in depth.
+For more details on quality verification and how to check shoes before shipping, our [fansbuy sneakers](sneakers 2026-07-17.md) guide covers the QC photo review process in depth.
 
 ---
 
@@ -220,7 +220,7 @@ The spreadsheet typically notes which batch version each listing uses. For Nike 
 
 **Are the designer shoes like Dior and Balenciaga worth the higher price?**
 
-The designer shoes in the spreadsheet are priced significantly below retail â€” the Balenciaga Shoes at ~$115.22, for example, represent a fraction of what authentic pairs cost. Whether they are "worth it" depends on your expectations. Current batches for Dior B22 through B30 and Balenciaga models generally receive quality pass rates above 90 percent, with accurate branding, proper materials, and solid construction. If you understand what you are buying and review QC photos carefully, the value proposition is strong.
+The designer shoes in the spreadsheet are priced significantly below retail ¡ª the Balenciaga Shoes at ~$115.22, for example, represent a fraction of what authentic pairs cost. Whether they are "worth it" depends on your expectations. Current batches for Dior B22 through B30 and Balenciaga models generally receive quality pass rates above 90 percent, with accurate branding, proper materials, and solid construction. If you understand what you are buying and review QC photos carefully, the value proposition is strong.
 
 **Can I order multiple shoes in a single order to save on shipping?**
 
@@ -232,14 +232,14 @@ Yes, Fansbuy supports consolidated shipping, which means you can combine multipl
 
 The Fansbuy spreadsheet shoes section is one of the most comprehensive footwear catalogs available through overseas buying platforms in 2026. With 33 products spanning Nike, Dior, Balenciaga, Jordan, Adidas, Yeezy, New Balance, Timberland, Asics, and more, there is something for every style preference and budget level. Prices range from just $7.78 for Yeezy Slippers to $115.22 for Balenciaga Shoes, and every listing comes with batch details and access to QC photos that let you verify quality before committing.
 
-The three-category structure â€” Nike Shoes, Designer Shoes, and Other Shoes â€” makes browsing straightforward. Nike dominates the entry and mid-range tiers with 11 products starting at $12.86, the designer section offers 13 luxury-inspired options for buyers willing to spend more, and the Other Shoes section rounds things out with 9 practical and popular everyday choices. The data consistently shows that buyers who use the spreadsheet as their starting point, review QC photos carefully, and understand batch version differences end up with the highest satisfaction rates.
+The three-category structure ¡ª Nike Shoes, Designer Shoes, and Other Shoes ¡ª makes browsing straightforward. Nike dominates the entry and mid-range tiers with 11 products starting at $12.86, the designer section offers 13 luxury-inspired options for buyers willing to spend more, and the Other Shoes section rounds things out with 9 practical and popular everyday choices. The data consistently shows that buyers who use the spreadsheet as their starting point, review QC photos carefully, and understand batch version differences end up with the highest satisfaction rates.
 
-If you are ready to start browsing, the spreadsheet is the best place to begin. Bookmark it, compare prices across categories, and use the community feedback to guide your choices. And be sure to check out our related guides on [fansbuy sneakers](fansbuy sneakers 2026-07-17.md), [fansbuy nike](fansbuy nike 2026-07-17.md), and [fansbuy jordan](fansbuy jordan 2026-07-17.md) for deeper dives into specific brands and models. Happy shopping.
+If you are ready to start browsing, the spreadsheet is the best place to begin. Bookmark it, compare prices across categories, and use the community feedback to guide your choices. And be sure to check out our related guides on [fansbuy sneakers](sneakers 2026-07-17.md), [fansbuy nike](nike 2026-07-17.md), and [fansbuy jordan](jordan 2026-07-17.md) for deeper dives into specific brands and models. Happy shopping.
 
 ---
 
 **Related Guides:**
 
-- [Fansbuy Sneakers](fansbuy sneakers 2026-07-17.md)
-- [Fansbuy Nike](fansbuy nike 2026-07-17.md)
-- [Fansbuy Jordan](fansbuy jordan 2026-07-17.md)
+- [Fansbuy Sneakers](sneakers 2026-07-17.md)
+- [Fansbuy Nike](nike 2026-07-17.md)
+- [Fansbuy Jordan](jordan 2026-07-17.md)

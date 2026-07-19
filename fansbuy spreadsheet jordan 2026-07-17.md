@@ -1,4 +1,4 @@
-﻿# Fansbuy Spreadsheet Jordan 2026: Complete Jordan Product List
+# Fansbuy Spreadsheet Jordan 2026: Complete Jordan Product List
 
 [Access Fansbuy Spreadsheet](https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=766708488#gid=766708488)
 
@@ -32,7 +32,7 @@ The sneaker section of the fansbuy spreadsheet jordan category is the most popul
 
 Beyond the Jordan 4, the spreadsheet also includes other Jordan sneaker models that rotate in and out of stock based on supplier availability. Some listings feature limited-edition colorways, while others focus on general-release styles that have broader appeal. Each entry includes the batch name, price, size availability, and a notes column that highlights any specific details about the version, such as material differences or sole pattern accuracy.
 
-For buyers interested in building a collection, the spreadsheet is particularly useful for tracking price differences between batches. A lower-tier Jordan 4 might cost around $55, while a premium batch of the same model could be priced higher but offer better materials and construction. Understanding these distinctions is key to getting the best value for your budget. If you want a deeper dive into the Jordan sneakers available beyond the spreadsheet, check out our [fansbuy jordan](fansbuy jordan 2026-07-17.md) guide for additional product reviews and comparisons.
+For buyers interested in building a collection, the spreadsheet is particularly useful for tracking price differences between batches. A lower-tier Jordan 4 might cost around $55, while a premium batch of the same model could be priced higher but offer better materials and construction. Understanding these distinctions is key to getting the best value for your budget. If you want a deeper dive into the Jordan sneakers available beyond the spreadsheet, check out our [fansbuy jordan](jordan 2026-07-17.md) guide for additional product reviews and comparisons.
 
 The spreadsheet also notes which Jordan sneakers are currently in stock versus on restock, helping buyers plan their purchases around availability windows. Items marked as restock may have longer shipping times, so factoring this into your decision is important if you need your order by a specific date.
 
@@ -48,7 +48,7 @@ While sneakers dominate the conversation, the Jordan apparel section of the spre
 
 The apparel section also includes seasonal items that appear and disappear based on supplier production cycles. During summer months, you may find more Jordan shorts and lightweight tees, while winter updates tend to bring in additional hoodie and jacket options. The spreadsheet is updated to reflect these seasonal shifts, so checking back regularly ensures you do not miss new additions.
 
-For buyers who want to explore Jordan apparel beyond what the spreadsheet covers, our [fansbuy hoodies](fansbuy hoodies 2026-07-17.md) guide provides additional context on sizing, material quality, and styling tips. Combining the spreadsheet data with external guides gives you a complete picture before making a purchase.
+For buyers who want to explore Jordan apparel beyond what the spreadsheet covers, our [fansbuy hoodies](hoodies 2026-07-17.md) guide provides additional context on sizing, material quality, and styling tips. Combining the spreadsheet data with external guides gives you a complete picture before making a purchase.
 
 One important note about Jordan apparel in the spreadsheet: pricing can vary based on the batch and the level of detail in the branding. A basic Jordan hoodie at $20.47 may differ in stitching quality from a higher-tier version priced slightly more. The spreadsheet notes column is your best resource for understanding these differences before committing to a purchase.
 
@@ -60,7 +60,7 @@ Start by using the category filter to isolate Jordan products from the rest of t
 
 The notes column is particularly valuable. It often contains details about batch quality, material differences, or specific fit recommendations that are not captured in the other columns. For example, a Jordan 4 listing might note that a particular batch runs slightly small, advising buyers to size up. These details can save you from costly mistakes and ensure a better shopping experience.
 
-If you are new to using the spreadsheet, we recommend starting with the most popular items, such as the Jordan 4 at $55.38 or the Jordan hoodie at $20.47. These entries give you a sense of the data format and help you understand how to interpret batch information. Once comfortable, you can explore less common items and seasonal additions. For a broader look at how Fansbuy organizes its sneaker inventory, the [fansbuy sneakers](fansbuy sneakers 2026-07-17.md) guide offers helpful context.
+If you are new to using the spreadsheet, we recommend starting with the most popular items, such as the Jordan 4 at $55.38 or the Jordan hoodie at $20.47. These entries give you a sense of the data format and help you understand how to interpret batch information. Once comfortable, you can explore less common items and seasonal additions. For a broader look at how Fansbuy organizes its sneaker inventory, the [fansbuy sneakers](sneakers 2026-07-17.md) guide offers helpful context.
 
 Another tip is to bookmark the spreadsheet and check it periodically. Stock levels change frequently, and new Jordan products are added without announcement. Setting a regular check-in routine ensures you catch restocks and new releases before they sell out.
 
@@ -104,6 +104,6 @@ Whether you are a first-time buyer exploring Jordan sneakers or a seasoned colle
 
 **Related Guides:**
 
-- [Fansbuy Jordan](fansbuy jordan 2026-07-17.md)
-- [Fansbuy Sneakers](fansbuy sneakers 2026-07-17.md)
-- [Fansbuy Hoodies](fansbuy hoodies 2026-07-17.md)
+- [Fansbuy Jordan](jordan 2026-07-17.md)
+- [Fansbuy Sneakers](sneakers 2026-07-17.md)
+- [Fansbuy Hoodies](hoodies 2026-07-17.md)

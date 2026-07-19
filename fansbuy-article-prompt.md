@@ -240,14 +240,14 @@ Before finalizing each article, verify:
 
 ## Common Mistakes to Avoid
 
-‚ùå **Keyword stuffing**: Don't force keyword unnaturally
-‚ùå **Generic content**: Don't write vague statements without data
-‚ùå **Missing data points**: Every article needs specific numbers
-‚ùå **No internal links**: Must include 5+ total internal links
-‚ùå **Copying existing articles**: All content must be 100% original
-‚ùå **Ignoring E-E-A-T**: Must demonstrate experience, expertise, authority, trust
-‚ùå **Weak image prompts**: Must include Fansbuy brand elements
-‚ùå **Absolute claims**: Avoid "always," "never," "guaranteed" ‚Äî use "typically," "usually," "most"
+‚ù?**Keyword stuffing**: Don't force keyword unnaturally
+‚ù?**Generic content**: Don't write vague statements without data
+‚ù?**Missing data points**: Every article needs specific numbers
+‚ù?**No internal links**: Must include 5+ total internal links
+‚ù?**Copying existing articles**: All content must be 100% original
+‚ù?**Ignoring E-E-A-T**: Must demonstrate experience, expertise, authority, trust
+‚ù?**Weak image prompts**: Must include Fansbuy brand elements
+‚ù?**Absolute claims**: Avoid "always," "never," "guaranteed" ‚Ä?use "typically," "usually," "most"
 
 ---
 
@@ -291,9 +291,9 @@ Before finalizing each article, verify:
 ---
 
 **Related Guides:**
-- [Fansbuy Nike](fansbuy%20nike%202026-07-17.md)
-- [Fansbuy Jordan](fansbuy%20jordan%202026-07-17.md)
-- [Fansbuy Sizing Guide](fansbuy%20sizing%20guide%202026-07-17.md)
+- [Fansbuy Nike param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)" 
+- [Fansbuy Jordan param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)" 
+- [Fansbuy Sizing Guide param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)" 
 
 ---
 
@@ -312,4 +312,4 @@ Before finalizing each article, verify:
 5. **Internal linking**: Create a web of related content
 6. **E-E-A-T compliant**: Demonstrate experience, expertise, authority, trust
 
-Generate each article following this prompt exactly. Quality over quantity ‚Äî but meet all requirements.
+Generate each article following this prompt exactly. Quality over quantity ‚Ä?but meet all requirements.

@@ -57,32 +57,32 @@ const articleSeries = [
       {
         title: 'Fansbuy How to Use',
         excerpt: 'Complete step-by-step guide to navigating the FansBuy platform, from account setup to placing your first order.',
-        link: '/fansbuy-how-to-use-2026-07-17/',
+        link: '/fansbuy%20how%20to%20use%202026-07-17/',
       },
       {
         title: 'Fansbuy Shipping Guide',
         excerpt: 'Everything you need to know about shipping methods, delivery timelines, and customs handling.',
-        link: '/fansbuy-shipping-guide-2026-07-17/',
+        link: '/fansbuy%20shipping%20guide%202026-07-17/',
       },
       {
         title: 'Fansbuy Sizing Guide',
         excerpt: 'Navigate sizing across brands with our comprehensive measurement charts and fit recommendations.',
-        link: '/fansbuy-sizing-guide-2026-07-17/',
+        link: '/fansbuy%20sizing%20guide%202026-07-17/',
       },
       {
         title: 'Fansbuy QC Photos',
         excerpt: 'Learn how to inspect quality check photos and identify potential issues before shipping.',
-        link: '/fansbuy-qc-photos-2026-07-17/',
+        link: '/fansbuy%20qc%20photos%202026-07-17/',
       },
       {
         title: 'Fansbuy Legit Check',
         excerpt: 'Step-by-step verification process to ensure product quality matches listing descriptions.',
-        link: '/fansbuy-legit-check-2026-07-17/',
+        link: '/fansbuy%20legit%20check%202026-07-17/',
       },
       {
         title: 'Is Fansbuy Legit?',
         excerpt: 'An honest look at platform reliability, trust indicators, and what real buyers say.',
-        link: '/is-fansbuy-legit-2026-07-17/',
+        link: '/is%20fansbuy%20legit%202026-07-17/',
       },
     ],
   },
@@ -92,37 +92,37 @@ const articleSeries = [
       {
         title: 'Fansbuy Sneakers',
         excerpt: 'Top-selling sneakers with real order data, quality pass rates, and brand comparisons.',
-        link: '/fansbuy-sneakers-2026-07-17/',
+        link: '/fansbuy%20sneakers%202026-07-17/',
       },
       {
         title: 'Fansbuy Hoodies',
         excerpt: 'Premium streetwear hoodies from Supreme, Essentials, Palm Angels and more.',
-        link: '/fansbuy-hoodies-2026-07-17/',
+        link: '/fansbuy%20hoodies%202026-07-17/',
       },
       {
         title: 'Fansbuy T-Shirts',
         excerpt: 'Complete guide to branded tees with fabric breakdowns and sizing tips.',
-        link: '/fansbuy-t-shirts-2026-07-17/',
+        link: '/fansbuy%20t-shirts%202026-07-17/',
       },
       {
         title: 'Fansbuy Bags',
         excerpt: 'From travel bags to backpacks, explore quality specs and pricing across all styles.',
-        link: '/fansbuy-bags-2026-07-17/',
+        link: '/fansbuy%20bags%202026-07-17/',
       },
       {
         title: 'Fansbuy Accessories',
         excerpt: 'Hats, jewelry, sunglasses, and more — the essentials to complete your look.',
-        link: '/fansbuy-accessories-2026-07-17/',
+        link: '/fansbuy%20accessories%202026-07-17/',
       },
       {
         title: 'Fansbuy Watches',
         excerpt: 'Luxury and everyday timepieces with detailed specs and quality comparisons.',
-        link: '/fansbuy-watches-2026-07-17/',
+        link: '/fansbuy%20watches%202026-07-17/',
       },
       {
         title: 'Fansbuy Jeans',
         excerpt: 'Denim guide covering fits, fabrics, and the best brands available on FansBuy.',
-        link: '/fansbuy-jeans-2026-07-17/',
+        link: '/fansbuy%20jeans%202026-07-17/',
       },
     ],
   },
@@ -132,7 +132,7 @@ const articleSeries = [
       {
         title: 'Fansbuy Nike',
         excerpt: 'Explore the full Nike collection — Air Max, AF1, Dunks, and more with real data.',
-        link: '/fansbuy-nike-2026-07-17/',
+        link: '/fansbuy%20nike%202026-07-17/',
       },
       {
         title: 'Fansbuy Jordan',

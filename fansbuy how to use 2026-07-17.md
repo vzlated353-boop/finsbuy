@@ -1,4 +1,4 @@
-﻿# Fansbuy How to Use 2026: Complete Step-by-Step Platform Guide
+# Fansbuy How to Use 2026: Complete Step-by-Step Platform Guide
 
 [Access Fansbuy Spreadsheet](https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=766708488#gid=766708488)
 
@@ -18,7 +18,7 @@ Drawing from our hands-on experience with 5,000+ orders and comprehensive testin
 
 Whether you are purchasing replica sneakers, streetwear clothing, electronics, or accessories from Taobao, Weidian, or 1688, Fansbuy serves as your intermediary, handling procurement, quality inspection, and international shipping. The platform supports multiple payment methods including PayPal, credit cards, and cryptocurrency, making it accessible to buyers from virtually any country. According to recent user surveys, Fansbuy maintains a 98.2% delivery success rate across all supported shipping lines.
 
-If you are new to the platform, knowing how to use Fansbuy effectively starts with understanding its core workflow: register an account, browse or search for products, submit orders, review quality check photos, and select your preferred shipping method. For buyers who need detailed information about delivery options before getting started, the [fansbuy shipping guide](fansbuy shipping guide 2026-07-17.md) provides a comprehensive breakdown of every available logistics channel. This article will walk you through each step of the process, ensuring you can place your first order with confidence and avoid the mistakes that commonly cost new buyers money.
+If you are new to the platform, knowing how to use Fansbuy effectively starts with understanding its core workflow: register an account, browse or search for products, submit orders, review quality check photos, and select your preferred shipping method. For buyers who need detailed information about delivery options before getting started, the [fansbuy shipping guide](shipping guide 2026-07-17.md) provides a comprehensive breakdown of every available logistics channel. This article will walk you through each step of the process, ensuring you can place your first order with confidence and avoid the mistakes that commonly cost new buyers money.
 
 ## Getting Started with Fansbuy
 
@@ -28,7 +28,7 @@ After logging in for the first time, take a few minutes to complete your profile
 
 The main dashboard presents several key sections that you will use regularly. The search bar at the top allows direct product or store searches by keyword, URL, or image. The category navigation menu provides browsing shortcuts for popular product types including shoes, clothing, bags, electronics, and accessories. Your personal dashboard tracks active orders, warehouse inventory, transaction history, and support tickets. Familiarizing yourself with these sections now will make the ordering process significantly smoother when you are ready to make your first purchase.
 
-For those completely new to shopping agents, the [fansbuy for beginners](fansbuy for beginners 2026-07-17.md) resource covers foundational concepts including how agents work, pricing structures, and what to expect from the overall experience. Understanding these basics before diving into your first order will help you make informed decisions and set realistic expectations for delivery timelines and product quality.
+For those completely new to shopping agents, the [fansbuy for beginners](for beginners 2026-07-17.md) resource covers foundational concepts including how agents work, pricing structures, and what to expect from the overall experience. Understanding these basics before diving into your first order will help you make informed decisions and set realistic expectations for delivery timelines and product quality.
 
 One important step many new buyers overlook is adding funds to their account balance before placing orders. Fansbuy operates on a balance system where you must have sufficient funds to cover product costs, domestic shipping within China, and any applicable service fees. You can top up your balance through PayPal, bank transfer, or other supported payment methods. Having funds ready in your account ensures your order moves to the procurement stage immediately after submission, rather than waiting for payment confirmation.
 
@@ -36,7 +36,7 @@ One important step many new buyers overlook is adding funds to their account bal
 
 Finding products on Fansbuy can be accomplished through several methods, each suited to different shopping scenarios. The most direct approach is pasting a product URL from Taobao, Weidian, or 1688 into the platform's search bar. This pulls the complete product listing including all images, descriptions, sizes, colors, and pricing information directly from the source marketplace. If you do not have a specific product link, you can use the keyword search function to browse categories or search by brand name and product type.
 
-Once you have located a product, carefully review all available options before adding it to your cart. Pay close attention to size charts, as Chinese sizing often differs significantly from Western standards. The [fansbuy sizing guide](fansbuy sizing guide 2026-07-17.md) provides detailed conversion charts and measurement instructions to help you select the correct fit and avoid costly exchange or return situations. Many experienced buyers also recommend reading the product reviews section, where other customers share their experiences with specific sellers and items.
+Once you have located a product, carefully review all available options before adding it to your cart. Pay close attention to size charts, as Chinese sizing often differs significantly from Western standards. The [fansbuy sizing guide](sizing guide 2026-07-17.md) provides detailed conversion charts and measurement instructions to help you select the correct fit and avoid costly exchange or return situations. Many experienced buyers also recommend reading the product reviews section, where other customers share their experiences with specific sellers and items.
 
 After selecting your desired product options, add the item to your cart and proceed to checkout. During the checkout process, you will confirm the product details, specify any special instructions for the seller, and submit payment from your account balance. Fansbuy typically processes orders within 24 to 48 hours, after which the item is purchased from the original seller and shipped to the Fansbuy warehouse for quality inspection. You will receive notifications at each stage, keeping you informed of your order's progress in real time.
 
@@ -92,6 +92,6 @@ Take the time to explore the related guides linked below for additional informat
 
 **Related Guides:**
 
-- [Fansbuy Shipping Guide](fansbuy shipping guide 2026-07-17.md)
-- [Fansbuy Sizing Guide](fansbuy sizing guide 2026-07-17.md)
-- [Fansbuy for Beginners](fansbuy for beginners 2026-07-17.md)
+- [Fansbuy Shipping Guide](shipping guide 2026-07-17.md)
+- [Fansbuy Sizing Guide](sizing guide 2026-07-17.md)
+- [Fansbuy for Beginners](for beginners 2026-07-17.md)

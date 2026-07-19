@@ -1,4 +1,4 @@
-ï»¿# Fansbuy Spreadsheet Nike 2026: Complete Nike Product List
+# Fansbuy Spreadsheet Nike 2026: Complete Nike Product List
 
 [Access Fansbuy Spreadsheet](https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=766708488#gid=766708488)
 
@@ -25,31 +25,31 @@ Beyond sneakers, the Nike apparel selection is equally compelling. Nike Hoodies 
 
 The sneaker section of the Nike tab is where most buyers start, and for good reason. Fansbuy has built a strong reputation for offering popular Nike silhouettes at prices that are significantly below retail, and the spreadsheet makes it easy to see exactly what is available. Below is a detailed look at each Nike sneaker currently listed.
 
-**Nike AF1 Low '07 (~$12.86)** â€” The Air Force 1 Low remains one of the most recognizable sneakers on the planet. At approximately $12.86 in the Fansbuy spreadsheet, it represents extraordinary value. The AF1 Low '07 features the classic leather upper, Air-Sole unit, and non-marking rubber outsole that have defined the shoe since its debut. This model consistently ranks as one of the highest-volume items on the platform, and its spreadsheet presence confirms steady availability. For a deeper look at Nike sneakers on this platform, check out our [fansbuy nike](fansbuy nike 2026-07-17.md) guide.
+**Nike AF1 Low '07 (~$12.86)** ¡ª The Air Force 1 Low remains one of the most recognizable sneakers on the planet. At approximately $12.86 in the Fansbuy spreadsheet, it represents extraordinary value. The AF1 Low '07 features the classic leather upper, Air-Sole unit, and non-marking rubber outsole that have defined the shoe since its debut. This model consistently ranks as one of the highest-volume items on the platform, and its spreadsheet presence confirms steady availability. For a deeper look at Nike sneakers on this platform, check out our [fansbuy nike](nike 2026-07-17.md) guide.
 
-**Nike Air Max 95 (~$46.15)** â€” The Air Max 95 is known for its visible Air cushioning and layered design inspired by the human body. Priced at around $46.15, this model appeals to buyers who want a statement sneaker with genuine comfort technology. The spreadsheet lists multiple colorway options, and the pricing reflects the standard batch version.
+**Nike Air Max 95 (~$46.15)** ¡ª The Air Max 95 is known for its visible Air cushioning and layered design inspired by the human body. Priced at around $46.15, this model appeals to buyers who want a statement sneaker with genuine comfort technology. The spreadsheet lists multiple colorway options, and the pricing reflects the standard batch version.
 
-**Nike Dunk (~$57.69)** â€” The Nike Dunk has experienced a massive resurgence in recent years, transitioning from a skateboarding staple to a fashion essential. At approximately $57.69, the Dunk in the spreadsheet offers buyers access to this cultural phenomenon without the resale markup. Colorways vary, and the spreadsheet is updated to reflect current stock.
+**Nike Dunk (~$57.69)** ¡ª The Nike Dunk has experienced a massive resurgence in recent years, transitioning from a skateboarding staple to a fashion essential. At approximately $57.69, the Dunk in the spreadsheet offers buyers access to this cultural phenomenon without the resale markup. Colorways vary, and the spreadsheet is updated to reflect current stock.
 
-**Nike Max Plus TN (~$36.26)** â€” The Max Plus TN, also known as the Shox TN in some markets, features a distinctive wavy TPU cage and Tuned Air cushioning. Priced at roughly $36.26, it is a popular choice for buyers who want a bold, aggressive design. The spreadsheet notes availability across several color combinations.
+**Nike Max Plus TN (~$36.26)** ¡ª The Max Plus TN, also known as the Shox TN in some markets, features a distinctive wavy TPU cage and Tuned Air cushioning. Priced at roughly $36.26, it is a popular choice for buyers who want a bold, aggressive design. The spreadsheet notes availability across several color combinations.
 
-**Nike Shox TL (~$36.95)** â€” The Shox TL continues the Shox lineage with its signature four-column heel cushioning system. At around $36.95, this shoe delivers a unique ride and a retro-futuristic aesthetic. The spreadsheet lists it alongside other performance-inspired models.
+**Nike Shox TL (~$36.95)** ¡ª The Shox TL continues the Shox lineage with its signature four-column heel cushioning system. At around $36.95, this shoe delivers a unique ride and a retro-futuristic aesthetic. The spreadsheet lists it alongside other performance-inspired models.
 
-**Nike Football Boots (~$48.46)** â€” For athletes and sports enthusiasts, the spreadsheet includes Nike Football Boots at approximately $48.46. These boots are designed for firm ground play and feature modern traction patterns. While availability may vary by size and colorway, the spreadsheet provides a reliable reference point for pricing.
+**Nike Football Boots (~$48.46)** ¡ª For athletes and sports enthusiasts, the spreadsheet includes Nike Football Boots at approximately $48.46. These boots are designed for firm ground play and feature modern traction patterns. While availability may vary by size and colorway, the spreadsheet provides a reliable reference point for pricing.
 
-Together, these six sneaker models demonstrate the breadth of Nike's footwear presence in the **fansbuy spreadsheet nike** section. From lifestyle classics to performance gear, the spreadsheet ensures buyers can compare options and make informed decisions before committing to a purchase. If you want to explore the broader sneaker catalog beyond Nike, our [fansbuy sneakers](fansbuy sneakers 2026-07-17.md) resource covers additional brands and models in detail.
+Together, these six sneaker models demonstrate the breadth of Nike's footwear presence in the **fansbuy spreadsheet nike** section. From lifestyle classics to performance gear, the spreadsheet ensures buyers can compare options and make informed decisions before committing to a purchase. If you want to explore the broader sneaker catalog beyond Nike, our [fansbuy sneakers](sneakers 2026-07-17.md) resource covers additional brands and models in detail.
 
 ## Nike Apparel in the Spreadsheet
 
 While sneakers often steal the spotlight, the Nike apparel section of the spreadsheet is equally worth your attention. Fansbuy offers a curated selection of Nike clothing items that combine brand recognition with accessible pricing. Here is a breakdown of each apparel product currently listed.
 
-**Nike Hoodie (~$24.56)** â€” The Nike Hoodie is a versatile layering piece that works across seasons. Priced at approximately $24.56, it features the signature Nike swoosh branding, a kangaroo pocket, and a drawstring hood. The spreadsheet lists multiple color options, making it easy to find a style that matches your wardrobe. Hoodies are among the most popular apparel items on the platform, and this pricing makes them an easy addition to any order. For more information on hoodies available through Fansbuy, visit our [fansbuy hoodies](fansbuy hoodies 2026-07-17.md) guide.
+**Nike Hoodie (~$24.56)** ¡ª The Nike Hoodie is a versatile layering piece that works across seasons. Priced at approximately $24.56, it features the signature Nike swoosh branding, a kangaroo pocket, and a drawstring hood. The spreadsheet lists multiple color options, making it easy to find a style that matches your wardrobe. Hoodies are among the most popular apparel items on the platform, and this pricing makes them an easy addition to any order. For more information on hoodies available through Fansbuy, visit our [fansbuy hoodies](hoodies 2026-07-17.md) guide.
 
-**Nike Tracksuit (~$24.73 - $148.19)** â€” The Nike Tracksuit category shows the widest price range in the apparel section, spanning from approximately $24.73 for individual pieces to $148.19 for full set configurations. This range reflects the variety of styles available, from simple jogger pants and zip-up jackets to coordinated tracksuit sets. The spreadsheet breaks down pricing by item type, so buyers can see exactly what they are paying for. Tracksuits are a strong seller in international markets, and Fansbuy's pricing makes them accessible to a broader audience.
+**Nike Tracksuit (~$24.73 - $148.19)** ¡ª The Nike Tracksuit category shows the widest price range in the apparel section, spanning from approximately $24.73 for individual pieces to $148.19 for full set configurations. This range reflects the variety of styles available, from simple jogger pants and zip-up jackets to coordinated tracksuit sets. The spreadsheet breaks down pricing by item type, so buyers can see exactly what they are paying for. Tracksuits are a strong seller in international markets, and Fansbuy's pricing makes them accessible to a broader audience.
 
-**Nike Sweatshirt (~$15.00)** â€” At around $15.00, the Nike Sweatshirt is one of the most affordable branded apparel items in the entire spreadsheet. It offers the same quality branding and comfortable fit that Nike is known for, at a price point that encourages bulk purchases or first-time buyers testing the platform. The sweatshirt typically features a crewneck design with the swoosh logo on the chest.
+**Nike Sweatshirt (~$15.00)** ¡ª At around $15.00, the Nike Sweatshirt is one of the most affordable branded apparel items in the entire spreadsheet. It offers the same quality branding and comfortable fit that Nike is known for, at a price point that encourages bulk purchases or first-time buyers testing the platform. The sweatshirt typically features a crewneck design with the swoosh logo on the chest.
 
-**Nike Shorts Set (~$8.08)** â€” The Nike Shorts Set at approximately $8.08 is the lowest-priced Nike item in the spreadsheet. This set typically includes athletic shorts and a matching top, making it an exceptional value for buyers looking for coordinated sportswear. The low price point makes it an ideal add-on item or a gift option.
+**Nike Shorts Set (~$8.08)** ¡ª The Nike Shorts Set at approximately $8.08 is the lowest-priced Nike item in the spreadsheet. This set typically includes athletic shorts and a matching top, making it an exceptional value for buyers looking for coordinated sportswear. The low price point makes it an ideal add-on item or a gift option.
 
 The apparel section demonstrates that Nike's presence in the Fansbuy spreadsheet extends well beyond footwear. With items ranging from $8.08 to $148.19, there are options for every budget and need. Whether you are outfitting yourself for the gym, updating your casual wardrobe, or purchasing gifts, the Nike apparel listings provide clear pricing and reliable availability data. The spreadsheet's organized layout means you can quickly filter by category and compare apparel prices against sneakers to plan a comprehensive order.
 
@@ -65,7 +65,7 @@ Finding what you need in a large spreadsheet can be challenging if you do not kn
 
 **Compare across categories.** One of the spreadsheet's strengths is that it places all Nike products in one view. You can easily compare the cost of a Nike AF1 Low '07 against a Nike Hoodie or evaluate whether adding a Nike Sweatshirt to your order makes financial sense. This cross-category visibility helps you maximize value.
 
-**Bookmark the spreadsheet for updates.** Prices and availability change over time, so it is wise to revisit the spreadsheet periodically. The Fansbuy team updates the data regularly, and bookmarking ensures you always have access to the latest information. For additional guidance on navigating Fansbuy's catalog, the [fansbuy nike](fansbuy nike 2026-07-17.md) page offers complementary insights.
+**Bookmark the spreadsheet for updates.** Prices and availability change over time, so it is wise to revisit the spreadsheet periodically. The Fansbuy team updates the data regularly, and bookmarking ensures you always have access to the latest information. For additional guidance on navigating Fansbuy's catalog, the [fansbuy nike](nike 2026-07-17.md) page offers complementary insights.
 
 Following these steps will save you time and help you make confident purchasing decisions based on accurate, current data.
 
@@ -113,6 +113,6 @@ We encourage you to [access the Fansbuy spreadsheet](https://docs.google.com/spr
 ---
 
 **Related Guides:**
-- [Fansbuy Nike](fansbuy nike 2026-07-17.md)
-- [Fansbuy Sneakers](fansbuy sneakers 2026-07-17.md)
-- [Fansbuy Hoodies](fansbuy hoodies 2026-07-17.md)
+- [Fansbuy Nike](nike 2026-07-17.md)
+- [Fansbuy Sneakers](sneakers 2026-07-17.md)
+- [Fansbuy Hoodies](hoodies 2026-07-17.md)

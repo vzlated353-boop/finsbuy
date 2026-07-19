@@ -103,29 +103,29 @@
 ### Correct Format
 
 ```markdown
-For more details on specific brands, check out our [fansbuy nike](fansbuy%20nike%202026-07-17.md) guide or explore the [fansbuy jordan](fansbuy%20jordan%202026-07-17.md) collection.
+For more details on specific brands, check out our [fansbuy nike param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)"  guide or explore the [fansbuy jordan param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)"  collection.
 
 ---
 
 **Related Guides:**
-- [Fansbuy Nike](fansbuy%20nike%202026-07-17.md)
-- [Fansbuy Jordan](fansbuy%20jordan%202026-07-17.md)
-- [Fansbuy Sizing Guide](fansbuy%20sizing%20guide%202026-07-17.md)
+- [Fansbuy Nike param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)" 
+- [Fansbuy Jordan param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)" 
+- [Fansbuy Sizing Guide param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)" 
 ```
 
 ### Incorrect Format
 
-❌ Generic anchor text:
+�?Generic anchor text:
 ```markdown
-[Click here](fansbuy%20nike%202026-07-17.md) to learn more.
+[Click here param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)"  to learn more.
 ```
 
-❌ Missing keyword in anchor:
+�?Missing keyword in anchor:
 ```markdown
-[Read this guide](fansbuy%20nike%202026-07-17.md) for more info.
+[Read this guide param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)"  for more info.
 ```
 
-❌ Wrong file path format:
+�?Wrong file path format:
 ```markdown
 [Fansbuy Nike](/fansbuy/fansbuy-nike-2026-07-17.md)
 ```
@@ -156,27 +156,27 @@ For more details on specific brands, check out our [fansbuy nike](fansbuy%20nike
 ### Introduction Section
 - **Link count**: 0-1 link
 - **Purpose**: Set context, link to main category or brand page if relevant
-- **Example**: "Fansbuy offers over 22,000 verified products, including an extensive [fansbuy sneakers](fansbuy%20sneakers%202026-07-17.md) collection..."
+- **Example**: "Fansbuy offers over 22,000 verified products, including an extensive [fansbuy sneakers param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)"  collection..."
 
 ### Main Section 1 (Core Topic)
 - **Link count**: 1-2 links
 - **Purpose**: Link to related category, brand, or feature pages
-- **Example**: "When shopping for [fansbuy nike](fansbuy%20nike%202026-07-17.md) products, you'll find..."
+- **Example**: "When shopping for [fansbuy nike param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)"  products, you'll find..."
 
 ### Main Section 2 (Benefits/Features)
 - **Link count**: 1-2 links
 - **Purpose**: Link to complementary guides or related products
-- **Example**: "For proper fit, check our [fansbuy sizing guide](fansbuy%20sizing%20guide%202026-07-17.md) before ordering..."
+- **Example**: "For proper fit, check our [fansbuy sizing guide param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)"  before ordering..."
 
 ### Main Section 3 (How to Use)
 - **Link count**: 0-1 link
 - **Purpose**: Link to process-related guides (shipping, how to use)
-- **Example**: "After ordering, refer to our [fansbuy shipping guide](fansbuy%20shipping%20guide%202026-07-17.md) for delivery timelines..."
+- **Example**: "After ordering, refer to our [fansbuy shipping guide param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)"  for delivery timelines..."
 
 ### Product Highlights Section
 - **Link count**: 0-1 link
 - **Purpose**: Optional link to brand or category page
-- **Example**: "Explore more [fansbuy hoodies](fansbuy%20hoodies%202026-07-17.md) in our collection..."
+- **Example**: "Explore more [fansbuy hoodies param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)"  in our collection..."
 
 ### FAQ Section
 - **Link count**: 0 links
@@ -199,36 +199,36 @@ For more details on specific brands, check out our [fansbuy nike](fansbuy%20nike
 ### Scenario 1: Category Page Linking to Brand Pages
 When writing a category page (e.g., fansbuy sneakers), link to relevant brand pages:
 ```markdown
-Our [fansbuy nike](fansbuy%20nike%202026-07-17.md) collection features Air Max 95, Air Force 1, and more. 
-For basketball-inspired styles, explore [fansbuy jordan](fansbuy%20jordan%202026-07-17.md).
+Our [fansbuy nike param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)"  collection features Air Max 95, Air Force 1, and more. 
+For basketball-inspired styles, explore [fansbuy jordan param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)" .
 ```
 
 ### Scenario 2: Brand Page Linking to Category Pages
 When writing a brand page (e.g., fansbuy nike), link to relevant category pages:
 ```markdown
-Nike [fansbuy sneakers](fansbuy%20sneakers%202026-07-17.md) are our top sellers. 
-You'll also find Nike [fansbuy t-shirts](fansbuy%20t-shirts%202026-07-17.md) and [fansbuy bags](fansbuy%20bags%202026-07-17.md).
+Nike [fansbuy sneakers param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)"  are our top sellers. 
+You'll also find Nike [fansbuy t-shirts param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)"  and [fansbuy bags param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)" .
 ```
 
 ### Scenario 3: Feature Page Linking to Category/Brand Pages
 When writing a feature page (e.g., fansbuy sizing guide), link to relevant product pages:
 ```markdown
-Sizing varies by brand. For [fansbuy sneakers](fansbuy%20sneakers%202026-07-17.md), we recommend going half a size up. 
-Our [fansbuy hoodies](fansbuy%20hoodies%202026-07-17.md) typically run true to size.
+Sizing varies by brand. For [fansbuy sneakers param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)" , we recommend going half a size up. 
+Our [fansbuy hoodies param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)"  typically run true to size.
 ```
 
 ### Scenario 4: Comparison Page Linking
 When writing comparison pages, link to spreadsheet and review pages:
 ```markdown
-See why buyers prefer Fansbuy in our [fansbuy spreadsheet best](fansbuy%20spreadsheet%20best%202026-07-11.md) guide. 
-Read real user feedback in [fansbuy reviews](fansbuy%20reviews%202026-07-17.md).
+See why buyers prefer Fansbuy in our [fansbuy spreadsheet best param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)"  guide. 
+Read real user feedback in [fansbuy reviews param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)" .
 ```
 
 ### Scenario 5: Long-tail Page Linking
 When writing long-tail pages, link to main category and spreadsheet pages:
 ```markdown
-Find Nike products in the [fansbuy spreadsheet nike](fansbuy%20spreadsheet%20nike%202026-07-17.md) section. 
-Browse all [fansbuy sneakers](fansbuy%20sneakers%202026-07-17.md) or check the [fansbuy spreadsheet best](fansbuy%20spreadsheet%20best%202026-07-11.md).
+Find Nike products in the [fansbuy spreadsheet nike param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)"  section. 
+Browse all [fansbuy sneakers param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)"  or check the [fansbuy spreadsheet best param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)" .
 ```
 
 ---
@@ -252,52 +252,22 @@ Before finalizing each article, verify:
 
 ## Common Mistakes to Avoid
 
-❌ **Over-linking**: Don't add more than 8 internal links
-❌ **Under-linking**: Don't add fewer than 5 internal links
-❌ **Duplicate links**: Don't link to same page in-text and in Related Guides
-❌ **Generic anchors**: Don't use "click here" or "read more"
-❌ **Wrong file paths**: Don't use absolute paths or wrong filename format
-❌ **Irrelevant links**: Don't link to unrelated pages just to meet count
-❌ **Missing Related Guides**: Always include exactly 3 links in Related Guides
-❌ **Keyword-stuffed anchors**: Keep anchor text natural, not forced
+�?**Over-linking**: Don't add more than 8 internal links
+�?**Under-linking**: Don't add fewer than 5 internal links
+�?**Duplicate links**: Don't link to same page in-text and in Related Guides
+�?**Generic anchors**: Don't use "click here" or "read more"
+�?**Wrong file paths**: Don't use absolute paths or wrong filename format
+�?**Irrelevant links**: Don't link to unrelated pages just to meet count
+�?**Missing Related Guides**: Always include exactly 3 links in Related Guides
+�?**Keyword-stuffed anchors**: Keep anchor text natural, not forced
 
 ---
 
 ## Linking Matrix Visualization
 
 ```
-                    ┌─────────────────┐
-                    │   fansbuy 主页   │
-                    └────────┬────────┘
-                             │
-            ┌────────────────┼────────────────┐
-            │                │                │
-    ┌───────▼───────┐ ┌─────▼──────┐ ┌───────▼───────┐
-    │  品类页面 (7)  │ │ 品牌页面(7) │ │ 功能页面 (7)  │
-    │  sneakers     │◄├►│  nike      │ │  qc photos    │
-    │  hoodies      │◄├►│  jordan    │ │  shipping     │
-    │  watches      │◄├►│  adidas    │ │  sizing       │
-    │  bags         │◄├►│  chrome    │ │  reviews      │
-    │  jeans        │◄├►│  essentials│ │  legit check  │
-    │  t-shirts     │◄├►│  palm      │ │  coupon       │
-    │  accessories  │◄├►│  stussy    │ │  how to use   │
-    └───────┬───────┘ └─────┬──────┘ └───────┬───────┘
-            │                │                │
-            └────────────────┼────────────────┘
-                             │
-                    ┌────────▼────────┐
-                    │  fansbuy 电子表格 │
-                    │  (外部链接终点)   │
-                    └─────────────────┘
-
-    ┌───────────────┐     ┌───────────────┐
-    │ 对比页面 (4)   │────▶│  场景页面 (4)  │
-    │ vs kakobuy    │     │  beginners    │
-    │ vs oopbuy     │     │  resellers    │
-    │ vs litbuy     │     │  budget       │
-    │ vs usfans     │     │  luxury       │
-    └───────────────┘     └───────────────┘
-```
+                    ┌─────────────────�?                    �?  fansbuy 主页   �?                    └────────┬────────�?                             �?            ┌────────────────┼────────────────�?            �?               �?               �?    ┌───────▼───────�?┌─────▼──────�?┌───────▼───────�?    �? 品类页面 (7)  �?�?品牌页面(7) �?�?功能页面 (7)  �?    �? sneakers     │◄├►�? nike      �?�? qc photos    �?    �? hoodies      │◄├►�? jordan    �?�? shipping     �?    �? watches      │◄├►�? adidas    �?�? sizing       �?    �? bags         │◄├►�? chrome    �?�? reviews      �?    �? jeans        │◄├►�? essentials�?�? legit check  �?    �? t-shirts     │◄├►�? palm      �?�? coupon       �?    �? accessories  │◄├►�? stussy    �?�? how to use   �?    └───────┬───────�?└─────┬──────�?└───────┬───────�?            �?               �?               �?            └────────────────┼────────────────�?                             �?                    ┌────────▼────────�?                    �? fansbuy 电子表格 �?                    �? (外部链接终点)   �?                    └─────────────────�?
+    ┌───────────────�?    ┌───────────────�?    �?对比页面 (4)   │────▶│  场景页面 (4)  �?    �?vs kakobuy    �?    �? beginners    �?    �?vs oopbuy     �?    �? resellers    �?    �?vs litbuy     �?    �? budget       �?    �?vs usfans     �?    �? luxury       �?    └───────────────�?    └───────────────�?```
 
 **Legend**:
 - `◄├►` = Bidirectional linking (pages link to each other)
