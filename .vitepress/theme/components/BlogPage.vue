@@ -137,32 +137,32 @@ const articleSeries = [
       {
         title: 'Fansbuy Jordan',
         excerpt: 'Jordan 1 through 14, hoodies, and shorts — everything Jordan on FansBuy.',
-        link: '/fansbuy-jordan-2026-07-17/',
+        link: '/fansbuy%20jordan%202026-07-17/',
       },
       {
         title: 'Fansbuy Stussy',
         excerpt: 'OG streetwear essentials from the brand that started it all.',
-        link: '/fansbuy-stussy-2026-07-17/',
+        link: '/fansbuy%20stussy%202026-07-17/',
       },
       {
         title: 'Fansbuy Essentials',
         excerpt: 'Fear of God Essentials hoodies, tees, and shorts with fit and quality details.',
-        link: '/fansbuy-essentials-2026-07-17/',
+        link: '/fansbuy%20essentials%202026-07-17/',
       },
       {
         title: 'Fansbuy Palm Angels',
         excerpt: 'Luxury streetwear from Palm Angels — hoodies, tees, shorts, and seasonal drops.',
-        link: '/fansbuy-palm-angels-2026-07-17/',
+        link: '/fansbuy%20palm%20angels%202026-07-17/',
       },
       {
         title: 'Fansbuy Chrome Hearts',
         excerpt: 'Premium Chrome Hearts pieces including jeans, hoodies, and accessories.',
-        link: '/fansbuy-chrome-hearts-2026-07-17/',
+        link: '/fansbuy%20chrome%20hearts%202026-07-17/',
       },
       {
         title: 'Fansbuy Adidas',
         excerpt: 'Adidas sneakers, tees, and tracksuits with quality and pricing insights.',
-        link: '/fansbuy-adidas-2026-07-17/',
+        link: '/fansbuy%20adidas%202026-07-17/',
       },
     ],
   },
@@ -172,22 +172,22 @@ const articleSeries = [
       {
         title: 'Fansbuy vs Kakobuy',
         excerpt: 'Head-to-head comparison of features, pricing, and shipping across both platforms.',
-        link: '/fansbuy-vs-kakobuy-2026-07-17/',
+        link: '/fansbuy%20vs%20kakobuy%202026-07-17/',
       },
       {
         title: 'Fansbuy vs Oopbuy',
         excerpt: 'Which platform offers better value? We compare key metrics side by side.',
-        link: '/fansbuy-vs-oopbuy-2026-07-17/',
+        link: '/fansbuy%20vs%20oopbuy%202026-07-17/',
       },
       {
         title: 'Fansbuy vs Litbuy',
         excerpt: 'Service fees, shipping speeds, and product range compared in detail.',
-        link: '/fansbuy-vs-litbuy-2026-07-17/',
+        link: '/fansbuy%20vs%20litbuy%202026-07-17/',
       },
       {
         title: 'Fansbuy vs Usfans',
         excerpt: 'A comprehensive look at how FansBuy stacks up against Usfans.',
-        link: '/fansbuy-vs-usfans-2026-07-17/',
+        link: '/fansbuy%20vs%20usfans%202026-07-17/',
       },
     ],
   },
@@ -197,32 +197,32 @@ const articleSeries = [
       {
         title: 'Fansbuy Coupon',
         excerpt: 'Save money with the latest coupon codes and discount strategies.',
-        link: '/fansbuy-coupon-2026-07-17/',
+        link: '/fansbuy%20coupon%202026-07-17/',
       },
       {
         title: 'Fansbuy Budget Picks',
         excerpt: 'The best products under $25 that deliver quality without breaking the bank.',
-        link: '/fansbuy-budget-picks-2026-07-17/',
+        link: '/fansbuy%20budget%20picks%202026-07-17/',
       },
       {
         title: 'Fansbuy Best Sellers',
         excerpt: 'Top-performing products ranked by order volume and buyer satisfaction.',
-        link: '/fansbuy-best-sellers-2026-07-17/',
+        link: '/fansbuy%20best%20sellers%202026-07-17/',
       },
       {
         title: 'Fansbuy Luxury Finds',
         excerpt: 'Premium products worth the investment — curated from verified listings.',
-        link: '/fansbuy-luxury-finds-2026-07-17/',
+        link: '/fansbuy%20luxury%20finds%202026-07-17/',
       },
       {
         title: 'Fansbuy for Resellers',
         excerpt: 'Sourcing strategies, margin tips, and bulk ordering advice for resellers.',
-        link: '/fansbuy-for-resellers-2026-07-17/',
+        link: '/fansbuy%20for%20resellers%202026-07-17/',
       },
       {
         title: 'Fansbuy for Beginners',
         excerpt: 'New to FansBuy? Start here with everything you need for your first order.',
-        link: '/fansbuy-for-beginners-2026-07-17/',
+        link: '/fansbuy%20for%20beginners%202026-07-17/',
       },
     ],
   },
@@ -232,22 +232,22 @@ const articleSeries = [
       {
         title: 'Fansbuy Reddit',
         excerpt: 'What the Reddit community says about FansBuy — real experiences and tips.',
-        link: '/fansbuy-reddit-2026-07-17/',
+        link: '/fansbuy%20reddit%202026-07-17/',
       },
       {
         title: 'Fansbuy Telegram',
         excerpt: 'Join the FansBuy Telegram community for real-time updates and deals.',
-        link: '/fansbuy-telegram-2026-07-17/',
+        link: '/fansbuy%20telegram%202026-07-17/',
       },
       {
         title: 'Fansbuy Reviews',
         excerpt: 'Aggregated buyer feedback with satisfaction ratings across all categories.',
-        link: '/fansbuy-reviews-2026-07-17/',
+        link: '/fansbuy%20reviews%202026-07-17/',
       },
       {
         title: 'Fansbuy Alternative',
         excerpt: 'Looking for alternatives? Compare FansBuy with other shopping agents.',
-        link: '/fansbuy-alternative-2026-07-17/',
+        link: '/fansbuy%20alternative%202026-07-17/',
       },
     ],
   },
@@ -257,36 +257,36 @@ const recommendedSeries = [
   {
     name: 'Getting Started',
     articles: [
-      { title: 'How to Use', link: '/fansbuy-how-to-use-2026-07-17/' },
-      { title: 'For Beginners', link: '/fansbuy-for-beginners-2026-07-17/' },
+      { title: 'How to Use', link: '/fansbuy%20how%20to%20use%202026-07-17/' },
+      { title: 'For Beginners', link: '/fansbuy%20for%20beginners%202026-07-17/' },
     ],
   },
   {
     name: 'Top Categories',
     articles: [
-      { title: 'Sneakers', link: '/fansbuy-sneakers-2026-07-17/' },
-      { title: 'Hoodies', link: '/fansbuy-hoodies-2026-07-17/' },
+      { title: 'Sneakers', link: '/fansbuy%20sneakers%202026-07-17/' },
+      { title: 'Hoodies', link: '/fansbuy%20hoodies%202026-07-17/' },
     ],
   },
   {
     name: 'Popular Brands',
     articles: [
-      { title: 'Nike', link: '/fansbuy-nike-2026-07-17/' },
-      { title: 'Jordan', link: '/fansbuy-jordan-2026-07-17/' },
+      { title: 'Nike', link: '/fansbuy%20nike%202026-07-17/' },
+      { title: 'Jordan', link: '/fansbuy%20jordan%202026-07-17/' },
     ],
   },
   {
     name: 'Save Money',
     articles: [
-      { title: 'Budget Picks', link: '/fansbuy-budget-picks-2026-07-17/' },
-      { title: 'Coupons', link: '/fansbuy-coupon-2026-07-17/' },
+      { title: 'Budget Picks', link: '/fansbuy%20budget%20picks%202026-07-17/' },
+      { title: 'Coupons', link: '/fansbuy%20coupon%202026-07-17/' },
     ],
   },
   {
     name: 'Trust & Safety',
     articles: [
-      { title: 'Is Fansbuy Legit?', link: '/is-fansbuy-legit-2026-07-17/' },
-      { title: 'QC Photos', link: '/fansbuy-qc-photos-2026-07-17/' },
+      { title: 'Is Fansbuy Legit?', link: '/is%20fansbuy%20legit%202026-07-17/' },
+      { title: 'QC Photos', link: '/fansbuy%20qc%20photos%202026-07-17/' },
     ],
   },
 ]
