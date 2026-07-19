@@ -115,19 +115,19 @@ For more details on specific brands, check out our [fansbuy nike param($m); $pat
 
 ### Incorrect Format
 
-�?Generic anchor text:
+�?Generic anchor text:
 ```markdown
 [Click here param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)"  to learn more.
 ```
 
-�?Missing keyword in anchor:
+�?Missing keyword in anchor:
 ```markdown
 [Read this guide param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)"  for more info.
 ```
 
-�?Wrong file path format:
+�?Wrong file path format:
 ```markdown
-[Fansbuy Nike](/fansbuy/fansbuy-nike-2026-07-17.md)
+[Fansbuy Nike](/fansbuy/fansbuy-nike.md)
 ```
 
 ---
@@ -136,18 +136,18 @@ For more details on specific brands, check out our [fansbuy nike param($m); $pat
 
 ### Correct Path Format
 - Use URL-encoded spaces: `%20`
-- Include full filename with date: `fansbuy%20nike%202026-07-17.md`
+- Include full filename with date: `fansbuy%20nike.md`
 - No leading slash (relative path)
 
 ### File Path Examples
 
 | Target Page | Correct Path |
 |-------------|--------------|
-| fansbuy nike | `fansbuy%20nike%202026-07-17.md` |
-| fansbuy jordan | `fansbuy%20jordan%202026-07-17.md` |
-| fansbuy sizing guide | `fansbuy%20sizing%20guide%202026-07-17.md` |
-| fansbuy spreadsheet best | `fansbuy%20spreadsheet%20best%202026-07-11.md` |
-| fansbuy qc photos | `fansbuy%20qc%20photos%202026-07-17.md` |
+| fansbuy nike | `fansbuy%20nike.md` |
+| fansbuy jordan | `fansbuy%20jordan.md` |
+| fansbuy sizing guide | `fansbuy%20sizing%20guide.md` |
+| fansbuy spreadsheet best | `fansbuy%20spreadsheet%20best.md` |
+| fansbuy qc photos | `fansbuy%20qc%20photos.md` |
 
 ---
 
@@ -252,22 +252,22 @@ Before finalizing each article, verify:
 
 ## Common Mistakes to Avoid
 
-�?**Over-linking**: Don't add more than 8 internal links
-�?**Under-linking**: Don't add fewer than 5 internal links
-�?**Duplicate links**: Don't link to same page in-text and in Related Guides
-�?**Generic anchors**: Don't use "click here" or "read more"
-�?**Wrong file paths**: Don't use absolute paths or wrong filename format
-�?**Irrelevant links**: Don't link to unrelated pages just to meet count
-�?**Missing Related Guides**: Always include exactly 3 links in Related Guides
-�?**Keyword-stuffed anchors**: Keep anchor text natural, not forced
+�?**Over-linking**: Don't add more than 8 internal links
+�?**Under-linking**: Don't add fewer than 5 internal links
+�?**Duplicate links**: Don't link to same page in-text and in Related Guides
+�?**Generic anchors**: Don't use "click here" or "read more"
+�?**Wrong file paths**: Don't use absolute paths or wrong filename format
+�?**Irrelevant links**: Don't link to unrelated pages just to meet count
+�?**Missing Related Guides**: Always include exactly 3 links in Related Guides
+�?**Keyword-stuffed anchors**: Keep anchor text natural, not forced
 
 ---
 
 ## Linking Matrix Visualization
 
 ```
-                    ┌─────────────────�?                    �?  fansbuy 主页   �?                    └────────┬────────�?                             �?            ┌────────────────┼────────────────�?            �?               �?               �?    ┌───────▼───────�?┌─────▼──────�?┌───────▼───────�?    �? 品类页面 (7)  �?�?品牌页面(7) �?�?功能页面 (7)  �?    �? sneakers     │◄├►�? nike      �?�? qc photos    �?    �? hoodies      │◄├►�? jordan    �?�? shipping     �?    �? watches      │◄├►�? adidas    �?�? sizing       �?    �? bags         │◄├►�? chrome    �?�? reviews      �?    �? jeans        │◄├►�? essentials�?�? legit check  �?    �? t-shirts     │◄├►�? palm      �?�? coupon       �?    �? accessories  │◄├►�? stussy    �?�? how to use   �?    └───────┬───────�?└─────┬──────�?└───────┬───────�?            �?               �?               �?            └────────────────┼────────────────�?                             �?                    ┌────────▼────────�?                    �? fansbuy 电子表格 �?                    �? (外部链接终点)   �?                    └─────────────────�?
-    ┌───────────────�?    ┌───────────────�?    �?对比页面 (4)   │────▶│  场景页面 (4)  �?    �?vs kakobuy    �?    �? beginners    �?    �?vs oopbuy     �?    �? resellers    �?    �?vs litbuy     �?    �? budget       �?    �?vs usfans     �?    �? luxury       �?    └───────────────�?    └───────────────�?```
+                    ┌─────────────────�?                    �?  fansbuy 主页   �?                    └────────┬────────�?                             �?            ┌────────────────┼────────────────�?            �?               �?               �?    ┌───────▼───────�?┌─────▼──────�?┌───────▼───────�?    �? 品类页面 (7)  �?�?品牌页面(7) �?�?功能页面 (7)  �?    �? sneakers     │◄├►�? nike      �?�? qc photos    �?    �? hoodies      │◄├►�? jordan    �?�? shipping     �?    �? watches      │◄├►�? adidas    �?�? sizing       �?    �? bags         │◄├►�? chrome    �?�? reviews      �?    �? jeans        │◄├►�? essentials�?�? legit check  �?    �? t-shirts     │◄├►�? palm      �?�? coupon       �?    �? accessories  │◄├►�? stussy    �?�? how to use   �?    └───────┬───────�?└─────┬──────�?└───────┬───────�?            �?               �?               �?            └────────────────┼────────────────�?                             �?                    ┌────────▼────────�?                    �? fansbuy 电子表格 �?                    �? (外部链接终点)   �?                    └─────────────────�?
+    ┌───────────────�?    ┌───────────────�?    �?对比页面 (4)   │────▶│  场景页面 (4)  �?    �?vs kakobuy    �?    �? beginners    �?    �?vs oopbuy     �?    �? resellers    �?    �?vs litbuy     �?    �? budget       �?    �?vs usfans     �?    �? luxury       �?    └───────────────�?    └───────────────�?```
 
 **Legend**:
 - `◄├►` = Bidirectional linking (pages link to each other)

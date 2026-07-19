@@ -76,7 +76,7 @@ export default defineConfig({
     'fansbuy-article-prompt.md',
     'fansbuy-internal-link-rules.md',
     'fansbuy-product-reference.md',
-    'fansbuy-review-report-2026-07-18.md',
+    'fansbuy-review-report.md',
     'fansbuy-topic-list.md',
     'flexible-article-generator.md',
     'topic-matrix.md',
