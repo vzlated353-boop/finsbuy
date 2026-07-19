@@ -22,6 +22,7 @@ export const siteConfig = {
     { text: 'Clothes', link: '/clothes' },
     { text: 'Hats', link: '/hats' },
     { text: 'About', link: '/about' },
+    { text: 'Blog', link: '/blog' },
   ],
 
   // ---- Main Categories ----
