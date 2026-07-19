@@ -43,7 +43,7 @@
             <div class="cat-icon">{{ cat.icon }}</div>
             <h3>{{ cat.name }}</h3>
             <p>{{ cat.description }}</p>
-            <div class="cat-subcount">{{ cat.subcategories.length }} subcategories</div>
+            <div class="cat-subcount" v-if="cat.subcategories">{{ cat.subcategories.length }} subcategories</div>
           </a>
         </div>
       </div>
