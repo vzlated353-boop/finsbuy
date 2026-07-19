@@ -945,3 +945,36 @@
  padding: 1.5rem;
  }
 }
+
+/* ===== Article Spreadsheet CTA Button ===== */
+/* Center the paragraph containing the button */
+.vp-doc h1 + p:has(a[href*="docs.google.com/spreadsheets"]),
+.vp-doc h1 + p:has(a[href*="spreadsheet"]) {
+  text-align: center !important;
+  margin: 24px 0 32px !important;
+}
+
+/* Targets ONLY the first paragraph link after h1 (Access Fansbuy Spreadsheet) */
+.vp-doc h1 + p a[href*="docs.google.com/spreadsheets"],
+.vp-doc h1 + p a[href*="spreadsheet"] {
+  display: inline-block !important;
+  padding: 14px 32px !important;
+  background: #8B0000 !important;
+  color: #ffffff !important;
+  border-radius: 10px !important;
+  font-size: 16px !important;
+  font-weight: 700 !important;
+  text-decoration: none !important;
+  text-align: center !important;
+  transition: all 0.3s ease !important;
+  box-shadow: 0 4px 15px rgba(139, 0, 0, 0.3) !important;
+  letter-spacing: 0.3px !important;
+  line-height: 1.5 !important;
+}
+
+.vp-doc h1 + p a[href*="docs.google.com/spreadsheets"]:hover,
+.vp-doc h1 + p a[href*="spreadsheet"]:hover {
+  background: #a00000 !important;
+  transform: translateY(-2px) !important;
+  box-shadow: 0 6px 20px rgba(139, 0, 0, 0.4) !important;
+}
