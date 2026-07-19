@@ -350,6 +350,13 @@ Red flags that indicate poor manufacturing:
 - **Thin fabric** - Cheap materials that lose shape after minimal wear
 - **Strong chemical odor** - May indicate inferior dyes or adhesives
 
+## Explore More Categories
+
+Looking to complete your outfit? Check out our other category guides for more curated picks and detailed buying advice:
+
+- [Shoes Guide](/shoes) — Sneakers, boots, casual footwear and more. Find the perfect pair to match your style.
+- [Clothes Guide](/clothes) — Streetwear, hoodies, jackets, pants and more. Build your wardrobe from the ground up.
+
 <style scoped>
 .hat-table-wrapper,
 .material-table-wrapper,

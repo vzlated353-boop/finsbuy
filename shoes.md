@@ -230,6 +230,13 @@ Proper care extends the life of your shoes significantly:
 4. **Use shoe trees** - Maintains shape and absorbs moisture
 5. **Store properly** - Keep in a cool, dry place away from direct sunlight
 
+## Explore More Categories
+
+Looking to complete your outfit? Check out our other category guides for more curated picks and detailed buying advice:
+
+- [Clothes Guide](/clothes) — Streetwear, hoodies, jackets, pants and more. Find the perfect tops and bottoms to pair with your shoes.
+- [Hats Guide](/hats) — Snapbacks, beanies, bucket hats and fitted caps. The finishing touch to any look.
+
 <style scoped>
 .brand-table-wrapper,
 .material-table-wrapper {
