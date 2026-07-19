@@ -1,16 +1,12 @@
 <template>
   <footer class="site-footer">
-    <div class="site-footer-inner">
-      <p class="site-footer-line">
-        FansBuy - Your Trusted Fashion &amp; Lifestyle Guide |
-        <a href="https://bestfansbuy.com/sitemap.xml" target="_blank" rel="noopener">Sitemap</a>
-      </p>
-      <p class="site-footer-line">
-        Copyright &copy; 2026 FansBuy |
-        <a href="https://bestfansbuy.com/">Home</a> |
-        <a href="https://bestfansbuy.com/blog">Blog</a>
-      </p>
-    </div>
+    <p class="site-footer-line">
+      FansBuy - Your Trusted Fashion &amp; Lifestyle Guide |
+      <a href="https://bestfansbuy.com/sitemap.xml" target="_blank" rel="noopener">Sitemap</a>
+    </p>
+    <p class="site-footer-line">
+      Copyright &copy; 2026 FansBuy
+    </p>
   </footer>
 </template>
 
@@ -19,27 +15,21 @@
 
 <style scoped>
 .site-footer {
-  background: #f5f5f5;
-  padding: 24px 20px;
+  background: #f0f0f0;
+  padding: 20px 16px;
   text-align: center;
-  border-top: 1px solid #e0e0e0;
-}
-
-.site-footer-inner {
-  max-width: 1200px;
-  margin: 0 auto;
 }
 
 .site-footer-line {
   margin: 0;
-  padding: 4px 0;
+  padding: 3px 0;
   font-size: 14px;
-  color: #666;
-  line-height: 1.8;
+  color: #555;
+  line-height: 1.6;
 }
 
 .site-footer-line a {
-  color: #666;
+  color: #555;
   text-decoration: underline;
   transition: color 0.3s ease;
 }
@@ -50,7 +40,7 @@
 
 @media (max-width: 480px) {
   .site-footer-line {
-    font-size: 13px;
+    font-size: 12px;
   }
 }
 </style>
