@@ -53,11 +53,6 @@ export default defineConfig({
       linkLabel: 'Back to Home',
       linkUrl: '/',
     },
-
-    footer: {
-      message: `${brand.name} - ${brand.tagline}`,
-      copyright: 'Copyright &copy; ' + new Date().getFullYear() + ` ${brand.name}`,
-    },
   },
 
   sitemap: {
