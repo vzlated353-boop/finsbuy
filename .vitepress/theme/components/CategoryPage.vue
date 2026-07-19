@@ -135,13 +135,6 @@
         </div>
       </div>
     </section>
-
-    <!-- Footer -->
-    <footer class="footer">
-      <div class="container">
-        <p>&copy; 2024 FansBuy. All rights reserved.</p>
-      </div>
-    </footer>
   </div>
 </template>
 
@@ -384,18 +377,6 @@ section h2 {
 .article-card p {
   font-size: 14px;
   color: #666;
-}
-
-/* Footer */
-.footer {
-  background: #1a1a1a;
-  color: white;
-  padding: 40px 20px;
-  text-align: center;
-}
-
-.footer p {
-  color: #999;
 }
 
 /* Responsive */

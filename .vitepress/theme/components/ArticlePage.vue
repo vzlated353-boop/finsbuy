@@ -69,13 +69,6 @@
         </div>
       </div>
     </section>
-
-    <!-- Footer -->
-    <footer class="footer">
-      <div class="container">
-        <p>&copy; 2024 FansBuy. All rights reserved.</p>
-      </div>
-    </footer>
   </div>
 </template>
 
@@ -319,18 +312,6 @@ const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWU
 .cta-button:hover {
   background-color: #a00000;
   transform: translateY(-2px);
-}
-
-/* Footer */
-.footer {
-  background: #1a1a1a;
-  color: white;
-  padding: 40px 20px;
-  text-align: center;
-}
-
-.footer p {
-  color: #999;
 }
 
 /* Responsive */
