@@ -1,6 +1,6 @@
 # Fansbuy Stussy 2026: Complete Guide to OG Streetwear
 
-[Access Fansbuy Spreadsheet](https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ0LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=766708488#gid=766708488)
+[Access Fansbuy Spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972)
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 

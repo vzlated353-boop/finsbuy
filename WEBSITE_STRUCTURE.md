@@ -1,10 +1,10 @@
-# SEO Traffic Website - Structure Plan
+﻿# SEO Traffic Website - Structure Plan
 
 ## Project Overview
 - **Type**: SEO Traffic Website (Content Marketing)
 - **Design**: FansBuy Style (Gold #d4af37 + Dark Red #8b0000)
 - **Pages**: 14 total
-- **External Link**: https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=999521302#gid=999521302
+- **External Link**: https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972
 
 ## Page Structure
 

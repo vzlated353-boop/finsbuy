@@ -1,4 +1,4 @@
-# Fansbuy Article Generation Prompt
+Ôªø# Fansbuy Article Generation Prompt
 
 > This prompt guides AI to generate high-quality, SEO-optimized articles for Fansbuy platform pages.
 > Each article must follow this structure exactly.
@@ -10,7 +10,7 @@
 ```markdown
 # [Keyword] 2026: [Compelling Subtitle]
 
-[Access Fansbuy Spreadsheet](https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=766708488#gid=766708488)
+[Access Fansbuy Spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972)
 
 **In This Article:**
 - [Key point 1]
@@ -240,14 +240,14 @@ Before finalizing each article, verify:
 
 ## Common Mistakes to Avoid
 
-‚ù?**Keyword stuffing**: Don't force keyword unnaturally
-‚ù?**Generic content**: Don't write vague statements without data
-‚ù?**Missing data points**: Every article needs specific numbers
-‚ù?**No internal links**: Must include 5+ total internal links
-‚ù?**Copying existing articles**: All content must be 100% original
-‚ù?**Ignoring E-E-A-T**: Must demonstrate experience, expertise, authority, trust
-‚ù?**Weak image prompts**: Must include Fansbuy brand elements
-‚ù?**Absolute claims**: Avoid "always," "never," "guaranteed" ‚Ä?use "typically," "usually," "most"
+ÔøΩ?**Keyword stuffing**: Don't force keyword unnaturally
+ÔøΩ?**Generic content**: Don't write vague statements without data
+ÔøΩ?**Missing data points**: Every article needs specific numbers
+ÔøΩ?**No internal links**: Must include 5+ total internal links
+ÔøΩ?**Copying existing articles**: All content must be 100% original
+ÔøΩ?**Ignoring E-E-A-T**: Must demonstrate experience, expertise, authority, trust
+ÔøΩ?**Weak image prompts**: Must include Fansbuy brand elements
+ÔøΩ?**Absolute claims**: Avoid "always," "never," "guaranteed" ÔøΩ?use "typically," "usually," "most"
 
 ---
 
@@ -312,4 +312,4 @@ Before finalizing each article, verify:
 5. **Internal linking**: Create a web of related content
 6. **E-E-A-T compliant**: Demonstrate experience, expertise, authority, trust
 
-Generate each article following this prompt exactly. Quality over quantity ‚Ä?but meet all requirements.
+Generate each article following this prompt exactly. Quality over quantity ÔøΩ?but meet all requirements.

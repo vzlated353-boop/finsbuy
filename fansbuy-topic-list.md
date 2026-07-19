@@ -1,7 +1,7 @@
-# Fansbuy Page Generation Topic List
+﻿# Fansbuy Page Generation Topic List
 
 > Platform: Fansbuy
-> Spreadsheet Link: https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=766708488#gid=766708488
+> Spreadsheet Link: https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972
 > Output Directory: D:\name\fansbuy\
 > Date Format: YYYY-MM-DD
 > Anchor Text Format: [Access Fansbuy Spreadsheet](spreadsheet link)

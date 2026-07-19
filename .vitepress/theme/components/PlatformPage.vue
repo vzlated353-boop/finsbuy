@@ -1,4 +1,4 @@
-<template>
+﻿<template>
   <div class="platform-page">
     <!-- Hero Section -->
     <section class="hero">
@@ -148,7 +148,7 @@ import { computed } from 'vue'
 import { useData } from 'vitepress'
 
 const { frontmatter } = useData()
-const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=999521302#gid=999521302'
+const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972'
 </script>
 
 <style scoped>

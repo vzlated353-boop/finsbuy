@@ -1,6 +1,6 @@
-# Fansbuy Spreadsheet Jordan 2026: Complete Jordan Product List
+﻿# Fansbuy Spreadsheet Jordan 2026: Complete Jordan Product List
 
-[Access Fansbuy Spreadsheet](https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=766708488#gid=766708488)
+[Access Fansbuy Spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972)
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 
@@ -98,7 +98,7 @@ The fansbuy spreadsheet jordan section is an essential resource for anyone looki
 
 By understanding the spreadsheet layout, using filters effectively, and paying attention to the notes column, you can make confident purchasing decisions and find the best Jordan products for your needs. The spreadsheet is updated regularly, so bookmarking it and checking back often is the best way to stay ahead of restocks and new releases.
 
-Whether you are a first-time buyer exploring Jordan sneakers or a seasoned collector hunting for specific apparel pieces, the spreadsheet is your starting point. [Access the Fansbuy Spreadsheet](https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=766708488#gid=766708488) today and explore the full range of Jordan products available.
+Whether you are a first-time buyer exploring Jordan sneakers or a seasoned collector hunting for specific apparel pieces, the spreadsheet is your starting point. [Access the Fansbuy Spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) today and explore the full range of Jordan products available.
 
 ---
 

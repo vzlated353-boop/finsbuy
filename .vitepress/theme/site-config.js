@@ -1,4 +1,4 @@
-// ============================================================
+﻿// ============================================================
 // FansBuy Site Configuration
 // Change keywords here to adapt this template to any other site.
 // ============================================================
@@ -52,7 +52,7 @@ export const siteConfig = {
   // ---- External Links ----
   // Change these URLs to point to your own resources.
   links: {
-    spreadsheet: 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=999521302#gid=999521302',
+    spreadsheet: 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972',
     contact: 'mailto:hello@fansbuy.com',
   },
 

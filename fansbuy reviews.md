@@ -1,6 +1,6 @@
-# Fansbuy Reviews 2026: Complete Guide to User Feedback & Ratings
+﻿# Fansbuy Reviews 2026: Complete Guide to User Feedback & Ratings
 
-[Access Fansbuy Spreadsheet](https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=766708488#gid=766708488)
+[Access Fansbuy Spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972)
 
 ## In This Article:
 
@@ -106,7 +106,7 @@ No platform is without areas for improvement, and Fansbuy's shipping timelines a
 
 For buyers ready to make informed decisions, the Fansbuy spreadsheet remains the most powerful tool available. It consolidates order data, quality metrics, and community feedback into a single reference point that eliminates guesswork from the purchasing process. Whether you're a first-time buyer evaluating the platform or a seasoned reseller optimizing your sourcing strategy, combining review insights with spreadsheet data gives you a decisive advantage.
 
-Ready to explore the full picture? Access the complete product data and community feedback in the [Fansbuy Spreadsheet](https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=766708488#gid=766708488) and start shopping with confidence.
+Ready to explore the full picture? Access the complete product data and community feedback in the [Fansbuy Spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) and start shopping with confidence.
 
 ---
 
