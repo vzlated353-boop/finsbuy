@@ -69,4 +69,19 @@ export default defineConfig({
   ],
 
   cleanUrls: 'with-subfolders',
+
+  srcExclude: [
+    'fansbuy-article-prompt.md',
+    'fansbuy-internal-link-rules.md',
+    'fansbuy-product-reference.md',
+    'fansbuy-review-report-2026-07-18.md',
+    'fansbuy-topic-list.md',
+    'flexible-article-generator.md',
+    'topic-matrix.md',
+    'ideas.md',
+    'CONTENT_CHECKLIST.md',
+    'LOCAL_SETUP.md',
+    'PRODUCT_WORKFLOW.md',
+    'WEBSITE_STRUCTURE.md',
+  ],
 })
