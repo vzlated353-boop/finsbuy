@@ -31,7 +31,7 @@ The core functionality revolves around a simple process: you find products you w
 
 One of the platform's strongest advantages is its quality control system. Before items are shipped internationally, Fansbuy provides detailed quality check photos showing exactly what you're receiving. This step is crucial for beginners who might be unfamiliar with sizing, colors, or product variations common in Asian markets. You can request returns or exchanges at this stage if the item doesn't match your expectations.
 
-The platform integrates with major Chinese marketplaces including Taobao, Weidian, and 1688, giving you access to millions of products. For those new to [fansbuy how to use](how to use 2026-07-17.md), understanding these marketplace integrations opens up a world of shopping possibilities that would otherwise be inaccessible.
+The platform integrates with major Chinese marketplaces including Taobao, Weidian, and 1688, giving you access to millions of products. For those new to [fansbuy how to use](/fansbuy%20how%20to%20use%202026-07-17/), understanding these marketplace integrations opens up a world of shopping possibilities that would otherwise be inaccessible.
 
 Storage is another key feature. Fansbuy offers free storage for up to 60 days, allowing you to consolidate multiple purchases into a single shipment. This can significantly reduce shipping costs, especially for smaller items. The warehouse team carefully inspects, photographs, and repackages your items to ensure they arrive in perfect condition.
 
@@ -47,7 +47,7 @@ Once registered, complete your profile by adding your shipping address and prefe
 
 The next step involves familiarizing yourself with the product search functionality. You can browse products directly through the platform's interface or paste product links from supported marketplaces like Taobao or Weidian. The search bar accepts both English and Chinese keywords, though using English terms may yield more limited results for niche items.
 
-For those interested in detailed navigation, the [fansbuy shipping guide](shipping guide 2026-07-17.md) provides comprehensive information about delivery options and timelines. Understanding shipping methods before you order helps set realistic expectations for delivery dates.
+For those interested in detailed navigation, the [fansbuy shipping guide](/fansbuy%20shipping%20guide%202026-07-17/) provides comprehensive information about delivery options and timelines. Understanding shipping methods before you order helps set realistic expectations for delivery dates.
 
 Adding items to your cart is simple once you've found products you want. Select the appropriate size, color, and quantity, then add them to your shopping cart. You can continue shopping or proceed to checkout whenever you're ready. The platform will calculate estimated costs including the product price, domestic shipping to Fansbuy's warehouse, and their service fee.
 
@@ -112,6 +112,6 @@ Ready to start shopping? Create your account today and take advantage of the kno
 ---
 
 **Related Guides:**
-- [Fansbuy How to Use](how to use 2026-07-17.md)
-- [Fansbuy Shipping Guide](shipping guide 2026-07-17.md)
-- [Fansbuy QC Photos](qc photos 2026-07-17.md)
+- [Fansbuy How to Use](/fansbuy%20how%20to%20use%202026-07-17/)
+- [Fansbuy Shipping Guide](/fansbuy%20shipping%20guide%202026-07-17/)
+- [Fansbuy QC Photos](/fansbuy%20qc%20photos%202026-07-17/)

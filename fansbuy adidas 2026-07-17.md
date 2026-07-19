@@ -21,7 +21,7 @@ What makes the fansbuy adidas experience stand out is the combination of variety
 
 In this guide, we break down the top-selling Adidas products, compare the available options, and share practical sizing and quality tips based on real buyer feedback. You will also find specific product recommendations with transparent pricing to help you navigate the collection with confidence.
 
-For a broader look at available footwear, our [fansbuy sneakers](sneakers 2026-07-17.md) guide covers all major brands including Nike and New Balance alongside Adidas.
+For a broader look at available footwear, our [fansbuy sneakers](/fansbuy%20sneakers%202026-07-17/) guide covers all major brands including Nike and New Balance alongside Adidas.
 
 ## Top-Selling Fansbuy Adidas Products
 
@@ -32,7 +32,7 @@ The Adidas lineup on Fansbuy features two standout products that consistently ra
 
 Buyers consistently praise the accuracy and quality of both products on Fansbuy batches. The Adidas Tracksuit is particularly popular for its authentic styling and comfortable fit, while the Adidas Shoes offer versatile wear for everyday use.
 
-For those interested in Adidas apparel, our [fansbuy t-shirts](t-shirts 2026-07-17.md) guide covers tee options from the brand and beyond.
+For those interested in Adidas apparel, our [fansbuy t-shirts](/fansbuy%20t-shirts%202026-07-17/) guide covers tee options from the brand and beyond.
 
 ## Adidas Product Comparison: Tracksuit vs Shoes
 
@@ -47,7 +47,7 @@ Choosing between Adidas products depends on your needs. Here is how the two avai
 | Adidas Tracksuit | Apparel | ~$17.31 - $43.68 | Athletic wear, casual outfits |
 | Adidas Shoes | Footwear | ~$24.73 | Everyday footwear, versatile styling |
 
-For detailed sizing advice across all brands, check our [fansbuy sizing guide](sizing guide 2026-07-17.md) for comprehensive measurements and fit recommendations.
+For detailed sizing advice across all brands, check our [fansbuy sizing guide](/fansbuy%20sizing%20guide%202026-07-17/) for comprehensive measurements and fit recommendations.
 
 ## Sizing & Quality Guide for Adidas
 
@@ -102,6 +102,6 @@ Browse the full [Fansbuy spreadsheet](https://docs.google.com/spreadsheets/d/1Vs
 ---
 
 **Related Guides:**
-- [Fansbuy Sneakers](sneakers 2026-07-17.md)
-- [Fansbuy T-Shirts](t-shirts 2026-07-17.md)
-- [Fansbuy Sizing Guide](sizing guide 2026-07-17.md)
+- [Fansbuy Sneakers](/fansbuy%20sneakers%202026-07-17/)
+- [Fansbuy T-Shirts](/fansbuy%20t-shirts%202026-07-17/)
+- [Fansbuy Sizing Guide](/fansbuy%20sizing%20guide%202026-07-17/)

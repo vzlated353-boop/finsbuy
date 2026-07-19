@@ -22,7 +22,7 @@ What makes this guide different is that every recommendation here is backed by a
 
 The Nike category on Fansbuy spans multiple product types: sneakers, hoodies, tracksuits, sweatshirts, shorts sets, and more. Price points generally range from ~$8.08 (Nike Shorts Set) to ~$148.19 (Nike Tracksuit), which is significantly lower than retail prices for comparable items. The collection includes popular models like the Air Max 95, Dunk, Max Plus TN, Shox TL, and Football Boots, alongside apparel options like the Nike Hoodie, Sweatshirt, and Tracksuit.
 
-If you are specifically interested in exploring the broader sneaker collection beyond Nike, we have dedicated guides for other categories ??check out our [fansbuy sneakers](sneakers 2026-07-17.md) breakdown for Jordan, Adidas, and New Balance options. For now, let us walk through the top-selling Nike products, the quality verification system, and the batch details you need to order with confidence.
+If you are specifically interested in exploring the broader sneaker collection beyond Nike, we have dedicated guides for other categories ??check out our [fansbuy sneakers](/fansbuy%20sneakers%202026-07-17/) breakdown for Jordan, Adidas, and New Balance options. For now, let us walk through the top-selling Nike products, the quality verification system, and the batch details you need to order with confidence.
 
 ---
 
@@ -50,7 +50,7 @@ Beyond sneakers, Nike apparel is also a strong performer. The Nike Hoodie is a v
 
 The Nike Tracksuit is available in multiple variants to suit different styles and budgets. With prices ranging from ~$24.73 to ~$148.19, buyers can choose the option that best fits their needs. The tracksuit features durable construction, accurate branding, and a comfortable fit that makes it suitable for both athletic activities and casual wear.
 
-For buyers who want to explore apparel options beyond Nike, our [fansbuy t-shirts](t-shirts 2026-07-17.md) guide covers other brands like Stussy, Palm Angels, and Essentials that complement the Nike collection.
+For buyers who want to explore apparel options beyond Nike, our [fansbuy t-shirts](/fansbuy%20t-shirts%202026-07-17/) guide covers other brands like Stussy, Palm Angels, and Essentials that complement the Nike collection.
 
 ---
 
@@ -70,7 +70,7 @@ The apparel category includes hoodies, tracksuits, sweatshirts, shorts sets, and
 
 Material quality varies by batch, but most Nike apparel uses quality fabrics that feel substantial without being overly heavy. The print quality on logos and graphics receives consistent praise for accuracy and durability. Sizing typically runs true to size, though buyers with broader builds may want to size up for a more comfortable fit. The spreadsheet includes detailed measurement charts for each apparel listing, which helps you order the right size the first time.
 
-For buyers interested in exploring other apparel options, our [fansbuy t-shirts](t-shirts 2026-07-17.md) guide covers other brands that complement the Nike collection.
+For buyers interested in exploring other apparel options, our [fansbuy t-shirts](/fansbuy%20t-shirts%202026-07-17/) guide covers other brands that complement the Nike collection.
 
 ---
 
@@ -146,6 +146,6 @@ Browse the full [Fansbuy spreadsheet](https://docs.google.com/spreadsheets/d/1Vs
 
 **Related Guides:**
 
-- [Fansbuy Sneakers](sneakers 2026-07-17.md)
-- [Fansbuy T-Shirts](t-shirts 2026-07-17.md)
-- [Fansbuy Bags](bags 2026-07-17.md)
+- [Fansbuy Sneakers](/fansbuy%20sneakers%202026-07-17/)
+- [Fansbuy T-Shirts](/fansbuy%20t-shirts%202026-07-17/)
+- [Fansbuy Bags](/fansbuy%20bags%202026-07-17/)
