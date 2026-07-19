@@ -173,7 +173,7 @@ This system replaces fixed templates with **composable content modules** that ad
 **Purpose**: Guide reader to next step
 **Variants**:
 - **M9a - Direct Link**: Provide specific resource
-  - Format: "[Access Resource Name](URL) — [brief benefit statement]"
+  - Format: "[Access Resource Name](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit) — [brief benefit statement]"
 - **M9b - Next Step Suggestion**: Recommend logical follow-up
   - Format: "Now that you understand [topic], your next step is to [action]..."
 - **M9c - Community Invitation**: Encourage engagement

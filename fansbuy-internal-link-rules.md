@@ -185,7 +185,7 @@ For more details on specific brands, check out our [fansbuy nike](fansbuy%20nike
 ### Conclusion Section
 - **Link count**: 0-1 link
 - **Purpose**: Optional link to spreadsheet or main guide
-- **Example**: "Browse the full [Fansbuy spreadsheet](spreadsheet-link) to discover..."
+- **Example**: "Browse the full [Fansbuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) to discover..."
 
 ### Related Guides Section
 - **Link count**: Exactly 3 links
