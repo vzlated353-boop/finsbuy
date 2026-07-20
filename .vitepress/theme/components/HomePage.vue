@@ -54,7 +54,7 @@
       <div class="container">
         <h2 class="section-title">Quick Access</h2>
         <div class="links-grid">
-          <a :href="links.spreadsheet" target="_blank" class="quick-link-card">
+          <a :href="links.spreadsheet" target="_blank" rel="nofollow" class="quick-link-card">
             <div class="ql-icon">&#128203;</div>
             <h3>Product Spreadsheet</h3>
             <p>Browse the full product catalog with prices, links, and QC photos.</p>
