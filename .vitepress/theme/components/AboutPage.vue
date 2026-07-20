@@ -67,7 +67,7 @@
             <p>Explore streetwear, hoodies, jackets, and more.</p>
           </a>
           <a href="/hats" class="explore-card">
-            <div class="explore-icon">&#129509;</div>
+            <div class="explore-icon">🧢</div>
             <h3>Hats</h3>
             <p>Find the perfect cap, beanie, or bucket hat.</p>
           </a>
