@@ -1,4 +1,4 @@
-﻿// ============================================================
+// ============================================================
 // FansBuy Site Configuration
 // Change keywords here to adapt this template to any other site.
 // ============================================================
@@ -44,7 +44,7 @@ export const siteConfig = {
     {
       id: 'hats',
       name: 'Hats',
-      icon: '',
+      icon: '🧢',
       description: 'Complete your look with caps, beanies, and bucket hats. Style meets function.',
     },
   ],
