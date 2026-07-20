@@ -5,7 +5,7 @@
       <a href="https://bestfansbuy.com/sitemap.xml" target="_blank" rel="noopener">Sitemap</a>
     </p>
     <p class="site-footer-line">
-      Copyright &copy; 2026 FansBuy |
+      Copyright &copy; 2026 bestfansbuy |
       <a href="https://bestfansbuy.com/">Home</a> |
       <a href="https://bestfansbuy.com/blog">Blog</a>
     </p>
