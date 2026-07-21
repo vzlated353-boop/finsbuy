@@ -94,16 +94,6 @@ A: [Answer]
 - [Internal link 1: Related category/brand page]
 - [Internal link 2: Related feature page]
 - [Internal link 3: Fansbuy main page or spreadsheet]
-
----
-
-## Image Prompt for This Article
-
-**Alt Text:** [Descriptive alt text including keyword and Fansbuy]
-
-**Image Prompt:** [Detailed image description including Fansbuy brand elements + category-specific visual elements]
-
-**Aspect Ratio:** 16:9
 ```
 
 ---
@@ -175,36 +165,6 @@ Choose from these common question types:
 
 ---
 
-## Image Prompt Guidelines
-
-### Alt Text Format
-```
-[Descriptive text including keyword] on Fansbuy - [additional context]
-```
-
-Example:
-```
-Fansbuy sneakers collection showing Nike Air Max 95 and Jordan 4 Black Cat with QC photos and quality ratings
-```
-
-### Image Prompt Format
-```
-A [scene description] featuring [keyword-related products] from Fansbuy. The image shows [specific visual elements including product names, colors, materials]. [Fansbuy brand elements: logo, packaging, spreadsheet interface]. [Lighting and style: natural lighting, professional photography, clean background]. Shot on [camera specs: 50mm lens, shallow depth of field]. [Overall mood: trustworthy, professional, buyer-friendly].
-```
-
-Example:
-```
-A clean product display featuring Fansbuy sneakers including Nike Air Max 95 in grey/black colorway and Jordan 4 Black Cat with detailed stitching visible. The image shows product tags with quality ratings and order counts. Fansbuy branded packaging and spreadsheet interface visible in background. Natural lighting from left side, professional product photography style with white background. Shot on 50mm lens with shallow depth of field, focusing on shoe details. Overall mood: trustworthy, professional, high-quality.
-```
-
-### Required Visual Elements
-- **Fansbuy brand elements**: Logo, packaging, or spreadsheet interface
-- **Category-specific products**: Actual product names mentioned in the article
-- **Quality indicators**: QC photos, ratings, or verification badges
-- **Professional setting**: Clean background, good lighting
-
----
-
 ## Word Count Targets
 
 | Page Type | Target Words | H2 Count | FAQ Count |
@@ -231,7 +191,6 @@ Before finalizing each article, verify:
 - [ ] 3 internal links in Related Guides section
 - [ ] FAQ section has 3-5 questions
 - [ ] Conclusion includes call to action
-- [ ] Image prompt file created with Fansbuy elements
 - [ ] All content is original (not copied from existing articles)
 - [ ] Tone is professional and buyer-focused
 - [ ] E-E-A-T elements are present (experience, expertise, authority, trust)
@@ -246,7 +205,6 @@ Before finalizing each article, verify:
 —?**No internal links**: Must include 5+ total internal links
 —?**Copying existing articles**: All content must be 100% original
 —?**Ignoring E-E-A-T**: Must demonstrate experience, expertise, authority, trust
-—?**Weak image prompts**: Must include Fansbuy brand elements
 —?**Absolute claims**: Avoid "always," "never," "guaranteed" —?use "typically," "usually," "most"
 
 ---
@@ -294,11 +252,6 @@ Before finalizing each article, verify:
 - [Fansbuy Nike param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)" 
 - [Fansbuy Jordan param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)" 
 - [Fansbuy Sizing Guide param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)" 
-
----
-
-## Image Prompt for This Article
-[Detailed prompt with Fansbuy sneakers, QC photos, brand elements]
 ```
 
 ---

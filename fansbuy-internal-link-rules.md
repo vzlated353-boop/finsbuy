@@ -23,7 +23,7 @@
 - **First link**: Within first 300 words (Introduction or first main section)
 - **Second link**: In middle section (Benefits, Features, or How-to section)
 - **Third link**: Near conclusion or in Product Highlights section
-- **Related Guides**: Always at end, before Image Prompt section
+- **Related Guides**: Always at end of article
 
 ---
 
