@@ -71,8 +71,8 @@ export default defineConfig({
 
   ignoreDeadLinks: [
     /^http:\/\/localhost/,
-    /^\/fansbuy%20/,
-    /^\/is%20/,
+    /^\/fansbuy-/,
+    /^\/is-/,
   ],
 
   cleanUrls: 'with-subfolders',

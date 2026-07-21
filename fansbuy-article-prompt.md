@@ -249,9 +249,9 @@ Before finalizing each article, verify:
 ---
 
 **Related Guides:**
-- [Fansbuy Nike param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)" 
-- [Fansbuy Jordan param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)" 
-- [Fansbuy Sizing Guide param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)" 
+- [Fansbuy Nike param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)" 
+- [Fansbuy Jordan param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)" 
+- [Fansbuy Sizing Guide param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)" 
 ```
 
 ---

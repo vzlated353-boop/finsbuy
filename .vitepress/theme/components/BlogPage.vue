@@ -1,4 +1,4 @@
-<template>
+﻿<template>
   <div class="blog-page">
     <div class="blog-container">
       <!-- Left: Article Cards (4/5) -->
@@ -91,152 +91,152 @@ const articleSeries = [
       {
         "title": "Fansbuy Account Creation",
         "excerpt": "Step-by-step guide to creating your Fansbuy account, including registration, email verification, and profile setup.",
-        "link": "/fansbuy%20account%20creation/"
+        "link": "/fansbuy-account-creation/"
       },
       {
         "title": "Fansbuy Beginner Guide",
         "excerpt": "Essential beginner guide covering account setup, product browsing, and first purchase on Fansbuy.",
-        "link": "/fansbuy%20beginner%20guide/"
+        "link": "/fansbuy-beginner-guide/"
       },
       {
         "title": "Fansbuy Buyer Tips",
         "excerpt": "Essential shopping tips and insider advice to help you make smarter purchases on Fansbuy.",
-        "link": "/fansbuy%20buyer%20tips/"
+        "link": "/fansbuy-buyer-tips/"
       },
       {
         "title": "Fansbuy Common Mistakes",
         "excerpt": "Avoid these common pitfalls and mistakes that new Fansbuy buyers often make during their first orders.",
-        "link": "/fansbuy%20common%20mistakes/"
+        "link": "/fansbuy-common-mistakes/"
       },
       {
         "title": "Fansbuy Complete Guide",
         "excerpt": "Comprehensive platform guide covering all features, from registration to order tracking and customer support.",
-        "link": "/fansbuy%20complete%20guide/"
+        "link": "/fansbuy-complete-guide/"
       },
       {
         "title": "Fansbuy Complete Platform Guide",
         "excerpt": "Comprehensive platform guide covering all features, from registration to order tracking and customer support.",
-        "link": "/fansbuy%20complete%20platform%20guide/"
+        "link": "/fansbuy-complete-platform-guide/"
       },
       {
         "title": "Fansbuy Crypto Payment",
         "excerpt": "Complete guide to using cryptocurrency for payments on Fansbuy, including supported coins and transaction steps.",
-        "link": "/fansbuy%20crypto%20payment/"
+        "link": "/fansbuy-crypto-payment/"
       },
       {
         "title": "Fansbuy Essential Guide",
         "excerpt": "Essential information every new Fansbuy user needs to know before making a purchase.",
-        "link": "/fansbuy%20essential%20guide/"
+        "link": "/fansbuy-essential-guide/"
       },
       {
         "title": "Fansbuy First Purchase Tips",
         "excerpt": "Step-by-step walkthrough for placing your first order on Fansbuy with confidence.",
-        "link": "/fansbuy%20first%20purchase%20tips/"
+        "link": "/fansbuy-first-purchase-tips/"
       },
       {
         "title": "Fansbuy For Beginners",
         "excerpt": "Complete beginner guide to getting started with Fansbuy, from account creation to first purchase.",
-        "link": "/fansbuy%20for%20beginners/"
+        "link": "/fansbuy-for-beginners/"
       },
       {
         "title": "Fansbuy Free Guide",
         "excerpt": "Free resources and guides to help you master the Fansbuy shopping experience.",
-        "link": "/fansbuy%20free%20guide/"
+        "link": "/fansbuy-free-guide/"
       },
       {
         "title": "Fansbuy G Shock",
         "excerpt": "Explore Casio G-Shock watches on Fansbuy with model comparisons, pricing, and quality verification tips.",
-        "link": "/fansbuy%20g%20shock/"
+        "link": "/fansbuy-g-shock/"
       },
       {
         "title": "Fansbuy How To Use",
         "excerpt": "Step-by-step platform guide covering account setup, browsing, ordering, and payment.",
-        "link": "/fansbuy%20how%20to%20use/"
+        "link": "/fansbuy-how-to-use/"
       },
       {
         "title": "Fansbuy How To Use 2026",
         "excerpt": "Updated 2026 guide to using Fansbuy with new features, interface changes, and latest ordering procedures.",
-        "link": "/fansbuy%20how%20to%20use%202026/"
+        "link": "/fansbuy-how-to-use-2026/"
       },
       {
         "title": "Fansbuy Low Price Guide",
         "excerpt": "Strategies and tips for finding the lowest prices on Fansbuy without compromising on product quality.",
-        "link": "/fansbuy%20low%20price%20guide/"
+        "link": "/fansbuy-low-price-guide/"
       },
       {
         "title": "Fansbuy Money Saving Tips",
         "excerpt": "Proven money-saving strategies including bulk ordering, coupon codes, and seasonal sales on Fansbuy.",
-        "link": "/fansbuy%20money%20saving%20tips/"
+        "link": "/fansbuy-money-saving-tips/"
       },
       {
         "title": "Fansbuy Onboarding",
         "excerpt": "New user onboarding guide with platform overview, key features, and getting started tips.",
-        "link": "/fansbuy%20onboarding/"
+        "link": "/fansbuy-onboarding/"
       },
       {
         "title": "Fansbuy Packaging Guide",
         "excerpt": "Understanding Fansbuy packaging options, consolidation methods, and how to protect your items during shipping.",
-        "link": "/fansbuy%20packaging%20guide/"
+        "link": "/fansbuy-packaging-guide/"
       },
       {
         "title": "Fansbuy Plus Size",
         "excerpt": "Plus size clothing and apparel options on Fansbuy with sizing charts, fit guides, and brand recommendations.",
-        "link": "/fansbuy%20plus%20size/"
+        "link": "/fansbuy-plus-size/"
       },
       {
         "title": "Fansbuy Secure Payment",
         "excerpt": "Learn about secure payment methods on Fansbuy, including encryption, buyer protection, and fraud prevention.",
-        "link": "/fansbuy%20secure%20payment/"
+        "link": "/fansbuy-secure-payment/"
       },
       {
         "title": "Fansbuy Seller Guide",
         "excerpt": "Comprehensive guide for sellers on Fansbuy, including listing optimization, pricing strategies, and buyer communication.",
-        "link": "/fansbuy%20seller%20guide/"
+        "link": "/fansbuy-seller-guide/"
       },
       {
         "title": "Fansbuy Shipping Guide",
         "excerpt": "Comprehensive overview of shipping methods, delivery times, and costs.",
-        "link": "/fansbuy%20shipping%20guide/"
+        "link": "/fansbuy-shipping-guide/"
       },
       {
         "title": "Fansbuy Shopping Tips",
         "excerpt": "Essential shopping tips to help you find quality products, avoid scams, and get the best deals on Fansbuy.",
-        "link": "/fansbuy%20shopping%20tips/"
+        "link": "/fansbuy-shopping-tips/"
       },
       {
         "title": "Fansbuy Start Here",
         "excerpt": "Your starting point for Fansbuy with platform overview, key features, and step-by-step getting started instructions.",
-        "link": "/fansbuy%20start%20here/"
+        "link": "/fansbuy-start-here/"
       },
       {
         "title": "Fansbuy Step By Step",
         "excerpt": "Step-by-step instructions for navigating the Fansbuy platform and completing your first purchase.",
-        "link": "/fansbuy%20step%20by%20step/"
+        "link": "/fansbuy-step-by-step/"
       },
       {
         "title": "Fansbuy Tech Gadgets",
         "excerpt": "Explore tech gadgets available on Fansbuy including electronics, accessories, and smart devices with buyer reviews.",
-        "link": "/fansbuy%20tech%20gadgets/"
+        "link": "/fansbuy-tech-gadgets/"
       },
       {
         "title": "Fansbuy Tutorial",
         "excerpt": "Comprehensive tutorial covering platform navigation, product search, and checkout process.",
-        "link": "/fansbuy%20tutorial/"
+        "link": "/fansbuy-tutorial/"
       },
       {
         "title": "Fansbuy Ultimate Guide",
         "excerpt": "The ultimate comprehensive guide to Fansbuy covering everything from account setup to advanced shopping strategies.",
-        "link": "/fansbuy%20ultimate%20guide/"
+        "link": "/fansbuy-ultimate-guide/"
       },
       {
         "title": "Fansbuy Walkthrough",
         "excerpt": "Complete platform walkthrough from account creation to successful order placement.",
-        "link": "/fansbuy%20walkthrough/"
+        "link": "/fansbuy-walkthrough/"
       },
       {
         "title": "Fansbuy With Photos",
         "excerpt": "Guide to requesting and reviewing product photos on Fansbuy to verify quality before making your purchase.",
-        "link": "/fansbuy%20with%20photos/"
+        "link": "/fansbuy-with-photos/"
       }
     ]
   },
@@ -246,222 +246,222 @@ const articleSeries = [
       {
         "title": "Fansbuy Air Force 1",
         "excerpt": "Comprehensive guide to shoes available on Fansbuy with quality data, sizing tips, and buyer reviews.",
-        "link": "/fansbuy%20air%20force%201/"
+        "link": "/fansbuy-air-force-1/"
       },
       {
         "title": "Fansbuy Air Max",
         "excerpt": "Comprehensive guide to shoes available on Fansbuy with quality data, sizing tips, and buyer reviews.",
-        "link": "/fansbuy%20air%20max/"
+        "link": "/fansbuy-air-max/"
       },
       {
         "title": "Fansbuy Basketball Gear",
         "excerpt": "High-performance basketball shoes with ankle support, traction patterns, and player reviews.",
-        "link": "/fansbuy%20basketball%20gear/"
+        "link": "/fansbuy-basketball-gear/"
       },
       {
         "title": "Fansbuy Basketball Shoes",
         "excerpt": "High-performance basketball shoes with ankle support, traction patterns, and player reviews.",
-        "link": "/fansbuy%20basketball%20shoes/"
+        "link": "/fansbuy-basketball-shoes/"
       },
       {
         "title": "Fansbuy Big Size Shoes",
         "excerpt": "Comprehensive guide to shoes available on Fansbuy with quality data, sizing tips, and buyer reviews.",
-        "link": "/fansbuy%20big%20size%20shoes/"
+        "link": "/fansbuy-big-size-shoes/"
       },
       {
         "title": "Fansbuy Big Sizes",
         "excerpt": "Comprehensive guide to shoes available on Fansbuy with quality data, sizing tips, and buyer reviews.",
-        "link": "/fansbuy%20big%20sizes/"
+        "link": "/fansbuy-big-sizes/"
       },
       {
         "title": "Fansbuy Budget Shoes",
         "excerpt": "Comprehensive guide to shoes available on Fansbuy with quality data, sizing tips, and buyer reviews.",
-        "link": "/fansbuy%20budget%20shoes/"
+        "link": "/fansbuy-budget-shoes/"
       },
       {
         "title": "Fansbuy Budget Sneakers",
         "excerpt": "Comprehensive guide to shoes available on Fansbuy with quality data, sizing tips, and buyer reviews.",
-        "link": "/fansbuy%20budget%20sneakers/"
+        "link": "/fansbuy-budget-sneakers/"
       },
       {
         "title": "Fansbuy Casual Shoes",
         "excerpt": "Everyday casual shoes combining comfort, style, and versatility for daily wear.",
-        "link": "/fansbuy%20casual%20shoes/"
+        "link": "/fansbuy-casual-shoes/"
       },
       {
         "title": "Fansbuy Cheap Shoes",
         "excerpt": "Comprehensive guide to shoes available on Fansbuy with quality data, sizing tips, and buyer reviews.",
-        "link": "/fansbuy%20cheap%20shoes/"
+        "link": "/fansbuy-cheap-shoes/"
       },
       {
         "title": "Fansbuy Cleats",
         "excerpt": "Sports cleats for various athletic activities with traction data and performance reviews.",
-        "link": "/fansbuy%20cleats/"
+        "link": "/fansbuy-cleats/"
       },
       {
         "title": "Fansbuy Daily Wear Shoes",
         "excerpt": "Comprehensive guide to shoes available on Fansbuy with quality data, sizing tips, and buyer reviews.",
-        "link": "/fansbuy%20daily%20wear%20shoes/"
+        "link": "/fansbuy-daily-wear-shoes/"
       },
       {
         "title": "Fansbuy Dc Shoes",
         "excerpt": "DC Shoes collection with skate-specific features, durability data, and style options.",
-        "link": "/fansbuy%20dc%20shoes/"
+        "link": "/fansbuy-dc-shoes/"
       },
       {
         "title": "Fansbuy Football Boots",
         "excerpt": "Professional soccer and football boots with stud configurations, fit guides, and quality ratings.",
-        "link": "/fansbuy%20football%20boots/"
+        "link": "/fansbuy-football-boots/"
       },
       {
         "title": "Fansbuy Football Shoes",
         "excerpt": "Professional soccer and football boots with stud configurations, fit guides, and quality ratings.",
-        "link": "/fansbuy%20football%20shoes/"
+        "link": "/fansbuy-football-shoes/"
       },
       {
         "title": "Fansbuy Footwear",
         "excerpt": "Comprehensive guide to shoes available on Fansbuy with quality data, sizing tips, and buyer reviews.",
-        "link": "/fansbuy%20footwear/"
+        "link": "/fansbuy-footwear/"
       },
       {
         "title": "Fansbuy Golf Gear",
         "excerpt": "Premium golf shoes with spike options, waterproof technology, and comfort ratings.",
-        "link": "/fansbuy%20golf%20gear/"
+        "link": "/fansbuy-golf-gear/"
       },
       {
         "title": "Fansbuy Golf Shoes",
         "excerpt": "Premium golf shoes with spike options, waterproof technology, and comfort ratings.",
-        "link": "/fansbuy%20golf%20shoes/"
+        "link": "/fansbuy-golf-shoes/"
       },
       {
         "title": "Fansbuy Heels",
         "excerpt": "Stylish heels collection with comfort features, height options, and occasion recommendations.",
-        "link": "/fansbuy%20heels/"
+        "link": "/fansbuy-heels/"
       },
       {
         "title": "Fansbuy Hiking Shoes",
         "excerpt": "Durable hiking shoes with waterproof features, grip performance, and trail testing data.",
-        "link": "/fansbuy%20hiking%20shoes/"
+        "link": "/fansbuy-hiking-shoes/"
       },
       {
         "title": "Fansbuy Junior Shoes",
         "excerpt": "Youth footwear collection with proper support features, durability data, and sizing charts.",
-        "link": "/fansbuy%20junior%20shoes/"
+        "link": "/fansbuy-junior-shoes/"
       },
       {
         "title": "Fansbuy Junior Sizes",
         "excerpt": "Youth footwear collection with proper support features, durability data, and sizing charts.",
-        "link": "/fansbuy%20junior%20sizes/"
+        "link": "/fansbuy-junior-sizes/"
       },
       {
         "title": "Fansbuy Kids Shoes",
         "excerpt": "Youth footwear collection with proper support features, durability data, and sizing charts.",
-        "link": "/fansbuy%20kids%20shoes/"
+        "link": "/fansbuy-kids-shoes/"
       },
       {
         "title": "Fansbuy Kids Sizes",
         "excerpt": "Youth footwear collection with proper support features, durability data, and sizing charts.",
-        "link": "/fansbuy%20kids%20sizes/"
+        "link": "/fansbuy-kids-sizes/"
       },
       {
         "title": "Fansbuy Men Shoes",
         "excerpt": "Men footwear selection covering casual, athletic, and formal styles with quality data.",
-        "link": "/fansbuy%20men%20shoes/"
+        "link": "/fansbuy-men-shoes/"
       },
       {
         "title": "Fansbuy Outdoor Shoes",
         "excerpt": "Outdoor footwear built for adventure with durable materials and all-terrain performance.",
-        "link": "/fansbuy%20outdoor%20shoes/"
+        "link": "/fansbuy-outdoor-shoes/"
       },
       {
         "title": "Fansbuy Running Gear",
         "excerpt": "Top-rated running shoes on Fansbuy with cushioning specs, durability data, and real buyer feedback.",
-        "link": "/fansbuy%20running%20gear/"
+        "link": "/fansbuy-running-gear/"
       },
       {
         "title": "Fansbuy Running Shoes",
         "excerpt": "Top-rated running shoes on Fansbuy with cushioning specs, durability data, and real buyer feedback.",
-        "link": "/fansbuy%20running%20shoes/"
+        "link": "/fansbuy-running-shoes/"
       },
       {
         "title": "Fansbuy Shoes",
         "excerpt": "Comprehensive guide to shoes available on Fansbuy with quality data, sizing tips, and buyer reviews.",
-        "link": "/fansbuy%20shoes/"
+        "link": "/fansbuy-shoes/"
       },
       {
         "title": "Fansbuy Shoes 2026",
         "excerpt": "Comprehensive guide to shoes available on Fansbuy with quality data, sizing tips, and buyer reviews.",
-        "link": "/fansbuy%20shoes%202026/"
+        "link": "/fansbuy-shoes-2026/"
       },
       {
         "title": "Fansbuy Slides",
         "excerpt": "Comfortable slides and sandals for casual wear with cushioning data and durability ratings.",
-        "link": "/fansbuy%20slides/"
+        "link": "/fansbuy-slides/"
       },
       {
         "title": "Fansbuy Sneakers",
         "excerpt": "Complete guide to sneakers available on Fansbuy, including Nike, Jordan, Adidas, and more.",
-        "link": "/fansbuy%20sneakers/"
+        "link": "/fansbuy-sneakers/"
       },
       {
         "title": "Fansbuy Sneakers 2026",
         "excerpt": "Comprehensive guide to shoes available on Fansbuy with quality data, sizing tips, and buyer reviews.",
-        "link": "/fansbuy%20sneakers%202026/"
+        "link": "/fansbuy-sneakers-2026/"
       },
       {
         "title": "Fansbuy Sneakers Guide",
         "excerpt": "Comprehensive guide to shoes available on Fansbuy with quality data, sizing tips, and buyer reviews.",
-        "link": "/fansbuy%20sneakers%20guide/"
+        "link": "/fansbuy-sneakers-guide/"
       },
       {
         "title": "Fansbuy Soccer Gear",
         "excerpt": "Professional soccer and football boots with stud configurations, fit guides, and quality ratings.",
-        "link": "/fansbuy%20soccer%20gear/"
+        "link": "/fansbuy-soccer-gear/"
       },
       {
         "title": "Fansbuy Soccer Shoes",
         "excerpt": "Professional soccer and football boots with stud configurations, fit guides, and quality ratings.",
-        "link": "/fansbuy%20soccer%20shoes/"
+        "link": "/fansbuy-soccer-shoes/"
       },
       {
         "title": "Fansbuy Streetwear Shoes",
         "excerpt": "Streetwear-inspired sneakers with style trends, quality verification, and community feedback.",
-        "link": "/fansbuy%20streetwear%20shoes/"
+        "link": "/fansbuy-streetwear-shoes/"
       },
       {
         "title": "Fansbuy Tennis Gear",
         "excerpt": "Tennis shoes with court-specific traction, support features, and player performance data.",
-        "link": "/fansbuy%20tennis%20gear/"
+        "link": "/fansbuy-tennis-gear/"
       },
       {
         "title": "Fansbuy Tennis Shoes",
         "excerpt": "Tennis shoes with court-specific traction, support features, and player performance data.",
-        "link": "/fansbuy%20tennis%20shoes/"
+        "link": "/fansbuy-tennis-shoes/"
       },
       {
         "title": "Fansbuy Vapormax",
         "excerpt": "Nike VaporMax with air sole technology, comfort ratings, and style variations guide.",
-        "link": "/fansbuy%20vapormax/"
+        "link": "/fansbuy-vapormax/"
       },
       {
         "title": "Fansbuy Women Shoes",
         "excerpt": "Women-specific shoe collection with proper fit, style options, and comfort ratings.",
-        "link": "/fansbuy%20women%20shoes/"
+        "link": "/fansbuy-women-shoes/"
       },
       {
         "title": "Fansbuy Women Sizes",
         "excerpt": "Women-specific shoe collection with proper fit, style options, and comfort ratings.",
-        "link": "/fansbuy%20women%20sizes/"
+        "link": "/fansbuy-women-sizes/"
       },
       {
         "title": "Fansbuy Xxl Shoes",
         "excerpt": "Extended size footwear options with quality data, availability, and fit recommendations.",
-        "link": "/fansbuy%20xxl%20shoes/"
+        "link": "/fansbuy-xxl-shoes/"
       },
       {
         "title": "Fansbuy Xxl Sizes",
         "excerpt": "Extended size footwear options with quality data, availability, and fit recommendations.",
-        "link": "/fansbuy%20xxl%20sizes/"
+        "link": "/fansbuy-xxl-sizes/"
       }
     ]
   },
@@ -471,237 +471,237 @@ const articleSeries = [
       {
         "title": "Fansbuy Budget Clothes",
         "excerpt": "Explore clothing options on Fansbuy with quality comparisons, sizing guides, and style recommendations.",
-        "link": "/fansbuy%20budget%20clothes/"
+        "link": "/fansbuy-budget-clothes/"
       },
       {
         "title": "Fansbuy Budget T-Shirts",
         "excerpt": "Explore clothing options on Fansbuy with quality comparisons, sizing guides, and style recommendations.",
-        "link": "/fansbuy%20budget%20t-shirts/"
+        "link": "/fansbuy-budget-t-shirts/"
       },
       {
         "title": "Fansbuy Cheap Clothes",
         "excerpt": "Explore clothing options on Fansbuy with quality comparisons, sizing guides, and style recommendations.",
-        "link": "/fansbuy%20cheap%20clothes/"
+        "link": "/fansbuy-cheap-clothes/"
       },
       {
         "title": "Fansbuy Cheap Hoodies",
         "excerpt": "Explore clothing options on Fansbuy with quality comparisons, sizing guides, and style recommendations.",
-        "link": "/fansbuy%20cheap%20hoodies/"
+        "link": "/fansbuy-cheap-hoodies/"
       },
       {
         "title": "Fansbuy Cheap T-Shirts",
         "excerpt": "Explore clothing options on Fansbuy with quality comparisons, sizing guides, and style recommendations.",
-        "link": "/fansbuy%20cheap%20t-shirts/"
+        "link": "/fansbuy-cheap-t-shirts/"
       },
       {
         "title": "Fansbuy Clothes",
         "excerpt": "Explore streetwear, hoodies, t-shirts, jeans, and seasonal clothing collections.",
-        "link": "/fansbuy%20clothes/"
+        "link": "/fansbuy-clothes/"
       },
       {
         "title": "Fansbuy Clothes 2026",
         "excerpt": "Explore clothing options on Fansbuy with quality comparisons, sizing guides, and style recommendations.",
-        "link": "/fansbuy%20clothes%202026/"
+        "link": "/fansbuy-clothes-2026/"
       },
       {
         "title": "Fansbuy Clothing Guide",
         "excerpt": "Explore clothing options on Fansbuy with quality comparisons, sizing guides, and style recommendations.",
-        "link": "/fansbuy%20clothing%20guide/"
+        "link": "/fansbuy-clothing-guide/"
       },
       {
         "title": "Fansbuy Fall Clothes",
         "excerpt": "Cold weather clothing with insulation data, layering tips, and quality ratings.",
-        "link": "/fansbuy%20fall%20clothes/"
+        "link": "/fansbuy-fall-clothes/"
       },
       {
         "title": "Fansbuy Fashion Clothes",
         "excerpt": "Fashion-forward clothing pieces with trend analysis, quality data, and styling tips.",
-        "link": "/fansbuy%20fashion%20clothes/"
+        "link": "/fansbuy-fashion-clothes/"
       },
       {
         "title": "Fansbuy Football T-Shirt",
         "excerpt": "Quality t-shirts covering fabric types, print durability, and sizing accuracy data.",
-        "link": "/fansbuy%20football%20t-shirt/"
+        "link": "/fansbuy-football-t-shirt/"
       },
       {
         "title": "Fansbuy Girls Clothes",
         "excerpt": "Women clothing collection with proper fit, style trends, and quality verification.",
-        "link": "/fansbuy%20girls%20clothes/"
+        "link": "/fansbuy-girls-clothes/"
       },
       {
         "title": "Fansbuy Gym Clothes",
         "excerpt": "Gym clothing with moisture-wicking technology, flexibility data, and durability ratings.",
-        "link": "/fansbuy%20gym%20clothes/"
+        "link": "/fansbuy-gym-clothes/"
       },
       {
         "title": "Fansbuy Hats",
         "excerpt": "Headwear collection including caps, beanies, and bucket hats with quality data.",
-        "link": "/fansbuy%20hats/"
+        "link": "/fansbuy-hats/"
       },
       {
         "title": "Fansbuy Hats Guide",
         "excerpt": "Headwear collection including caps, beanies, and bucket hats with quality data.",
-        "link": "/fansbuy%20hats%20guide/"
+        "link": "/fansbuy-hats-guide/"
       },
       {
         "title": "Fansbuy Headwear",
         "excerpt": "Headwear collection including caps, beanies, and bucket hats with quality data.",
-        "link": "/fansbuy%20headwear/"
+        "link": "/fansbuy-headwear/"
       },
       {
         "title": "Fansbuy Hoodie",
         "excerpt": "Premium hoodies from top brands with fabric weight, fit guide, and quality comparisons.",
-        "link": "/fansbuy%20hoodie/"
+        "link": "/fansbuy-hoodie/"
       },
       {
         "title": "Fansbuy Hoodie Guide",
         "excerpt": "Premium hoodies from top brands with fabric weight, fit guide, and quality comparisons.",
-        "link": "/fansbuy%20hoodie%20guide/"
+        "link": "/fansbuy-hoodie-guide/"
       },
       {
         "title": "Fansbuy Hoodies",
         "excerpt": "Premium hoodies from top brands with quality specs, pricing, and sizing information.",
-        "link": "/fansbuy%20hoodies/"
+        "link": "/fansbuy-hoodies/"
       },
       {
         "title": "Fansbuy Jacket",
         "excerpt": "Jackets collection covering materials, weather resistance, and style versatility.",
-        "link": "/fansbuy%20jacket/"
+        "link": "/fansbuy-jacket/"
       },
       {
         "title": "Fansbuy Jacket Guide",
         "excerpt": "Jackets collection covering materials, weather resistance, and style versatility.",
-        "link": "/fansbuy%20jacket%20guide/"
+        "link": "/fansbuy-jacket-guide/"
       },
       {
         "title": "Fansbuy Jackets",
         "excerpt": "Explore clothing options on Fansbuy with quality comparisons, sizing guides, and style recommendations.",
-        "link": "/fansbuy%20jackets/"
+        "link": "/fansbuy-jackets/"
       },
       {
         "title": "Fansbuy Jeans",
         "excerpt": "Denim jeans guide with fit types, fabric composition, and quality verification tips.",
-        "link": "/fansbuy%20jeans/"
+        "link": "/fansbuy-jeans/"
       },
       {
         "title": "Fansbuy Jeans Guide",
         "excerpt": "Denim jeans guide with fit types, fabric composition, and quality verification tips.",
-        "link": "/fansbuy%20jeans%20guide/"
+        "link": "/fansbuy-jeans-guide/"
       },
       {
         "title": "Fansbuy Jorts",
         "excerpt": "Denim jorts with length options, wash variations, and quality verification guide.",
-        "link": "/fansbuy%20jorts/"
+        "link": "/fansbuy-jorts/"
       },
       {
         "title": "Fansbuy Kids Clothes",
         "excerpt": "Kids clothing with durable materials, safety standards, and size guide information.",
-        "link": "/fansbuy%20kids%20clothes/"
+        "link": "/fansbuy-kids-clothes/"
       },
       {
         "title": "Fansbuy Men Clothes",
         "excerpt": "Men clothing selection covering casual, athletic, and streetwear with quality data.",
-        "link": "/fansbuy%20men%20clothes/"
+        "link": "/fansbuy-men-clothes/"
       },
       {
         "title": "Fansbuy Pants",
         "excerpt": "Pants selection covering casual, athletic, and streetwear styles with quality ratings.",
-        "link": "/fansbuy%20pants/"
+        "link": "/fansbuy-pants/"
       },
       {
         "title": "Fansbuy Polo",
         "excerpt": "Polo shirts from classic brands with collar quality, fabric weight, and fit data.",
-        "link": "/fansbuy%20polo/"
+        "link": "/fansbuy-polo/"
       },
       {
         "title": "Fansbuy Polo Shirt",
         "excerpt": "Shirts collection including casual, formal, and streetwear options with fabric details.",
-        "link": "/fansbuy%20polo%20shirt/"
+        "link": "/fansbuy-polo-shirt/"
       },
       {
         "title": "Fansbuy Purple Jeans",
         "excerpt": "Denim jeans guide with fit types, fabric composition, and quality verification tips.",
-        "link": "/fansbuy%20purple%20jeans/"
+        "link": "/fansbuy-purple-jeans/"
       },
       {
         "title": "Fansbuy Shirt",
         "excerpt": "Shirts collection including casual, formal, and streetwear options with fabric details.",
-        "link": "/fansbuy%20shirt/"
+        "link": "/fansbuy-shirt/"
       },
       {
         "title": "Fansbuy Shirts",
         "excerpt": "Explore clothing options on Fansbuy with quality comparisons, sizing guides, and style recommendations.",
-        "link": "/fansbuy%20shirts/"
+        "link": "/fansbuy-shirts/"
       },
       {
         "title": "Fansbuy Shorts",
         "excerpt": "Shorts collection for various activities with length options, fabric data, and fit guide.",
-        "link": "/fansbuy%20shorts/"
+        "link": "/fansbuy-shorts/"
       },
       {
         "title": "Fansbuy Sports Clothes",
         "excerpt": "Explore clothing options on Fansbuy with quality comparisons, sizing guides, and style recommendations.",
-        "link": "/fansbuy%20sports%20clothes/"
+        "link": "/fansbuy-sports-clothes/"
       },
       {
         "title": "Fansbuy Spring Clothes",
         "excerpt": "Warm weather clothing with breathable fabrics, UV protection, and style options.",
-        "link": "/fansbuy%20spring%20clothes/"
+        "link": "/fansbuy-spring-clothes/"
       },
       {
         "title": "Fansbuy Summer Clothes",
         "excerpt": "Warm weather clothing with breathable fabrics, UV protection, and style options.",
-        "link": "/fansbuy%20summer%20clothes/"
+        "link": "/fansbuy-summer-clothes/"
       },
       {
         "title": "Fansbuy Sweatpants",
         "excerpt": "Comfortable sweatpants with fleece options, elastic quality, and style variations.",
-        "link": "/fansbuy%20sweatpants/"
+        "link": "/fansbuy-sweatpants/"
       },
       {
         "title": "Fansbuy T-Shirt",
         "excerpt": "Quality t-shirts covering fabric types, print durability, and sizing accuracy data.",
-        "link": "/fansbuy%20t-shirt/"
+        "link": "/fansbuy-t-shirt/"
       },
       {
         "title": "Fansbuy T-Shirt Guide",
         "excerpt": "Quality t-shirts covering fabric types, print durability, and sizing accuracy data.",
-        "link": "/fansbuy%20t-shirt%20guide/"
+        "link": "/fansbuy-t-shirt-guide/"
       },
       {
         "title": "Fansbuy T-Shirts",
         "excerpt": "Branded t-shirts guide covering fabrics, fits, and popular streetwear options.",
-        "link": "/fansbuy%20t-shirts/"
+        "link": "/fansbuy-t-shirts/"
       },
       {
         "title": "Fansbuy Tech Fleece",
         "excerpt": "Explore clothing options on Fansbuy with quality comparisons, sizing guides, and style recommendations.",
-        "link": "/fansbuy%20tech%20fleece/"
+        "link": "/fansbuy-tech-fleece/"
       },
       {
         "title": "Fansbuy Tracksuit",
         "excerpt": "Complete tracksuits with matching sets, fabric quality, and athletic performance data.",
-        "link": "/fansbuy%20tracksuit/"
+        "link": "/fansbuy-tracksuit/"
       },
       {
         "title": "Fansbuy Tracksuit Guide",
         "excerpt": "Complete tracksuits with matching sets, fabric quality, and athletic performance data.",
-        "link": "/fansbuy%20tracksuit%20guide/"
+        "link": "/fansbuy-tracksuit-guide/"
       },
       {
         "title": "Fansbuy Vest",
         "excerpt": "Vests collection for layering with insulation data, fit guide, and style options.",
-        "link": "/fansbuy%20vest/"
+        "link": "/fansbuy-vest/"
       },
       {
         "title": "Fansbuy Winter Clothes",
         "excerpt": "Cold weather clothing with insulation data, layering tips, and quality ratings.",
-        "link": "/fansbuy%20winter%20clothes/"
+        "link": "/fansbuy-winter-clothes/"
       },
       {
         "title": "Fansbuy Women Clothes",
         "excerpt": "Women clothing collection with proper fit, style trends, and quality verification.",
-        "link": "/fansbuy%20women%20clothes/"
+        "link": "/fansbuy-women-clothes/"
       }
     ]
   },
@@ -711,147 +711,147 @@ const articleSeries = [
       {
         "title": "Fansbuy Accessories",
         "excerpt": "Hats, sunglasses, jewelry, socks, and essential accessories to complete your style.",
-        "link": "/fansbuy%20accessories/"
+        "link": "/fansbuy-accessories/"
       },
       {
         "title": "Fansbuy Accessories Guide",
         "excerpt": "Quality bags and accessories guide with product comparisons and buyer satisfaction data.",
-        "link": "/fansbuy%20accessories%20guide/"
+        "link": "/fansbuy-accessories-guide/"
       },
       {
         "title": "Fansbuy Apple Watch",
         "excerpt": "Watches with movement types, water resistance data, and style comparisons.",
-        "link": "/fansbuy%20apple%20watch/"
+        "link": "/fansbuy-apple-watch/"
       },
       {
         "title": "Fansbuy Backpack",
         "excerpt": "Durable backpacks with capacity specs, compartment layout, and comfort ratings.",
-        "link": "/fansbuy%20backpack/"
+        "link": "/fansbuy-backpack/"
       },
       {
         "title": "Fansbuy Bags",
         "excerpt": "Backpacks, handbags, wallets, and crossbody bags with quality comparisons.",
-        "link": "/fansbuy%20bags/"
+        "link": "/fansbuy-bags/"
       },
       {
         "title": "Fansbuy Bags Guide",
         "excerpt": "Quality bags and accessories guide with product comparisons and buyer satisfaction data.",
-        "link": "/fansbuy%20bags%20guide/"
+        "link": "/fansbuy-bags-guide/"
       },
       {
         "title": "Fansbuy Belt",
         "excerpt": "Belts with buckle quality, material options, and sizing guide for proper fit.",
-        "link": "/fansbuy%20belt/"
+        "link": "/fansbuy-belt/"
       },
       {
         "title": "Fansbuy Budget Accessories",
         "excerpt": "Quality bags and accessories guide with product comparisons and buyer satisfaction data.",
-        "link": "/fansbuy%20budget%20accessories/"
+        "link": "/fansbuy-budget-accessories/"
       },
       {
         "title": "Fansbuy Budget Bags",
         "excerpt": "Quality bags and accessories guide with product comparisons and buyer satisfaction data.",
-        "link": "/fansbuy%20budget%20bags/"
+        "link": "/fansbuy-budget-bags/"
       },
       {
         "title": "Fansbuy Caps",
         "excerpt": "Caps collection with fit adjustments, material quality, and style variations.",
-        "link": "/fansbuy%20caps/"
+        "link": "/fansbuy-caps/"
       },
       {
         "title": "Fansbuy Cheap Accessories",
         "excerpt": "Quality bags and accessories guide with product comparisons and buyer satisfaction data.",
-        "link": "/fansbuy%20cheap%20accessories/"
+        "link": "/fansbuy-cheap-accessories/"
       },
       {
         "title": "Fansbuy Cheap Bags",
         "excerpt": "Quality bags and accessories guide with product comparisons and buyer satisfaction data.",
-        "link": "/fansbuy%20cheap%20bags/"
+        "link": "/fansbuy-cheap-bags/"
       },
       {
         "title": "Fansbuy Earrings",
         "excerpt": "Earrings with material safety, design options, and comfort ratings for daily wear.",
-        "link": "/fansbuy%20earrings/"
+        "link": "/fansbuy-earrings/"
       },
       {
         "title": "Fansbuy Glasses",
         "excerpt": "Sunglasses with UV protection data, frame quality, and style options guide.",
-        "link": "/fansbuy%20glasses/"
+        "link": "/fansbuy-glasses/"
       },
       {
         "title": "Fansbuy Gloves",
         "excerpt": "Gloves collection with insulation data, grip performance, and touchscreen compatibility.",
-        "link": "/fansbuy%20gloves/"
+        "link": "/fansbuy-gloves/"
       },
       {
         "title": "Fansbuy Handbag",
         "excerpt": "Handbags and purses with material quality, size options, and style versatility.",
-        "link": "/fansbuy%20handbag/"
+        "link": "/fansbuy-handbag/"
       },
       {
         "title": "Fansbuy Iphone Case",
         "excerpt": "Quality bags and accessories guide with product comparisons and buyer satisfaction data.",
-        "link": "/fansbuy%20iphone%20case/"
+        "link": "/fansbuy-iphone-case/"
       },
       {
         "title": "Fansbuy Jewelry",
         "excerpt": "Jewelry collection with material quality, hypoallergenic data, and style variations.",
-        "link": "/fansbuy%20jewelry/"
+        "link": "/fansbuy-jewelry/"
       },
       {
         "title": "Fansbuy LV Bag",
         "excerpt": "Designer bags with authentication tips, material quality, and value comparisons.",
-        "link": "/fansbuy%20lv%20bag/"
+        "link": "/fansbuy-lv-bag/"
       },
       {
         "title": "Fansbuy Mobile Accessories",
         "excerpt": "Quality bags and accessories guide with product comparisons and buyer satisfaction data.",
-        "link": "/fansbuy%20mobile%20accessories/"
+        "link": "/fansbuy-mobile-accessories/"
       },
       {
         "title": "Fansbuy Phone Accessories",
         "excerpt": "Phone accessories with compatibility data, protection ratings, and quality verification.",
-        "link": "/fansbuy%20phone%20accessories/"
+        "link": "/fansbuy-phone-accessories/"
       },
       {
         "title": "Fansbuy Phone Case",
         "excerpt": "Phone accessories with compatibility data, protection ratings, and quality verification.",
-        "link": "/fansbuy%20phone%20case/"
+        "link": "/fansbuy-phone-case/"
       },
       {
         "title": "Fansbuy Purse",
         "excerpt": "Handbags and purses with material quality, size options, and style versatility.",
-        "link": "/fansbuy%20purse/"
+        "link": "/fansbuy-purse/"
       },
       {
         "title": "Fansbuy Socks",
         "excerpt": "Quality socks with material composition, cushioning data, and durability ratings.",
-        "link": "/fansbuy%20socks/"
+        "link": "/fansbuy-socks/"
       },
       {
         "title": "Fansbuy Sunglasses",
         "excerpt": "Sunglasses with UV protection data, frame quality, and style options guide.",
-        "link": "/fansbuy%20sunglasses/"
+        "link": "/fansbuy-sunglasses/"
       },
       {
         "title": "Fansbuy Wallet",
         "excerpt": "Wallets collection with card capacity, material durability, and design options.",
-        "link": "/fansbuy%20wallet/"
+        "link": "/fansbuy-wallet/"
       },
       {
         "title": "Fansbuy Watch",
         "excerpt": "Watches with movement types, water resistance data, and style comparisons.",
-        "link": "/fansbuy%20watch/"
+        "link": "/fansbuy-watch/"
       },
       {
         "title": "Fansbuy Watches",
         "excerpt": "Quality bags and accessories guide with product comparisons and buyer satisfaction data.",
-        "link": "/fansbuy%20watches/"
+        "link": "/fansbuy-watches/"
       },
       {
         "title": "Fansbuy Watches Guide",
         "excerpt": "Quality bags and accessories guide with product comparisons and buyer satisfaction data.",
-        "link": "/fansbuy%20watches%20guide/"
+        "link": "/fansbuy-watches-guide/"
       }
     ]
   },
@@ -861,227 +861,227 @@ const articleSeries = [
       {
         "title": "Fansbuy Adidas",
         "excerpt": "Adidas sneakers including Samba, Gazelle, Superstar, and Yeezy collections.",
-        "link": "/fansbuy%20adidas/"
+        "link": "/fansbuy-adidas/"
       },
       {
         "title": "Fansbuy Adidas Guide",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20adidas%20guide/"
+        "link": "/fansbuy-adidas-guide/"
       },
       {
         "title": "Fansbuy Adidas Superstar",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20adidas%20superstar/"
+        "link": "/fansbuy-adidas-superstar/"
       },
       {
         "title": "Fansbuy Alo",
         "excerpt": "Alo yoga wear with performance fabrics, fit guide, and athleisure style options.",
-        "link": "/fansbuy%20alo/"
+        "link": "/fansbuy-alo/"
       },
       {
         "title": "Fansbuy Arcteryx",
         "excerpt": "Arc'teryx technical gear with weather protection, durability data, and outdoor performance.",
-        "link": "/fansbuy%20arcteryx/"
+        "link": "/fansbuy-arcteryx/"
       },
       {
         "title": "Fansbuy BAPE",
         "excerpt": "BAPE streetwear with ape head designs, quality data, and authentication tips.",
-        "link": "/fansbuy%20bape/"
+        "link": "/fansbuy-bape/"
       },
       {
         "title": "Fansbuy Carhartt",
         "excerpt": "Carhartt workwear with durability data, material quality, and rugged style options.",
-        "link": "/fansbuy%20carhartt/"
+        "link": "/fansbuy-carhartt/"
       },
       {
         "title": "Fansbuy Casablanca",
         "excerpt": "Casablanca collection with vibrant patterns, quality ratings, and style versatility.",
-        "link": "/fansbuy%20casablanca/"
+        "link": "/fansbuy-casablanca/"
       },
       {
         "title": "Fansbuy Chrome Hearts",
         "excerpt": "Premium Chrome Hearts hoodies, t-shirts, jeans, and accessories guide.",
-        "link": "/fansbuy%20chrome%20hearts/"
+        "link": "/fansbuy-chrome-hearts/"
       },
       {
         "title": "Fansbuy Corteiz",
         "excerpt": "Corteiz streetwear with exclusive designs, quality data, and community feedback.",
-        "link": "/fansbuy%20corteiz/"
+        "link": "/fansbuy-corteiz/"
       },
       {
         "title": "Fansbuy Denim Tears",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20denim%20tears/"
+        "link": "/fansbuy-denim-tears/"
       },
       {
         "title": "Fansbuy EA7",
         "excerpt": "Emporio Armani EA7 athletic wear with performance data and luxury sport style.",
-        "link": "/fansbuy%20ea7/"
+        "link": "/fansbuy-ea7/"
       },
       {
         "title": "Fansbuy Ed Hardy",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20ed%20hardy/"
+        "link": "/fansbuy-ed-hardy/"
       },
       {
         "title": "Fansbuy Eric Emanuel",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20eric%20emanuel/"
+        "link": "/fansbuy-eric-emanuel/"
       },
       {
         "title": "Fansbuy Essentials",
         "excerpt": "Fear of God Essentials collection: hoodies, t-shirts, joggers, and shorts.",
-        "link": "/fansbuy%20essentials/"
+        "link": "/fansbuy-essentials/"
       },
       {
         "title": "Fansbuy Gallery Dept",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20gallery%20dept/"
+        "link": "/fansbuy-gallery-dept/"
       },
       {
         "title": "Fansbuy Gymshark",
         "excerpt": "Gymshark athletic wear with performance fabrics, fit guide, and workout recommendations.",
-        "link": "/fansbuy%20gymshark/"
+        "link": "/fansbuy-gymshark/"
       },
       {
         "title": "Fansbuy Hellstar",
         "excerpt": "Hellstar streetwear with edgy designs, quality ratings, and sizing information.",
-        "link": "/fansbuy%20hellstar/"
+        "link": "/fansbuy-hellstar/"
       },
       {
         "title": "Fansbuy Jordan",
         "excerpt": "Jordan 1, 3, 4, 5, 11 and more with quality data and sizing tips.",
-        "link": "/fansbuy%20jordan/"
+        "link": "/fansbuy-jordan/"
       },
       {
         "title": "Fansbuy Juicy Couture",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20juicy%20couture/"
+        "link": "/fansbuy-juicy-couture/"
       },
       {
         "title": "Fansbuy Lacoste",
         "excerpt": "Lacoste collection with polo heritage, quality data, and French sportswear style.",
-        "link": "/fansbuy%20lacoste/"
+        "link": "/fansbuy-lacoste/"
       },
       {
         "title": "Fansbuy Mertra",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20mertra/"
+        "link": "/fansbuy-mertra/"
       },
       {
         "title": "Fansbuy Moncler",
         "excerpt": "Moncler luxury puffers with down fill data, quality verification, and style guide.",
-        "link": "/fansbuy%20moncler/"
+        "link": "/fansbuy-moncler/"
       },
       {
         "title": "Fansbuy Nike",
         "excerpt": "Complete Nike collection guide: Air Force 1, Air Max, Dunk, TN, and tech fleece.",
-        "link": "/fansbuy%20nike/"
+        "link": "/fansbuy-nike/"
       },
       {
         "title": "Fansbuy Nike Air Force 1",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20nike%20air%20force%201/"
+        "link": "/fansbuy-nike-air-force-1/"
       },
       {
         "title": "Fansbuy Nike Air Max",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20nike%20air%20max/"
+        "link": "/fansbuy-nike-air-max/"
       },
       {
         "title": "Fansbuy Nike Tn",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20nike%20tn/"
+        "link": "/fansbuy-nike-tn/"
       },
       {
         "title": "Fansbuy Nocta",
         "excerpt": "Drake's Nocta collection with Nike collaboration, quality data, and limited edition guide.",
-        "link": "/fansbuy%20nocta/"
+        "link": "/fansbuy-nocta/"
       },
       {
         "title": "Fansbuy North Face",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20north%20face/"
+        "link": "/fansbuy-north-face/"
       },
       {
         "title": "Fansbuy Oakley",
         "excerpt": "Oakley eyewear with lens technology, UV protection data, and sport-specific options.",
-        "link": "/fansbuy%20oakley/"
+        "link": "/fansbuy-oakley/"
       },
       {
         "title": "Fansbuy Palm Angels",
         "excerpt": "Luxury streetwear from Palm Angels with hoodies, tracksuits, and jeans.",
-        "link": "/fansbuy%20palm%20angels/"
+        "link": "/fansbuy-palm-angels/"
       },
       {
         "title": "Fansbuy Polo Ralph Lauren",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20polo%20ralph%20lauren/"
+        "link": "/fansbuy-polo-ralph-lauren/"
       },
       {
         "title": "Fansbuy Ralph Lauren",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20ralph%20lauren/"
+        "link": "/fansbuy-ralph-lauren/"
       },
       {
         "title": "Fansbuy Sp5der",
         "excerpt": "Sp5der collection with web designs, quality data, and streetwear style guide.",
-        "link": "/fansbuy%20sp5der/"
+        "link": "/fansbuy-sp5der/"
       },
       {
         "title": "Fansbuy Spider",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20spider/"
+        "link": "/fansbuy-spider/"
       },
       {
         "title": "Fansbuy Stussy",
         "excerpt": "Stussy streetwear collection with authentic designs, quality data, and style guide.",
-        "link": "/fansbuy%20stussy/"
+        "link": "/fansbuy-stussy/"
       },
       {
         "title": "Fansbuy Supreme",
         "excerpt": "Supreme collection with box logo items, quality verification, and release tracking.",
-        "link": "/fansbuy%20supreme/"
+        "link": "/fansbuy-supreme/"
       },
       {
         "title": "Fansbuy Supreme Hoodie",
         "excerpt": "Supreme collection with box logo items, quality verification, and release tracking.",
-        "link": "/fansbuy%20supreme%20hoodie/"
+        "link": "/fansbuy-supreme-hoodie/"
       },
       {
         "title": "Fansbuy The North Face",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20the%20north%20face/"
+        "link": "/fansbuy-the-north-face/"
       },
       {
         "title": "Fansbuy Trapstar",
         "excerpt": "Trapstar collection with London street style, quality ratings, and sizing guide.",
-        "link": "/fansbuy%20trapstar/"
+        "link": "/fansbuy-trapstar/"
       },
       {
         "title": "Fansbuy True Religion",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20true%20religion/"
+        "link": "/fansbuy-true-religion/"
       },
       {
         "title": "Fansbuy Venum",
         "excerpt": "Venum fight gear with MMA quality data, durability ratings, and performance specs.",
-        "link": "/fansbuy%20venum/"
+        "link": "/fansbuy-venum/"
       },
       {
         "title": "Fansbuy Vivienne Westwood",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20vivienne%20westwood/"
+        "link": "/fansbuy-vivienne-westwood/"
       },
       {
         "title": "Fansbuy Vlone",
         "excerpt": "Vlone streetwear with orange logo, quality verification, and authentication tips.",
-        "link": "/fansbuy%20vlone/"
+        "link": "/fansbuy-vlone/"
       },
       {
         "title": "Fansbuy Youngla",
         "excerpt": "YoungLA gym clothing with muscle fit designs, quality data, and style options.",
-        "link": "/fansbuy%20youngla/"
+        "link": "/fansbuy-youngla/"
       }
     ]
   },
@@ -1091,187 +1091,187 @@ const articleSeries = [
       {
         "title": "Fansbuy Alexander Mcqueen",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20alexander%20mcqueen/"
+        "link": "/fansbuy-alexander-mcqueen/"
       },
       {
         "title": "Fansbuy Ami",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20ami/"
+        "link": "/fansbuy-ami/"
       },
       {
         "title": "Fansbuy Amiri",
         "excerpt": "Amiri luxury streetwear with distressed denim, quality data, and pricing guide.",
-        "link": "/fansbuy%20amiri/"
+        "link": "/fansbuy-amiri/"
       },
       {
         "title": "Fansbuy Audemars Piguet",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20audemars%20piguet/"
+        "link": "/fansbuy-audemars-piguet/"
       },
       {
         "title": "Fansbuy Balenciaga",
         "excerpt": "Balenciaga streetwear-luxury with oversized fits, quality data, and style guide.",
-        "link": "/fansbuy%20balenciaga/"
+        "link": "/fansbuy-balenciaga/"
       },
       {
         "title": "Fansbuy Balenciaga Slides",
         "excerpt": "Balenciaga streetwear-luxury with oversized fits, quality data, and style guide.",
-        "link": "/fansbuy%20balenciaga%20slides/"
+        "link": "/fansbuy-balenciaga-slides/"
       },
       {
         "title": "Fansbuy Balenciaga Track",
         "excerpt": "Balenciaga streetwear-luxury with oversized fits, quality data, and style guide.",
-        "link": "/fansbuy%20balenciaga%20track/"
+        "link": "/fansbuy-balenciaga-track/"
       },
       {
         "title": "Fansbuy Burberry",
         "excerpt": "Burberry collection with check pattern, quality data, and British heritage style.",
-        "link": "/fansbuy%20burberry/"
+        "link": "/fansbuy-burberry/"
       },
       {
         "title": "Fansbuy Burberry Hoodie",
         "excerpt": "Burberry collection with check pattern, quality data, and British heritage style.",
-        "link": "/fansbuy%20burberry%20hoodie/"
+        "link": "/fansbuy-burberry-hoodie/"
       },
       {
         "title": "Fansbuy Cartier",
         "excerpt": "Cartier luxury watches and jewelry with authentication tips and quality verification.",
-        "link": "/fansbuy%20cartier/"
+        "link": "/fansbuy-cartier/"
       },
       {
         "title": "Fansbuy Celine",
         "excerpt": "Celine collection with minimalist luxury, quality verification, and Parisian style.",
-        "link": "/fansbuy%20celine/"
+        "link": "/fansbuy-celine/"
       },
       {
         "title": "Fansbuy Chanel",
         "excerpt": "Chanel luxury pieces with quilted patterns, authentication tips, and investment value.",
-        "link": "/fansbuy%20chanel/"
+        "link": "/fansbuy-chanel/"
       },
       {
         "title": "Fansbuy Dior",
         "excerpt": "Dior collection with oblique pattern, quality verification, and style comparisons.",
-        "link": "/fansbuy%20dior/"
+        "link": "/fansbuy-dior/"
       },
       {
         "title": "Fansbuy Dior B30",
         "excerpt": "Dior collection with oblique pattern, quality verification, and style comparisons.",
-        "link": "/fansbuy%20dior%20b30/"
+        "link": "/fansbuy-dior-b30/"
       },
       {
         "title": "Fansbuy Fendi",
         "excerpt": "Fendi collection with FF monogram, quality ratings, and style versatility guide.",
-        "link": "/fansbuy%20fendi/"
+        "link": "/fansbuy-fendi/"
       },
       {
         "title": "Fansbuy Givenchy",
         "excerpt": "Givenchy pieces with edgy designs, quality verification, and streetwear-luxury fusion.",
-        "link": "/fansbuy%20givenchy/"
+        "link": "/fansbuy-givenchy/"
       },
       {
         "title": "Fansbuy Gucci",
         "excerpt": "Complete Gucci collection on Fansbuy including Ace sneakers, belts, bags, and seasonal apparel.",
-        "link": "/fansbuy%20gucci/"
+        "link": "/fansbuy-gucci/"
       },
       {
         "title": "Fansbuy Hermes",
         "excerpt": "Hermes luxury goods with craftsmanship data, authentication guide, and investment value.",
-        "link": "/fansbuy%20hermes/"
+        "link": "/fansbuy-hermes/"
       },
       {
         "title": "Fansbuy Isabel Marant",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20isabel%20marant/"
+        "link": "/fansbuy-isabel-marant/"
       },
       {
         "title": "Fansbuy Kenzo",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20kenzo/"
+        "link": "/fansbuy-kenzo/"
       },
       {
         "title": "Fansbuy Lanvin",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20lanvin/"
+        "link": "/fansbuy-lanvin/"
       },
       {
         "title": "Fansbuy Louboutin",
         "excerpt": "Christian Louboutin shoes with red sole authentication, quality data, and sizing guide.",
-        "link": "/fansbuy%20louboutin/"
+        "link": "/fansbuy-louboutin/"
       },
       {
         "title": "Fansbuy Louis Vuitton",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20louis%20vuitton/"
+        "link": "/fansbuy-louis-vuitton/"
       },
       {
         "title": "Fansbuy LV Skate",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20lv%20skate/"
+        "link": "/fansbuy-lv-skate/"
       },
       {
         "title": "Fansbuy Michael Kors",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20michael%20kors/"
+        "link": "/fansbuy-michael-kors/"
       },
       {
         "title": "Fansbuy Miu Miu",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20miu%20miu/"
+        "link": "/fansbuy-miu-miu/"
       },
       {
         "title": "Fansbuy Off White",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20off%20white/"
+        "link": "/fansbuy-off-white/"
       },
       {
         "title": "Fansbuy Prada",
         "excerpt": "Prada luxury items with nylon collection, leather quality, and authentication guide.",
-        "link": "/fansbuy%20prada/"
+        "link": "/fansbuy-prada/"
       },
       {
         "title": "Fansbuy Rick Owens",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20rick%20owens/"
+        "link": "/fansbuy-rick-owens/"
       },
       {
         "title": "Fansbuy Rolex",
         "excerpt": "Rolex watches with movement specifications, authentication tips, and investment value.",
-        "link": "/fansbuy%20rolex/"
+        "link": "/fansbuy-rolex/"
       },
       {
         "title": "Fansbuy Tissot",
         "excerpt": "Tissot watches with Swiss movement data, style options, and value comparisons.",
-        "link": "/fansbuy%20tissot/"
+        "link": "/fansbuy-tissot/"
       },
       {
         "title": "Fansbuy Tommy Hilfiger",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20tommy%20hilfiger/"
+        "link": "/fansbuy-tommy-hilfiger/"
       },
       {
         "title": "Fansbuy Valentino",
         "excerpt": "Valentino luxury items with rockstud details, quality data, and authentication guide.",
-        "link": "/fansbuy%20valentino/"
+        "link": "/fansbuy-valentino/"
       },
       {
         "title": "Fansbuy Versace",
         "excerpt": "Versace collection with medusa logo, quality verification, and Italian craftsmanship.",
-        "link": "/fansbuy%20versace/"
+        "link": "/fansbuy-versace/"
       },
       {
         "title": "Fansbuy Victoria Secret",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20victoria%20secret/"
+        "link": "/fansbuy-victoria-secret/"
       },
       {
         "title": "Fansbuy YSL",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20ysl/"
+        "link": "/fansbuy-ysl/"
       },
       {
         "title": "Fansbuy Zara",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20zara/"
+        "link": "/fansbuy-zara/"
       }
     ]
   },
@@ -1281,117 +1281,117 @@ const articleSeries = [
       {
         "title": "Fansbuy Alpha Industries",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20alpha%20industries/"
+        "link": "/fansbuy-alpha-industries/"
       },
       {
         "title": "Fansbuy Asics",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20asics/"
+        "link": "/fansbuy-asics/"
       },
       {
         "title": "Fansbuy CDG",
         "excerpt": "Comme des Garcons with avant-garde designs, quality verification, and authentication guide.",
-        "link": "/fansbuy%20cdg/"
+        "link": "/fansbuy-cdg/"
       },
       {
         "title": "Fansbuy Coach",
         "excerpt": "Coach bags and accessories with leather quality, durability data, and style guide.",
-        "link": "/fansbuy%20coach/"
+        "link": "/fansbuy-coach/"
       },
       {
         "title": "Fansbuy Coach Bag",
         "excerpt": "Coach bags and accessories with leather quality, durability data, and style guide.",
-        "link": "/fansbuy%20coach%20bag/"
+        "link": "/fansbuy-coach-bag/"
       },
       {
         "title": "Fansbuy Cp Company",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20cp%20company/"
+        "link": "/fansbuy-cp-company/"
       },
       {
         "title": "Fansbuy Crocs",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20crocs/"
+        "link": "/fansbuy-crocs/"
       },
       {
         "title": "Fansbuy Diesel",
         "excerpt": "Diesel collection with Italian denim, quality ratings, and edgy style guide.",
-        "link": "/fansbuy%20diesel/"
+        "link": "/fansbuy-diesel/"
       },
       {
         "title": "Fansbuy Dyson",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20dyson/"
+        "link": "/fansbuy-dyson/"
       },
       {
         "title": "Fansbuy Hot Wheels",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20hot%20wheels/"
+        "link": "/fansbuy-hot-wheels/"
       },
       {
         "title": "Fansbuy JBL",
         "excerpt": "JBL audio products with sound quality data, battery life, and feature comparisons.",
-        "link": "/fansbuy%20jbl/"
+        "link": "/fansbuy-jbl/"
       },
       {
         "title": "Fansbuy JBL Speaker",
         "excerpt": "JBL audio products with sound quality data, battery life, and feature comparisons.",
-        "link": "/fansbuy%20jbl%20speaker/"
+        "link": "/fansbuy-jbl-speaker/"
       },
       {
         "title": "Fansbuy Jeremy Scott",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20jeremy%20scott/"
+        "link": "/fansbuy-jeremy-scott/"
       },
       {
         "title": "Fansbuy Kobe",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20kobe/"
+        "link": "/fansbuy-kobe/"
       },
       {
         "title": "Fansbuy Kobe 6",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20kobe%206/"
+        "link": "/fansbuy-kobe-6/"
       },
       {
         "title": "Fansbuy Labubu",
         "excerpt": "Labubu collectibles with character designs, quality data, and collector guide.",
-        "link": "/fansbuy%20labubu/"
+        "link": "/fansbuy-labubu/"
       },
       {
         "title": "Fansbuy Lego",
         "excerpt": "Lego sets with piece counts, age recommendations, and collector value guide.",
-        "link": "/fansbuy%20lego/"
+        "link": "/fansbuy-lego/"
       },
       {
         "title": "Fansbuy New Balance",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20new%20balance/"
+        "link": "/fansbuy-new-balance/"
       },
       {
         "title": "Fansbuy New Balance 9060",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20new%20balance%209060/"
+        "link": "/fansbuy-new-balance-9060/"
       },
       {
         "title": "Fansbuy Timberland",
         "excerpt": "Timberland boots with waterproof data, durability ratings, and classic style guide.",
-        "link": "/fansbuy%20timberland/"
+        "link": "/fansbuy-timberland/"
       },
       {
         "title": "Fansbuy UGG Lowmel",
         "excerpt": "UGG footwear with sheepskin quality, comfort ratings, and style variations.",
-        "link": "/fansbuy%20ugg%20lowmel/"
+        "link": "/fansbuy-ugg-lowmel/"
       },
       {
         "title": "Fansbuy Vans",
         "excerpt": "Complete brand guide on Fansbuy with product range, quality data, and pricing information.",
-        "link": "/fansbuy%20vans/"
+        "link": "/fansbuy-vans/"
       },
       {
         "title": "Fansbuy Yeezy",
         "excerpt": "Yeezy collection with Boost technology, quality verification, and sizing accuracy.",
-        "link": "/fansbuy%20yeezy/"
+        "link": "/fansbuy-yeezy/"
       }
     ]
   },
@@ -1401,172 +1401,172 @@ const articleSeries = [
       {
         "title": "Fansbuy Affordable Fashion",
         "excerpt": "Affordable fashion and luxury alternatives with quality verification and style guide.",
-        "link": "/fansbuy%20affordable%20fashion/"
+        "link": "/fansbuy-affordable-fashion/"
       },
       {
         "title": "Fansbuy Affordable Luxury",
         "excerpt": "Affordable fashion and luxury alternatives with quality verification and style guide.",
-        "link": "/fansbuy%20affordable%20luxury/"
+        "link": "/fansbuy-affordable-luxury/"
       },
       {
         "title": "Fansbuy Bargain Guide",
         "excerpt": "Money-saving guide with budget-friendly products, discount strategies, and shopping tips.",
-        "link": "/fansbuy%20bargain%20guide/"
+        "link": "/fansbuy-bargain-guide/"
       },
       {
         "title": "Fansbuy Best Deals",
         "excerpt": "Curated list of the best value products across all categories.",
-        "link": "/fansbuy%20best%20deals/"
+        "link": "/fansbuy-best-deals/"
       },
       {
         "title": "Fansbuy Best Value",
         "excerpt": "Best value products combining quality and price with buyer satisfaction data.",
-        "link": "/fansbuy%20best%20value/"
+        "link": "/fansbuy-best-value/"
       },
       {
         "title": "Fansbuy Budget Guide",
         "excerpt": "Budget-friendly products under $50 with quality data and buyer satisfaction.",
-        "link": "/fansbuy%20budget%20guide/"
+        "link": "/fansbuy-budget-guide/"
       },
       {
         "title": "Fansbuy Budget Hoodies",
         "excerpt": "Quality hoodies at budget-friendly prices with detailed specifications.",
-        "link": "/fansbuy%20budget%20hoodies/"
+        "link": "/fansbuy-budget-hoodies/"
       },
       {
         "title": "Fansbuy Budget Luxury",
         "excerpt": "Budget-friendly products under $50 with quality data and buyer satisfaction.",
-        "link": "/fansbuy%20budget%20luxury/"
+        "link": "/fansbuy-budget-luxury/"
       },
       {
         "title": "Fansbuy Budget Picks",
         "excerpt": "Best products under $25 with quality data and buyer satisfaction ratings.",
-        "link": "/fansbuy%20budget%20picks/"
+        "link": "/fansbuy-budget-picks/"
       },
       {
         "title": "Fansbuy Budget Shopping",
         "excerpt": "Budget-friendly products under $50 with quality data and buyer satisfaction.",
-        "link": "/fansbuy%20budget%20shopping/"
+        "link": "/fansbuy-budget-shopping/"
       },
       {
         "title": "Fansbuy Budget Streetwear",
         "excerpt": "Budget-friendly products under $50 with quality data and buyer satisfaction.",
-        "link": "/fansbuy%20budget%20streetwear/"
+        "link": "/fansbuy-budget-streetwear/"
       },
       {
         "title": "Fansbuy Cheap Finds",
         "excerpt": "Affordable options across categories with quality comparisons and value ratings.",
-        "link": "/fansbuy%20cheap%20finds/"
+        "link": "/fansbuy-cheap-finds/"
       },
       {
         "title": "Fansbuy Cheap Luxury",
         "excerpt": "Affordable options across categories with quality comparisons and value ratings.",
-        "link": "/fansbuy%20cheap%20luxury/"
+        "link": "/fansbuy-cheap-luxury/"
       },
       {
         "title": "Fansbuy Cheap Sneakers",
         "excerpt": "Affordable sneaker options with quality comparisons and buyer reviews.",
-        "link": "/fansbuy%20cheap%20sneakers/"
+        "link": "/fansbuy-cheap-sneakers/"
       },
       {
         "title": "Fansbuy Cheap Streetwear",
         "excerpt": "Affordable options across categories with quality comparisons and value ratings.",
-        "link": "/fansbuy%20cheap%20streetwear/"
+        "link": "/fansbuy-cheap-streetwear/"
       },
       {
         "title": "Fansbuy Cheapest Products",
         "excerpt": "Money-saving guide with budget-friendly products, discount strategies, and shopping tips.",
-        "link": "/fansbuy%20cheapest%20products/"
+        "link": "/fansbuy-cheapest-products/"
       },
       {
         "title": "Fansbuy Cost Effective",
         "excerpt": "Money-saving guide with budget-friendly products, discount strategies, and shopping tips.",
-        "link": "/fansbuy%20cost%20effective/"
+        "link": "/fansbuy-cost-effective/"
       },
       {
         "title": "Fansbuy Coupon",
         "excerpt": "Latest discount codes, coupon strategies, and seasonal deals on Fansbuy.",
-        "link": "/fansbuy%20coupon/"
+        "link": "/fansbuy-coupon/"
       },
       {
         "title": "Fansbuy Coupon Code",
         "excerpt": "Latest coupon codes and discount strategies to save on your Fansbuy purchases.",
-        "link": "/fansbuy%20coupon%20code/"
+        "link": "/fansbuy-coupon-code/"
       },
       {
         "title": "Fansbuy Coupon Guide",
         "excerpt": "Latest coupon codes and discount strategies to save on your Fansbuy purchases.",
-        "link": "/fansbuy%20coupon%20guide/"
+        "link": "/fansbuy-coupon-guide/"
       },
       {
         "title": "Fansbuy Deal Hunter",
         "excerpt": "Best deals and limited-time offers across all product categories on Fansbuy.",
-        "link": "/fansbuy%20deal%20hunter/"
+        "link": "/fansbuy-deal-hunter/"
       },
       {
         "title": "Fansbuy Discount Guide",
         "excerpt": "Discount strategies and promo codes to reduce your Fansbuy shopping costs.",
-        "link": "/fansbuy%20discount%20guide/"
+        "link": "/fansbuy-discount-guide/"
       },
       {
         "title": "Fansbuy Holiday Deals",
         "excerpt": "Holiday shopping deals with seasonal discounts, gift ideas, and savings tips.",
-        "link": "/fansbuy%20holiday%20deals/"
+        "link": "/fansbuy-holiday-deals/"
       },
       {
         "title": "Fansbuy Luxury Finds",
         "excerpt": "Hidden gems and underrated products with excellent quality-to-price ratios.",
-        "link": "/fansbuy%20luxury%20finds/"
+        "link": "/fansbuy-luxury-finds/"
       },
       {
         "title": "Fansbuy Premium Quality",
         "excerpt": "Money-saving guide with budget-friendly products, discount strategies, and shopping tips.",
-        "link": "/fansbuy%20premium%20quality/"
+        "link": "/fansbuy-premium-quality/"
       },
       {
         "title": "Fansbuy Sale Guide",
         "excerpt": "Seasonal sales and clearance events with maximum savings opportunities.",
-        "link": "/fansbuy%20sale%20guide/"
+        "link": "/fansbuy-sale-guide/"
       },
       {
         "title": "Fansbuy Save Money",
         "excerpt": "Complete money-saving guide with shopping hacks and bulk buying tips.",
-        "link": "/fansbuy%20save%20money/"
+        "link": "/fansbuy-save-money/"
       },
       {
         "title": "Fansbuy Seasonal Deals",
         "excerpt": "Seasonal promotions and clearance events with maximum savings opportunities.",
-        "link": "/fansbuy%20seasonal%20deals/"
+        "link": "/fansbuy-seasonal-deals/"
       },
       {
         "title": "Fansbuy Shopping Hacks",
         "excerpt": "Money-saving guide with budget-friendly products, discount strategies, and shopping tips.",
-        "link": "/fansbuy%20shopping%20hacks/"
+        "link": "/fansbuy-shopping-hacks/"
       },
       {
         "title": "Fansbuy Summer Deals",
         "excerpt": "Money-saving guide with budget-friendly products, discount strategies, and shopping tips.",
-        "link": "/fansbuy%20summer%20deals/"
+        "link": "/fansbuy-summer-deals/"
       },
       {
         "title": "Fansbuy Value Shopping",
         "excerpt": "Best value products combining quality and price with buyer satisfaction data.",
-        "link": "/fansbuy%20value%20shopping/"
+        "link": "/fansbuy-value-shopping/"
       },
       {
         "title": "Fansbuy Wholesale Guide",
         "excerpt": "Wholesale buying guide with bulk discounts, minimum orders, and reseller tips.",
-        "link": "/fansbuy%20wholesale%20guide/"
+        "link": "/fansbuy-wholesale-guide/"
       },
       {
         "title": "Fansbuy Winter Deals",
         "excerpt": "Money-saving guide with budget-friendly products, discount strategies, and shopping tips.",
-        "link": "/fansbuy%20winter%20deals/"
+        "link": "/fansbuy-winter-deals/"
       },
       {
         "title": "Fansbuy With Sales",
         "excerpt": "Money-saving guide with budget-friendly products, discount strategies, and shopping tips.",
-        "link": "/fansbuy%20with%20sales/"
+        "link": "/fansbuy-with-sales/"
       }
     ]
   },
@@ -1576,242 +1576,242 @@ const articleSeries = [
       {
         "title": "Fansbuy Account Security",
         "excerpt": "Security measures and safe shopping practices to protect your Fansbuy experience.",
-        "link": "/fansbuy%20account%20security/"
+        "link": "/fansbuy-account-security/"
       },
       {
         "title": "Fansbuy Authentic Check",
         "excerpt": "Verification guides to authenticate products and ensure quality before purchase.",
-        "link": "/fansbuy%20authentic%20check/"
+        "link": "/fansbuy-authentic-check/"
       },
       {
         "title": "Fansbuy Best Quality",
         "excerpt": "Quality verification methods with inspection tips, material checks, and satisfaction data.",
-        "link": "/fansbuy%20best%20quality/"
+        "link": "/fansbuy-best-quality/"
       },
       {
         "title": "Fansbuy Buyer Protection",
         "excerpt": "Buyer protection policies with dispute resolution, refund processes, and safety guarantees.",
-        "link": "/fansbuy%20buyer%20protection/"
+        "link": "/fansbuy-buyer-protection/"
       },
       {
         "title": "Fansbuy Credit Card Safety",
         "excerpt": "Trust and safety guide covering quality verification, user reviews, and platform reliability.",
-        "link": "/fansbuy%20credit%20card%20safety/"
+        "link": "/fansbuy-credit-card-safety/"
       },
       {
         "title": "Fansbuy Customer Reviews",
         "excerpt": "Trust and safety guide covering quality verification, user reviews, and platform reliability.",
-        "link": "/fansbuy%20customer%20reviews/"
+        "link": "/fansbuy-customer-reviews/"
       },
       {
         "title": "Fansbuy Data Security",
         "excerpt": "Security measures and safe shopping practices to protect your Fansbuy experience.",
-        "link": "/fansbuy%20data%20security/"
+        "link": "/fansbuy-data-security/"
       },
       {
         "title": "Fansbuy Fake Check",
         "excerpt": "Verification guides to authenticate products and ensure quality before purchase.",
-        "link": "/fansbuy%20fake%20check/"
+        "link": "/fansbuy-fake-check/"
       },
       {
         "title": "Fansbuy Good Quality",
         "excerpt": "Quality verification methods with inspection tips, material checks, and satisfaction data.",
-        "link": "/fansbuy%20good%20quality/"
+        "link": "/fansbuy-good-quality/"
       },
       {
         "title": "Fansbuy High Quality",
         "excerpt": "Quality verification methods with inspection tips, material checks, and satisfaction data.",
-        "link": "/fansbuy%20high%20quality/"
+        "link": "/fansbuy-high-quality/"
       },
       {
         "title": "Fansbuy Legit Check",
         "excerpt": "Step-by-step quality verification and authenticity checking guide.",
-        "link": "/fansbuy%20legit%20check/"
+        "link": "/fansbuy-legit-check/"
       },
       {
         "title": "Fansbuy Legit Check Guide",
         "excerpt": "Platform legitimacy analysis with user reviews, transaction data, and trust indicators.",
-        "link": "/fansbuy%20legit%20check%20guide/"
+        "link": "/fansbuy-legit-check-guide/"
       },
       {
         "title": "Fansbuy Legit Guide",
         "excerpt": "Platform legitimacy analysis with user reviews, transaction data, and trust indicators.",
-        "link": "/fansbuy%20legit%20guide/"
+        "link": "/fansbuy-legit-guide/"
       },
       {
         "title": "Fansbuy Legitimacy",
         "excerpt": "Trust and safety guide covering quality verification, user reviews, and platform reliability.",
-        "link": "/fansbuy%20legitimacy/"
+        "link": "/fansbuy-legitimacy/"
       },
       {
         "title": "Fansbuy Original Guide",
         "excerpt": "Original product identification with quality indicators, packaging checks, and verification tips.",
-        "link": "/fansbuy%20original%20guide/"
+        "link": "/fansbuy-original-guide/"
       },
       {
         "title": "Fansbuy Original Products",
         "excerpt": "Original product identification with quality indicators, packaging checks, and verification tips.",
-        "link": "/fansbuy%20original%20products/"
+        "link": "/fansbuy-original-products/"
       },
       {
         "title": "Fansbuy Payment Safety",
         "excerpt": "Payment security with encryption data, safe methods, and transaction protection.",
-        "link": "/fansbuy%20payment%20safety/"
+        "link": "/fansbuy-payment-safety/"
       },
       {
         "title": "Fansbuy Paypal Guide",
         "excerpt": "PayPal payment guide with buyer protection, dispute process, and safety tips.",
-        "link": "/fansbuy%20paypal%20guide/"
+        "link": "/fansbuy-paypal-guide/"
       },
       {
         "title": "Fansbuy Privacy Guide",
         "excerpt": "Privacy protection measures with data security, account settings, and safe practices.",
-        "link": "/fansbuy%20privacy%20guide/"
+        "link": "/fansbuy-privacy-guide/"
       },
       {
         "title": "Fansbuy QC Guide",
         "excerpt": "Quality control process with inspection standards, photo verification, and approval tips.",
-        "link": "/fansbuy%20qc%20guide/"
+        "link": "/fansbuy-qc-guide/"
       },
       {
         "title": "Fansbuy QC Photos",
         "excerpt": "How to read quality check photos and verify product condition before shipping.",
-        "link": "/fansbuy%20qc%20photos/"
+        "link": "/fansbuy-qc-photos/"
       },
       {
         "title": "Fansbuy Quality Check",
         "excerpt": "Quality verification methods with inspection tips, material checks, and satisfaction data.",
-        "link": "/fansbuy%20quality%20check/"
+        "link": "/fansbuy-quality-check/"
       },
       {
         "title": "Fansbuy Quality Control",
         "excerpt": "Quality verification methods with inspection tips, material checks, and satisfaction data.",
-        "link": "/fansbuy%20quality%20control/"
+        "link": "/fansbuy-quality-control/"
       },
       {
         "title": "Fansbuy Quality Guide",
         "excerpt": "Quality verification methods with inspection tips, material checks, and satisfaction data.",
-        "link": "/fansbuy%20quality%20guide/"
+        "link": "/fansbuy-quality-guide/"
       },
       {
         "title": "Fansbuy Quality Verification",
         "excerpt": "Quality verification methods with inspection tips, material checks, and satisfaction data.",
-        "link": "/fansbuy%20quality%20verification/"
+        "link": "/fansbuy-quality-verification/"
       },
       {
         "title": "Fansbuy Reddit",
         "excerpt": "Real user experiences and discussions from the Reddit community.",
-        "link": "/fansbuy%20reddit/"
+        "link": "/fansbuy-reddit/"
       },
       {
         "title": "Fansbuy Refund Guide",
         "excerpt": "Refund process guide with eligibility criteria, timeline, and successful claim tips.",
-        "link": "/fansbuy%20refund%20guide/"
+        "link": "/fansbuy-refund-guide/"
       },
       {
         "title": "Fansbuy Reliable",
         "excerpt": "Platform reliability assessment with user testimonials, service record, and trust data.",
-        "link": "/fansbuy%20reliable/"
+        "link": "/fansbuy-reliable/"
       },
       {
         "title": "Fansbuy Return Policy",
         "excerpt": "Return policy details with conditions, procedures, and customer experience data.",
-        "link": "/fansbuy%20return%20policy/"
+        "link": "/fansbuy-return-policy/"
       },
       {
         "title": "Fansbuy Review Guide",
         "excerpt": "Aggregated user reviews with satisfaction ratings, common feedback, and reliability data.",
-        "link": "/fansbuy%20review%20guide/"
+        "link": "/fansbuy-review-guide/"
       },
       {
         "title": "Fansbuy Reviews",
         "excerpt": "Aggregated user reviews and satisfaction ratings across all product categories.",
-        "link": "/fansbuy%20reviews/"
+        "link": "/fansbuy-reviews/"
       },
       {
         "title": "Fansbuy Safe Shopping",
         "excerpt": "Security measures and safe shopping practices to protect your Fansbuy experience.",
-        "link": "/fansbuy%20safe%20shopping/"
+        "link": "/fansbuy-safe-shopping/"
       },
       {
         "title": "Fansbuy Safety Guide",
         "excerpt": "Trust and safety guide covering quality verification, user reviews, and platform reliability.",
-        "link": "/fansbuy%20safety%20guide/"
+        "link": "/fansbuy-safety-guide/"
       },
       {
         "title": "Fansbuy Scam Check",
         "excerpt": "Verification guides to authenticate products and ensure quality before purchase.",
-        "link": "/fansbuy%20scam%20check/"
+        "link": "/fansbuy-scam-check/"
       },
       {
         "title": "Fansbuy Seller Ratings",
         "excerpt": "Seller evaluation with ratings, transaction history, and reliability indicators.",
-        "link": "/fansbuy%20seller%20ratings/"
+        "link": "/fansbuy-seller-ratings/"
       },
       {
         "title": "Fansbuy Trust Guide",
         "excerpt": "Trust evaluation with platform reliability data, user feedback, and safety record.",
-        "link": "/fansbuy%20trust%20guide/"
+        "link": "/fansbuy-trust-guide/"
       },
       {
         "title": "Fansbuy Trustpilot",
         "excerpt": "Trust and safety guide covering quality verification, user reviews, and platform reliability.",
-        "link": "/fansbuy%20trustpilot/"
+        "link": "/fansbuy-trustpilot/"
       },
       {
         "title": "Fansbuy Trustpilot Reviews",
         "excerpt": "Trust and safety guide covering quality verification, user reviews, and platform reliability.",
-        "link": "/fansbuy%20trustpilot%20reviews/"
+        "link": "/fansbuy-trustpilot-reviews/"
       },
       {
         "title": "Fansbuy Trustworthy",
         "excerpt": "Platform reliability assessment with user testimonials, service record, and trust data.",
-        "link": "/fansbuy%20trustworthy/"
+        "link": "/fansbuy-trustworthy/"
       },
       {
         "title": "Fansbuy User Reviews",
         "excerpt": "Trust and safety guide covering quality verification, user reviews, and platform reliability.",
-        "link": "/fansbuy%20user%20reviews/"
+        "link": "/fansbuy-user-reviews/"
       },
       {
         "title": "Fansbuy Verified Products",
         "excerpt": "Verified products and sellers with quality assurance data and reliability ratings.",
-        "link": "/fansbuy%20verified%20products/"
+        "link": "/fansbuy-verified-products/"
       },
       {
         "title": "Fansbuy Verified Sellers",
         "excerpt": "Verified products and sellers with quality assurance data and reliability ratings.",
-        "link": "/fansbuy%20verified%20sellers/"
+        "link": "/fansbuy-verified-sellers/"
       },
       {
         "title": "Fansbuy Vs Kakobuy",
         "excerpt": "Detailed platform comparison covering pricing, shipping, and service quality.",
-        "link": "/fansbuy%20vs%20kakobuy/"
+        "link": "/fansbuy-vs-kakobuy/"
       },
       {
         "title": "Fansbuy Warranty Guide",
         "excerpt": "Warranty information with coverage details, claim process, and protection options.",
-        "link": "/fansbuy%20warranty%20guide/"
+        "link": "/fansbuy-warranty-guide/"
       },
       {
         "title": "Fansbuy With QC",
         "excerpt": "Quality control process with inspection standards, photo verification, and approval tips.",
-        "link": "/fansbuy%20with%20qc/"
+        "link": "/fansbuy-with-qc/"
       },
       {
         "title": "Fansbuy With QC Photos",
         "excerpt": "Quality control process with inspection standards, photo verification, and approval tips.",
-        "link": "/fansbuy%20with%20qc%20photos/"
+        "link": "/fansbuy-with-qc-photos/"
       },
       {
         "title": "Fansbuy With Reviews",
         "excerpt": "Trust and safety guide covering quality verification, user reviews, and platform reliability.",
-        "link": "/fansbuy%20with%20reviews/"
+        "link": "/fansbuy-with-reviews/"
       },
       {
         "title": "Is Fansbuy Legit",
         "excerpt": "Comprehensive trust analysis with user reviews and platform reliability data.",
-        "link": "/is%20fansbuy%20legit/"
+        "link": "/is-fansbuy-legit/"
       }
     ]
   },
@@ -1821,597 +1821,597 @@ const articleSeries = [
       {
         "title": "Fansbuy Spreadsheet #1",
         "excerpt": "Latest spreadsheet version with improved features, updated data, and better organization.",
-        "link": "/fansbuy%20spreadsheet%20#1/"
+        "link": "/fansbuy-spreadsheet-1/"
       },
       {
         "title": "Fansbuy Spreadsheet 10 000",
         "excerpt": "Spreadsheet with 10 products including quality data and buyer recommendations.",
-        "link": "/fansbuy%20spreadsheet%2010%20000/"
+        "link": "/fansbuy-spreadsheet-10-000/"
       },
       {
         "title": "Fansbuy Spreadsheet 10000",
         "excerpt": "Spreadsheet with 10000 products including quality data and buyer recommendations.",
-        "link": "/fansbuy%20spreadsheet%2010000/"
+        "link": "/fansbuy-spreadsheet-10000/"
       },
       {
         "title": "Fansbuy Spreadsheet 10k",
         "excerpt": "Spreadsheet with 10k products including quality data and buyer recommendations.",
-        "link": "/fansbuy%20spreadsheet%2010k/"
+        "link": "/fansbuy-spreadsheet-10k/"
       },
       {
         "title": "Fansbuy Spreadsheet 15000",
         "excerpt": "Spreadsheet with 15000 products including quality data and buyer recommendations.",
-        "link": "/fansbuy%20spreadsheet%2015000/"
+        "link": "/fansbuy-spreadsheet-15000/"
       },
       {
         "title": "Fansbuy Spreadsheet 20000",
         "excerpt": "Spreadsheet with 20000 products including quality data and buyer recommendations.",
-        "link": "/fansbuy%20spreadsheet%2020000/"
+        "link": "/fansbuy-spreadsheet-20000/"
       },
       {
         "title": "Fansbuy Spreadsheet 2024",
         "excerpt": "Spreadsheet updates for 2024 with latest products and quality data.",
-        "link": "/fansbuy%20spreadsheet%202024/"
+        "link": "/fansbuy-spreadsheet-2024/"
       },
       {
         "title": "Fansbuy Spreadsheet 2025",
         "excerpt": "Spreadsheet updates for 2025 with latest products and quality data.",
-        "link": "/fansbuy%20spreadsheet%202025/"
+        "link": "/fansbuy-spreadsheet-2025/"
       },
       {
         "title": "Fansbuy Spreadsheet 2025 Best Batch",
         "excerpt": "Spreadsheet updates for 2025 with latest products and quality data.",
-        "link": "/fansbuy%20spreadsheet%202025%20best%20batch/"
+        "link": "/fansbuy-spreadsheet-2025-best-batch/"
       },
       {
         "title": "Fansbuy Spreadsheet 2025 Cheap",
         "excerpt": "Spreadsheet updates for 2025 with latest products and quality data.",
-        "link": "/fansbuy%20spreadsheet%202025%20cheap/"
+        "link": "/fansbuy-spreadsheet-2025-cheap/"
       },
       {
         "title": "Fansbuy Spreadsheet 2025 Polska",
         "excerpt": "Spreadsheet updates for 2025 with latest products and quality data.",
-        "link": "/fansbuy%20spreadsheet%202025%20polska/"
+        "link": "/fansbuy-spreadsheet-2025-polska/"
       },
       {
         "title": "Fansbuy Spreadsheet 2025 Reddit",
         "excerpt": "Spreadsheet updates for 2025 with latest products and quality data.",
-        "link": "/fansbuy%20spreadsheet%202025%20reddit/"
+        "link": "/fansbuy-spreadsheet-2025-reddit/"
       },
       {
         "title": "Fansbuy Spreadsheet 2025 Women",
         "excerpt": "Spreadsheet updates for 2025 with latest products and quality data.",
-        "link": "/fansbuy%20spreadsheet%202025%20women/"
+        "link": "/fansbuy-spreadsheet-2025-women/"
       },
       {
         "title": "Fansbuy Spreadsheet 2026",
         "excerpt": "Latest spreadsheet updates with new products and quality data for 2026.",
-        "link": "/fansbuy%20spreadsheet%202026/"
+        "link": "/fansbuy-spreadsheet-2026/"
       },
       {
         "title": "Fansbuy Spreadsheet 2026 Best Batch",
         "excerpt": "Spreadsheet updates for 2026 with latest products and quality data.",
-        "link": "/fansbuy%20spreadsheet%202026%20best%20batch/"
+        "link": "/fansbuy-spreadsheet-2026-best-batch/"
       },
       {
         "title": "Fansbuy Spreadsheet 2026 Budget",
         "excerpt": "Spreadsheet updates for 2026 with latest products and quality data.",
-        "link": "/fansbuy%20spreadsheet%202026%20budget/"
+        "link": "/fansbuy-spreadsheet-2026-budget/"
       },
       {
         "title": "Fansbuy Spreadsheet 2026 Polska",
         "excerpt": "Spreadsheet updates for 2026 with latest products and quality data.",
-        "link": "/fansbuy%20spreadsheet%202026%20polska/"
+        "link": "/fansbuy-spreadsheet-2026-polska/"
       },
       {
         "title": "Fansbuy Spreadsheet 2026 Summer",
         "excerpt": "Spreadsheet updates for 2026 with latest products and quality data.",
-        "link": "/fansbuy%20spreadsheet%202026%20summer/"
+        "link": "/fansbuy-spreadsheet-2026-summer/"
       },
       {
         "title": "Fansbuy Spreadsheet 2026 Tiktok",
         "excerpt": "Spreadsheet updates for 2026 with latest products and quality data.",
-        "link": "/fansbuy%20spreadsheet%202026%20tiktok/"
+        "link": "/fansbuy-spreadsheet-2026-tiktok/"
       },
       {
         "title": "Fansbuy Spreadsheet 2026 With QC",
         "excerpt": "Spreadsheet updates for 2026 with latest products and quality data.",
-        "link": "/fansbuy%20spreadsheet%202026%20with%20qc/"
+        "link": "/fansbuy-spreadsheet-2026-with-qc/"
       },
       {
         "title": "Fansbuy Spreadsheet 2026 Women",
         "excerpt": "Spreadsheet updates for 2026 with latest products and quality data.",
-        "link": "/fansbuy%20spreadsheet%202026%20women/"
+        "link": "/fansbuy-spreadsheet-2026-women/"
       },
       {
         "title": "Fansbuy Spreadsheet 3000",
         "excerpt": "Spreadsheet with 3000 products including quality data and buyer recommendations.",
-        "link": "/fansbuy%20spreadsheet%203000/"
+        "link": "/fansbuy-spreadsheet-3000/"
       },
       {
         "title": "Fansbuy Spreadsheet 4000",
         "excerpt": "Spreadsheet with 4000 products including quality data and buyer recommendations.",
-        "link": "/fansbuy%20spreadsheet%204000/"
+        "link": "/fansbuy-spreadsheet-4000/"
       },
       {
         "title": "Fansbuy Spreadsheet 5000",
         "excerpt": "Spreadsheet with 5000 products including quality data and buyer recommendations.",
-        "link": "/fansbuy%20spreadsheet%205000/"
+        "link": "/fansbuy-spreadsheet-5000/"
       },
       {
         "title": "Fansbuy Spreadsheet 6000+",
         "excerpt": "Spreadsheet resource guide with product data, quality information, and download links.",
-        "link": "/fansbuy%20spreadsheet%206000+/"
+        "link": "/fansbuy-spreadsheet-6000-plus/"
       },
       {
         "title": "Fansbuy Spreadsheet 8000",
         "excerpt": "Spreadsheet with 8000 products including quality data and buyer recommendations.",
-        "link": "/fansbuy%20spreadsheet%208000/"
+        "link": "/fansbuy-spreadsheet-8000/"
       },
       {
         "title": "Fansbuy Spreadsheet Accessories",
         "excerpt": "Spreadsheet section for accessories with quality ratings and pricing data.",
-        "link": "/fansbuy%20spreadsheet%20accessories/"
+        "link": "/fansbuy-spreadsheet-accessories/"
       },
       {
         "title": "Fansbuy Spreadsheet Adidas",
         "excerpt": "Spreadsheet section for Adidas products with pricing and quality comparisons.",
-        "link": "/fansbuy%20spreadsheet%20adidas/"
+        "link": "/fansbuy-spreadsheet-adidas/"
       },
       {
         "title": "Fansbuy Spreadsheet Archive",
         "excerpt": "Archive collection with discontinued items, quality data, and collector value.",
-        "link": "/fansbuy%20spreadsheet%20archive/"
+        "link": "/fansbuy-spreadsheet-archive/"
       },
       {
         "title": "Fansbuy Spreadsheet Archive Fashion",
         "excerpt": "Archive collection with discontinued items, quality data, and collector value.",
-        "link": "/fansbuy%20spreadsheet%20archive%20fashion/"
+        "link": "/fansbuy-spreadsheet-archive-fashion/"
       },
       {
         "title": "Fansbuy Spreadsheet Bags",
         "excerpt": "Spreadsheet section for bags with quality ratings and pricing data.",
-        "link": "/fansbuy%20spreadsheet%20bags/"
+        "link": "/fansbuy-spreadsheet-bags/"
       },
       {
         "title": "Fansbuy Spreadsheet Best",
         "excerpt": "Top-rated products from the spreadsheet with quality pass rates.",
-        "link": "/fansbuy%20spreadsheet%20best/"
+        "link": "/fansbuy-spreadsheet-best/"
       },
       {
         "title": "Fansbuy Spreadsheet Best Quality",
         "excerpt": "Best products from spreadsheet with top quality ratings and buyer satisfaction data.",
-        "link": "/fansbuy%20spreadsheet%20best%20quality/"
+        "link": "/fansbuy-spreadsheet-best-quality/"
       },
       {
         "title": "Fansbuy Spreadsheet Best Sellers",
         "excerpt": "Best products from spreadsheet with top quality ratings and buyer satisfaction data.",
-        "link": "/fansbuy%20spreadsheet%20best%20sellers/"
+        "link": "/fansbuy-spreadsheet-best-sellers/"
       },
       {
         "title": "Fansbuy Spreadsheet Big Size",
         "excerpt": "Spreadsheet resource guide with product data, quality information, and download links.",
-        "link": "/fansbuy%20spreadsheet%20big%20size/"
+        "link": "/fansbuy-spreadsheet-big-size/"
       },
       {
         "title": "Fansbuy Spreadsheet Clothing",
         "excerpt": "Spreadsheet section for clothing with quality ratings and pricing data.",
-        "link": "/fansbuy%20spreadsheet%20clothing/"
+        "link": "/fansbuy-spreadsheet-clothing/"
       },
       {
         "title": "Fansbuy Spreadsheet Com",
         "excerpt": "Spreadsheet access guide with navigation tips, search features, and data lookup.",
-        "link": "/fansbuy%20spreadsheet%20com/"
+        "link": "/fansbuy-spreadsheet-com/"
       },
       {
         "title": "Fansbuy Spreadsheet Community",
         "excerpt": "Community-driven spreadsheet with user contributions, feedback, and quality data.",
-        "link": "/fansbuy%20spreadsheet%20community/"
+        "link": "/fansbuy-spreadsheet-community/"
       },
       {
         "title": "Fansbuy Spreadsheet Discord",
         "excerpt": "Community-driven spreadsheet with user contributions, feedback, and quality data.",
-        "link": "/fansbuy%20spreadsheet%20discord/"
+        "link": "/fansbuy-spreadsheet-discord/"
       },
       {
         "title": "Fansbuy Spreadsheet Docs",
         "excerpt": "Spreadsheet format guide with platform compatibility and data access methods.",
-        "link": "/fansbuy%20spreadsheet%20docs/"
+        "link": "/fansbuy-spreadsheet-docs/"
       },
       {
         "title": "Fansbuy Spreadsheet Download",
         "excerpt": "Spreadsheet download guide with access instructions and data usage tips.",
-        "link": "/fansbuy%20spreadsheet%20download/"
+        "link": "/fansbuy-spreadsheet-download/"
       },
       {
         "title": "Fansbuy Spreadsheet Electronics",
         "excerpt": "Electronics section with specifications, quality data, and buyer reviews.",
-        "link": "/fansbuy%20spreadsheet%20electronics/"
+        "link": "/fansbuy-spreadsheet-electronics/"
       },
       {
         "title": "Fansbuy Spreadsheet Excel",
         "excerpt": "Spreadsheet format guide with platform compatibility and data access methods.",
-        "link": "/fansbuy%20spreadsheet%20excel/"
+        "link": "/fansbuy-spreadsheet-excel/"
       },
       {
         "title": "Fansbuy Spreadsheet Fashion",
         "excerpt": "Streetwear and fashion section with trend data, quality ratings, and style guide.",
-        "link": "/fansbuy%20spreadsheet%20fashion/"
+        "link": "/fansbuy-spreadsheet-fashion/"
       },
       {
         "title": "Fansbuy Spreadsheet Female",
         "excerpt": "Spreadsheet resource guide with product data, quality information, and download links.",
-        "link": "/fansbuy%20spreadsheet%20female/"
+        "link": "/fansbuy-spreadsheet-female/"
       },
       {
         "title": "Fansbuy Spreadsheet Findindex",
         "excerpt": "Spreadsheet access guide with navigation tips, search features, and data lookup.",
-        "link": "/fansbuy%20spreadsheet%20findindex/"
+        "link": "/fansbuy-spreadsheet-findindex/"
       },
       {
         "title": "Fansbuy Spreadsheet For Girls",
         "excerpt": "Spreadsheet resource guide with product data, quality information, and download links.",
-        "link": "/fansbuy%20spreadsheet%20for%20girls/"
+        "link": "/fansbuy-spreadsheet-for-girls/"
       },
       {
         "title": "Fansbuy Spreadsheet For Kids",
         "excerpt": "Spreadsheet section for kids with curated products and quality data.",
-        "link": "/fansbuy%20spreadsheet%20for%20kids/"
+        "link": "/fansbuy-spreadsheet-for-kids/"
       },
       {
         "title": "Fansbuy Spreadsheet Formula",
         "excerpt": "Spreadsheet creation guide with data organization, formulas, and customization tips.",
-        "link": "/fansbuy%20spreadsheet%20formula/"
+        "link": "/fansbuy-spreadsheet-formula/"
       },
       {
         "title": "Fansbuy Spreadsheet Free",
         "excerpt": "Free spreadsheet access with product data, quality information, and download links.",
-        "link": "/fansbuy%20spreadsheet%20free/"
+        "link": "/fansbuy-spreadsheet-free/"
       },
       {
         "title": "Fansbuy Spreadsheet Google",
         "excerpt": "Spreadsheet format guide with platform compatibility and data access methods.",
-        "link": "/fansbuy%20spreadsheet%20google/"
+        "link": "/fansbuy-spreadsheet-google/"
       },
       {
         "title": "Fansbuy Spreadsheet Google Docs",
         "excerpt": "Spreadsheet format guide with platform compatibility and data access methods.",
-        "link": "/fansbuy%20spreadsheet%20google%20docs/"
+        "link": "/fansbuy-spreadsheet-google-docs/"
       },
       {
         "title": "Fansbuy Spreadsheet Google Sheets",
         "excerpt": "Spreadsheet format guide with platform compatibility and data access methods.",
-        "link": "/fansbuy%20spreadsheet%20google%20sheets/"
+        "link": "/fansbuy-spreadsheet-google-sheets/"
       },
       {
         "title": "Fansbuy Spreadsheet Hoodies",
         "excerpt": "Spreadsheet section for hoodies with quality ratings and pricing data.",
-        "link": "/fansbuy%20spreadsheet%20hoodies/"
+        "link": "/fansbuy-spreadsheet-hoodies/"
       },
       {
         "title": "Fansbuy Spreadsheet Hub",
         "excerpt": "Spreadsheet access guide with navigation tips, search features, and data lookup.",
-        "link": "/fansbuy%20spreadsheet%20hub/"
+        "link": "/fansbuy-spreadsheet-hub/"
       },
       {
         "title": "Fansbuy Spreadsheet Jordan",
         "excerpt": "Jordan collection data from the spreadsheet with batch information.",
-        "link": "/fansbuy%20spreadsheet%20jordan/"
+        "link": "/fansbuy-spreadsheet-jordan/"
       },
       {
         "title": "Fansbuy Spreadsheet Junior",
         "excerpt": "Spreadsheet section for junior with curated products and quality data.",
-        "link": "/fansbuy%20spreadsheet%20junior/"
+        "link": "/fansbuy-spreadsheet-junior/"
       },
       {
         "title": "Fansbuy Spreadsheet Junior Clothing",
         "excerpt": "Spreadsheet section for clothing with curated products and quality data.",
-        "link": "/fansbuy%20spreadsheet%20junior%20clothing/"
+        "link": "/fansbuy-spreadsheet-junior-clothing/"
       },
       {
         "title": "Fansbuy Spreadsheet Junior Fashion",
         "excerpt": "Spreadsheet section for fashion with curated products and quality data.",
-        "link": "/fansbuy%20spreadsheet%20junior%20fashion/"
+        "link": "/fansbuy-spreadsheet-junior-fashion/"
       },
       {
         "title": "Fansbuy Spreadsheet Junior Shoes",
         "excerpt": "Spreadsheet section for shoes with curated products and quality data.",
-        "link": "/fansbuy%20spreadsheet%20junior%20shoes/"
+        "link": "/fansbuy-spreadsheet-junior-shoes/"
       },
       {
         "title": "Fansbuy Spreadsheet Kids",
         "excerpt": "Spreadsheet section for kids with curated products and quality data.",
-        "link": "/fansbuy%20spreadsheet%20kids/"
+        "link": "/fansbuy-spreadsheet-kids/"
       },
       {
         "title": "Fansbuy Spreadsheet Kids Clothing",
         "excerpt": "Spreadsheet section for clothing with curated products and quality data.",
-        "link": "/fansbuy%20spreadsheet%20kids%20clothing/"
+        "link": "/fansbuy-spreadsheet-kids-clothing/"
       },
       {
         "title": "Fansbuy Spreadsheet Kids Fashion",
         "excerpt": "Spreadsheet section for fashion with curated products and quality data.",
-        "link": "/fansbuy%20spreadsheet%20kids%20fashion/"
+        "link": "/fansbuy-spreadsheet-kids-fashion/"
       },
       {
         "title": "Fansbuy Spreadsheet Kids Shoes",
         "excerpt": "Spreadsheet section for shoes with curated products and quality data.",
-        "link": "/fansbuy%20spreadsheet%20kids%20shoes/"
+        "link": "/fansbuy-spreadsheet-kids-shoes/"
       },
       {
         "title": "Fansbuy Spreadsheet Legit",
         "excerpt": "Verified products section with quality assurance data and reliability ratings.",
-        "link": "/fansbuy%20spreadsheet%20legit/"
+        "link": "/fansbuy-spreadsheet-legit/"
       },
       {
         "title": "Fansbuy Spreadsheet Link",
         "excerpt": "How to access and navigate the Fansbuy spreadsheet effectively.",
-        "link": "/fansbuy%20spreadsheet%20link/"
+        "link": "/fansbuy-spreadsheet-link/"
       },
       {
         "title": "Fansbuy Spreadsheet Linktree",
         "excerpt": "Spreadsheet access guide with navigation tips, search features, and data lookup.",
-        "link": "/fansbuy%20spreadsheet%20linktree/"
+        "link": "/fansbuy-spreadsheet-linktree/"
       },
       {
         "title": "Fansbuy Spreadsheet List",
         "excerpt": "Spreadsheet access guide with navigation tips, search features, and data lookup.",
-        "link": "/fansbuy%20spreadsheet%20list/"
+        "link": "/fansbuy-spreadsheet-list/"
       },
       {
         "title": "Fansbuy Spreadsheet Luxury",
         "excerpt": "Luxury products section with authentication data, quality ratings, and pricing guide.",
-        "link": "/fansbuy%20spreadsheet%20luxury/"
+        "link": "/fansbuy-spreadsheet-luxury/"
       },
       {
         "title": "Fansbuy Spreadsheet Maker",
         "excerpt": "Spreadsheet creation guide with data organization, formulas, and customization tips.",
-        "link": "/fansbuy%20spreadsheet%20maker/"
+        "link": "/fansbuy-spreadsheet-maker/"
       },
       {
         "title": "Fansbuy Spreadsheet Men",
         "excerpt": "Spreadsheet section for men with curated products and quality data.",
-        "link": "/fansbuy%20spreadsheet%20men/"
+        "link": "/fansbuy-spreadsheet-men/"
       },
       {
         "title": "Fansbuy Spreadsheet Men's",
         "excerpt": "Spreadsheet resource guide with product data, quality information, and download links.",
-        "link": "/fansbuy%20spreadsheet%20men's/"
+        "link": "/fansbuy-spreadsheet-men's/"
       },
       {
         "title": "Fansbuy Spreadsheet Men's Accessories",
         "excerpt": "Spreadsheet section for accessories with quality ratings and pricing data.",
-        "link": "/fansbuy%20spreadsheet%20men's%20accessories/"
+        "link": "/fansbuy-spreadsheet-men's-accessories/"
       },
       {
         "title": "Fansbuy Spreadsheet Men's Bags",
         "excerpt": "Spreadsheet section for bags with quality ratings and pricing data.",
-        "link": "/fansbuy%20spreadsheet%20men's%20bags/"
+        "link": "/fansbuy-spreadsheet-men's-bags/"
       },
       {
         "title": "Fansbuy Spreadsheet Men's Clothing",
         "excerpt": "Spreadsheet section for clothing with quality ratings and pricing data.",
-        "link": "/fansbuy%20spreadsheet%20men's%20clothing/"
+        "link": "/fansbuy-spreadsheet-men's-clothing/"
       },
       {
         "title": "Fansbuy Spreadsheet Men's Fashion",
         "excerpt": "Streetwear and fashion section with trend data, quality ratings, and style guide.",
-        "link": "/fansbuy%20spreadsheet%20men's%20fashion/"
+        "link": "/fansbuy-spreadsheet-men's-fashion/"
       },
       {
         "title": "Fansbuy Spreadsheet Men's Shoes",
         "excerpt": "Spreadsheet section for shoes with quality ratings and pricing data.",
-        "link": "/fansbuy%20spreadsheet%20men's%20shoes/"
+        "link": "/fansbuy-spreadsheet-men's-shoes/"
       },
       {
         "title": "Fansbuy Spreadsheet Nike",
         "excerpt": "Nike products in the spreadsheet with pricing and quality comparisons.",
-        "link": "/fansbuy%20spreadsheet%20nike/"
+        "link": "/fansbuy-spreadsheet-nike/"
       },
       {
         "title": "Fansbuy Spreadsheet Org",
         "excerpt": "Spreadsheet access guide with navigation tips, search features, and data lookup.",
-        "link": "/fansbuy%20spreadsheet%20org/"
+        "link": "/fansbuy-spreadsheet-org/"
       },
       {
         "title": "Fansbuy Spreadsheet Outdoor",
         "excerpt": "Sports and outdoor section with performance data and quality ratings.",
-        "link": "/fansbuy%20spreadsheet%20outdoor/"
+        "link": "/fansbuy-spreadsheet-outdoor/"
       },
       {
         "title": "Fansbuy Spreadsheet Plus Size",
         "excerpt": "Spreadsheet resource guide with product data, quality information, and download links.",
-        "link": "/fansbuy%20spreadsheet%20plus%20size/"
+        "link": "/fansbuy-spreadsheet-plus-size/"
       },
       {
         "title": "Fansbuy Spreadsheet Premium Quality",
         "excerpt": "Spreadsheet resource guide with product data, quality information, and download links.",
-        "link": "/fansbuy%20spreadsheet%20premium%20quality/"
+        "link": "/fansbuy-spreadsheet-premium-quality/"
       },
       {
         "title": "Fansbuy Spreadsheet QC",
         "excerpt": "Spreadsheet with QC photo data, quality pass rates, and verification information.",
-        "link": "/fansbuy%20spreadsheet%20qc/"
+        "link": "/fansbuy-spreadsheet-qc/"
       },
       {
         "title": "Fansbuy Spreadsheet QC Photos",
         "excerpt": "Spreadsheet with QC photo data, quality pass rates, and verification information.",
-        "link": "/fansbuy%20spreadsheet%20qc%20photos/"
+        "link": "/fansbuy-spreadsheet-qc-photos/"
       },
       {
         "title": "Fansbuy Spreadsheet Reddit",
         "excerpt": "Reddit-curated spreadsheet with community recommendations and quality feedback.",
-        "link": "/fansbuy%20spreadsheet%20reddit/"
+        "link": "/fansbuy-spreadsheet-reddit/"
       },
       {
         "title": "Fansbuy Spreadsheet Reddit 2025",
         "excerpt": "Spreadsheet updates for 2025 with latest products and quality data.",
-        "link": "/fansbuy%20spreadsheet%20reddit%202025/"
+        "link": "/fansbuy-spreadsheet-reddit-2025/"
       },
       {
         "title": "Fansbuy Spreadsheet Reddit 2026",
         "excerpt": "Spreadsheet updates for 2026 with latest products and quality data.",
-        "link": "/fansbuy%20spreadsheet%20reddit%202026/"
+        "link": "/fansbuy-spreadsheet-reddit-2026/"
       },
       {
         "title": "Fansbuy Spreadsheet Reviews",
         "excerpt": "Spreadsheet resource guide with product data, quality information, and download links.",
-        "link": "/fansbuy%20spreadsheet%20reviews/"
+        "link": "/fansbuy-spreadsheet-reviews/"
       },
       {
         "title": "Fansbuy Spreadsheet Shoes",
         "excerpt": "Spreadsheet section for shoes with quality ratings and pricing data.",
-        "link": "/fansbuy%20spreadsheet%20shoes/"
+        "link": "/fansbuy-spreadsheet-shoes/"
       },
       {
         "title": "Fansbuy Spreadsheet Site",
         "excerpt": "Spreadsheet access guide with navigation tips, search features, and data lookup.",
-        "link": "/fansbuy%20spreadsheet%20site/"
+        "link": "/fansbuy-spreadsheet-site/"
       },
       {
         "title": "Fansbuy Spreadsheet Sneakers",
         "excerpt": "Spreadsheet section for sneakers with quality ratings and pricing data.",
-        "link": "/fansbuy%20spreadsheet%20sneakers/"
+        "link": "/fansbuy-spreadsheet-sneakers/"
       },
       {
         "title": "Fansbuy Spreadsheet Sports",
         "excerpt": "Sports and outdoor section with performance data and quality ratings.",
-        "link": "/fansbuy%20spreadsheet%20sports/"
+        "link": "/fansbuy-spreadsheet-sports/"
       },
       {
         "title": "Fansbuy Spreadsheet Streetwear",
         "excerpt": "Streetwear and fashion section with trend data, quality ratings, and style guide.",
-        "link": "/fansbuy%20spreadsheet%20streetwear/"
+        "link": "/fansbuy-spreadsheet-streetwear/"
       },
       {
         "title": "Fansbuy Spreadsheet T-Shirts",
         "excerpt": "Spreadsheet resource guide with product data, quality information, and download links.",
-        "link": "/fansbuy%20spreadsheet%20t-shirts/"
+        "link": "/fansbuy-spreadsheet-t-shirts/"
       },
       {
         "title": "Fansbuy Spreadsheet Telegram",
         "excerpt": "Community-driven spreadsheet with user contributions, feedback, and quality data.",
-        "link": "/fansbuy%20spreadsheet%20telegram/"
+        "link": "/fansbuy-spreadsheet-telegram/"
       },
       {
         "title": "Fansbuy Spreadsheet Template",
         "excerpt": "Spreadsheet template with organized structure, data fields, and usage guide.",
-        "link": "/fansbuy%20spreadsheet%20template/"
+        "link": "/fansbuy-spreadsheet-template/"
       },
       {
         "title": "Fansbuy Spreadsheet The Best",
         "excerpt": "Best products from spreadsheet with top quality ratings and buyer satisfaction data.",
-        "link": "/fansbuy%20spreadsheet%20the%20best/"
+        "link": "/fansbuy-spreadsheet-the-best/"
       },
       {
         "title": "Fansbuy Spreadsheet Trending",
         "excerpt": "Trending products with popularity data, quality ratings, and community feedback.",
-        "link": "/fansbuy%20spreadsheet%20trending/"
+        "link": "/fansbuy-spreadsheet-trending/"
       },
       {
         "title": "Fansbuy Spreadsheet Ultimate",
         "excerpt": "Best products from spreadsheet with top quality ratings and buyer satisfaction data.",
-        "link": "/fansbuy%20spreadsheet%20ultimate/"
+        "link": "/fansbuy-spreadsheet-ultimate/"
       },
       {
         "title": "Fansbuy Spreadsheet Update",
         "excerpt": "Latest spreadsheet updates with new products, quality data, and improved features.",
-        "link": "/fansbuy%20spreadsheet%20update/"
+        "link": "/fansbuy-spreadsheet-update/"
       },
       {
         "title": "Fansbuy Spreadsheet V2",
         "excerpt": "Latest spreadsheet version with improved features, updated data, and better organization.",
-        "link": "/fansbuy%20spreadsheet%20v2/"
+        "link": "/fansbuy-spreadsheet-v2/"
       },
       {
         "title": "Fansbuy Spreadsheet Verified",
         "excerpt": "Verified products section with quality assurance data and reliability ratings.",
-        "link": "/fansbuy%20spreadsheet%20verified/"
+        "link": "/fansbuy-spreadsheet-verified/"
       },
       {
         "title": "Fansbuy Spreadsheet Watches",
         "excerpt": "Watches section with specifications, quality data, and buyer reviews.",
-        "link": "/fansbuy%20spreadsheet%20watches/"
+        "link": "/fansbuy-spreadsheet-watches/"
       },
       {
         "title": "Fansbuy Spreadsheet Website",
         "excerpt": "Spreadsheet access guide with navigation tips, search features, and data lookup.",
-        "link": "/fansbuy%20spreadsheet%20website/"
+        "link": "/fansbuy-spreadsheet-website/"
       },
       {
         "title": "Fansbuy Spreadsheet With Photos",
         "excerpt": "Spreadsheet resource guide with product data, quality information, and download links.",
-        "link": "/fansbuy%20spreadsheet%20with%20photos/"
+        "link": "/fansbuy-spreadsheet-with-photos/"
       },
       {
         "title": "Fansbuy Spreadsheet With QC",
         "excerpt": "Spreadsheet with QC photo data, quality pass rates, and verification information.",
-        "link": "/fansbuy%20spreadsheet%20with%20qc/"
+        "link": "/fansbuy-spreadsheet-with-qc/"
       },
       {
         "title": "Fansbuy Spreadsheet With QC Photos",
         "excerpt": "Spreadsheet with QC photo data, quality pass rates, and verification information.",
-        "link": "/fansbuy%20spreadsheet%20with%20qc%20photos/"
+        "link": "/fansbuy-spreadsheet-with-qc-photos/"
       },
       {
         "title": "Fansbuy Spreadsheet With QC Reddit",
         "excerpt": "Spreadsheet with QC photo data, quality pass rates, and verification information.",
-        "link": "/fansbuy%20spreadsheet%20with%20qc%20reddit/"
+        "link": "/fansbuy-spreadsheet-with-qc-reddit/"
       },
       {
         "title": "Fansbuy Spreadsheet With Reviews",
         "excerpt": "Spreadsheet resource guide with product data, quality information, and download links.",
-        "link": "/fansbuy%20spreadsheet%20with%20reviews/"
+        "link": "/fansbuy-spreadsheet-with-reviews/"
       },
       {
         "title": "Fansbuy Spreadsheet With Sales",
         "excerpt": "Spreadsheet resource guide with product data, quality information, and download links.",
-        "link": "/fansbuy%20spreadsheet%20with%20sales/"
+        "link": "/fansbuy-spreadsheet-with-sales/"
       },
       {
         "title": "Fansbuy Spreadsheet Women",
         "excerpt": "Spreadsheet section for women with curated products and quality data.",
-        "link": "/fansbuy%20spreadsheet%20women/"
+        "link": "/fansbuy-spreadsheet-women/"
       },
       {
         "title": "Fansbuy Spreadsheet Women 2026",
         "excerpt": "Spreadsheet updates for 2026 with latest products and quality data.",
-        "link": "/fansbuy%20spreadsheet%20women%202026/"
+        "link": "/fansbuy-spreadsheet-women-2026/"
       },
       {
         "title": "Fansbuy Spreadsheet Women's",
         "excerpt": "Spreadsheet resource guide with product data, quality information, and download links.",
-        "link": "/fansbuy%20spreadsheet%20women's/"
+        "link": "/fansbuy-spreadsheet-women's/"
       },
       {
         "title": "Fansbuy Spreadsheet Women's Accessories",
         "excerpt": "Spreadsheet section for accessories with quality ratings and pricing data.",
-        "link": "/fansbuy%20spreadsheet%20women's%20accessories/"
+        "link": "/fansbuy-spreadsheet-women's-accessories/"
       },
       {
         "title": "Fansbuy Spreadsheet Women's Bags",
         "excerpt": "Spreadsheet section for bags with quality ratings and pricing data.",
-        "link": "/fansbuy%20spreadsheet%20women's%20bags/"
+        "link": "/fansbuy-spreadsheet-women's-bags/"
       },
       {
         "title": "Fansbuy Spreadsheet Women's Clothing",
         "excerpt": "Spreadsheet section for clothing with quality ratings and pricing data.",
-        "link": "/fansbuy%20spreadsheet%20women's%20clothing/"
+        "link": "/fansbuy-spreadsheet-women's-clothing/"
       },
       {
         "title": "Fansbuy Spreadsheet Women's Fashion",
         "excerpt": "Streetwear and fashion section with trend data, quality ratings, and style guide.",
-        "link": "/fansbuy%20spreadsheet%20women's%20fashion/"
+        "link": "/fansbuy-spreadsheet-women's-fashion/"
       },
       {
         "title": "Fansbuy Spreadsheet Women's Shoes",
         "excerpt": "Spreadsheet section for shoes with quality ratings and pricing data.",
-        "link": "/fansbuy%20spreadsheet%20women's%20shoes/"
+        "link": "/fansbuy-spreadsheet-women's-shoes/"
       },
       {
         "title": "Fansbuy Spreadsheet Xxl",
         "excerpt": "Plus size section with extended options, quality data, and fit recommendations.",
-        "link": "/fansbuy%20spreadsheet%20xxl/"
+        "link": "/fansbuy-spreadsheet-xxl/"
       }
     ]
   },
@@ -2421,172 +2421,172 @@ const articleSeries = [
       {
         "title": "Fansbuy Africa Shipping",
         "excerpt": "African shipping guide with delivery options, customs procedures, and regional coverage.",
-        "link": "/fansbuy%20africa%20shipping/"
+        "link": "/fansbuy-africa-shipping/"
       },
       {
         "title": "Fansbuy Asia Shipping",
         "excerpt": "Asian shipping information with delivery times, customs handling, and regional options.",
-        "link": "/fansbuy%20asia%20shipping/"
+        "link": "/fansbuy-asia-shipping/"
       },
       {
         "title": "Fansbuy Australia",
         "excerpt": "Australian shipping guide with delivery times and customs handling.",
-        "link": "/fansbuy%20australia/"
+        "link": "/fansbuy-australia/"
       },
       {
         "title": "Fansbuy Australia Guide",
         "excerpt": "Australian buyer information with shipping methods, customs handling, and delivery times.",
-        "link": "/fansbuy%20australia%20guide/"
+        "link": "/fansbuy-australia-guide/"
       },
       {
         "title": "Fansbuy Canada",
         "excerpt": "Canadian buyer guide with shipping options and duty information.",
-        "link": "/fansbuy%20canada/"
+        "link": "/fansbuy-canada/"
       },
       {
         "title": "Fansbuy Canada Goose",
         "excerpt": "Canadian shopping guide with shipping options, duty fees, and delivery estimates.",
-        "link": "/fansbuy%20canada%20goose/"
+        "link": "/fansbuy-canada-goose/"
       },
       {
         "title": "Fansbuy Canada Guide",
         "excerpt": "Canadian shopping guide with shipping options, duty fees, and delivery estimates.",
-        "link": "/fansbuy%20canada%20guide/"
+        "link": "/fansbuy-canada-guide/"
       },
       {
         "title": "Fansbuy Economy Shipping",
         "excerpt": "Shipping methods guide with delivery times, cost comparisons, and tracking options.",
-        "link": "/fansbuy%20economy%20shipping/"
+        "link": "/fansbuy-economy-shipping/"
       },
       {
         "title": "Fansbuy Ems Shipping",
         "excerpt": "Shipping methods guide with delivery times, cost comparisons, and tracking options.",
-        "link": "/fansbuy%20ems%20shipping/"
+        "link": "/fansbuy-ems-shipping/"
       },
       {
         "title": "Fansbuy Eu Shipping",
         "excerpt": "European Union shipping guide with customs regulations, VAT information, and delivery options.",
-        "link": "/fansbuy%20eu%20shipping/"
+        "link": "/fansbuy-eu-shipping/"
       },
       {
         "title": "Fansbuy Euro Shipping",
         "excerpt": "European Union shipping guide with customs regulations, VAT information, and delivery options.",
-        "link": "/fansbuy%20euro%20shipping/"
+        "link": "/fansbuy-euro-shipping/"
       },
       {
         "title": "Fansbuy Europe",
         "excerpt": "European buyer guide covering EU countries and shipping regulations.",
-        "link": "/fansbuy%20europe/"
+        "link": "/fansbuy-europe/"
       },
       {
         "title": "Fansbuy Express Shipping",
         "excerpt": "Shipping methods guide with delivery times, cost comparisons, and tracking options.",
-        "link": "/fansbuy%20express%20shipping/"
+        "link": "/fansbuy-express-shipping/"
       },
       {
         "title": "Fansbuy Free Shipping",
         "excerpt": "Shipping methods guide with delivery times, cost comparisons, and tracking options.",
-        "link": "/fansbuy%20free%20shipping/"
+        "link": "/fansbuy-free-shipping/"
       },
       {
         "title": "Fansbuy Global Shipping",
         "excerpt": "Global shipping coverage with international delivery options, customs info, and tracking.",
-        "link": "/fansbuy%20global%20shipping/"
+        "link": "/fansbuy-global-shipping/"
       },
       {
         "title": "Fansbuy International",
         "excerpt": "Global shipping coverage with international delivery options, customs info, and tracking.",
-        "link": "/fansbuy%20international/"
+        "link": "/fansbuy-international/"
       },
       {
         "title": "Fansbuy International Shipping",
         "excerpt": "Global shipping guide covering all supported countries and regions.",
-        "link": "/fansbuy%20international%20shipping/"
+        "link": "/fansbuy-international-shipping/"
       },
       {
         "title": "Fansbuy Kukirin",
         "excerpt": "Regional shipping guide with delivery options, customs information, and local payment methods.",
-        "link": "/fansbuy%20kukirin/"
+        "link": "/fansbuy-kukirin/"
       },
       {
         "title": "Fansbuy Latin America Shipping",
         "excerpt": "Shipping methods guide with delivery times, cost comparisons, and tracking options.",
-        "link": "/fansbuy%20latin%20america%20shipping/"
+        "link": "/fansbuy-latin-america-shipping/"
       },
       {
         "title": "Fansbuy Middle East Shipping",
         "excerpt": "Shipping methods guide with delivery times, cost comparisons, and tracking options.",
-        "link": "/fansbuy%20middle%20east%20shipping/"
+        "link": "/fansbuy-middle-east-shipping/"
       },
       {
         "title": "Fansbuy Oceania Shipping",
         "excerpt": "Oceania shipping guide with delivery times, customs handling, and regional information.",
-        "link": "/fansbuy%20oceania%20shipping/"
+        "link": "/fansbuy-oceania-shipping/"
       },
       {
         "title": "Fansbuy Poland",
         "excerpt": "Polish buyer guide with local payment methods, shipping options, and customs information.",
-        "link": "/fansbuy%20poland/"
+        "link": "/fansbuy-poland/"
       },
       {
         "title": "Fansbuy Poland Guide",
         "excerpt": "Polish buyer guide with local payment methods, shipping options, and customs information.",
-        "link": "/fansbuy%20poland%20guide/"
+        "link": "/fansbuy-poland-guide/"
       },
       {
         "title": "Fansbuy Polska",
         "excerpt": "Polish buyer guide with local payment methods and shipping options.",
-        "link": "/fansbuy%20polska/"
+        "link": "/fansbuy-polska/"
       },
       {
         "title": "Fansbuy Polska 2026",
         "excerpt": "Polish buyer guide with local payment methods, shipping options, and customs information.",
-        "link": "/fansbuy%20polska%202026/"
+        "link": "/fansbuy-polska-2026/"
       },
       {
         "title": "Fansbuy Polska Guide",
         "excerpt": "Polish buyer guide with local payment methods, shipping options, and customs information.",
-        "link": "/fansbuy%20polska%20guide/"
+        "link": "/fansbuy-polska-guide/"
       },
       {
         "title": "Fansbuy Romania",
         "excerpt": "Romanian shopping information with delivery options, customs duties, and payment methods.",
-        "link": "/fansbuy%20romania/"
+        "link": "/fansbuy-romania/"
       },
       {
         "title": "Fansbuy Romania Guide",
         "excerpt": "Romanian shopping information with delivery options, customs duties, and payment methods.",
-        "link": "/fansbuy%20romania%20guide/"
+        "link": "/fansbuy-romania-guide/"
       },
       {
         "title": "Fansbuy Shipping Costs",
         "excerpt": "Shipping methods guide with delivery times, cost comparisons, and tracking options.",
-        "link": "/fansbuy%20shipping%20costs/"
+        "link": "/fansbuy-shipping-costs/"
       },
       {
         "title": "Fansbuy Shipping Times",
         "excerpt": "Shipping methods guide with delivery times, cost comparisons, and tracking options.",
-        "link": "/fansbuy%20shipping%20times/"
+        "link": "/fansbuy-shipping-times/"
       },
       {
         "title": "Fansbuy Uk",
         "excerpt": "Complete guide for UK buyers including shipping, customs, and payment methods.",
-        "link": "/fansbuy%20uk/"
+        "link": "/fansbuy-uk/"
       },
       {
         "title": "Fansbuy Uk Guide",
         "excerpt": "UK buyer guide with shipping times, customs duties, and local payment options.",
-        "link": "/fansbuy%20uk%20guide/"
+        "link": "/fansbuy-uk-guide/"
       },
       {
         "title": "Fansbuy Us Shipping",
         "excerpt": "US shipping guide with delivery options, tracking information, and estimated times.",
-        "link": "/fansbuy%20us%20shipping/"
+        "link": "/fansbuy-us-shipping/"
       },
       {
         "title": "Fansbuy Worldwide Shipping",
         "excerpt": "Global shipping coverage with international delivery options, customs info, and tracking.",
-        "link": "/fansbuy%20worldwide%20shipping/"
+        "link": "/fansbuy-worldwide-shipping/"
       }
     ]
   },
@@ -2596,147 +2596,147 @@ const articleSeries = [
       {
         "title": "Fansbuy Airpods",
         "excerpt": "Apple products guide with model comparisons, quality data, and authentication tips.",
-        "link": "/fansbuy%20airpods/"
+        "link": "/fansbuy-airpods/"
       },
       {
         "title": "Fansbuy Collectibles",
         "excerpt": "Collectibles guide with rarity data, condition ratings, and investment value.",
-        "link": "/fansbuy%20collectibles/"
+        "link": "/fansbuy-collectibles/"
       },
       {
         "title": "Fansbuy Cosmetics",
         "excerpt": "Cosmetics collection with ingredient data, quality verification, and beauty guide.",
-        "link": "/fansbuy%20cosmetics/"
+        "link": "/fansbuy-cosmetics/"
       },
       {
         "title": "Fansbuy Dress",
         "excerpt": "Dress selection with style options, fabric quality, and occasion recommendations.",
-        "link": "/fansbuy%20dress/"
+        "link": "/fansbuy-dress/"
       },
       {
         "title": "Fansbuy Electronics",
         "excerpt": "Electronics collection with specifications, quality verification, and performance data.",
-        "link": "/fansbuy%20electronics/"
+        "link": "/fansbuy-electronics/"
       },
       {
         "title": "Fansbuy Electronics Guide",
         "excerpt": "Electronics collection with specifications, quality verification, and performance data.",
-        "link": "/fansbuy%20electronics%20guide/"
+        "link": "/fansbuy-electronics-guide/"
       },
       {
         "title": "Fansbuy Fishing Gear",
         "excerpt": "Fishing equipment guide with performance data, quality ratings, and buyer recommendations.",
-        "link": "/fansbuy%20fishing%20gear/"
+        "link": "/fansbuy-fishing-gear/"
       },
       {
         "title": "Fansbuy Football Jersey",
         "excerpt": "Football gear with position-specific recommendations, quality data, and performance ratings.",
-        "link": "/fansbuy%20football%20jersey/"
+        "link": "/fansbuy-football-jersey/"
       },
       {
         "title": "Fansbuy Football Kits",
         "excerpt": "Football gear with position-specific recommendations, quality data, and performance ratings.",
-        "link": "/fansbuy%20football%20kits/"
+        "link": "/fansbuy-football-kits/"
       },
       {
         "title": "Fansbuy Fragrance",
         "excerpt": "Fragrance guide with scent profiles, longevity data, and authenticity tips.",
-        "link": "/fansbuy%20fragrance/"
+        "link": "/fansbuy-fragrance/"
       },
       {
         "title": "Fansbuy Gym Gear",
         "excerpt": "Gym equipment guide with performance data, quality ratings, and buyer recommendations.",
-        "link": "/fansbuy%20gym%20gear/"
+        "link": "/fansbuy-gym-gear/"
       },
       {
         "title": "Fansbuy Ipad",
         "excerpt": "Apple products guide with model comparisons, quality data, and authentication tips.",
-        "link": "/fansbuy%20ipad/"
+        "link": "/fansbuy-ipad/"
       },
       {
         "title": "Fansbuy Iphone",
         "excerpt": "Apple products guide with model comparisons, quality data, and authentication tips.",
-        "link": "/fansbuy%20iphone/"
+        "link": "/fansbuy-iphone/"
       },
       {
         "title": "Fansbuy Makeup",
         "excerpt": "Cosmetics collection with ingredient data, quality verification, and beauty guide.",
-        "link": "/fansbuy%20makeup/"
+        "link": "/fansbuy-makeup/"
       },
       {
         "title": "Fansbuy MMA Gear",
         "excerpt": "Mma equipment guide with performance data, quality ratings, and buyer recommendations.",
-        "link": "/fansbuy%20mma%20gear/"
+        "link": "/fansbuy-mma-gear/"
       },
       {
         "title": "Fansbuy Motocross Gear",
         "excerpt": "Motocross equipment guide with performance data, quality ratings, and buyer recommendations.",
-        "link": "/fansbuy%20motocross%20gear/"
+        "link": "/fansbuy-motocross-gear/"
       },
       {
         "title": "Fansbuy Motorcycle Gear",
         "excerpt": "Motorcycle equipment guide with performance data, quality ratings, and buyer recommendations.",
-        "link": "/fansbuy%20motorcycle%20gear/"
+        "link": "/fansbuy-motorcycle-gear/"
       },
       {
         "title": "Fansbuy MTB Gear",
         "excerpt": "Mtb equipment guide with performance data, quality ratings, and buyer recommendations.",
-        "link": "/fansbuy%20mtb%20gear/"
+        "link": "/fansbuy-mtb-gear/"
       },
       {
         "title": "Fansbuy Outdoor Gear",
         "excerpt": "Outdoor equipment guide with performance data, quality ratings, and buyer recommendations.",
-        "link": "/fansbuy%20outdoor%20gear/"
+        "link": "/fansbuy-outdoor-gear/"
       },
       {
         "title": "Fansbuy Perfume",
         "excerpt": "Fragrance guide with scent profiles, longevity data, and authenticity tips.",
-        "link": "/fansbuy%20perfume/"
+        "link": "/fansbuy-perfume/"
       },
       {
         "title": "Fansbuy Phone",
         "excerpt": "Phone selection with specifications, carrier compatibility, and quality verification.",
-        "link": "/fansbuy%20phone/"
+        "link": "/fansbuy-phone/"
       },
       {
         "title": "Fansbuy Room Decor",
         "excerpt": "Product guide covering electronics, gadgets, and specialty items available on Fansbuy.",
-        "link": "/fansbuy%20room%20decor/"
+        "link": "/fansbuy-room-decor/"
       },
       {
         "title": "Fansbuy Size Chart",
         "excerpt": "Comprehensive sizing guide with measurement charts, conversion data, and fit tips.",
-        "link": "/fansbuy%20size%20chart/"
+        "link": "/fansbuy-size-chart/"
       },
       {
         "title": "Fansbuy Size Conversion",
         "excerpt": "Comprehensive sizing guide with measurement charts, conversion data, and fit tips.",
-        "link": "/fansbuy%20size%20conversion/"
+        "link": "/fansbuy-size-conversion/"
       },
       {
         "title": "Fansbuy Size Guide",
         "excerpt": "Comprehensive sizing guide with measurement charts, conversion data, and fit tips.",
-        "link": "/fansbuy%20size%20guide/"
+        "link": "/fansbuy-size-guide/"
       },
       {
         "title": "Fansbuy Sizing Chart",
         "excerpt": "Comprehensive sizing guide with measurement charts, conversion data, and fit tips.",
-        "link": "/fansbuy%20sizing%20chart/"
+        "link": "/fansbuy-sizing-chart/"
       },
       {
         "title": "Fansbuy Sizing Guide",
         "excerpt": "Comprehensive sizing guide with measurement charts, conversion data, and fit tips.",
-        "link": "/fansbuy%20sizing%20guide/"
+        "link": "/fansbuy-sizing-guide/"
       },
       {
         "title": "Fansbuy Sports Gear",
         "excerpt": "Sports equipment guide with performance data, quality ratings, and buyer recommendations.",
-        "link": "/fansbuy%20sports%20gear/"
+        "link": "/fansbuy-sports-gear/"
       },
       {
         "title": "Fansbuy Underwear",
         "excerpt": "Underwear collection with material quality, comfort ratings, and sizing guide.",
-        "link": "/fansbuy%20underwear/"
+        "link": "/fansbuy-underwear/"
       }
     ]
   },
@@ -2746,97 +2746,97 @@ const articleSeries = [
       {
         "title": "Fansbuy Alternative",
         "excerpt": "Alternative platforms comparison with pricing, shipping options, and service quality.",
-        "link": "/fansbuy%20alternative/"
+        "link": "/fansbuy-alternative/"
       },
       {
         "title": "Fansbuy Alternatives",
         "excerpt": "Platform comparison guide covering pricing, shipping, quality, and service differences.",
-        "link": "/fansbuy%20alternatives/"
+        "link": "/fansbuy-alternatives/"
       },
       {
         "title": "Fansbuy Best Alternative",
         "excerpt": "Alternative platforms comparison with pricing, shipping options, and service quality.",
-        "link": "/fansbuy%20best%20alternative/"
+        "link": "/fansbuy-best-alternative/"
       },
       {
         "title": "Fansbuy Best Sellers",
         "excerpt": "Platform comparison guide covering pricing, shipping, quality, and service differences.",
-        "link": "/fansbuy%20best%20sellers/"
+        "link": "/fansbuy-best-sellers/"
       },
       {
         "title": "Fansbuy Bulk Buying",
         "excerpt": "Bulk buying guide with quantity discounts, shipping optimization, and cost analysis.",
-        "link": "/fansbuy%20bulk%20buying/"
+        "link": "/fansbuy-bulk-buying/"
       },
       {
         "title": "Fansbuy Comparison Guide",
         "excerpt": "Platform comparison guide with feature analysis, pricing data, and user experience.",
-        "link": "/fansbuy%20comparison%20guide/"
+        "link": "/fansbuy-comparison-guide/"
       },
       {
         "title": "Fansbuy Competitor Comparison",
         "excerpt": "Platform comparison guide with feature analysis, pricing data, and user experience.",
-        "link": "/fansbuy%20competitor%20comparison/"
+        "link": "/fansbuy-competitor-comparison/"
       },
       {
         "title": "Fansbuy Exchange Guide",
         "excerpt": "Exchange process guide with procedures, timelines, and successful request tips.",
-        "link": "/fansbuy%20exchange%20guide/"
+        "link": "/fansbuy-exchange-guide/"
       },
       {
         "title": "Fansbuy For Resellers",
         "excerpt": "Platform comparison guide covering pricing, shipping, quality, and service differences.",
-        "link": "/fansbuy%20for%20resellers/"
+        "link": "/fansbuy-for-resellers/"
       },
       {
         "title": "Fansbuy Platform Comparison",
         "excerpt": "Platform comparison guide with feature analysis, pricing data, and user experience.",
-        "link": "/fansbuy%20platform%20comparison/"
+        "link": "/fansbuy-platform-comparison/"
       },
       {
         "title": "Fansbuy Profit Guide",
         "excerpt": "Reselling guide with profit margins, sourcing tips, and market analysis.",
-        "link": "/fansbuy%20profit%20guide/"
+        "link": "/fansbuy-profit-guide/"
       },
       {
         "title": "Fansbuy Reselling Guide",
         "excerpt": "Platform comparison guide covering pricing, shipping, quality, and service differences.",
-        "link": "/fansbuy%20reselling%20guide/"
+        "link": "/fansbuy-reselling-guide/"
       },
       {
         "title": "Fansbuy Reselling Tips",
         "excerpt": "Platform comparison guide covering pricing, shipping, quality, and service differences.",
-        "link": "/fansbuy%20reselling%20tips/"
+        "link": "/fansbuy-reselling-tips/"
       },
       {
         "title": "Fansbuy Vs Hoobuy",
         "excerpt": "Detailed comparison between Fansbuy and Hoobuy covering pricing, shipping, and quality.",
-        "link": "/fansbuy%20vs%20hoobuy/"
+        "link": "/fansbuy-vs-hoobuy/"
       },
       {
         "title": "Fansbuy Vs Litbuy",
         "excerpt": "Detailed comparison between Fansbuy and Litbuy covering pricing, shipping, and quality.",
-        "link": "/fansbuy%20vs%20litbuy/"
+        "link": "/fansbuy-vs-litbuy/"
       },
       {
         "title": "Fansbuy Vs Oopbuy",
         "excerpt": "Detailed comparison between Fansbuy and Oopbuy covering pricing, shipping, and quality.",
-        "link": "/fansbuy%20vs%20oopbuy/"
+        "link": "/fansbuy-vs-oopbuy/"
       },
       {
         "title": "Fansbuy Vs Pandabuy",
         "excerpt": "Detailed comparison between Fansbuy and Pandabuy covering pricing, shipping, and quality.",
-        "link": "/fansbuy%20vs%20pandabuy/"
+        "link": "/fansbuy-vs-pandabuy/"
       },
       {
         "title": "Fansbuy Vs Usfans",
         "excerpt": "Detailed comparison between Fansbuy and Usfans covering pricing, shipping, and quality.",
-        "link": "/fansbuy%20vs%20usfans/"
+        "link": "/fansbuy-vs-usfans/"
       },
       {
         "title": "Fansbuy Yupoo",
         "excerpt": "Yupoo album navigation with product sourcing, image verification, and ordering tips.",
-        "link": "/fansbuy%20yupoo/"
+        "link": "/fansbuy-yupoo/"
       }
     ]
   },
@@ -2846,62 +2846,62 @@ const articleSeries = [
       {
         "title": "Fansbuy Community Guide",
         "excerpt": "Community guide with engagement tips, discussion platforms, and user resources.",
-        "link": "/fansbuy%20community%20guide/"
+        "link": "/fansbuy-community-guide/"
       },
       {
         "title": "Fansbuy Discord",
         "excerpt": "Discord community guide with server access, discussion channels, and member tips.",
-        "link": "/fansbuy%20discord/"
+        "link": "/fansbuy-discord/"
       },
       {
         "title": "Fansbuy Discord Community",
         "excerpt": "Discord community guide with server access, discussion channels, and member tips.",
-        "link": "/fansbuy%20discord%20community/"
+        "link": "/fansbuy-discord-community/"
       },
       {
         "title": "Fansbuy Instagram",
         "excerpt": "Instagram presence with style inspiration, product showcases, and community engagement.",
-        "link": "/fansbuy%20instagram/"
+        "link": "/fansbuy-instagram/"
       },
       {
         "title": "Fansbuy Reddit 2025",
         "excerpt": "Reddit community insights with user discussions, recommendations, and real experiences.",
-        "link": "/fansbuy%20reddit%202025/"
+        "link": "/fansbuy-reddit-2025/"
       },
       {
         "title": "Fansbuy Reddit 2026",
         "excerpt": "Reddit community insights with user discussions, recommendations, and real experiences.",
-        "link": "/fansbuy%20reddit%202026/"
+        "link": "/fansbuy-reddit-2026/"
       },
       {
         "title": "Fansbuy Reddit Guide",
         "excerpt": "Reddit community insights with user discussions, recommendations, and real experiences.",
-        "link": "/fansbuy%20reddit%20guide/"
+        "link": "/fansbuy-reddit-guide/"
       },
       {
         "title": "Fansbuy Reddit Reviews",
         "excerpt": "Reddit community insights with user discussions, recommendations, and real experiences.",
-        "link": "/fansbuy%20reddit%20reviews/"
+        "link": "/fansbuy-reddit-reviews/"
       },
       {
         "title": "Fansbuy Telegram",
         "excerpt": "Telegram group information with deal alerts, community chat, and update notifications.",
-        "link": "/fansbuy%20telegram/"
+        "link": "/fansbuy-telegram/"
       },
       {
         "title": "Fansbuy Telegram Guide",
         "excerpt": "Telegram group information with deal alerts, community chat, and update notifications.",
-        "link": "/fansbuy%20telegram%20guide/"
+        "link": "/fansbuy-telegram-guide/"
       },
       {
         "title": "Fansbuy Tiktok",
         "excerpt": "TikTok content with product reviews, unboxing videos, and trending items.",
-        "link": "/fansbuy%20tiktok/"
+        "link": "/fansbuy-tiktok/"
       },
       {
         "title": "Fansbuy With QC Reddit",
         "excerpt": "Reddit community insights with user discussions, recommendations, and real experiences.",
-        "link": "/fansbuy%20with%20qc%20reddit/"
+        "link": "/fansbuy-with-qc-reddit/"
       }
     ]
   },
@@ -2911,52 +2911,52 @@ const articleSeries = [
       {
         "title": "Fansbuy 2025 Best Batch",
         "excerpt": "Batch version guide with quality comparisons, version history, and buyer recommendations.",
-        "link": "/fansbuy%202025%20best%20batch/"
+        "link": "/fansbuy-2025-best-batch/"
       },
       {
         "title": "Fansbuy 2026 Best Batch",
         "excerpt": "Batch version guide with quality comparisons, version history, and buyer recommendations.",
-        "link": "/fansbuy%202026%20best%20batch/"
+        "link": "/fansbuy-2026-best-batch/"
       },
       {
         "title": "Fansbuy Batch Comparison",
         "excerpt": "Batch version guide with quality comparisons, version history, and buyer recommendations.",
-        "link": "/fansbuy%20batch%20comparison/"
+        "link": "/fansbuy-batch-comparison/"
       },
       {
         "title": "Fansbuy Batch Guide",
         "excerpt": "Batch version guide with quality comparisons, version history, and buyer recommendations.",
-        "link": "/fansbuy%20batch%20guide/"
+        "link": "/fansbuy-batch-guide/"
       },
       {
         "title": "Fansbuy Batch Quality",
         "excerpt": "Batch version guide with quality comparisons, version history, and buyer recommendations.",
-        "link": "/fansbuy%20batch%20quality/"
+        "link": "/fansbuy-batch-quality/"
       },
       {
         "title": "Fansbuy Batch Tracker",
         "excerpt": "Batch version guide with quality comparisons, version history, and buyer recommendations.",
-        "link": "/fansbuy%20batch%20tracker/"
+        "link": "/fansbuy-batch-tracker/"
       },
       {
         "title": "Fansbuy Batch Version",
         "excerpt": "Batch version guide with quality comparisons, version history, and buyer recommendations.",
-        "link": "/fansbuy%20batch%20version/"
+        "link": "/fansbuy-batch-version/"
       },
       {
         "title": "Fansbuy Best Batch",
         "excerpt": "Batch version guide with quality comparisons, version history, and buyer recommendations.",
-        "link": "/fansbuy%20best%20batch/"
+        "link": "/fansbuy-best-batch/"
       },
       {
         "title": "Fansbuy Budget Batch",
         "excerpt": "Batch version guide with quality comparisons, version history, and buyer recommendations.",
-        "link": "/fansbuy%20budget%20batch/"
+        "link": "/fansbuy-budget-batch/"
       },
       {
         "title": "Fansbuy Unboxing",
         "excerpt": "Unboxing experience with packaging quality, first impressions, and product verification.",
-        "link": "/fansbuy%20unboxing/"
+        "link": "/fansbuy-unboxing/"
       }
     ]
   }
@@ -2966,48 +2966,48 @@ const recommendedSeries = [
   {
     name: 'Getting Started',
     articles: [
-      { title: 'Fansbuy for Beginners', link: '/fansbuy%20for%20beginners/' },
-      { title: 'How to Use', link: '/fansbuy%20how%20to%20use/' },
-      { title: 'Shipping Guide', link: '/fansbuy%20shipping%20guide/' },
+      { title: 'Fansbuy for Beginners', link: '/fansbuy-for-beginners/' },
+      { title: 'How to Use', link: '/fansbuy-how-to-use/' },
+      { title: 'Shipping Guide', link: '/fansbuy-shipping-guide/' },
     ],
   },
   {
     name: 'Top Categories',
     articles: [
-      { title: 'Sneakers', link: '/fansbuy%20sneakers/' },
-      { title: 'Hoodies', link: '/fansbuy%20hoodies/' },
-      { title: 'Clothes', link: '/fansbuy%20clothes/' },
+      { title: 'Sneakers', link: '/fansbuy-sneakers/' },
+      { title: 'Hoodies', link: '/fansbuy-hoodies/' },
+      { title: 'Clothes', link: '/fansbuy-clothes/' },
     ],
   },
   {
     name: 'Popular Brands',
     articles: [
-      { title: 'Nike', link: '/fansbuy%20nike/' },
-      { title: 'Jordan', link: '/fansbuy%20jordan/' },
-      { title: 'Adidas', link: '/fansbuy%20adidas/' },
+      { title: 'Nike', link: '/fansbuy-nike/' },
+      { title: 'Jordan', link: '/fansbuy-jordan/' },
+      { title: 'Adidas', link: '/fansbuy-adidas/' },
     ],
   },
   {
     name: 'Save Money',
     articles: [
-      { title: 'Budget Picks', link: '/fansbuy%20budget%20picks/' },
-      { title: 'Coupon', link: '/fansbuy%20coupon/' },
-      { title: 'Best Deals', link: '/fansbuy%20best%20deals/' },
+      { title: 'Budget Picks', link: '/fansbuy-budget-picks/' },
+      { title: 'Coupon', link: '/fansbuy-coupon/' },
+      { title: 'Best Deals', link: '/fansbuy-best-deals/' },
     ],
   },
   {
     name: 'Trust & Safety',
     articles: [
-      { title: 'Is Fansbuy Legit?', link: '/is%20fansbuy%20legit/' },
-      { title: 'Legit Check', link: '/fansbuy%20legit%20check/' },
-      { title: 'QC Photos', link: '/fansbuy%20qc%20photos/' },
+      { title: 'Is Fansbuy Legit?', link: '/is-fansbuy-legit/' },
+      { title: 'Legit Check', link: '/fansbuy-legit-check/' },
+      { title: 'QC Photos', link: '/fansbuy-qc-photos/' },
     ],
   },
   {
     name: 'Spreadsheet',
     articles: [
-      { title: 'Best Products', link: '/fansbuy%20spreadsheet%20best/' },
-      { title: '2026 Updates', link: '/fansbuy%20spreadsheet%202026/' },
+      { title: 'Best Products', link: '/fansbuy-spreadsheet-best/' },
+      { title: '2026 Updates', link: '/fansbuy-spreadsheet-2026/' },
     ],
   },
 ]

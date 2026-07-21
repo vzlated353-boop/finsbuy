@@ -1,4 +1,4 @@
-# Fansbuy 项目全面审查报告
+﻿# Fansbuy 项目全面审查报告
 
 **审查日期**: 2026-07-19  
 **审查范围**: 所有已发布—?Markdown 页面和文—? 
@@ -26,9 +26,9 @@
 
 | 文件 | 修复位置 | 修复内容 |
 |------|---------|---------|
-| fansbuy /fansbuy%20sneakers/ | —?21, 25, 33, 37, 41, 45, 49 —?| ? —?—?|
-| fansbuy /fansbuy%20chrome%20hearts/ | —?65, 68, 71 —?| ? —?—?|
-| fansbuy /fansbuy%20jordan/ | —?21 —?| ? —?—?|
+| fansbuy /fansbuy-sneakers/ | —?21, 25, 33, 37, 41, 45, 49 —?| ? —?—?|
+| fansbuy /fansbuy-chrome-hearts/ | —?65, 68, 71 —?| ? —?—?|
+| fansbuy /fansbuy-jordan/ | —?21 —?| ? —?—?|
 
 **修复方法**: 
 - 使用 Edit 工具直接替换
@@ -40,15 +40,15 @@
 ### 2.2 断链修复（严重性：高）—?已修—?
 **问题描述**: 发现 1 个断链指向不存在的文—?
 **受影响文—?*:
-- `fansbuy /fansbuy%20coupon/` —?55 —?
+- `fansbuy /fansbuy-coupon/` —?55 —?
 **修复—?*:
 ```markdown
-[fansbuy spreadsheet best param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)" 
+[fansbuy spreadsheet best param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)" 
 ```
 
 **修复—?*:
 ```markdown
-[fansbuy spreadsheet best](/fansbuy%20best%20sellers/)
+[fansbuy spreadsheet best](/fansbuy-best-sellers/)
 ```
 
 **修复状—?*: —?已完—?
@@ -57,23 +57,23 @@
 ## 三、待修复问题
 
 ### 3.1 内链格式不友好（严重性：中）—?待修—?
-**问题描述**: 所有内链使—?URL 编码格式 `fansbuy%20...`，虽然技术上正确，但不符合用户友好—?
+**问题描述**: 所有内链使—?URL 编码格式 `fansbuy-...`，虽然技术上正确，但不符合用户友好—?
 **受影响文—?*: 所—?37 篇博客文章（—?130+ 处内链）
 
 **示例**:
 ```markdown
-[fansbuy hoodies param($m); $path = $m.Groups[1].Value -replace '%20', '-'; "]($path.md)" 
+[fansbuy hoodies param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)" 
 ```
 
 **建议修复—?*:
 ```markdown
-[fansbuy hoodies](/fansbuy%20hoodies/)
+[fansbuy hoodies](/fansbuy-hoodies/)
 ```
 
 **修复方法**:
 ```bash
 # 批量替换命令
-find . -name "fansbuy*.md" -type f -exec sed -i 's/fansbuy%20/fansbuy /g' {} +
+find . -name "fansbuy*.md" -type f -exec sed -i 's/fansbuy-/fansbuy /g' {} +
 ```
 
 **优先—?*: 中（技术正确但影响可读性）
@@ -84,16 +84,16 @@ find . -name "fansbuy*.md" -type f -exec sed -i 's/fansbuy%20/fansbuy /g' {} +
 **问题描述**: 统计数据缺少具体来源说明，影—?EEAT 可信—?
 **受影响文件及示例**:
 
-#### fansbuy /fansbuy%20hoodies/
+#### fansbuy /fansbuy-hoodies/
 - —?17 —? `satisfaction rates above 85%` - 缺少数据来源
 - —?19 —? `quality pass rate...88-94%` - 缺少数据来源
 
-#### fansbuy /fansbuy%20palm%20angels/
+#### fansbuy /fansbuy-palm-angels/
 - —?17 —? `over 12,000 Palm Angels orders` - 缺少数据来源
 - —?19 —? `Palm Angels search volume increasing 28% year-over-year` - 缺少数据来源
 - —?21 —? `93.2% average quality pass rate` - 缺少数据来源
 
-#### fansbuy /fansbuy%20essentials/
+#### fansbuy /fansbuy-essentials/
 - —?17 —? `over 3,200 orders per quarter` - 缺少数据来源
 - —?17 —? `quality pass rates consistently ranging between 89% and 94%` - 缺少数据来源
 
@@ -154,10 +154,10 @@ After personally testing 15 different hoodie brands on the platform...
 **问题描述**: 部分产品描述缺少具体规格，影—?EEAT 专业性和可信—?
 **受影响文件及示例**:
 
-#### fansbuy /fansbuy%20accessories/
+#### fansbuy /fansbuy-accessories/
 - —?42 —? `Backpack at ~$14.01` - 缺少材质、尺寸、容量等具体规格
 
-#### fansbuy /fansbuy%20chrome%20hearts/
+#### fansbuy /fansbuy-chrome-hearts/
 - —?32 —? `Chrome Hearts Jeans` - 缺少面料成分、重量等具体规格
 
 **修复建议**: 添加具体规格
@@ -175,10 +175,10 @@ Price: ~$26.04 | 14oz Japanese selvedge denim | 98% cotton, 2% elastane | 380gsm
 ### 3.6 对比内容存在潜在偏见（严重性：低）—?待修—?
 **问题描述**: 平台对比文章可能缺乏客观性，影响 EEAT 可信—?
 **受影响文—?*:
-- fansbuy /fansbuy%20vs%20oopbuy/
-- fansbuy /fansbuy%20vs%20kakobuy/
-- fansbuy /fansbuy%20vs%20litbuy/
-- fansbuy /fansbuy%20vs%20usfans/
+- fansbuy /fansbuy-vs-oopbuy/
+- fansbuy /fansbuy-vs-kakobuy/
+- fansbuy /fansbuy-vs-litbuy/
+- fansbuy /fansbuy-vs-usfans/
 
 **问题示例**:
 - 缺少竞品的优势说—?- 缺少 Fansbuy 的劣势说—?
@@ -199,7 +199,7 @@ While Fansbuy excels in [specific areas], it may not be the best choice for:
 ### 3.7 标题层级不一致（严重性：低）—?待修—?
 **问题描述**: 部分文章 "In This Article" 部分使用 H2，其他部分使用粗—?
 **受影响文—?*:
-- fansbuy /fansbuy%20essentials/ —?7 —? `In This Article:` 缺少 `##` 标记
+- fansbuy /fansbuy-essentials/ —?7 —? `In This Article:` 缺少 `##` 标记
 
 **修复建议**: 统一使用 `## In This Article:` 格式
 
@@ -209,7 +209,7 @@ While Fansbuy excels in [specific areas], it may not be the best choice for:
 ### 3.8 段落间距问题（严重性：低）—?待修—?
 **问题描述**: 部分文件在列表后缺少空行或连续空行过—?
 **受影响文—?*:
-- fansbuy /fansbuy%20jordan/ —?44-46 —? 连续空行过多
+- fansbuy /fansbuy-jordan/ —?44-46 —? 连续空行过多
 
 **修复建议**: 保持段落间单个空—?
 **优先—?*: —?
@@ -232,7 +232,7 @@ While Fansbuy excels in [specific areas], it may not be the best choice for:
 
 ### 4.2 按文件分—?
 **已修复的文件**:
-1. —?fansbuy /fansbuy%20sneakers/ - 7 处字符编码错—?2. —?fansbuy /fansbuy%20chrome%20hearts/ - 3 处字符编码错—?3. —?fansbuy /fansbuy%20jordan/ - 1 处字符编码错—?4. —?fansbuy /fansbuy%20coupon/ - 1 处断—?
+1. —?fansbuy /fansbuy-sneakers/ - 7 处字符编码错—?2. —?fansbuy /fansbuy-chrome-hearts/ - 3 处字符编码错—?3. —?fansbuy /fansbuy-jordan/ - 1 处字符编码错—?4. —?fansbuy /fansbuy-coupon/ - 1 处断—?
 **需要补充数据的文件**（EEAT 问题—?
 - —?所—?37 篇博客文章需要添加数据来源声—?- —?所—?37 篇博客文章需要添加作者信—?- —?所—?37 篇博客文章需要添加实践经验声—?
 ---
@@ -286,7 +286,7 @@ While Fansbuy excels in [specific areas], it may not be the best choice for:
 **批量替换命令**（待使用—?
 ```bash
 # 统一内链格式
-find . -name "fansbuy*.md" -type f -exec sed -i 's/fansbuy%20/fansbuy /g' {} +
+find . -name "fansbuy*.md" -type f -exec sed -i 's/fansbuy-/fansbuy /g' {} +
 ```
 
 ### 8.2 EEAT 改进模板
