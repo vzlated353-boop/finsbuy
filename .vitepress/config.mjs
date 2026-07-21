@@ -43,6 +43,8 @@ export default defineConfig({
       url: seo.hostname,
       description: brand.description,
     })],
+    ['script', { charset: 'UTF-8', id: 'LA_COLLECT', src: '//sdk.51.la/js-sdk-pro.min.js' }],
+    ['script', {}, 'LA.init({id:"3QY7P2FXzSiNjyje",ck:"3QY7P2FXzSiNjyje"})'],
   ],
 
   themeConfig: {
