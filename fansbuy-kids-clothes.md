@@ -1,4 +1,4 @@
-﻿# Fansbuy Kids Clothes 2026: Complete Guide to Verified Children's Fashion
+# Fansbuy Kids Clothes 2026: Complete Guide to Verified Children's Fashion
 
 <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Fansbuy Spreadsheet</a>
 
@@ -87,11 +87,3 @@ We encourage you to browse the full spreadsheet to explore all available options
 - [Fansbuy sizing guide](fansbuy-sizing-guide.md) - Get detailed sizing recommendations for all brands and age groups
 
 ---
-
-## Image Prompt for This Article
-
-**Alt Text:** Fansbuy kids clothes collection showing Nike T-shirt, Ralph Lauren Polo, and Essentials Hoodie for children with QC photos and quality ratings
-
-**Image Prompt:** A bright, clean product display featuring fansbuy kids clothes including Nike T-shirt in blue, Ralph Lauren Polo in white with embroidered pony, and Essentials Hoodie in grey. The image shows children's clothing neatly arranged with size tags visible, quality rating badges, and order count labels. Fansbuy branded packaging and spreadsheet interface visible in background. Natural lighting, cheerful and professional product photography style with light pastel background. Shot on 50mm lens with shallow depth of field, focusing on fabric quality and brand details. Overall mood: trustworthy, family-friendly, high-quality, parent-approved.
-
-**Aspect Ratio:** 16:9

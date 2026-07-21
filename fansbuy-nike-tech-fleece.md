@@ -1,4 +1,4 @@
-﻿# Fansbuy Nike Tech Fleece 2026: Complete Buyer's Guide to Nike's Premium Fabric Collection
+# Fansbuy Nike Tech Fleece 2026: Complete Buyer's Guide to Nike's Premium Fabric Collection
 
 <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Fansbuy Spreadsheet</a>
 
@@ -131,11 +131,3 @@ Browse the full [Fansbuy spreadsheet](https://docs.google.com/spreadsheets/d/10e
 - [Fansbuy Sizing Guide](fansbuy-sizing-guide.md)
 
 ---
-
-## Image Prompt for This Article
-
-**Alt Text:** Fansbuy Nike Tech Fleece collection showing hoodie, tracksuit, and joggers with QC photos and quality ratings on Fansbuy spreadsheet
-
-**Image Prompt:** A clean product display featuring Nike Tech Fleece collection from Fansbuy, including a grey Tech Fleece hoodie with smooth exterior and visible Swoosh embroidery, a matching black tracksuit with zip-up jacket and jogger pants, and a pair of navy Tech Fleece joggers laid flat. The image shows product tags with quality ratings (92% pass rate) and order counts (410+ orders). Fansbuy branded packaging and spreadsheet interface visible in the background showing product listings and QC photo thumbnails. Natural lighting from the left side, professional product photography style with white background. Shot on 50mm lens with shallow depth of field, focusing on fabric texture details and stitching quality. Overall mood: trustworthy, professional, high-quality, buyer-friendly.
-
-**Aspect Ratio:** 16:9

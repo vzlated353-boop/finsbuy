@@ -1,4 +1,4 @@
-﻿# Fansbuy Onboarding 2026: Your Complete New User Orientation
+# Fansbuy Onboarding 2026: Your Complete New User Orientation
 
 <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Fansbuy Spreadsheet</a>
 
@@ -27,7 +27,7 @@ Click the verification link in your email to activate your account. Once verifie
 
 Complete your profile by adding your shipping address, preferred payment methods, and size information. This step is important because it streamlines the checkout process when you place your first order. The platform stores your data securely using encrypted protocols, ensuring your personal information remains protected.
 
-For detailed account setup instructions including security best practices and profile optimization tips, check our [fansbuy account setup](fansbuy-account-setup.md) guide. Once your profile is complete, you are ready to explore the product catalog and understand how Fansbuy's quality system works.
+For detailed account setup instructions including security best practices and profile optimization tips, check our [fansbuy account setup](fansbuy-account-creation.md) guide. Once your profile is complete, you are ready to explore the product catalog and understand how Fansbuy's quality system works.
 
 ## Navigating the Product Catalog
 
@@ -112,7 +112,7 @@ You are now fully oriented and ready to explore everything Fansbuy has to offer.
 ---
 
 **Related Guides:**
-- [Fansbuy Account Setup](fansbuy-account-setup.md) — Detailed account creation and profile optimization
+- [Fansbuy Account Creation](fansbuy-account-creation.md) — Detailed account creation and profile optimization
 - [Fansbuy How to Use](fansbuy-how-to-use.md) — Complete platform navigation and feature guide
 - [Fansbuy Dashboard Guide](fansbuy-dashboard-guide.md) — Deep dive into every dashboard panel and tool
 

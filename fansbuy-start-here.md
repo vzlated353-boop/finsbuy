@@ -1,4 +1,4 @@
-﻿# Fansbuy Start Here 2026: Quick-Start Guide for Absolute Beginners
+# Fansbuy Start Here 2026: Quick-Start Guide for Absolute Beginners
 
 <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Fansbuy Spreadsheet</a>
 
@@ -27,7 +27,7 @@ After verification, log in to access your dashboard. The dashboard is your comma
 
 Your account profile allows you to save shipping addresses, payment preferences, and size information. Filling this out now saves time when you place your first order. The platform stores your data securely using encrypted protocols, so your personal information is protected.
 
-Once your account is ready, you can immediately start browsing the catalog. The [fansbuy account setup](fansbuy-account-setup.md) guide provides additional tips on profile optimization and security settings, but the basic registration process is all you need to get started today.
+Once your account is ready, you can immediately start browsing the catalog. The [fansbuy account setup](fansbuy-account-creation.md) guide provides additional tips on profile optimization and security settings, but the basic registration process is all you need to get started today.
 
 ## Step 2: Browse Products and Make Your Selection
 
@@ -95,7 +95,7 @@ You are now ready to place your first order with confidence. For the most curren
 
 **Related Guides:**
 - [Fansbuy for Beginners](fansbuy-for-beginners.md) — Comprehensive introduction with detailed explanations
-- [Fansbuy Account Setup](fansbuy-account-setup.md) — Step-by-step account creation and profile optimization
+- [Fansbuy Account Creation](fansbuy-account-creation.md) — Step-by-step account creation and profile optimization
 - [Fansbuy First Order](fansbuy-first-order.md) — Detailed walkthrough of placing and tracking your first purchase
 
 ---
