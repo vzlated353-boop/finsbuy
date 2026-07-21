@@ -94,16 +94,6 @@ const articleSeries = [
         "link": "/fansbuy%20account%20creation/"
       },
       {
-        "title": "Fansbuy Account Setup",
-        "excerpt": "Detailed guide to creating and configuring your Fansbuy account for optimal shopping.",
-        "link": "/fansbuy%20account%20setup/"
-      },
-      {
-        "title": "Fansbuy Balance Guide",
-        "excerpt": "Complete guide to managing your Fansbuy balance, including top-up methods, transaction history, and fund security.",
-        "link": "/fansbuy%20balance%20guide/"
-      },
-      {
         "title": "Fansbuy Beginner Guide",
         "excerpt": "Essential beginner guide covering account setup, product browsing, and first purchase on Fansbuy.",
         "link": "/fansbuy%20beginner%20guide/"
@@ -134,19 +124,9 @@ const articleSeries = [
         "link": "/fansbuy%20crypto%20payment/"
       },
       {
-        "title": "Fansbuy Dashboard Guide",
-        "excerpt": "Navigate your Fansbuy dashboard effectively to track orders, manage wishlist, and view account details.",
-        "link": "/fansbuy%20dashboard%20guide/"
-      },
-      {
         "title": "Fansbuy Essential Guide",
         "excerpt": "Essential information every new Fansbuy user needs to know before making a purchase.",
         "link": "/fansbuy%20essential%20guide/"
-      },
-      {
-        "title": "Fansbuy First Order",
-        "excerpt": "Step-by-step walkthrough for placing your first order on Fansbuy with confidence.",
-        "link": "/fansbuy%20first%20order/"
       },
       {
         "title": "Fansbuy First Purchase Tips",
@@ -169,11 +149,6 @@ const articleSeries = [
         "link": "/fansbuy%20g%20shock/"
       },
       {
-        "title": "Fansbuy Getting Started",
-        "excerpt": "Everything new users need to know about navigating the Fansbuy platform.",
-        "link": "/fansbuy%20getting%20started/"
-      },
-      {
         "title": "Fansbuy How To Use",
         "excerpt": "Step-by-step platform guide covering account setup, browsing, ordering, and payment.",
         "link": "/fansbuy%20how%20to%20use/"
@@ -194,24 +169,9 @@ const articleSeries = [
         "link": "/fansbuy%20money%20saving%20tips/"
       },
       {
-        "title": "Fansbuy New User Guide",
-        "excerpt": "Everything new users need to know about navigating Fansbuy, from registration to first successful order.",
-        "link": "/fansbuy%20new%20user%20guide/"
-      },
-      {
         "title": "Fansbuy Onboarding",
         "excerpt": "New user onboarding guide with platform overview, key features, and getting started tips.",
         "link": "/fansbuy%20onboarding/"
-      },
-      {
-        "title": "Fansbuy Order Guide",
-        "excerpt": "Detailed guide to the ordering process, from product selection to payment and shipping options.",
-        "link": "/fansbuy%20order%20guide/"
-      },
-      {
-        "title": "Fansbuy Ordering Process",
-        "excerpt": "Step-by-step walkthrough of the complete ordering process on Fansbuy from cart to delivery confirmation.",
-        "link": "/fansbuy%20ordering%20process/"
       },
       {
         "title": "Fansbuy Packaging Guide",
@@ -219,29 +179,9 @@ const articleSeries = [
         "link": "/fansbuy%20packaging%20guide/"
       },
       {
-        "title": "Fansbuy Payment Guide",
-        "excerpt": "Learn about all payment methods, balance top-up, and transaction security.",
-        "link": "/fansbuy%20payment%20guide/"
-      },
-      {
-        "title": "Fansbuy Platform Guide",
-        "excerpt": "Comprehensive overview of the Fansbuy platform features, navigation, and tools for efficient shopping.",
-        "link": "/fansbuy%20platform%20guide/"
-      },
-      {
         "title": "Fansbuy Plus Size",
         "excerpt": "Plus size clothing and apparel options on Fansbuy with sizing charts, fit guides, and brand recommendations.",
         "link": "/fansbuy%20plus%20size/"
-      },
-      {
-        "title": "Fansbuy Purchase Guide",
-        "excerpt": "Smart purchasing tips to help you make informed decisions and avoid common mistakes on Fansbuy.",
-        "link": "/fansbuy%20purchase%20guide/"
-      },
-      {
-        "title": "Fansbuy Registration Guide",
-        "excerpt": "Quick registration guide with email verification, profile setup, and account preferences configuration.",
-        "link": "/fansbuy%20registration%20guide/"
       },
       {
         "title": "Fansbuy Secure Payment",
@@ -257,11 +197,6 @@ const articleSeries = [
         "title": "Fansbuy Shipping Guide",
         "excerpt": "Comprehensive overview of shipping methods, delivery times, and costs.",
         "link": "/fansbuy%20shipping%20guide/"
-      },
-      {
-        "title": "Fansbuy Shopping Guide",
-        "excerpt": "Complete shopping guide covering product search, quality verification, and checkout process on Fansbuy.",
-        "link": "/fansbuy%20shopping%20guide/"
       },
       {
         "title": "Fansbuy Shopping Tips",
@@ -1884,11 +1819,6 @@ const articleSeries = [
     "name": "Spreadsheet & Tools",
     "articles": [
       {
-        "title": "Fansbuy Spreadsheet",
-        "excerpt": "Complete guide to using the Fansbuy spreadsheet for product research.",
-        "link": "/fansbuy%20spreadsheet/"
-      },
-      {
         "title": "Fansbuy Spreadsheet #1",
         "excerpt": "Latest spreadsheet version with improved features, updated data, and better organization.",
         "link": "/fansbuy%20spreadsheet%20#1/"
@@ -2524,16 +2454,6 @@ const articleSeries = [
         "link": "/fansbuy%20canada%20guide/"
       },
       {
-        "title": "Fansbuy Consolidation Guide",
-        "excerpt": "Package consolidation guide with cost savings, combining items, and shipping optimization.",
-        "link": "/fansbuy%20consolidation%20guide/"
-      },
-      {
-        "title": "Fansbuy Delivery Guide",
-        "excerpt": "Delivery process guide with tracking, estimated times, and receipt confirmation.",
-        "link": "/fansbuy%20delivery%20guide/"
-      },
-      {
         "title": "Fansbuy Economy Shipping",
         "excerpt": "Shipping methods guide with delivery times, cost comparisons, and tracking options.",
         "link": "/fansbuy%20economy%20shipping/"
@@ -2557,11 +2477,6 @@ const articleSeries = [
         "title": "Fansbuy Europe",
         "excerpt": "European buyer guide covering EU countries and shipping regulations.",
         "link": "/fansbuy%20europe/"
-      },
-      {
-        "title": "Fansbuy Europe Guide",
-        "excerpt": "European Union shipping guide with customs regulations, VAT information, and delivery options.",
-        "link": "/fansbuy%20europe%20guide/"
       },
       {
         "title": "Fansbuy Express Shipping",
@@ -2649,16 +2564,6 @@ const articleSeries = [
         "link": "/fansbuy%20shipping%20costs/"
       },
       {
-        "title": "Fansbuy Shipping Methods",
-        "excerpt": "Shipping methods guide with delivery times, cost comparisons, and tracking options.",
-        "link": "/fansbuy%20shipping%20methods/"
-      },
-      {
-        "title": "Fansbuy Shipping Options",
-        "excerpt": "Shipping methods guide with delivery times, cost comparisons, and tracking options.",
-        "link": "/fansbuy%20shipping%20options/"
-      },
-      {
         "title": "Fansbuy Shipping Times",
         "excerpt": "Shipping methods guide with delivery times, cost comparisons, and tracking options.",
         "link": "/fansbuy%20shipping%20times/"
@@ -2722,11 +2627,6 @@ const articleSeries = [
         "title": "Fansbuy Fishing Gear",
         "excerpt": "Fishing equipment guide with performance data, quality ratings, and buyer recommendations.",
         "link": "/fansbuy%20fishing%20gear/"
-      },
-      {
-        "title": "Fansbuy Football Gear",
-        "excerpt": "Football equipment guide with performance data, quality ratings, and buyer recommendations.",
-        "link": "/fansbuy%20football%20gear/"
       },
       {
         "title": "Fansbuy Football Jersey",
@@ -2887,16 +2787,6 @@ const articleSeries = [
         "title": "Fansbuy For Resellers",
         "excerpt": "Platform comparison guide covering pricing, shipping, quality, and service differences.",
         "link": "/fansbuy%20for%20resellers/"
-      },
-      {
-        "title": "Fansbuy How To Buy",
-        "excerpt": "Platform comparison guide covering pricing, shipping, quality, and service differences.",
-        "link": "/fansbuy%20how%20to%20buy/"
-      },
-      {
-        "title": "Fansbuy How To Order",
-        "excerpt": "Platform comparison guide covering pricing, shipping, quality, and service differences.",
-        "link": "/fansbuy%20how%20to%20order/"
       },
       {
         "title": "Fansbuy Platform Comparison",
@@ -3067,11 +2957,6 @@ const articleSeries = [
         "title": "Fansbuy Unboxing",
         "excerpt": "Unboxing experience with packaging quality, first impressions, and product verification.",
         "link": "/fansbuy%20unboxing/"
-      },
-      {
-        "title": "Fansbuy Warehouse Guide",
-        "excerpt": "Warehouse operations guide with storage standards, quality control, and shipping prep.",
-        "link": "/fansbuy%20warehouse%20guide/"
       }
     ]
   }
@@ -3121,7 +3006,6 @@ const recommendedSeries = [
   {
     name: 'Spreadsheet',
     articles: [
-      { title: 'Spreadsheet Guide', link: '/fansbuy%20spreadsheet/' },
       { title: 'Best Products', link: '/fansbuy%20spreadsheet%20best/' },
       { title: '2026 Updates', link: '/fansbuy%20spreadsheet%202026/' },
     ],
