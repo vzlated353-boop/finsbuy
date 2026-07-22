@@ -29,6 +29,41 @@
       </div>
     </section>
 
+    <!-- Value Proposition / Introduction Section -->
+    <section class="intro-section">
+      <div class="container">
+        <h2 class="section-title">Why FansBuy?</h2>
+        <div class="intro-grid">
+          <div class="intro-card">
+            <div class="intro-icon">📚</div>
+            <h3>Comprehensive Guides</h3>
+            <p>From <a href="/fansbuy-for-beginners/">first-time buyers</a> to seasoned shoppers, our guides cover every step — account setup, ordering, shipping, and quality verification.</p>
+          </div>
+          <div class="intro-card">
+            <div class="intro-icon">🔍</div>
+            <h3>Quality You Can Trust</h3>
+            <p>Every product is backed by <a href="/is-fansbuy-legit/">legitimacy checks</a>, <a href="/fansbuy-qc-photos/">QC photos</a>, and real <a href="/fansbuy-reviews/">user reviews</a> so you shop with confidence.</p>
+          </div>
+          <div class="intro-card">
+            <div class="intro-icon">💰</div>
+            <h3>Smart Savings</h3>
+            <p>Discover <a href="/fansbuy-coupon/">coupon codes</a>, <a href="/fansbuy-best-deals/">seasonal deals</a>, and <a href="/fansbuy-budget-picks/">budget-friendly picks</a> to maximize your shopping value.</p>
+          </div>
+          <div class="intro-card">
+            <div class="intro-icon"></div>
+            <h3>Curated Spreadsheets</h3>
+            <p>Access our <a href="/fansbuy-spreadsheet/">product spreadsheet</a> with thousands of items, prices, batch info, and direct purchase links — updated weekly.</p>
+          </div>
+        </div>
+        <div class="intro-cta">
+          <p class="intro-cta-text">
+            Unlike scattered forums and outdated blogs, FansBuy brings everything together in one organized platform — 
+            product guides, brand comparisons, shipping tips, and community insights — so you never waste time searching again.
+          </p>
+        </div>
+      </div>
+    </section>
+
     <!-- Category Cards -->
     <section class="categories-section">
       <div class="container">
@@ -43,8 +78,82 @@
             <div class="cat-icon">{{ cat.icon }}</div>
             <h3>{{ cat.name }}</h3>
             <p>{{ cat.description }}</p>
-            <div class="cat-subcount" v-if="cat.subcategories">{{ cat.subcategories.length }} subcategories</div>
           </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Featured Articles Navigation -->
+    <section class="featured-articles">
+      <div class="container">
+        <h2 class="section-title">Featured Articles</h2>
+        <div class="article-nav-grid">
+          <!-- Getting Started -->
+          <div class="article-nav-group">
+            <h3 class="group-title"> Getting Started</h3>
+            <ul class="article-nav-list">
+              <li><a href="/fansbuy-for-beginners/">Fansbuy for Beginners — Complete Starter Guide</a></li>
+              <li><a href="/fansbuy-how-to-use/">How to Use Fansbuy — Step by Step</a></li>
+              <li><a href="/fansbuy-account-creation/">Account Creation & Setup Guide</a></li>
+              <li><a href="/fansbuy-shipping-guide/">Shipping Guide — Methods & Times</a></li>
+              <li><a href="/fansbuy-payment-guide/">Payment Guide — Safe Checkout Tips</a></li>
+            </ul>
+          </div>
+          <!-- Top Categories -->
+          <div class="article-nav-group">
+            <h3 class="group-title"> Top Categories</h3>
+            <ul class="article-nav-list">
+              <li><a href="/fansbuy-sneakers/">Sneakers Guide — Best Picks 2026</a></li>
+              <li><a href="/fansbuy-hoodies/">Hoodies Guide — Streetwear Essentials</a></li>
+              <li><a href="/fansbuy-t-shirts/">T-Shirts Guide — Everyday Style</a></li>
+              <li><a href="/fansbuy-bags/">Bags Guide — Backpacks & More</a></li>
+              <li><a href="/fansbuy-accessories/">Accessories Guide — Complete Your Look</a></li>
+            </ul>
+          </div>
+          <!-- Popular Brands -->
+          <div class="article-nav-group">
+            <h3 class="group-title">️ Popular Brands</h3>
+            <ul class="article-nav-list">
+              <li><a href="/fansbuy-nike/">Nike Guide — Sneakers & Apparel</a></li>
+              <li><a href="/fansbuy-jordan/">Jordan Guide — Iconic Silhouettes</a></li>
+              <li><a href="/fansbuy-adidas/">Adidas Guide — Classics & New Drops</a></li>
+              <li><a href="/fansbuy-chrome-hearts/">Chrome Hearts — Luxury Streetwear</a></li>
+              <li><a href="/fansbuy-essentials/">Essentials — Minimalist Streetwear</a></li>
+            </ul>
+          </div>
+          <!-- Save Money -->
+          <div class="article-nav-group">
+            <h3 class="group-title">💰 Save Money</h3>
+            <ul class="article-nav-list">
+              <li><a href="/fansbuy-coupon/">Coupon Codes & Discount Guide</a></li>
+              <li><a href="/fansbuy-best-deals/">Best Deals — Seasonal Sales</a></li>
+              <li><a href="/fansbuy-cheap-sneakers/">Cheap Sneakers — Budget Picks</a></li>
+              <li><a href="/fansbuy-budget-hoodies/">Budget Hoodies — Under $30</a></li>
+              <li><a href="/fansbuy-save-money/">Money-Saving Tips & Hacks</a></li>
+            </ul>
+          </div>
+          <!-- Trust & Safety -->
+          <div class="article-nav-group">
+            <h3 class="group-title"> Trust & Safety</h3>
+            <ul class="article-nav-list">
+              <li><a href="/is-fansbuy-legit/">Is Fansbuy Legit? — Full Review</a></li>
+              <li><a href="/fansbuy-legit-check/">Legit Check Guide</a></li>
+              <li><a href="/fansbuy-qc-photos/">QC Photos — What to Look For</a></li>
+              <li><a href="/fansbuy-reviews/">User Reviews & Ratings</a></li>
+              <li><a href="/fansbuy-reddit/">Reddit Community Insights</a></li>
+            </ul>
+          </div>
+          <!-- Regional Guides -->
+          <div class="article-nav-group">
+            <h3 class="group-title">🌍 Regional & International</h3>
+            <ul class="article-nav-list">
+              <li><a href="/fansbuy-uk/">Fansbuy UK — Shipping & Tips</a></li>
+              <li><a href="/fansbuy-canada/">Fansbuy Canada — Complete Guide</a></li>
+              <li><a href="/fansbuy-australia/">Fansbuy Australia — Local Info</a></li>
+              <li><a href="/fansbuy-europe/">Fansbuy Europe — EU Shipping</a></li>
+              <li><a href="/fansbuy-international-shipping/">International Shipping Guide</a></li>
+            </ul>
+          </div>
         </div>
       </div>
     </section>
@@ -58,6 +167,11 @@
             <div class="ql-icon">&#128203;</div>
             <h3>Product Spreadsheet</h3>
             <p>Browse the full product catalog with prices, links, and QC photos.</p>
+          </a>
+          <a href="/blog" class="quick-link-card">
+            <div class="ql-icon">&#128218;</div>
+            <h3>Blog</h3>
+            <p>Read our latest guides, reviews, and shopping tips across all categories.</p>
           </a>
           <a href="/about" class="quick-link-card">
             <div class="ql-icon">&#8505;</div>
@@ -220,9 +334,85 @@ const links = siteConfig.links
   font-size: 16px;
 }
 
+/* Intro / Value Proposition Section */
+.intro-section {
+  padding: 64px 0;
+  background: #fff;
+}
+
+.intro-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 24px;
+  margin-bottom: 40px;
+}
+
+.intro-card {
+  background: #fafafa;
+  border: 1px solid #eee;
+  border-radius: 16px;
+  padding: 28px 22px;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.intro-card:hover {
+  box-shadow: 0 8px 30px rgba(0,0,0,0.08);
+  transform: translateY(-4px);
+  border-color: #d4af37;
+}
+
+.intro-icon {
+  font-size: 40px;
+  margin-bottom: 14px;
+}
+
+.intro-card h3 {
+  font-size: 18px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 10px;
+}
+
+.intro-card p {
+  font-size: 14px;
+  color: #555;
+  line-height: 1.7;
+}
+
+.intro-card a {
+  color: #8b0000;
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+.intro-card a:hover {
+  color: #d4af37;
+  text-decoration: underline;
+}
+
+.intro-cta {
+  background: linear-gradient(135deg, #f8f9fa 0%, #fff8f0 100%);
+  border: 1px solid #e8e0d8;
+  border-radius: 16px;
+  padding: 32px 28px;
+  text-align: center;
+}
+
+.intro-cta-text {
+  font-size: 16px;
+  color: #444;
+  line-height: 1.8;
+  max-width: 750px;
+  margin: 0 auto;
+  font-style: italic;
+}
+
 /* Categories */
 .categories-section {
   padding: 64px 0;
+  background: #f8f9fa;
 }
 
 .section-title {
@@ -275,19 +465,65 @@ const links = siteConfig.links
   margin-bottom: 16px;
 }
 
-.cat-subcount {
-  display: inline-block;
-  padding: 4px 14px;
-  background: #f5f5f5;
-  border-radius: 20px;
-  font-size: 12px;
-  color: #888;
-  font-weight: 500;
+/* Featured Articles Navigation */
+.featured-articles {
+  padding: 64px 0;
+  background: #fff;
+}
+
+.article-nav-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 28px;
+}
+
+.article-nav-group {
+  background: #fafafa;
+  border: 1px solid #eee;
+  border-radius: 16px;
+  padding: 24px 22px;
+}
+
+.group-title {
+  font-size: 17px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 14px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #d4af37;
+}
+
+.article-nav-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.article-nav-list li {
+  margin-bottom: 8px;
+}
+
+.article-nav-list a {
+  font-size: 14px;
+  color: #555;
+  text-decoration: none;
+  line-height: 1.5;
+  transition: all 0.3s ease;
+  display: block;
+  padding: 4px 8px;
+  border-radius: 6px;
+}
+
+.article-nav-list a:hover {
+  color: #8b0000;
+  background: rgba(139, 0, 0, 0.05);
+  padding-left: 14px;
 }
 
 /* Quick Links */
 .quick-links {
   padding: 0 0 64px;
+  background: #fff;
 }
 
 .links-grid {
@@ -385,5 +621,7 @@ const links = siteConfig.links
   .category-grid { grid-template-columns: 1fr; }
   .links-grid { grid-template-columns: 1fr; }
   .explore-grid { grid-template-columns: 1fr; }
+  .intro-grid { grid-template-columns: 1fr; }
+  .article-nav-grid { grid-template-columns: 1fr; }
 }
 </style>
