@@ -1,4 +1,4 @@
-# Fansbuy Onboarding 2026: Your Complete New User Orientation
+﻿# Fansbuy Onboarding 2026: Your Complete New User Orientation
 
 <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Fansbuy Spreadsheet</a>
 
@@ -17,7 +17,7 @@ The onboarding process on Fansbuy is straightforward but comprehensive. You will
 
 This guide walks you through every step of the onboarding journey. We cover account setup, dashboard navigation, product discovery, quality assessment, ordering, and post-purchase tracking. By the time you finish, you will have a complete understanding of how Fansbuy works and be ready to make your first purchase with confidence.
 
-For absolute beginners who want the fastest possible start, our [fansbuy start here](fansbuy-start-here.md) guide offers a condensed version, but this onboarding guide provides the detailed orientation you need to fully leverage the platform's features. Let us get you oriented and ready to shop.
+For absolute beginners who want the fastest possible start, our [fansbuy start here](/fansbuy-start-here/) guide offers a condensed version, but this onboarding guide provides the detailed orientation you need to fully leverage the platform's features. Let us get you oriented and ready to shop.
 
 ## Account Registration and Profile Setup
 
@@ -27,7 +27,7 @@ Click the verification link in your email to activate your account. Once verifie
 
 Complete your profile by adding your shipping address, preferred payment methods, and size information. This step is important because it streamlines the checkout process when you place your first order. The platform stores your data securely using encrypted protocols, ensuring your personal information remains protected.
 
-For detailed account setup instructions including security best practices and profile optimization tips, check our [fansbuy account setup](fansbuy-account-creation.md) guide. Once your profile is complete, you are ready to explore the product catalog and understand how Fansbuy's quality system works.
+For detailed account setup instructions including security best practices and profile optimization tips, check our [fansbuy account setup](/fansbuy-account-creation/) guide. Once your profile is complete, you are ready to explore the product catalog and understand how Fansbuy's quality system works.
 
 ## Navigating the Product Catalog
 
@@ -47,7 +47,7 @@ Products with quality pass rates above 94% are flagged as "Verified High Quality
 
 The integrated spreadsheet viewer is one of Fansbuy's most powerful features. You can <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Fansbuy Spreadsheet</a> directly from the dashboard to compare products side by side, view historical pricing, and check batch availability. This transparency is rare in the industry and helps you make data-driven purchasing decisions.
 
-For comprehensive navigation instructions and advanced search techniques, our [fansbuy how to use](fansbuy-how-to-use.md) guide covers every feature in detail. Understanding how to effectively browse and filter the catalog saves time and helps you find exactly what you want.
+For comprehensive navigation instructions and advanced search techniques, our [fansbuy how to use](/fansbuy-how-to-use/) guide covers every feature in detail. Understanding how to effectively browse and filter the catalog saves time and helps you find exactly what you want.
 
 ## Understanding Quality Verification and Batch Versions
 
@@ -59,7 +59,7 @@ Batch versions are an important concept in this market. The same product may be 
 
 The quality pass rate system provides historical context for each product. This rate represents the percentage of items from that batch that passed QC inspection. For example, if a product has a 95% quality pass rate, it means 95 out of 100 items from that batch met quality standards. Higher rates indicate more consistent quality and lower risk of receiving a defective item.
 
-For detailed guidance on interpreting QC photos and understanding batch differences, the [fansbuy dashboard guide](fansbuy-dashboard-guide.md) provides visual examples and best practices. This knowledge helps you make smarter choices and set accurate expectations for your purchases.
+For detailed guidance on interpreting QC photos and understanding batch differences, the [fansbuy dashboard guide](/fansbuy-dashboard-guide/) provides visual examples and best practices. This knowledge helps you make smarter choices and set accurate expectations for your purchases.
 
 ## Placing Your First Order
 
@@ -112,8 +112,8 @@ You are now fully oriented and ready to explore everything Fansbuy has to offer.
 ---
 
 **Related Guides:**
-- [Fansbuy Account Creation](fansbuy-account-creation.md) — Detailed account creation and profile optimization
-- [Fansbuy How to Use](fansbuy-how-to-use.md) — Complete platform navigation and feature guide
-- [Fansbuy Dashboard Guide](fansbuy-dashboard-guide.md) — Deep dive into every dashboard panel and tool
+- [Fansbuy Account Creation](/fansbuy-account-creation/) — Detailed account creation and profile optimization
+- [Fansbuy How to Use](/fansbuy-how-to-use/) — Complete platform navigation and feature guide
+- [Fansbuy Dashboard Guide](/fansbuy-dashboard-guide/) — Deep dive into every dashboard panel and tool
 
 ---

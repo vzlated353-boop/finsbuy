@@ -26,7 +26,7 @@ The PURPLE Jeans at $39.56 occupy the mid-range segment, appealing to buyers loo
 
 For buyers seeking budget-friendly options, the Chrome Hearts Jeans at $26.04 provide distinctive cross-motif detailing and solid color retention at an accessible price point. This listing has generated over 340 orders, making it the highest-volume jeans product on the platform, with a 90% quality pass rate. The LV Jeans at $32.97 round out the selection with a subtle purple tone and refined finishing that works for both casual and smart-casual settings. This listing has 210+ orders and a 91% quality pass rate.
 
-When shopping for jeans on Fansbuy, it is essential to consult the measurement charts provided in each listing rather than relying solely on standard size labels. Different brands and batch versions can vary by up to an inch in waist, inseam, and thigh measurements. The platform's quality control team measures key dimensions for each batch, and this data is made available to buyers before purchase. For comprehensive sizing guidance across all denim products, the [fansbuy sizing guide](fansbuy-sizing-guide.md) offers detailed cross-reference tools and fit recommendations.
+When shopping for jeans on Fansbuy, it is essential to consult the measurement charts provided in each listing rather than relying solely on standard size labels. Different brands and batch versions can vary by up to an inch in waist, inseam, and thigh measurements. The platform's quality control team measures key dimensions for each batch, and this data is made available to buyers before purchase. For comprehensive sizing guidance across all denim products, the [fansbuy sizing guide](/fansbuy-sizing-guide/) offers detailed cross-reference tools and fit recommendations.
 
 ## Shorts and Sweatpants: Versatile Lower-Body Options
 
@@ -36,7 +36,7 @@ Moving up the price range, the Corteiz Shorts at $22.91, Ralph Lauren Shorts at 
 
 The sweatpants subcategory, while smaller with only three listings, offers high-quality options for buyers seeking comfort and versatility. The Gallery Dept Sweatpants at $37.50 lead the category with premium materials and distinctive design elements, while the Gallery Dept Sweatpants variant at $21.26 provides a more affordable alternative. The Ralph Lauren Sweatpants at $23.08 offer classic sportswear styling with reliable construction. All three listings maintain quality pass rates above 90%, and buyers frequently praise the comfort and durability of these products.
 
-For buyers building a complete wardrobe, pairing pants from the Fansbuy collection with tops from the [fansbuy hoodies](fansbuy-hoodies.md) or [fansbuy t-shirts](fansbuy-t-shirts.md) catalog creates cohesive outfits that balance style and functionality. The platform's spreadsheet database allows you to compare products across categories, check batch versions, and review order histories to make informed decisions. Whether you are looking for casual shorts, premium denim, or comfortable sweatpants, the fansbuy pants collection offers options that meet diverse needs and preferences.
+For buyers building a complete wardrobe, pairing pants from the Fansbuy collection with tops from the [fansbuy hoodies](/fansbuy-hoodies/) or [fansbuy t-shirts](/fansbuy-t-shirts/) catalog creates cohesive outfits that balance style and functionality. The platform's spreadsheet database allows you to compare products across categories, check batch versions, and review order histories to make informed decisions. Whether you are looking for casual shorts, premium denim, or comfortable sweatpants, the fansbuy pants collection offers options that meet diverse needs and preferences.
 
 ## How to Order Pants on Fansbuy
 
@@ -80,8 +80,8 @@ Whether you are looking for classic denim, versatile shorts, comfortable sweatpa
 
 **Related Guides:**
 
-- [Fansbuy Jeans](fansbuy-jeans.md)
-- [Fansbuy Sweatpants](fansbuy-sweatpants.md)
-- [Fansbuy Clothes](fansbuy-clothes.md)
+- [Fansbuy Jeans](/fansbuy-jeans/)
+- [Fansbuy Sweatpants](/fansbuy-sweatpants/)
+- [Fansbuy Clothes](/fansbuy-clothes/)
 
 ---

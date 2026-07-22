@@ -18,9 +18,9 @@ Tech Fleece has evolved from a niche performance fabric into one of the most rec
 
 Based on our team's experience testing 12+ Tech Fleece items and collecting feedback from over 250 buyers during early 2026, we have put together the most detailed Tech Fleece overview available on the platform. Every data point in this article comes from actual transactions, including order volumes, quality pass rates, and buyer satisfaction metrics tracked through the Fansbuy system.
 
-The Tech Fleece collection on Fansbuy spans hoodies, tracksuits, joggers, windrunners, and shorts, with prices typically ranging from ~$14.18 to ~$32.00 for individual pieces. The platform hosts over 22,000 verified products overall, with Nike apparel representing one of the strongest categories. Quality pass rates for Tech Fleece items average above 91 percent, and shipping times to the US and EU typically run 10 to 14 business days after QC approval. For buyers who want to explore the specific Nike Tech Fleece range in more detail, our [fansbuy nike tech fleece](fansbuy-nike-tech-fleece.md) guide provides an in-depth fabric technology breakdown and batch comparison.
+The Tech Fleece collection on Fansbuy spans hoodies, tracksuits, joggers, windrunners, and shorts, with prices typically ranging from ~$14.18 to ~$32.00 for individual pieces. The platform hosts over 22,000 verified products overall, with Nike apparel representing one of the strongest categories. Quality pass rates for Tech Fleece items average above 91 percent, and shipping times to the US and EU typically run 10 to 14 business days after QC approval. For buyers who want to explore the specific Nike Tech Fleece range in more detail, our [fansbuy nike tech fleece](/fansbuy-nike-tech-fleece/) guide provides an in-depth fabric technology breakdown and batch comparison.
 
-What sets fansbuy tech fleece apart from other fleece options on the market is the combination of Nike's engineered dual-layer knit construction and Fansbuy's rigorous quality verification process. Every item goes through QC photo review before shipping, giving you the chance to approve or reject based on actual product condition. In this guide, we walk through the top products, quality metrics, ordering tips, and everything else you need to make smart purchasing decisions. For buyers interested in the broader Nike collection, the [fansbuy nike](fansbuy-nike.md) page covers sneakers, apparel, and accessories across the full brand range.
+What sets fansbuy tech fleece apart from other fleece options on the market is the combination of Nike's engineered dual-layer knit construction and Fansbuy's rigorous quality verification process. Every item goes through QC photo review before shipping, giving you the chance to approve or reject based on actual product condition. In this guide, we walk through the top products, quality metrics, ordering tips, and everything else you need to make smart purchasing decisions. For buyers interested in the broader Nike collection, the [fansbuy nike](/fansbuy-nike/) page covers sneakers, apparel, and accessories across the full brand range.
 
 ---
 
@@ -34,7 +34,7 @@ Construction quality on Fansbuy's Tech Fleece items is consistently strong. The 
 
 When comparing Tech Fleece to standard fleece options, the differences become clear. Regular cotton fleece tends to pill after repeated washing, loses its shape over time, and has a more casual, less refined appearance. Tech Fleece maintains its smooth exterior, holds its color well, and provides a streamlined silhouette that works in more settings. This is why buyers are willing to pay a slight premium for Tech Fleece products, and why the value proposition on Fansbuy is so compelling when prices start at ~$14.18 for shorts and ~$24.56 for hoodies.
 
-For buyers who want to explore other apparel categories on the platform, the [fansbuy clothes](fansbuy-clothes.md) guide covers the full range of clothing options available, from t-shirts and sweatshirts to down jackets and jerseys.
+For buyers who want to explore other apparel categories on the platform, the [fansbuy clothes](/fansbuy-clothes/) guide covers the full range of clothing options available, from t-shirts and sweatshirts to down jackets and jerseys.
 
 ---
 
@@ -78,7 +78,7 @@ Each listing typically notes the batch version (PK, TOP, or GX) and the communit
 
 **Step 3: Select Your Size**
 
-Tech Fleece typically runs true to size with an intentionally relaxed fit. If you prefer a more fitted look, size down one increment. For buyers between sizes, rounding up is usually safer since the dual-layer fabric has limited stretch. The spreadsheet includes detailed measurement charts for each listing. For comprehensive sizing guidance across all categories, refer to the [fansbuy clothes](fansbuy-clothes.md) resource page.
+Tech Fleece typically runs true to size with an intentionally relaxed fit. If you prefer a more fitted look, size down one increment. For buyers between sizes, rounding up is usually safer since the dual-layer fabric has limited stretch. The spreadsheet includes detailed measurement charts for each listing. For comprehensive sizing guidance across all categories, refer to the [fansbuy clothes](/fansbuy-clothes/) resource page.
 
 **Step 4: Review QC Photos**
 
@@ -130,8 +130,8 @@ Browse the full [Fansbuy spreadsheet](https://docs.google.com/spreadsheets/d/10e
 
 **Related Guides:**
 
-- [Fansbuy Nike Tech Fleece](fansbuy-nike-tech-fleece.md)
-- [Fansbuy Hoodies](fansbuy-hoodies.md)
-- [Fansbuy Sneakers](fansbuy-sneakers.md)
+- [Fansbuy Nike Tech Fleece](/fansbuy-nike-tech-fleece/)
+- [Fansbuy Hoodies](/fansbuy-hoodies/)
+- [Fansbuy Sneakers](/fansbuy-sneakers/)
 
 ---

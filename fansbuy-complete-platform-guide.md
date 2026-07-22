@@ -23,7 +23,7 @@ The Fansbuy dashboard is your command center for all purchasing activities. When
 
 The product catalog is organized into five main categories: Clothing (127 products), Shoes (33 products), Pants (28 products), Accessories (80 products), and Watches (8 products). Each category breaks down further into subcategories — for example, Clothing includes T-shirts (44 products), Hoodies (19 products), Tracksuits (21 products), Down Jackets (9 products), and more. This hierarchical structure makes it easy to browse even with hundreds of listings.
 
-One of the most powerful dashboard features is the integrated spreadsheet viewer. Rather than navigating away from the platform, you can <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Fansbuy Spreadsheet</a> directly within the dashboard to compare prices, check batch versions, and review quality ratings side by side. For detailed navigation instructions, our [fansbuy platform guide](fansbuy-platform-guide.md) provides step-by-step screenshots of every dashboard section.
+One of the most powerful dashboard features is the integrated spreadsheet viewer. Rather than navigating away from the platform, you can <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Fansbuy Spreadsheet</a> directly within the dashboard to compare prices, check batch versions, and review quality ratings side by side. For detailed navigation instructions, our [fansbuy platform guide](/fansbuy-platform-guide/) provides step-by-step screenshots of every dashboard section.
 
 The search function supports keyword, brand name, and product type queries. You can filter by price range, brand, category, and availability status. Popular items like the Nike Air Max 95 (~$46.15), Essentials Hoodie (~$31.15), and Stone Island T-shirt (~$14.01) are clearly labeled with order counts and quality pass rates. The dashboard also displays real-time notifications when new batch versions arrive or when prices change, keeping you informed without manual checking.
 
@@ -37,7 +37,7 @@ Each product listing includes critical information: approximate price, available
 
 Products with quality pass rates above 94% are flagged as "Verified High Quality" — this includes popular items like the Nike Dunk ($57.69, 94% pass rate) and Palm Angels Hoodie ($28.85, 95% pass rate). Items between 90-94% are marked "Standard Quality," while anything below 90% receives additional inspection before approval. This transparent system has contributed to Fansbuy's 93% overall buyer satisfaction rate.
 
-For buyers interested in specific brands, the catalog organizes products by manufacturer. The [fansbuy how to use](fansbuy-how-to-use.md) guide covers brand-specific search tips, but here is a quick overview of top performers: Nike leads with 11 shoe variants and multiple clothing options, followed by Stone Island with products across six categories, and Ralph Lauren spanning clothing and accessories. Luxury watch enthusiasts will find 8 timepieces from Rolex ($42.86-$98.90), Cartier ($26.37-$76.65), and Audemars Piguet ($67.58).
+For buyers interested in specific brands, the catalog organizes products by manufacturer. The [fansbuy how to use](/fansbuy-how-to-use/) guide covers brand-specific search tips, but here is a quick overview of top performers: Nike leads with 11 shoe variants and multiple clothing options, followed by Stone Island with products across six categories, and Ralph Lauren spanning clothing and accessories. Luxury watch enthusiasts will find 8 timepieces from Rolex ($42.86-$98.90), Cartier ($26.37-$76.65), and Audemars Piguet ($67.58).
 
 The spreadsheet catalog is updated weekly with new arrivals, price adjustments, and batch version changes. Community feedback indicates that 72% of buyers reorder within three months, largely because the transparent quality data helps set accurate expectations before purchase.
 
@@ -47,7 +47,7 @@ Placing an order on Fansbuy follows a straightforward workflow. After selecting 
 
 The typical timeline from order to delivery is 10-14 days to the US and EU, though this varies by shipping method. Fansbuy offers three primary shipping tiers: Standard Shipping (12-18 days, most economical), Express Shipping (7-10 days, moderate cost), and Priority Shipping (5-7 days, premium pricing). Each shipment includes a tracking number that updates in real-time through the dashboard.
 
-Before shipping, every order passes through the QC verification process. You receive QC photos via the dashboard and can request additional angles or approve/reject the item. If an item fails QC or does not match the listing description, Fansbuy offers a replacement or refund — this policy has helped maintain the platform's strong reputation. For complete shipping details, the [fansbuy shipping guide](fansbuy-shipping-guide.md) covers customs considerations, packaging options, and tracking tips.
+Before shipping, every order passes through the QC verification process. You receive QC photos via the dashboard and can request additional angles or approve/reject the item. If an item fails QC or does not match the listing description, Fansbuy offers a replacement or refund — this policy has helped maintain the platform's strong reputation. For complete shipping details, the [fansbuy shipping guide](/fansbuy-shipping-guide/) covers customs considerations, packaging options, and tracking tips.
 
 Packaging is discreet by default, with no external branding that could identify the contents. Buyers can request additional packaging protection for fragile items like watches or shoes. The platform also offers consolidation services — if you order multiple items, they can be combined into a single shipment to reduce shipping costs. This is particularly popular with resellers who order in bulk.
 
@@ -88,8 +88,8 @@ We recommend bookmarking this guide and referring to it whenever you explore new
 ---
 
 **Related Guides:**
-- [Fansbuy Dashboard Guide](fansbuy-dashboard-guide.md) — Deep dive into every dashboard panel and feature
-- [Fansbuy Platform Guide](fansbuy-platform-guide.md) — Overview of platform architecture and navigation
-- [Fansbuy How to Use](fansbuy-how-to-use.md) — Step-by-step instructions for first-time buyers
+- [Fansbuy Dashboard Guide](/fansbuy-dashboard-guide/) — Deep dive into every dashboard panel and feature
+- [Fansbuy Platform Guide](/fansbuy-platform-guide/) — Overview of platform architecture and navigation
+- [Fansbuy How to Use](/fansbuy-how-to-use/) — Step-by-step instructions for first-time buyers
 
 ---

@@ -15,7 +15,7 @@ Building a complete gym setup requires more than just equipment—it demands qua
 
 This page covers everything you need to know about shopping for gym gear through Fansbuy, including specific product examples, real order data, and quality metrics from the platform's spreadsheet. The athletic wear category spans gym clothes (T-shirts, shorts, tracksuits), sports gear (running shoes, accessories), and performance apparel from brands like Nike, Adidas, Under Armour, and Jordan. Buyer satisfaction rates average 93% across the sports category, with gym-appropriate items maintaining quality pass rates above 92%. Most orders ship within 10-14 days to US and EU destinations, with QC photos available before shipment.
 
-If you're specifically interested in workout apparel, the [fansbuy gym clothes](fansbuy-gym-clothes.md) collection offers verified options for training. For running-specific equipment, the [fansbuy running gear](fansbuy-running-gear.md) page covers footwear and accessories designed for cardio. In the sections below, we break down the best gym gear options, share community feedback, and walk you through the ordering process so you can build a fitness wardrobe with confidence.
+If you're specifically interested in workout apparel, the [fansbuy gym clothes](/fansbuy-gym-clothes/) collection offers verified options for training. For running-specific equipment, the [fansbuy running gear](/fansbuy-running-gear/) page covers footwear and accessories designed for cardio. In the sections below, we break down the best gym gear options, share community feedback, and walk you through the ordering process so you can build a fitness wardrobe with confidence.
 
 ## Top Gym Gear Categories and Products
 
@@ -41,7 +41,7 @@ Quality verification is especially important for gym gear, where performance, du
 
 The platform reports a 93% buyer satisfaction rate across the sports category, with gym-appropriate items performing at or above this average. Quality pass rates vary by product type: T-shirts average 93%, shorts average 94%, and tracksuits average 92%. These rates reflect the percentage of products that pass initial QC inspection without requiring replacement or repair. The transparency of the QC system is a key reason why 72% of buyers in the sports category place repeat orders within 90 days.
 
-Sizing is a critical consideration when ordering fansbuy gym gear internationally. The platform's spreadsheet includes detailed size charts for most products, but fit can vary by brand and batch version. Community feedback from Reddit and Telegram discussions suggests that most sportswear brands like Nike, Adidas, and Under Armour run true to size, while some streetwear-inspired pieces may run slightly large. Buyers are advised to consult the size charts carefully before ordering, particularly for compression-fit T-shirts and athletic shorts where fit impacts performance. If you need detailed sizing information across all categories, the [fansbuy sports gear](fansbuy-sports-gear.md) guide provides brand-specific fit recommendations.
+Sizing is a critical consideration when ordering fansbuy gym gear internationally. The platform's spreadsheet includes detailed size charts for most products, but fit can vary by brand and batch version. Community feedback from Reddit and Telegram discussions suggests that most sportswear brands like Nike, Adidas, and Under Armour run true to size, while some streetwear-inspired pieces may run slightly large. Buyers are advised to consult the size charts carefully before ordering, particularly for compression-fit T-shirts and athletic shorts where fit impacts performance. If you need detailed sizing information across all categories, the [fansbuy sports gear](/fansbuy-sports-gear/) guide provides brand-specific fit recommendations.
 
 Fabric technology is another important factor for gym gear. Most performance T-shirts feature polyester-cotton blends (60/40) that balance breathability with moisture management. Shorts typically use lightweight polyester (150-200 GSM) for maximum mobility and quick drying. Tracksuits vary by brand, with Nike and Adidas options offering technical fabrics designed for athletic performance, while streetwear-inspired sets use heavier cotton blends better suited for warm-ups or casual wear. Shoes feature quality rubber soles with proper arch support for various training activities.
 
@@ -99,8 +99,8 @@ Explore the full fansbuy gym gear collection through the spreadsheet link above.
 ---
 
 **Related Guides:**
-- [Fansbuy Gym Clothes](fansbuy-gym-clothes.md)
-- [Fansbuy Sports Gear](fansbuy-sports-gear.md)
-- [Fansbuy Running Gear](fansbuy-running-gear.md)
+- [Fansbuy Gym Clothes](/fansbuy-gym-clothes/)
+- [Fansbuy Sports Gear](/fansbuy-sports-gear/)
+- [Fansbuy Running Gear](/fansbuy-running-gear/)
 
 ---

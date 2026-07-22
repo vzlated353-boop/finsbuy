@@ -25,7 +25,7 @@ Current pricing shows excellent value for complete sets: standard club kits (jer
 
 Quality verification is where Fansbuy excels. Each kit undergoes inspection for fabric consistency, color matching between components, badge accuracy, and stitching quality. The platform maintains a 95% quality pass rate for complete football sets, significantly higher than industry averages. QC photos show actual product details including collar construction, shorts elastic quality, and sock thickness, giving you confidence before purchase.
 
-Popular variants include authentic fit (slim, athletic cut) and replica fit (relaxed, fan-friendly). Authentic versions feature Dri-FIT technology and mesh ventilation panels, while replicas offer comfortable cotton-polyester blends. When browsing, check the product description for "authentic" or "replica" designations, and review QC photos to confirm the version matches your expectations. For proper footwear to complete your kit, explore our [fansbuy football boots](fansbuy-football-boots.md) guide.
+Popular variants include authentic fit (slim, athletic cut) and replica fit (relaxed, fan-friendly). Authentic versions feature Dri-FIT technology and mesh ventilation panels, while replicas offer comfortable cotton-polyester blends. When browsing, check the product description for "authentic" or "replica" designations, and review QC photos to confirm the version matches your expectations. For proper footwear to complete your kit, explore our [fansbuy football boots](/fansbuy-football-boots/) guide.
 
 ## Quality Verification and Component Matching
 
@@ -35,7 +35,7 @@ Fabric quality varies by price point. Budget kits ($25-$35) use standard polyest
 
 Color matching between jersey and shorts is a key differentiator. Top-tier kits ensure exact color consistency across all components, with matching fabric weight and finish. Mid-tier versions may have slight color variations that are barely noticeable but visible upon close inspection. Budget options may have more noticeable differences, suitable for casual wear but not for professional play. QC photos clearly show component matching, allowing you to make informed decisions based on your needs.
 
-Sizing accuracy improves with each batch version. Early versions (V1-V2) often run small, requiring buyers to size up. Current versions (V3-V4) follow standard European sizing charts more closely. Always check the size chart provided in product photos and compare with your measurements. For international buyers, the platform offers detailed measurement guides in centimeters and inches. When selecting additional apparel, our [fansbuy clothes](fansbuy-clothes.md) guide provides comprehensive options.
+Sizing accuracy improves with each batch version. Early versions (V1-V2) often run small, requiring buyers to size up. Current versions (V3-V4) follow standard European sizing charts more closely. Always check the size chart provided in product photos and compare with your measurements. For international buyers, the platform offers detailed measurement guides in centimeters and inches. When selecting additional apparel, our [fansbuy clothes](/fansbuy-clothes/) guide provides comprehensive options.
 
 ## How to Order and Team Coordination
 
@@ -45,7 +45,7 @@ Size selection requires careful attention, especially for team orders. Football 
 
 The quality verification process happens at Fansbuy's warehouse before shipping. When your order arrives, staff pull the actual product, photograph it against a checklist, and upload QC images to your order page. You'll see detailed shots of the front, back, badges, tags, and any potential flaws. If the product doesn't match the listing photos, you can request a replacement or refund before it ships internationally.
 
-For team orders, Fansbuy offers bulk discounts on orders of 10+ kits. Contact customer service for custom pricing and consolidated shipping options. Team orders also receive priority QC processing, reducing wait times. Shipping typically takes 10-14 days to US and EU addresses, with tracking provided once the package leaves the warehouse. When selecting footwear to match your kit, consider our [fansbuy football jersey](fansbuy-football-jersey.md) guide for complete outfit coordination.
+For team orders, Fansbuy offers bulk discounts on orders of 10+ kits. Contact customer service for custom pricing and consolidated shipping options. Team orders also receive priority QC processing, reducing wait times. Shipping typically takes 10-14 days to US and EU addresses, with tracking provided once the package leaves the warehouse. When selecting footwear to match your kit, consider our [fansbuy football jersey](/fansbuy-football-jersey/) guide for complete outfit coordination.
 
 ## Product Highlights
 
@@ -84,7 +84,7 @@ Ready to build your complete kit? Browse the full fansbuy football kits collecti
 ---
 
 **Related Guides:**
-- [Fansbuy Football Boots](fansbuy-football-boots.md) - Complete guide to football footwear selection
-- [Fansbuy Soccer Shoes](fansbuy-soccer-shoes.md) - Sizing and quality verification for soccer cleats
-- [Fansbuy Sizing Guide](fansbuy-sizing-guide.md) - Find the perfect fit for all kit components
+- [Fansbuy Football Boots](/fansbuy-football-boots/) - Complete guide to football footwear selection
+- [Fansbuy Soccer Shoes](/fansbuy-soccer-shoes/) - Sizing and quality verification for soccer cleats
+- [Fansbuy Sizing Guide](/fansbuy-sizing-guide/) - Find the perfect fit for all kit components
 

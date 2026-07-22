@@ -16,7 +16,7 @@ The fansbuy shorts collection has become one of the most popular categories on t
 
 The shorts category on Fansbuy features products from leading streetwear and sportswear brands including Supreme, Stone Island, Jordan, Corteiz, Ralph Lauren, Gallery Dept, Palm Angels, Essentials, Hellstar, Nike, and Moncler. Prices range from $8.08 for the Moncler Shorts to $26.04 for the Palm Angels Shorts, with the majority of listings falling in the $12–$24 range. Our data shows that shorts listings achieve an average quality pass rate of 91%, with buyer satisfaction rates around 93%. Shipping times to the US and EU typically fall within the 10–14 day window, and the repurchase rate for shorts buyers is approximately 68%, indicating strong confidence in product quality and value.
 
-This guide provides a comprehensive overview of the fansbuy shorts collection, breaking down each product, highlighting top-selling items, and explaining how to navigate the ordering process with confidence. We will cover sizing considerations, quality verification procedures, and styling recommendations to help you build a versatile summer wardrobe. For buyers exploring specific styles, the [fansbuy jeans](fansbuy-jeans.md) and [fansbuy hoodies](fansbuy-hoodies.md) collections provide context for building complete outfits. If you are looking for tops to pair with your shorts, the t-shirt collection offers complementary options.
+This guide provides a comprehensive overview of the fansbuy shorts collection, breaking down each product, highlighting top-selling items, and explaining how to navigate the ordering process with confidence. We will cover sizing considerations, quality verification procedures, and styling recommendations to help you build a versatile summer wardrobe. For buyers exploring specific styles, the [fansbuy jeans](/fansbuy-jeans/) and [fansbuy hoodies](/fansbuy-hoodies/) collections provide context for building complete outfits. If you are looking for tops to pair with your shorts, the t-shirt collection offers complementary options.
 
 ## Top-Selling Shorts on Fansbuy
 
@@ -84,8 +84,8 @@ Whether you are looking for classic streetwear shorts, athletic-inspired options
 
 **Related Guides:**
 
-- [Fansbuy Clothes](fansbuy-clothes.md)
-- [Fansbuy T-Shirts](fansbuy-t-shirts.md)
-- [Fansbuy Sizing Guide](fansbuy-sizing-guide.md)
+- [Fansbuy Clothes](/fansbuy-clothes/)
+- [Fansbuy T-Shirts](/fansbuy-t-shirts/)
+- [Fansbuy Sizing Guide](/fansbuy-sizing-guide/)
 
 ---

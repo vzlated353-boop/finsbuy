@@ -15,7 +15,7 @@ Die-cast car collecting has experienced a remarkable resurgence in recent years,
 
 This page draws on data from the Fansbuy spreadsheet, which tracks pricing, order volumes, and quality metrics across the entire die-cast vehicle category. Prices for Hot Wheels-compatible models range from $4.99 to $45.99, with most popular models falling in the $8–$25 range. The average quality pass rate across the category is 92%, and buyer satisfaction stands at 90%. These numbers reflect steady improvements in die-cast manufacturing, with recent batches showing better paint adhesion, more accurate body proportions, and improved wheel detailing compared to earlier versions.
 
-In the sections that follow, you will discover the top-selling models, understand how Fansbuy verifies quality, and learn practical tips for ordering and displaying your collection. We also explore how die-cast cars complement other collecting categories — for example, many fans pair their vehicles with [fansbuy collectibles](fansbuy-collectibles.md) for themed shelf displays, or combine them with [fansbuy lego](fansbuy-lego.md) building sets to create elaborate garage dioramas. Let us get started.
+In the sections that follow, you will discover the top-selling models, understand how Fansbuy verifies quality, and learn practical tips for ordering and displaying your collection. We also explore how die-cast cars complement other collecting categories — for example, many fans pair their vehicles with [fansbuy collectibles](/fansbuy-collectibles/) for themed shelf displays, or combine them with [fansbuy lego](/fansbuy-lego/) building sets to create elaborate garage dioramas. Let us get started.
 
 ## Top-Selling Fansbuy Hot Wheels Models
 
@@ -27,7 +27,7 @@ For supercar enthusiasts, the **Italian Supercar Model** (~$15.99) offers a Lamb
 
 The **Vintage Woodie Wagon** (~$11.99) rounds out the top five with 220+ orders and a 93% quality pass rate. This retro-styled model features faux wood paneling, chrome bumpers, and whitewall tires, appealing to collectors who appreciate classic automotive design.
 
-When building your collection, consider how these models fit into a broader display strategy. Many collectors arrange their die-cast cars alongside [fansbuy lego](fansbuy-lego.md) vehicle builds to create mixed-media garage scenes. Others pair them with [fansbuy accessories](fansbuy-accessories.md) like acrylic display cases, track sets, and themed backdrops to elevate the presentation.
+When building your collection, consider how these models fit into a broader display strategy. Many collectors arrange their die-cast cars alongside [fansbuy lego](/fansbuy-lego/) vehicle builds to create mixed-media garage scenes. Others pair them with [fansbuy accessories](/fansbuy-accessories/) like acrylic display cases, track sets, and themed backdrops to elevate the presentation.
 
 ## Quality Standards for Die-Cast Vehicles
 
@@ -49,7 +49,7 @@ When placing your order, consider bundling multiple models to take advantage of 
 
 For display, acrylic cases are the most popular choice among collectors. Single-car cases cost around $2–$5 each, while multi-car display cabinets with 12–24 slots range from $15–$35. Some collectors prefer open shelving with themed backgrounds — racing circuits, city streets, or garage scenes — to create dynamic vignettes. LED strip lighting behind the display adds a professional touch and highlights the metallic paint finishes.
 
-If you are interested in expanding beyond die-cast cars, explore the broader [fansbuy collectibles](fansbuy-collectibles.md) category for complementary items like action figures, model kits, and display accessories. These additions can transform a simple car collection into a rich, themed showcase.
+If you are interested in expanding beyond die-cast cars, explore the broader [fansbuy collectibles](/fansbuy-collectibles/) category for complementary items like action figures, model kits, and display accessories. These additions can transform a simple car collection into a rich, themed showcase.
 
 ## Product Highlights
 
@@ -84,8 +84,8 @@ Whether you are drawn to muscle cars, JDM tuners, supercars, or vintage classics
 ---
 
 **Related Guides:**
-- [Fansbuy Collectibles](fansbuy-collectibles.md) — Explore the full range of collectible items including figures and display pieces
-- [Fansbuy LEGO](fansbuy-lego.md) — Discover building sets that pair with die-cast cars for diorama displays
-- [Fansbuy Accessories](fansbuy-accessories.md) — Find display cases, lighting, and storage solutions for your collection
+- [Fansbuy Collectibles](/fansbuy-collectibles/) — Explore the full range of collectible items including figures and display pieces
+- [Fansbuy LEGO](/fansbuy-lego/) — Discover building sets that pair with die-cast cars for diorama displays
+- [Fansbuy Accessories](/fansbuy-accessories/) — Find display cases, lighting, and storage solutions for your collection
 
 ---

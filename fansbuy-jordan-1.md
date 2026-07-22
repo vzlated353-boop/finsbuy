@@ -15,7 +15,7 @@ The Jordan 1 is not just a sneaker; it is a cultural phenomenon that launched an
 
 This comprehensive guide covers everything you need to know about purchasing Jordan 1s through Fansbuy. The platform currently lists over 22,000 verified products, with the Jordan 1 collection spanning 15 to 20 colorway variations priced between $48.00 and $68.00. Community order data shows that Jordan 1 models maintain a 94% quality pass rate across verified batches, with the Chicago and Bred colorways each exceeding 450+ orders. Buyer satisfaction for Jordan 1 purchases stands at approximately 93%, reflecting strong demand and reliable quality verification processes.
 
-Whether you are building your first sneaker collection or adding a grail colorway to an established rotation, this article will walk you through the best Jordan 1 options available on Fansbuy, how to evaluate quality through the QC photo system, and how to navigate the ordering process with confidence. You will learn about batch version differences, sizing recommendations for this particular silhouette, and what to expect from shipping timelines. By the end of this guide, you will have all the information needed to make an informed purchase decision on your next pair of Jordan 1s. For broader context on the brand, explore the complete [fansbuy jordan](fansbuy-jordan.md) collection.
+Whether you are building your first sneaker collection or adding a grail colorway to an established rotation, this article will walk you through the best Jordan 1 options available on Fansbuy, how to evaluate quality through the QC photo system, and how to navigate the ordering process with confidence. You will learn about batch version differences, sizing recommendations for this particular silhouette, and what to expect from shipping timelines. By the end of this guide, you will have all the information needed to make an informed purchase decision on your next pair of Jordan 1s. For broader context on the brand, explore the complete [fansbuy jordan](/fansbuy-jordan/) collection.
 
 ## Top-Selling Fansbuy Jordan 1 Colorways
 
@@ -31,7 +31,7 @@ The fansbuy jordan 1 lineup features several colorways that have achieved legend
 
 **Jordan 1 Mocha (University Red/Black/Mocha)**: Priced at roughly $59.99, the Mocha features a unique brown tone that has gained significant popularity in recent years. With its university red accents and mocha brown overlays on a black base, this colorway offers a warm, earthy aesthetic. Order counts exceed 290+ units, with a 93% quality pass rate. The Mocha is particularly noted for its accurate brown tone, which can be difficult to reproduce consistently across batches.
 
-When browsing the [fansbuy sneakers](fansbuy-sneakers.md) collection, you will find these Jordan 1 colorways listed with detailed batch information, including manufacturer codes and version numbers. Each listing includes QC photo samples so you can verify details before committing to a purchase. The platform's verification system ensures that leather quality, stitching accuracy, and color blocking meet established standards before products are approved for shipping.
+When browsing the [fansbuy sneakers](/fansbuy-sneakers/) collection, you will find these Jordan 1 colorways listed with detailed batch information, including manufacturer codes and version numbers. Each listing includes QC photo samples so you can verify details before committing to a purchase. The platform's verification system ensures that leather quality, stitching accuracy, and color blocking meet established standards before products are approved for shipping.
 
 One critical factor in Jordan 1 quality is the leather grade. Premium batches use full-grain leather that feels supple and develops character over time. Mid-tier batches may use corrected grain leather, which is still durable but lacks the same depth and aging potential. Budget batches sometimes use synthetic materials or split leather, which can feel plasticky and crack prematurely. The price difference between batch tiers is usually $8 to $15, making the investment in higher-quality batches worthwhile for most buyers.
 
@@ -49,7 +49,7 @@ When reviewing QC photos for Jordan 1s, focus on these critical quality indicato
 
 **Color Blocking and Accuracy**: Each Jordan 1 colorway has specific color placement that must be accurate. The Chicago, for example, requires precise white, black, and varsity red placement. Check that the colors match reference images and that there is no bleeding or misalignment at the panel edges. The Nike Swoosh should be properly positioned and proportioned, with clean edges and accurate color.
 
-**Sizing Considerations**: Jordan 1s generally fit true to size for most foot shapes. The leather upper has minimal stretch during the break-in period, so buyers should order their regular size. However, those with wider feet may want to consider going half a size up for comfort. For detailed sizing guidance across all sneaker models, refer to the [fansbuy sizing guide](fansbuy-sizing-guide.md) before placing your order. Community feedback indicates that Jordan 1s from higher-rated batches tend to have more consistent sizing compared to budget-tier options.
+**Sizing Considerations**: Jordan 1s generally fit true to size for most foot shapes. The leather upper has minimal stretch during the break-in period, so buyers should order their regular size. However, those with wider feet may want to consider going half a size up for comfort. For detailed sizing guidance across all sneaker models, refer to the [fansbuy sizing guide](/fansbuy-sizing-guide/) before placing your order. Community feedback indicates that Jordan 1s from higher-rated batches tend to have more consistent sizing compared to budget-tier options.
 
 Batch version ratings on Fansbuy typically range from budget to premium. Premium batches (often labeled with version numbers like V3 or V4) offer the closest quality to retail standards, with accurate materials, proper branding, and reliable construction. Budget batches are more affordable but may show visible differences in leather quality and overall finishing. Most experienced buyers recommend investing in mid-tier or premium batches for Jordan 1s, as the leather quality difference is particularly noticeable on this model.
 
@@ -106,7 +106,7 @@ To explore the full Jordan 1 collection and compare batch versions side by side,
 ---
 
 **Related Guides:**
-- [Fansbuy Jordan](fansbuy-jordan.md) for the complete Jordan brand collection across all silhouettes
-- [Fansbuy Sneakers](fansbuy-sneakers.md) for the full verified footwear catalog with quality data
-- [Fansbuy Sizing Guide](fansbuy-sizing-guide.md) for accurate fit recommendations across all sneaker models
+- [Fansbuy Jordan](/fansbuy-jordan/) for the complete Jordan brand collection across all silhouettes
+- [Fansbuy Sneakers](/fansbuy-sneakers/) for the full verified footwear catalog with quality data
+- [Fansbuy Sizing Guide](/fansbuy-sizing-guide/) for accurate fit recommendations across all sneaker models
 

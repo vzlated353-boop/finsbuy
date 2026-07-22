@@ -17,7 +17,7 @@ Fansbuy has built its reputation on transparency and reliability, serving thousa
 
 This walkthrough covers the complete buying process — from your first visit to the platform through account creation, product selection, quality verification, payment, shipping, and delivery. We explain what you see at each stage, what actions to take, and what to expect in terms of timing and outcomes. The 72% repurchase rate among buyers demonstrates that once people understand the process, they return for more.
 
-For a text-based step-by-step guide, our [fansbuy step by step](fansbuy-step-by-step.md) article provides a quick-reference checklist, but this walkthrough focuses on the visual and experiential aspects of using Fansbuy. Let us walk through the entire process together.
+For a text-based step-by-step guide, our [fansbuy step by step](/fansbuy-step-by-step/) article provides a quick-reference checklist, but this walkthrough focuses on the visual and experiential aspects of using Fansbuy. Let us walk through the entire process together.
 
 ## Stage 1: First Visit and Account Creation
 
@@ -68,7 +68,7 @@ This is your starting point. The dashboard is your command center for all future
 
 **Your decision**: After reviewing the product details, quality data, and pricing, you select your size and color, then click "Add to Cart." The cart icon in the top navigation updates to show "1" item.
 
-For advanced search techniques and filtering strategies, the [fansbuy how to use](fansbuy-how-to-use.md) guide covers every option in detail.
+For advanced search techniques and filtering strategies, the [fansbuy how to use](/fansbuy-how-to-use/) guide covers every option in detail.
 
 ## Stage 3: Checkout and Payment
 
@@ -127,7 +127,7 @@ Choose your method and enter the required information. For cryptocurrency, you r
 
 **Visual confirmation**: Once approved, the order status changes to "Packaging." Within 1-2 business days, it updates to "Shipped" and you receive a tracking number.
 
-For detailed guidance on interpreting QC photos and identifying quality issues, the [fansbuy shipping guide](fansbuy-shipping-guide.md) includes visual examples and best practices.
+For detailed guidance on interpreting QC photos and identifying quality issues, the [fansbuy shipping guide](/fansbuy-shipping-guide/) includes visual examples and best practices.
 
 ## Stage 5: Shipping, Tracking, and Delivery
 
@@ -194,8 +194,8 @@ Ready to start your own Fansbuy journey? <a href="https://docs.google.com/spread
 ---
 
 **Related Guides:**
-- [Fansbuy Step by Step](fansbuy-step-by-step.md) — Quick-reference checklist for the ordering process
-- [Fansbuy How to Use](fansbuy-how-to-use.md) — Complete feature reference and navigation guide
-- [Fansbuy Shipping Guide](fansbuy-shipping-guide.md) — Detailed shipping options, timelines, and tracking information
+- [Fansbuy Step by Step](/fansbuy-step-by-step/) — Quick-reference checklist for the ordering process
+- [Fansbuy How to Use](/fansbuy-how-to-use/) — Complete feature reference and navigation guide
+- [Fansbuy Shipping Guide](/fansbuy-shipping-guide/) — Detailed shipping options, timelines, and tracking information
 
 ---

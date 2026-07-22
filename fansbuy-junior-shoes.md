@@ -25,7 +25,7 @@ For teens interested in athletic-inspired footwear, the Nike Air Max 95 in junio
 
 Basketball culture continues to influence teen footwear choices, and the Jordan 4 in junior sizes at $55.38 satisfies this demand. Priced higher than some options, it still represents significant savings compared to retail alternatives. With 140+ orders and a 92% quality pass rate, it features premium materials and accurate detailing that resonates with sneaker-conscious teens. The Adidas Shoes collection at $24.73 offers another popular option, particularly for teens who prefer the three-stripe aesthetic. These models see 160+ orders with a 91% quality pass rate, featuring durable rubber outsoles and breathable uppers suitable for daily wear.
 
-What sets these junior models apart is the transparency Fansbuy provides through its spreadsheet system. Parents and teens can review real order data, quality ratings, and batch information together, making the shopping experience collaborative and informed. When exploring the [fansbuy kids shoes](fansbuy-kids-shoes.md) collection, you'll find overlapping sizes for younger teens who are still in the transition phase. This continuity ensures you can keep sourcing quality footwear as your teen grows, without having to navigate different platforms or learn new ordering processes. The [fansbuy sizing guide](fansbuy-sizing-guide.md) provides detailed information on when to move between size categories, helping you make timely transitions.
+What sets these junior models apart is the transparency Fansbuy provides through its spreadsheet system. Parents and teens can review real order data, quality ratings, and batch information together, making the shopping experience collaborative and informed. When exploring the [fansbuy kids shoes](/fansbuy-kids-shoes/) collection, you'll find overlapping sizes for younger teens who are still in the transition phase. This continuity ensures you can keep sourcing quality footwear as your teen grows, without having to navigate different platforms or learn new ordering processes. The [fansbuy sizing guide](/fansbuy-sizing-guide/) provides detailed information on when to move between size categories, helping you make timely transitions.
 
 ## Understanding Junior Sizing
 
@@ -84,8 +84,8 @@ Ready to find the perfect shoes for your teen? Access the Fansbuy spreadsheet to
 ---
 
 **Related Guides:**
-- [Fansbuy Kids Shoes](fansbuy-kids-shoes.md) - Explore footwear options for younger children and toddlers
-- [Fansbuy Shoes](fansbuy-shoes.md) - Browse the complete footwear collection across all age groups
-- [Fansbuy Sizing Guide](fansbuy-sizing-guide.md) - Find your perfect fit with our comprehensive sizing resource
+- [Fansbuy Kids Shoes](/fansbuy-kids-shoes/) - Explore footwear options for younger children and toddlers
+- [Fansbuy Shoes](/fansbuy-shoes/) - Browse the complete footwear collection across all age groups
+- [Fansbuy Sizing Guide](/fansbuy-sizing-guide/) - Find your perfect fit with our comprehensive sizing resource
 
 ---

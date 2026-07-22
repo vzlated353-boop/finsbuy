@@ -15,7 +15,7 @@ Shopping on Fansbuy can feel overwhelming at first. The platform lists over 22,0
 
 This guide goes beyond the basics. While the platform provides tools like the comprehensive spreadsheet and QC photo system, experienced buyers have developed their own strategies for maximizing value, minimizing risk, and getting products that exceed expectations. We have compiled the most impactful tips from community veterans, covering everything from batch selection to shipping optimization.
 
-Whether you are purchasing your first pair of sneakers or building a curated wardrobe, these tips will help you shop smarter. The buyers who consistently report the highest satisfaction rates, those in the top 7% of all purchasers, follow a disciplined approach that anyone can replicate. Read on to learn the techniques that separate casual browsers from confident, repeat buyers. For a solid foundation, pair this guide with our [fansbuy how to use](fansbuy-how-to-use.md) walkthrough.
+Whether you are purchasing your first pair of sneakers or building a curated wardrobe, these tips will help you shop smarter. The buyers who consistently report the highest satisfaction rates, those in the top 7% of all purchasers, follow a disciplined approach that anyone can replicate. Read on to learn the techniques that separate casual browsers from confident, repeat buyers. For a solid foundation, pair this guide with our [fansbuy how to use](/fansbuy-how-to-use/) walkthrough.
 
 ## Tip 1: Always Cross-Reference the Spreadsheet Before Ordering
 
@@ -31,7 +31,7 @@ Quality control photos are not just a formality. They are your best opportunity 
 
 First, examine stitching quality. Look for even, consistent stitches with no loose threads or irregular patterns. On items like the Palm Angels Hoodie at $28.85, pay special attention to the iconic sleeve logos, as misaligned patches are one of the most common QC issues. Second, check color accuracy against reference images. A Stone Island T-shirt at $14.01 should match the expected color tone; slight variations between batches are normal, but significant deviations warrant a replacement request.
 
-Third, inspect logos and hardware. Zippers, buttons, and embossed logos should be clean and well-defined. On designer pieces like the Dior B22 at $45.33, logo placement is critical. Fourth, assess material texture and weight. The fabric should look substantial, not thin or translucent. Community guides on [fansbuy qc photos](fansbuy-qc-photos.md) provide detailed examples of what to look for across different product categories.
+Third, inspect logos and hardware. Zippers, buttons, and embossed logos should be clean and well-defined. On designer pieces like the Dior B22 at $45.33, logo placement is critical. Fourth, assess material texture and weight. The fabric should look substantial, not thin or translucent. Community guides on [fansbuy qc photos](/fansbuy-qc-photos/) provide detailed examples of what to look for across different product categories.
 
 ## Tip 3: Optimize Your Shipping Strategy
 
@@ -80,8 +80,8 @@ Start applying these tips on your next order. Access the Fansbuy spreadsheet, bu
 ---
 
 **Related Guides:**
-- [Fansbuy Budget Picks](fansbuy-budget-picks.md)
-- [Fansbuy Reviews](fansbuy-reviews.md)
-- [Fansbuy Common Mistakes](fansbuy-common-mistakes.md)
+- [Fansbuy Budget Picks](/fansbuy-budget-picks/)
+- [Fansbuy Reviews](/fansbuy-reviews/)
+- [Fansbuy Common Mistakes](/fansbuy-common-mistakes/)
 
 ---

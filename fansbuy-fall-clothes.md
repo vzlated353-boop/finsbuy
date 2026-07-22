@@ -15,7 +15,7 @@ Fall dressing demands versatility—pieces that layer effectively, transition be
 
 This page covers everything you need to know about building a fall wardrobe through Fansbuy, including specific product examples, real order data, and quality metrics from the platform's spreadsheet. The clothing category spans T-shirts (44 products), hoodies (19 products), sweatshirts (10 products), tracksuits (21 products), and jackets (3 products), with prices that make seasonal refreshes accessible. Buyer satisfaction rates average 93% across the clothing category, with fall-appropriate items maintaining quality pass rates above 92%. Most orders ship within 10-14 days to US and EU destinations, with QC photos available before shipment.
 
-If you're specifically interested in layering pieces, the [fansbuy clothes](fansbuy-clothes.md) collection offers 127 verified options across multiple categories. For warmer-weather basics that work into early fall, the [fansbuy jackets](fansbuy-jackets.md) page covers lightweight outerwear perfect for transitional weather. In the sections below, we break down the best fall clothing options, share community feedback, and walk you through the ordering process so you can build a seasonal wardrobe with confidence.
+If you're specifically interested in layering pieces, the [fansbuy clothes](/fansbuy-clothes/) collection offers 127 verified options across multiple categories. For warmer-weather basics that work into early fall, the [fansbuy jackets](/fansbuy-jackets/) page covers lightweight outerwear perfect for transitional weather. In the sections below, we break down the best fall clothing options, share community feedback, and walk you through the ordering process so you can build a seasonal wardrobe with confidence.
 
 ## Top Fall Clothing Categories and Products
 
@@ -41,7 +41,7 @@ Quality verification is especially important for fall clothing, where fabric wei
 
 The platform reports a 93% buyer satisfaction rate across the clothing category, with fall-appropriate items performing at or above this average. Quality pass rates vary by product type: hoodies average 94%, sweatshirts average 93%, and tracksuits average 92%. These rates reflect the percentage of products that pass initial QC inspection without requiring replacement or repair. The transparency of the QC system is a key reason why 72% of buyers in the clothing category place repeat orders within 90 days.
 
-Sizing is a critical consideration when ordering fansbuy fall clothes internationally. The platform's spreadsheet includes detailed size charts for most products, but fit can vary by brand and batch version. Community feedback from Reddit and Telegram discussions suggests that most streetwear brands like Essentials, Palm Angels, and Trapstar run true to size, while some designer-inspired pieces may run slightly small. Buyers are advised to consult the size charts carefully before ordering, particularly for hoodies and tracksuits where fit impacts layering potential. If you need detailed sizing information across all categories, the [fansbuy hoodies](fansbuy-hoodies.md) guide provides brand-specific fit recommendations.
+Sizing is a critical consideration when ordering fansbuy fall clothes internationally. The platform's spreadsheet includes detailed size charts for most products, but fit can vary by brand and batch version. Community feedback from Reddit and Telegram discussions suggests that most streetwear brands like Essentials, Palm Angels, and Trapstar run true to size, while some designer-inspired pieces may run slightly small. Buyers are advised to consult the size charts carefully before ordering, particularly for hoodies and tracksuits where fit impacts layering potential. If you need detailed sizing information across all categories, the [fansbuy hoodies](/fansbuy-hoodies/) guide provides brand-specific fit recommendations.
 
 Fabric weight is another important factor for fall clothing. Most hoodies in the collection range from 280-350 GSM, providing enough warmth for cool days without overheating during temperature fluctuations. Sweatshirts typically feature similar weight cotton blends, ideal for layering under jackets or wearing alone. Tracksuits vary by brand, with Nike and Adidas options offering lightweight polyester blends suitable for athleisure, while Essentials and Palm Angels use heavier cotton fleece for a more structured look. T-shirts are mid-weight cotton (180-220 GSM), perfect for base layers without adding bulk.
 
@@ -99,8 +99,8 @@ Explore the full fansbuy fall clothes collection through the spreadsheet link ab
 ---
 
 **Related Guides:**
-- [Fansbuy Hoodies](fansbuy-hoodies.md)
-- [Fansbuy Jackets](fansbuy-jackets.md)
-- [Fansbuy Clothes](fansbuy-clothes.md)
+- [Fansbuy Hoodies](/fansbuy-hoodies/)
+- [Fansbuy Jackets](/fansbuy-jackets/)
+- [Fansbuy Clothes](/fansbuy-clothes/)
 
 ---

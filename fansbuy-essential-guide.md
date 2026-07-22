@@ -15,7 +15,7 @@ If you are researching replica marketplaces, you have likely come across Fansbuy
 
 The numbers tell a compelling story. Fansbuy reports a 93% buyer satisfaction rate, with 72% of buyers reordering within six months. Standard shipping to the US and EU takes 10-14 days, and the platform maintains a 94% quality pass rate across all product categories. These metrics reflect a mature, well-functioning marketplace that has invested in quality control, logistics, and buyer support.
 
-But knowing the numbers is only the first step. This guide walks you through the platform mechanics, the ordering process, quality verification, and the tools that make Fansbuy stand out. By the end, you will have a complete mental model of how everything works and how to get the best results. For absolute beginners, we recommend also reading our [fansbuy for beginners](fansbuy-for-beginners.md) guide alongside this one for additional context.
+But knowing the numbers is only the first step. This guide walks you through the platform mechanics, the ordering process, quality verification, and the tools that make Fansbuy stand out. By the end, you will have a complete mental model of how everything works and how to get the best results. For absolute beginners, we recommend also reading our [fansbuy for beginners](/fansbuy-for-beginners/) guide alongside this one for additional context.
 
 ## What Fansbuy Offers: Platform Overview
 
@@ -25,7 +25,7 @@ The Clothing category is the largest, featuring t-shirts starting at $9.73 (Esse
 
 The Accessories category is the most diverse, covering bags, headwear, belts, jewelry, sunglasses, electronics, fragrances, phone cases, and wallets. Prices here start at just $1.30 for a phone case and go up to $77.47 for a travel bag. The Watches category, while smaller with only 8 products, includes replicas of Rolex ($42.86 to $98.90), Cartier ($26.37 to $76.65), Audemars Piguet ($67.58), and Tissot ($79.67).
 
-What sets Fansbuy apart is the spreadsheet system. Every product is documented with pricing, order counts, quality pass rates, and batch version details. This level of transparency is unusual in the replica market and gives buyers the data they need to make informed decisions. Understanding how to navigate this system is covered in detail in our [fansbuy how to use](fansbuy-how-to-use.md) walkthrough.
+What sets Fansbuy apart is the spreadsheet system. Every product is documented with pricing, order counts, quality pass rates, and batch version details. This level of transparency is unusual in the replica market and gives buyers the data they need to make informed decisions. Understanding how to navigate this system is covered in detail in our [fansbuy how to use](/fansbuy-how-to-use/) walkthrough.
 
 ## How the Ordering Process Works
 
@@ -41,7 +41,7 @@ The Fansbuy ordering process follows a straightforward sequence, but each step h
 
 **Step 5: Delivery and Confirmation.** The package arrives at your door. Inspect it promptly and confirm receipt on the platform. If there are any issues, contact support within the specified window.
 
-The entire process, from order to delivery, typically takes two to four weeks. Plan accordingly, especially if you need an item by a specific date. For detailed shipping timelines and options, refer to the [fansbuy shipping guide](fansbuy-shipping-guide.md).
+The entire process, from order to delivery, typically takes two to four weeks. Plan accordingly, especially if you need an item by a specific date. For detailed shipping timelines and options, refer to the [fansbuy shipping guide](/fansbuy-shipping-guide/).
 
 ## Quality Verification: What to Expect
 
@@ -86,8 +86,8 @@ Start your journey by accessing the Fansbuy spreadsheet and exploring the produc
 ---
 
 **Related Guides:**
-- [Fansbuy Complete Guide](fansbuy-complete-guide.md)
-- [Fansbuy Buyer Tips](fansbuy-buyer-tips.md)
-- [Fansbuy Common Mistakes](fansbuy-common-mistakes.md)
+- [Fansbuy Complete Guide](/fansbuy-complete-guide/)
+- [Fansbuy Buyer Tips](/fansbuy-buyer-tips/)
+- [Fansbuy Common Mistakes](/fansbuy-common-mistakes/)
 
 ---

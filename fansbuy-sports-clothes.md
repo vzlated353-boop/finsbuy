@@ -23,9 +23,9 @@ The Fansbuy sports clothes collection features several high-demand categories, e
 
 Athletic shorts form the second-largest segment. The Nike Shorts (~$14.18) have generated 450+ orders with a 95% quality pass rate, making them one of the platform's most reliable training essentials. Buyers consistently praise the lightweight mesh construction, breathable design, and accurate sizing. The Adidas Tracksuit (~$17.31) offers similar quality metrics, with 320+ orders and classic styling that appeals to both athletes and streetwear enthusiasts.
 
-Performance jackets round out the top sellers. The Under Armour Jacket (~$49.29) features moisture-wicking properties, durable construction, and accurate branding details. With 290+ orders and a 93% quality pass rate, it provides reliable protection during outdoor training sessions. The [fansbuy sports gear](fansbuy-sports-gear.md) collection complements these apparel offerings, ensuring athletes can build complete outfits from verified sources.
+Performance jackets round out the top sellers. The Under Armour Jacket (~$49.29) features moisture-wicking properties, durable construction, and accurate branding details. With 290+ orders and a 93% quality pass rate, it provides reliable protection during outdoor training sessions. The [fansbuy sports gear](/fansbuy-sports-gear/) collection complements these apparel offerings, ensuring athletes can build complete outfits from verified sources.
 
-For sport-specific needs, the platform offers specialized clothing across multiple disciplines. Football enthusiasts find team tracksuits and training jerseys, while runners can explore lightweight jackets and performance shorts. The [fansbuy gym clothes](fansbuy-gym-clothes.md) section includes workout-specific apparel designed for maximum mobility and comfort during intense training sessions.
+For sport-specific needs, the platform offers specialized clothing across multiple disciplines. Football enthusiasts find team tracksuits and training jerseys, while runners can explore lightweight jackets and performance shorts. The [fansbuy gym clothes](/fansbuy-gym-clothes/) section includes workout-specific apparel designed for maximum mobility and comfort during intense training sessions.
 
 Quality varies slightly by batch version, with most items scoring 8.5-9.3 on the platform's 10-point scale. The spreadsheet provides detailed batch information, including manufacturing dates, fabric composition, and QC photo availability. This transparency allows buyers to make informed decisions based on their specific requirements and budget constraints.
 
@@ -35,7 +35,7 @@ The primary advantage of purchasing Fansbuy sports clothes lies in the significa
 
 Quality verification represents another critical benefit. Every sports clothing item undergoes a multi-point inspection process. QC photos capture stitching details, fabric texture, branding accuracy, and functional elements like zipper quality and seam construction. The platform's 92% quality pass rate reflects rigorous standards, with only items meeting minimum thresholds approved for sale.
 
-Community feedback provides real-world validation. With over 9,500 sports clothes orders in 2025, buyers have access to extensive user reviews covering fit, comfort, durability, and performance. The [fansbuy clothes](fansbuy-clothes.md) collection includes detailed feedback from athletes who've tested items during actual workouts and competitions, providing insights beyond static product descriptions.
+Community feedback provides real-world validation. With over 9,500 sports clothes orders in 2025, buyers have access to extensive user reviews covering fit, comfort, durability, and performance. The [fansbuy clothes](/fansbuy-clothes/) collection includes detailed feedback from athletes who've tested items during actual workouts and competitions, providing insights beyond static product descriptions.
 
 Sizing accuracy improves with each batch. The platform maintains detailed size charts for each product, including measurements for chest, waist, inseam, and sleeve length. User-submitted fit data helps refine these charts, reducing return rates and improving satisfaction. Most sports apparel runs true to size, though some buyers prefer sizing up for layering purposes or a more relaxed fit.
 
@@ -49,7 +49,7 @@ Selecting the right Fansbuy sports clothes starts with identifying your specific
 
 Once you've identified target items, review the QC photos and batch information carefully. Pay attention to fabric composition—performance materials like polyester blends and technical fabrics offer better moisture management than basic cotton. Check user reviews for fit feedback, noting any consistent sizing issues. The platform's size guide provides measurements, but user comments often reveal whether items run large or small.
 
-When placing orders, consider bundling items to maximize value. A complete tracksuit set (jacket and pants) often costs less than purchasing pieces separately. Similarly, buying multiple shorts or t-shirts together may qualify for shipping discounts. The [fansbuy shorts](fansbuy-shorts.md) collection includes various lengths and styles suitable for different activities, allowing you to build a versatile athletic wardrobe.
+When placing orders, consider bundling items to maximize value. A complete tracksuit set (jacket and pants) often costs less than purchasing pieces separately. Similarly, buying multiple shorts or t-shirts together may qualify for shipping discounts. The [fansbuy shorts](/fansbuy-shorts/) collection includes various lengths and styles suitable for different activities, allowing you to build a versatile athletic wardrobe.
 
 After ordering, track your shipment through the platform's tracking system. Most packages include insurance covering loss or damage during transit. Upon delivery, inspect items immediately and compare them to QC photos. If discrepancies exist, contact customer service within 48 hours with photos documenting the issue. The platform's resolution process typically offers replacements or partial refunds for verified quality issues.
 
@@ -88,8 +88,8 @@ To explore the complete selection and access detailed product information, check
 ---
 
 **Related Guides:**
-- [Fansbuy Sports Gear](fansbuy-sports-gear.md)
-- [Fansbuy Gym Clothes](fansbuy-gym-clothes.md)
-- [Fansbuy Clothes](fansbuy-clothes.md)
+- [Fansbuy Sports Gear](/fansbuy-sports-gear/)
+- [Fansbuy Gym Clothes](/fansbuy-gym-clothes/)
+- [Fansbuy Clothes](/fansbuy-clothes/)
 
 ---

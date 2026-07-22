@@ -15,7 +15,7 @@ If you are new to the world of replica shopping, the term "agent" might sound co
 
 Fansbuy has established itself as one of the more accessible platforms for newcomers, with an English-language interface, transparent pricing, and a structured quality control process that reduces the risk of receiving unsatisfactory items. The platform currently lists over 22,000 verified products across clothing, shoes, accessories, and watches, with prices ranging from $1.30 for a phone case to $164.67 for premium tracksuits. Based on community-reported data, Fansbuy maintains a 93% buyer satisfaction rate, and 72% of buyers place repeat orders within six months.
 
-This guide walks you through everything a first-time buyer needs to know — from understanding what makes Fansbuy different from direct marketplace purchases to avoiding common sizing mistakes that lead to returns. Once you understand the basics, the [fansbuy shipping guide](fansbuy-shipping-guide.md) explains delivery options and timelines, while the [fansbuy how to use](fansbuy-how-to-use.md) guide covers dashboard navigation and key platform features.
+This guide walks you through everything a first-time buyer needs to know — from understanding what makes Fansbuy different from direct marketplace purchases to avoiding common sizing mistakes that lead to returns. Once you understand the basics, the [fansbuy shipping guide](/fansbuy-shipping-guide/) explains delivery options and timelines, while the [fansbuy how to use](/fansbuy-how-to-use/) guide covers dashboard navigation and key platform features.
 
 ## Fansbuy Beginner Guide: What Is Fansbuy and How Does It Work?
 
@@ -35,7 +35,7 @@ The Shoes category (33 products) includes Nike, Jordan, Dior, Balenciaga, and Ye
 
 Accessories (80 products) represent the largest category by product count and include items like phone cases ($1.30–$4.81), caps ($6.18–$11.37), belts ($9.48–$13.60), and wallets ($4.93–$49.29). These are excellent add-on items that allow you to maximize shipping value without significantly increasing order cost. The Pants category (28 products) covers jeans, shorts, sweatpants, and underwear, with items like Stone Island Jeans at $62.64 and Calvin Klein Underwear starting at $4.95.
 
-When browsing, pay attention to batch version information listed for each product. Different batches may have slight variations in materials, construction, or accuracy. Community reviews often discuss which batches offer the best quality, and the QC photo system lets you verify the specific item you will receive before committing to international shipping. Understanding how to assess quality from photos is a skill that improves with experience, and the [fansbuy qc photos](fansbuy-qc-photos.md) guide provides a detailed framework for evaluation.
+When browsing, pay attention to batch version information listed for each product. Different batches may have slight variations in materials, construction, or accuracy. Community reviews often discuss which batches offer the best quality, and the QC photo system lets you verify the specific item you will receive before committing to international shipping. Understanding how to assess quality from photos is a skill that improves with experience, and the [fansbuy qc photos](/fansbuy-qc-photos/) guide provides a detailed framework for evaluation.
 
 ## Understanding Quality Control and QC Photos
 
@@ -94,8 +94,8 @@ The platform's 72% repurchase rate indicates that most beginners have positive i
 ---
 
 **Related Guides:**
-- [Fansbuy for Beginners](fansbuy-for-beginners.md)
-- [Fansbuy Sizing Guide](fansbuy-sizing-guide.md)
-- [Fansbuy Reviews](fansbuy-reviews.md)
+- [Fansbuy for Beginners](/fansbuy-for-beginners/)
+- [Fansbuy Sizing Guide](/fansbuy-sizing-guide/)
+- [Fansbuy Reviews](/fansbuy-reviews/)
 
 ---

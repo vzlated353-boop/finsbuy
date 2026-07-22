@@ -40,13 +40,13 @@ For buyers seeking performance-oriented outerwear for athletic activities or act
 
 When selecting a jacket, it is also important to consider the fit and silhouette. Workwear-inspired jackets like the Carhartt option typically feature a relaxed, boxy fit that allows for layering and freedom of movement. Luxury jackets like the Moncler option offer a more tailored, streamlined silhouette that creates a polished appearance. Performance jackets like the Under Armour option feature an athletic fit that balances comfort with a streamlined look. Understanding your body type and personal style preferences will help you select the right fit.
 
-Color selection is another important consideration. Neutral tones like black, navy, grey, and olive offer maximum versatility and pair well with a wide range of outfits. The Carhartt Jacket typically comes in earthy tones like brown or olive that complement the workwear aesthetic. The Moncler Jacket often features classic black or navy that works for formal and semi-formal settings. The Under Armour Jacket is available in a variety of colors including black, grey, and bold accent colors that appeal to athletic wear enthusiasts. For buyers building a complete wardrobe, pairing jackets from the Fansbuy collection with pieces from the [fansbuy jeans](fansbuy-jeans.md) or [fansbuy hoodies](fansbuy-hoodies.md) catalog creates cohesive outfits that balance style and functionality.
+Color selection is another important consideration. Neutral tones like black, navy, grey, and olive offer maximum versatility and pair well with a wide range of outfits. The Carhartt Jacket typically comes in earthy tones like brown or olive that complement the workwear aesthetic. The Moncler Jacket often features classic black or navy that works for formal and semi-formal settings. The Under Armour Jacket is available in a variety of colors including black, grey, and bold accent colors that appeal to athletic wear enthusiasts. For buyers building a complete wardrobe, pairing jackets from the Fansbuy collection with pieces from the [fansbuy jeans](/fansbuy-jeans/) or [fansbuy hoodies](/fansbuy-hoodies/) catalog creates cohesive outfits that balance style and functionality.
 
 ## How to Order Jackets on Fansbuy
 
 Ordering jackets from Fansbuy follows a structured process designed to minimize uncertainty and maximize buyer satisfaction. The first step is to browse the available listings in the jacket category, using filters to narrow down by brand, price range, style, or intended use. Each listing displays the approximate price, available sizes, batch version information, and historical order data including quality pass rates and order volumes (where available).
 
-Once you have identified a product that meets your needs, the next step is to verify sizing carefully. Jacket sizing can vary significantly between brands and batch versions, so it is essential to consult the measurement charts provided in each listing. Key dimensions to check include chest, shoulder width, sleeve length, and overall length. The platform's quality verification team measures these dimensions for each batch, and the data is made available to buyers before purchase. If you are comparing sizes across different brands or need guidance on fit, the [fansbuy budget picks](fansbuy-budget-picks.md) guide can help you find value across all outerwear categories.
+Once you have identified a product that meets your needs, the next step is to verify sizing carefully. Jacket sizing can vary significantly between brands and batch versions, so it is essential to consult the measurement charts provided in each listing. Key dimensions to check include chest, shoulder width, sleeve length, and overall length. The platform's quality verification team measures these dimensions for each batch, and the data is made available to buyers before purchase. If you are comparing sizes across different brands or need guidance on fit, the [fansbuy budget picks](/fansbuy-budget-picks/) guide can help you find value across all outerwear categories.
 
 After selecting your size and placing the order, the product goes through Fansbuy's quality control process. This involves a physical inspection of the jacket, including checks for stitching quality, fabric integrity, color accuracy, hardware functionality (zippers, buttons, snaps, drawstrings), and overall construction. QC photos are taken and shared with the buyer before the item is shipped, providing an opportunity to approve the product or request a replacement if any issues are identified. This transparency is one of the key reasons why the platform maintains a 94% buyer satisfaction rate across its jacket category.
 
@@ -82,8 +82,8 @@ Whether you are looking for durable everyday outerwear, luxury winter coats, or 
 
 **Related Guides:**
 
-- [Fansbuy Jackets](fansbuy-jackets.md)
-- [Fansbuy Clothes](fansbuy-clothes.md)
-- [Fansbuy Sizing Guide](fansbuy-sizing-guide.md)
+- [Fansbuy Jackets](/fansbuy-jackets/)
+- [Fansbuy Clothes](/fansbuy-clothes/)
+- [Fansbuy Sizing Guide](/fansbuy-sizing-guide/)
 
 ---

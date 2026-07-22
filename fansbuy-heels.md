@@ -15,7 +15,7 @@ Elegant footwear completes every outfit, and fansbuy heels have become a trusted
 
 This guide explores fansbuy heels based on real order data and community feedback. The platform reports a 93% buyer satisfaction rate across footwear categories, with dress shoes showing strong demand among fashion-conscious buyers. Most orders ship within 10-14 days to US and EU destinations, and quality pass rates for heels typically exceed 90%. From classic Dior B-series designs to bold Balenciaga statements, this data-driven guide will help you find the perfect pair.
 
-If you're exploring women's footwear, you might also want to check our [fansbuy shoes](fansbuy-shoes.md) collection for a complete overview of all styles. For Nike-specific options that work well for women, the [fansbuy nike](fansbuy-nike.md) page covers the brand's athletic lineup in detail.
+If you're exploring women's footwear, you might also want to check our [fansbuy shoes](/fansbuy-shoes/) collection for a complete overview of all styles. For Nike-specific options that work well for women, the [fansbuy nike](/fansbuy-nike/) page covers the brand's athletic lineup in detail.
 
 ## Top Fansbuy Heels for Elegant Styling
 
@@ -96,8 +96,8 @@ Whether you're looking for elegant formal heels, versatile office shoes, or fash
 ---
 
 **Related Guides:**
-- [Fansbuy women shoes](fansbuy-women-shoes.md)
-- [Fansbuy sizing guide](fansbuy-sizing-guide.md)
-- [Fansbuy reviews](fansbuy-reviews.md)
+- [Fansbuy women shoes](/fansbuy-women-shoes/)
+- [Fansbuy sizing guide](/fansbuy-sizing-guide/)
+- [Fansbuy reviews](/fansbuy-reviews/)
 
 ---

@@ -27,7 +27,7 @@ In the mid-range tier, the **Stone Island T-shirt** (~$14.01), **Palm Angels T-s
 
 At the premium end, the **Burberry T-shirt** (~$21.26), **Moncler T-shirt** (~$24.73), and **Balenciaga T-shirt** (~$24.56) attract buyers looking for luxury branding and refined construction. The Moncler T-shirt is especially popular among buyers who appreciate the brand's premium reputation and attention to detail.
 
-When browsing the full [fansbuy t-shirts](fansbuy-t-shirts.md) collection, pay attention to the batch version information provided in the spreadsheet. Different batches can vary in fabric weight, print method, and overall finish. For buyers interested in building a complete wardrobe, the [fansbuy clothes](fansbuy-clothes.md) section also includes hoodies, tracksuits, sweatshirts, and more from the same brands.
+When browsing the full [fansbuy t-shirts](/fansbuy-t-shirts/) collection, pay attention to the batch version information provided in the spreadsheet. Different batches can vary in fabric weight, print method, and overall finish. For buyers interested in building a complete wardrobe, the [fansbuy clothes](/fansbuy-clothes/) section also includes hoodies, tracksuits, sweatshirts, and more from the same brands.
 
 ## Quality Verification and Batch Versions
 
@@ -39,7 +39,7 @@ The second layer is the QC photo system. Before shipping, the platform typically
 
 Community data suggests that the overall quality pass rate for t-shirts on Fansbuy sits at approximately 92–94%. This means that the vast majority of buyers receive items that meet their expectations. However, it is still important to do your homework. Check the spreadsheet for batch-specific feedback, read community reviews, and review QC photos carefully. If something looks off in the photos, you can usually request additional images or clarification before approving the shipment.
 
-For buyers new to the platform, understanding the QC process is essential. We recommend reviewing the [fansbuy sizing guide](fansbuy-sizing-guide.md) before placing your first t-shirt order, as sizing can vary slightly between brands and batches. This helps avoid unnecessary exchanges and ensures a better fit from the start.
+For buyers new to the platform, understanding the QC process is essential. We recommend reviewing the [fansbuy sizing guide](/fansbuy-sizing-guide/) before placing your first t-shirt order, as sizing can vary slightly between brands and batches. This helps avoid unnecessary exchanges and ensures a better fit from the start.
 
 ## How to Order Your Fansbuy T-Shirt
 
@@ -90,8 +90,8 @@ Whether you are looking for an affordable Essentials T-shirt at $9.73 or a premi
 ---
 
 **Related Guides:**
-- [Fansbuy Stussy](fansbuy-stussy.md)
-- [Fansbuy Palm Angels](fansbuy-palm-angels.md)
-- [Fansbuy Essentials](fansbuy-essentials.md)
+- [Fansbuy Stussy](/fansbuy-stussy/)
+- [Fansbuy Palm Angels](/fansbuy-palm-angels/)
+- [Fansbuy Essentials](/fansbuy-essentials/)
 
 ---

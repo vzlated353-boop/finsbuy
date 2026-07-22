@@ -25,13 +25,13 @@ For school-age children, the Adidas Shoes collection at approximately $24.73 pro
 
 Basketball-inspired styles like the Jordan 4 are popular among older kids and pre-teens who follow sneaker culture. Priced at $55.38, these shoes offer the same premium materials and accurate detailing as adult versions, scaled down for younger feet. With 120+ orders and a 92% quality pass rate, they represent a worthwhile investment for kids who take pride in their footwear. The Nike AF1 Low '07, at just $12.86, provides an affordable entry point for families wanting classic style, with 160+ orders and consistent 93% quality ratings across kids' sizes.
 
-What makes these options particularly valuable is the transparency Fansbuy provides through its spreadsheet system. Parents can see real order data, quality ratings, and batch information before committing to a purchase. When exploring the [fansbuy junior shoes](fansbuy-junior-shoes.md) collection, you'll find overlapping options for older children who are transitioning between kids' and adult sizes. This continuity ensures you can keep sourcing quality footwear as your child grows, without having to learn a new platform or supplier.
+What makes these options particularly valuable is the transparency Fansbuy provides through its spreadsheet system. Parents can see real order data, quality ratings, and batch information before committing to a purchase. When exploring the [fansbuy junior shoes](/fansbuy-junior-shoes/) collection, you'll find overlapping options for older children who are transitioning between kids' and adult sizes. This continuity ensures you can keep sourcing quality footwear as your child grows, without having to learn a new platform or supplier.
 
 ## Sizing Guide for Kids' Feet
 
 One of the most critical aspects of buying fansbuy kids shoes is getting the size right. Children's feet grow rapidly—on average, kids' feet grow about half a size every two to three months. This means that a shoe that fits perfectly today might be too small in just a few months. Fansbuy's sizing system uses standard US and EU measurements, but it's important to understand how their kids' sizes correspond to actual foot measurements.
 
-The platform recommends measuring your child's foot in the afternoon or evening, when feet are slightly swollen from daily activity. Place a piece of paper against a wall, have your child stand on it with their heel touching the wall, and mark the longest toe. Measure this distance in centimeters and compare it to the sizing chart provided in the spreadsheet. For most Nike and Adidas models, you'll want to add about 0.5-1 cm to allow for growth and comfortable movement. The [fansbuy sizing guide](fansbuy-sizing-guide.md) provides detailed conversion tables and brand-specific recommendations.
+The platform recommends measuring your child's foot in the afternoon or evening, when feet are slightly swollen from daily activity. Place a piece of paper against a wall, have your child stand on it with their heel touching the wall, and mark the longest toe. Measure this distance in centimeters and compare it to the sizing chart provided in the spreadsheet. For most Nike and Adidas models, you'll want to add about 0.5-1 cm to allow for growth and comfortable movement. The [fansbuy sizing guide](/fansbuy-sizing-guide/) provides detailed conversion tables and brand-specific recommendations.
 
 It's also worth noting that different brands fit differently. Nike kids' shoes tend to run slightly narrow, while Adidas models often have a wider toe box. If your child has wider feet, you might want to size up or choose models known for accommodating wider foot shapes. The spreadsheet includes notes on fit characteristics for popular models, helping you make more informed decisions. For children between sizes, always size up rather than down—a slightly large shoe with an insole is more comfortable than a shoe that's too tight.
 
@@ -84,8 +84,8 @@ Ready to find the perfect shoes for your kids? Access the Fansbuy spreadsheet to
 ---
 
 **Related Guides:**
-- [Fansbuy Shoes](fansbuy-shoes.md) - Browse the complete footwear collection for all ages and styles
-- [Fansbuy Sneakers](fansbuy-sneakers.md) - Explore our extensive sneaker selection with quality data and pricing
-- [Fansbuy Budget Picks](fansbuy-budget-picks.md) - Discover affordable footwear options that deliver quality at lower price points
+- [Fansbuy Shoes](/fansbuy-shoes/) - Browse the complete footwear collection for all ages and styles
+- [Fansbuy Sneakers](/fansbuy-sneakers/) - Explore our extensive sneaker selection with quality data and pricing
+- [Fansbuy Budget Picks](/fansbuy-budget-picks/) - Discover affordable footwear options that deliver quality at lower price points
 
 ---

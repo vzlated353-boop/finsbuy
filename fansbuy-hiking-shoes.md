@@ -15,7 +15,7 @@ Outdoor adventures demand footwear that can withstand rugged terrain, variable w
 
 This guide explores fansbuy hiking shoes that deliver outdoor performance based on real order data and community feedback. The platform reports a 93% buyer satisfaction rate across footwear categories, with outdoor models showing strong demand among active buyers. Most orders ship within 10-14 days to US and EU destinations, and quality pass rates for hiking shoes typically exceed 92%. Whether you're looking for Nike Air Max technology, Asics gel cushioning, or Timberland durability, this data-driven guide will help you find the right outdoor footwear.
 
-If you're exploring outdoor footwear, you might also want to check our [fansbuy outdoor shoes](fansbuy-outdoor-shoes.md) collection for a complete overview of all adventure footwear categories. For a broader look at all available footwear on the platform, the [fansbuy shoes](fansbuy-shoes.md) page covers every category in detail.
+If you're exploring outdoor footwear, you might also want to check our [fansbuy outdoor shoes](/fansbuy-outdoor-shoes/) collection for a complete overview of all adventure footwear categories. For a broader look at all available footwear on the platform, the [fansbuy shoes](/fansbuy-shoes/) page covers every category in detail.
 
 ## Top Fansbuy Hiking Shoes for Outdoor Performance
 
@@ -94,8 +94,8 @@ Whether you're looking for durable everyday hiking boots, cushioned trail shoes,
 ---
 
 **Related Guides:**
-- [Fansbuy nike](fansbuy-nike.md)
-- [Fansbuy sizing guide](fansbuy-sizing-guide.md)
-- [Fansbuy shoes 2026](fansbuy-shoes-2026.md)
+- [Fansbuy nike](/fansbuy-nike/)
+- [Fansbuy sizing guide](/fansbuy-sizing-guide/)
+- [Fansbuy shoes 2026](/fansbuy-shoes-2026/)
 
 ---

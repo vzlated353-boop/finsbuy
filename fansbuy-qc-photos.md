@@ -1,4 +1,4 @@
-﻿# Fansbuy QC Photos 2026: Complete Guide to Quality Verification
+# Fansbuy QC Photos 2026: Complete Guide to Quality Verification
 
 <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Fansbuy Spreadsheet</a>
 
@@ -56,7 +56,7 @@ Fabric texture close-ups help you evaluate material weight, weave quality, and s
 
 **Step 5: Make your decision**
 
-After reviewing all photos systematically, assess whether the item meets your expectations. If everything looks correct, approve the item for shipment. If you identify concerns ??color mismatch, visible defects, incorrect sizing labels, or poor construction quality ??flag the specific issues with reference to the relevant photos. The Fansbuy quality assurance team will review your concerns and can request additional photos or initiate a return if warranted. For buyers comparing quality across different product categories, the [fansbuy spreadsheet best](spreadsheet best.md) resource provides quality metrics and pass rates that help set accurate expectations for each product type.
+After reviewing all photos systematically, assess whether the item meets your expectations. If everything looks correct, approve the item for shipment. If you identify concerns ??color mismatch, visible defects, incorrect sizing labels, or poor construction quality ??flag the specific issues with reference to the relevant photos. The Fansbuy quality assurance team will review your concerns and can request additional photos or initiate a return if warranted. For buyers comparing quality across different product categories, the [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/) resource provides quality metrics and pass rates that help set accurate expectations for each product type.
 
 ## Common Quality Issues to Watch For
 

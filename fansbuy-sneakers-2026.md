@@ -15,7 +15,7 @@ The fansbuy sneakers 2026 collection represents the most comprehensive update to
 
 What makes fansbuy sneakers 2026 stand out is the combination of trending models and competitive pricing. The platform currently offers sneakers ranging from $12.86 for classic Nike AF1 Low '07 to $115.22 for premium Balenciaga designs, with most popular models falling in the $30-$60 range. Recent order data shows that buyers are particularly interested in Nike Air Max 95 (~$46.15, 410+ orders, 94% quality pass rate) and Jordan 4 (~$55.38, 320+ orders, 92% quality pass rate), demonstrating consistent demand for both performance and lifestyle sneakers.
 
-This guide covers everything you need to know about navigating the fansbuy sneakers 2026 collection, from identifying the best batch versions to understanding sizing variations across different brands. Whether you're looking for everyday wear or collector-grade pieces, you'll find actionable insights based on real order data and community feedback. For detailed quality verification information, check out our [fansbuy qc photos](fansbuy-qc-photos.md) guide to understand how every pair is inspected before shipping.
+This guide covers everything you need to know about navigating the fansbuy sneakers 2026 collection, from identifying the best batch versions to understanding sizing variations across different brands. Whether you're looking for everyday wear or collector-grade pieces, you'll find actionable insights based on real order data and community feedback. For detailed quality verification information, check out our [fansbuy qc photos](/fansbuy-qc-photos/) guide to understand how every pair is inspected before shipping.
 
 ## Latest 2026 Sneaker Trends on Fansbuy
 
@@ -49,7 +49,7 @@ Ordering fansbuy sneakers 2026 follows a straightforward process designed to giv
 
 **Step 2: Check Batch Versions**: Once you've identified a model, review available batch versions and their quality ratings. Higher-rated batches typically cost slightly more but offer better materials and construction. The spreadsheet includes batch identifiers and corresponding quality pass rates, helping you balance cost and quality.
 
-**Step 3: Submit Your Order**: Add selected sneakers to your order with size specifications. Sizing can vary by brand, so consult the sizing guide if you're unsure. Nike models typically run true to size, while some designer brands may run slightly large or small. The [fansbuy sizing guide](fansbuy-sizing-guide.md) provides brand-specific recommendations.
+**Step 3: Submit Your Order**: Add selected sneakers to your order with size specifications. Sizing can vary by brand, so consult the sizing guide if you're unsure. Nike models typically run true to size, while some designer brands may run slightly large or small. The [fansbuy sizing guide](/fansbuy-sizing-guide/) provides brand-specific recommendations.
 
 **Step 4: Review QC Photos**: After the seller ships to Fansbuy's warehouse, QC photos are taken and made available for review. Examine these photos carefully, checking for any issues with materials, stitching, or construction. If everything meets your standards, approve the item for international shipping. If there are concerns, you can request alternatives or returns based on platform policies.
 
@@ -91,8 +91,8 @@ To explore the full collection and access current pricing, quality data, and bat
 ---
 
 **Related Guides:**
-- [Fansbuy Sneakers](fansbuy-sneakers.md) - Complete collection overview
-- [Fansbuy Nike](fansbuy-nike.md) - Nike brand-specific guide
-- [Fansbuy Jordan](fansbuy-jordan.md) - Jordan brand collection
+- [Fansbuy Sneakers](/fansbuy-sneakers/) - Complete collection overview
+- [Fansbuy Nike](/fansbuy-nike/) - Nike brand-specific guide
+- [Fansbuy Jordan](/fansbuy-jordan/) - Jordan brand collection
 
 ---

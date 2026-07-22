@@ -15,13 +15,13 @@ If you have been browsing replica marketplaces, you have probably encountered th
 
 This guide draws on real order data, community feedback, and platform statistics to identify the most frequent missteps buyers make. We will walk through sizing oversights, QC photo neglect, shipping miscalculations, and budget mismanagement. The platform reports a 93% buyer satisfaction rate overall, but that number climbs to 97% among buyers who follow a structured preparation process. Our goal is to help you join that higher-satisfaction group.
 
-By the time you finish reading, you will know exactly what to check, what to avoid, and how to leverage every resource at your disposal. Whether you are eyeing a pair of Nike Air Max 95s at $46.15 or a Moncler Down Jacket at $78.57, the principles covered here apply to every product category on the platform. For a broader orientation, start with our [fansbuy for beginners](fansbuy-for-beginners.md) overview before diving into the details below.
+By the time you finish reading, you will know exactly what to check, what to avoid, and how to leverage every resource at your disposal. Whether you are eyeing a pair of Nike Air Max 95s at $46.15 or a Moncler Down Jacket at $78.57, the principles covered here apply to every product category on the platform. For a broader orientation, start with our [fansbuy for beginners](/fansbuy-for-beginners/) overview before diving into the details below.
 
 ## Mistake 1: Ignoring the Sizing Guide
 
 The single most common error among first-time buyers is ordering without consulting sizing information. Unlike domestic retail where you might have tried on a garment before, replica sizing varies significantly between batches, factories, and even colorways within the same model. Data from community return requests indicates that approximately 38% of exchange claims stem from sizing issues rather than quality defects.
 
-Consider the Nike Air Max 95, priced at $46.15 with over 410 orders recorded. This model typically runs half a size smaller than standard US sizing. A buyer who normally wears US 10 and orders without checking may receive a shoe that feels tight across the toe box. The same applies to apparel. An Essentials Hoodie at $31.15 might fit differently depending on whether it comes from the mid-weight or heavy-weight batch. The [fansbuy sizing guide](fansbuy-sizing-guide.md) covers brand-specific recommendations, measurement charts, and batch variations that can save you from an ill-fitting purchase.
+Consider the Nike Air Max 95, priced at $46.15 with over 410 orders recorded. This model typically runs half a size smaller than standard US sizing. A buyer who normally wears US 10 and orders without checking may receive a shoe that feels tight across the toe box. The same applies to apparel. An Essentials Hoodie at $31.15 might fit differently depending on whether it comes from the mid-weight or heavy-weight batch. The [fansbuy sizing guide](/fansbuy-sizing-guide/) covers brand-specific recommendations, measurement charts, and batch variations that can save you from an ill-fitting purchase.
 
 Experienced buyers always cross-reference their measurements against the size chart provided for each specific batch version. This takes less than two minutes but prevents weeks of delay if you need to request an exchange. Some buyers also measure a garment they already own and compare it to the listed dimensions, which adds another layer of confidence.
 
@@ -29,7 +29,7 @@ Experienced buyers always cross-reference their measurements against the size ch
 
 Quality control photos are your last line of defense before a product ships internationally. Fansbuy provides detailed QC images for every order, capturing stitching, materials, logos, sole patterns, and color accuracy. Skipping this step is like buying a car without test driving it. The platform maintains a 94% quality pass rate across all categories, but that still means roughly 6% of items show visible defects that QC photos would reveal.
 
-A buyer ordering a Dior B22 at $45.33, for example, should carefully examine the QC photos for logo alignment, stitching consistency, and sole color matching. Community guides on [fansbuy qc photos](fansbuy-qc-photos.md) explain what to look for in each image and how to request a replacement if something looks off. Common issues caught through QC review include misaligned logos on Trapstar Tracksuits ($41.21), color variations in Stone Island T-shirts ($14.01), and stitching irregularities on hoodies.
+A buyer ordering a Dior B22 at $45.33, for example, should carefully examine the QC photos for logo alignment, stitching consistency, and sole color matching. Community guides on [fansbuy qc photos](/fansbuy-qc-photos/) explain what to look for in each image and how to request a replacement if something looks off. Common issues caught through QC review include misaligned logos on Trapstar Tracksuits ($41.21), color variations in Stone Island T-shirts ($14.01), and stitching irregularities on hoodies.
 
 The QC review process typically adds one to two days to your timeline, but this small delay prevents the far greater cost of international return shipping. Most experienced buyers consider QC photo inspection non-negotiable, regardless of the product price.
 
@@ -86,8 +86,8 @@ Take advantage of the resources available to build confidence with every order. 
 ---
 
 **Related Guides:**
-- [Fansbuy How to Use](fansbuy-how-to-use.md)
-- [Fansbuy Budget Picks](fansbuy-budget-picks.md)
-- [Fansbuy Best Sellers](fansbuy-best-sellers.md)
+- [Fansbuy How to Use](/fansbuy-how-to-use/)
+- [Fansbuy Budget Picks](/fansbuy-budget-picks/)
+- [Fansbuy Best Sellers](/fansbuy-best-sellers/)
 
 ---

@@ -15,7 +15,7 @@ The fansbuy footwear collection encompasses 33 verified shoe models across multi
 
 What makes fansbuy footwear stand out is the breadth of options combined with transparent quality data. The shoe category represents approximately 12% of total inventory, with Nike leading at 11 models, followed by 13 designer shoe options, and 9 models from other popular brands. Recent order data reveals strong buyer engagement: Nike Air Max 95 dominates with 410+ orders and a 94% quality pass rate, Jordan 4 follows with 320+ orders at 92% pass rate, and Nike AF1 Low '07 maintains impressive consistency with 280+ orders at 95% quality pass rate. These metrics demonstrate reliable quality across the footwear spectrum.
 
-This guide provides a complete roadmap to navigating the fansbuy footwear landscape, from understanding the different shoe types available to making informed decisions based on quality data, pricing tiers, and sizing considerations. Whether you're building a sneaker collection, seeking luxury-inspired designs, or looking for practical everyday footwear, you'll find detailed information on every category. For quality verification details, check out our [fansbuy qc photos](fansbuy-qc-photos.md) guide to understand how every pair is inspected before shipping.
+This guide provides a complete roadmap to navigating the fansbuy footwear landscape, from understanding the different shoe types available to making informed decisions based on quality data, pricing tiers, and sizing considerations. Whether you're building a sneaker collection, seeking luxury-inspired designs, or looking for practical everyday footwear, you'll find detailed information on every category. For quality verification details, check out our [fansbuy qc photos](/fansbuy-qc-photos/) guide to understand how every pair is inspected before shipping.
 
 ## Complete Footwear Category Breakdown
 
@@ -157,7 +157,7 @@ The ordering process for fansbuy footwear follows a systematic approach designed
 
 **Step 2: Compare Models**: Use pricing data, quality pass rates, and order volumes to identify models that match your needs and budget. Cross-reference with the category breakdown above to understand which footwear types serve your intended use.
 
-**Step 3: Check Size Availability**: Verify that your size is available for the selected model. The spreadsheet includes size options for each variant. Nike shoes typically run true to size, while designer brands may run slightly large or small. Check community feedback for model-specific sizing tips. For Nike-specific footwear and apparel guidance, explore the [fansbuy nike](fansbuy-nike.md) brand page for detailed recommendations.
+**Step 3: Check Size Availability**: Verify that your size is available for the selected model. The spreadsheet includes size options for each variant. Nike shoes typically run true to size, while designer brands may run slightly large or small. Check community feedback for model-specific sizing tips. For Nike-specific footwear and apparel guidance, explore the [fansbuy nike](/fansbuy-nike/) brand page for detailed recommendations.
 
 **Step 4: Review Batch Information**: Pay attention to batch version data, which indicates production run quality. Higher-rated batches typically offer better materials and construction. Community feedback often highlights specific batch numbers that performed well.
 
@@ -202,8 +202,8 @@ To explore the complete fansbuy footwear inventory with current pricing, quality
 ---
 
 **Related Guides:**
-- [Fansbuy Shoes](fansbuy-shoes.md) - Complete shoe collection overview
-- [Fansbuy Sneakers](fansbuy-sneakers.md) - Sneaker-specific guide and trending models
-- [Fansbuy Sizing Guide](fansbuy-sizing-guide.md) - Brand-specific sizing recommendations
+- [Fansbuy Shoes](/fansbuy-shoes/) - Complete shoe collection overview
+- [Fansbuy Sneakers](/fansbuy-sneakers/) - Sneaker-specific guide and trending models
+- [Fansbuy Sizing Guide](/fansbuy-sizing-guide/) - Brand-specific sizing recommendations
 
 ---

@@ -15,7 +15,7 @@ Performance footwear requires precision engineering, quality materials, and prop
 
 This guide explores fansbuy running shoes that deliver athletic performance based on real order data and community feedback. The platform reports a 93% buyer satisfaction rate across footwear categories, with performance models showing strong demand among active buyers. Most orders ship within 10-14 days to US and EU destinations, and quality pass rates for running shoes typically exceed 92%. Whether you're looking for Nike Air Max technology, Asics gel cushioning, or Adidas Boost-inspired designs, this data-driven guide will help you find the right performance footwear.
 
-If you're exploring athletic footwear, you might also want to check our [fansbuy shoes](fansbuy-shoes.md) collection for a complete overview of all footwear categories. For Nike-specific performance options, the [fansbuy nike](fansbuy-nike.md) page covers the brand's athletic lineup in detail. And before ordering, make sure to review the [fansbuy sizing guide](fansbuy-sizing-guide.md) to ensure proper fit for athletic performance.
+If you're exploring athletic footwear, you might also want to check our [fansbuy shoes](/fansbuy-shoes/) collection for a complete overview of all footwear categories. For Nike-specific performance options, the [fansbuy nike](/fansbuy-nike/) page covers the brand's athletic lineup in detail. And before ordering, make sure to review the [fansbuy sizing guide](/fansbuy-sizing-guide/) to ensure proper fit for athletic performance.
 
 ## Top Fansbuy Running Shoes for Athletic Performance
 
@@ -57,7 +57,7 @@ Selecting the right fansbuy running shoes involves understanding your running st
 
 **Step 3: Review QC Photos Carefully**: Access the [Fansbuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) and examine the QC photos for your chosen model. Pay attention to the midsole thickness, upper material quality, and overall construction. For running shoes, check that the cushioning materials look substantial and the upper provides adequate support. Compare different batch versions to select the highest-quality option within your budget.
 
-**Step 4: Check Sizing for Performance Fit**: Proper fit is critical for running performance and injury prevention. Running shoes typically need to be sized slightly larger than casual shoes to allow for foot swelling during activity. The [fansbuy sizing guide](fansbuy-sizing-guide.md) provides brand-specific recommendations. Nike models typically run small, so go half a size up. Asics usually run true to size. If you're between sizes, sizing up is generally safer for running shoes.
+**Step 4: Check Sizing for Performance Fit**: Proper fit is critical for running performance and injury prevention. Running shoes typically need to be sized slightly larger than casual shoes to allow for foot swelling during activity. The [fansbuy sizing guide](/fansbuy-sizing-guide/) provides brand-specific recommendations. Nike models typically run small, so go half a size up. Asics usually run true to size. If you're between sizes, sizing up is generally safer for running shoes.
 
 **Step 5: Read Community Feedback on Performance**: The spreadsheet includes comments from previous buyers about running performance. Look for feedback specifically mentioning cushioning durability, support during runs, breathability, and how the shoes compare to retail versions for athletic use. This real-world data is invaluable for setting realistic expectations.
 
@@ -98,8 +98,8 @@ Ready to find your perfect running pair? Access the [Fansbuy spreadsheet](https:
 ---
 
 **Related Guides:**
-- [Fansbuy Sizing Guide](fansbuy-sizing-guide.md)
-- [Fansbuy Sneakers](fansbuy-sneakers.md)
-- [Fansbuy Daily Wear Shoes](fansbuy-daily-wear-shoes.md)
+- [Fansbuy Sizing Guide](/fansbuy-sizing-guide/)
+- [Fansbuy Sneakers](/fansbuy-sneakers/)
+- [Fansbuy Daily Wear Shoes](/fansbuy-daily-wear-shoes/)
 
 ---

@@ -11,11 +11,11 @@
 
 ## Introduction
 
-If you have been following streetwear and sneaker culture for any length of time, you already know that the Nike TN (Max Plus TN) holds a legendary place in rotation. The aggressive bubble midsole, the mesh-and-leather upper, the unmistakable silhouette — it is a design that refuses to fade. On Fansbuy, the fansbuy nike tn collection has become one of the most searched Nike subcategories in 2026, and for good reason. Buyers are drawn to the combination of retro-futuristic styling, comfortable Air-Sole cushioning, and a price point that makes multiple colorways accessible. For buyers exploring similar iconic silhouettes, the [fansbuy jordan](fansbuy-jordan.md) lineup offers equally legendary designs.
+If you have been following streetwear and sneaker culture for any length of time, you already know that the Nike TN (Max Plus TN) holds a legendary place in rotation. The aggressive bubble midsole, the mesh-and-leather upper, the unmistakable silhouette — it is a design that refuses to fade. On Fansbuy, the fansbuy nike tn collection has become one of the most searched Nike subcategories in 2026, and for good reason. Buyers are drawn to the combination of retro-futuristic styling, comfortable Air-Sole cushioning, and a price point that makes multiple colorways accessible. For buyers exploring similar iconic silhouettes, the [fansbuy jordan](/fansbuy-jordan/) lineup offers equally legendary designs.
 
 This page covers everything you need to know about buying Nike TN and Max Plus TN sneakers through Fansbuy. The platform currently hosts over 22,000 verified products across all categories, with the Nike TN line representing a growing share of footwear orders. Prices for Nike TN models typically range from $28.99 to $46.15, depending on the colorway, batch version, and material quality tier. Based on community feedback aggregated through 2025 and early 2026, the Nike Max Plus TN maintains a 93% buyer satisfaction rate, with most buyers praising the accuracy of the silhouette and the comfort of the Air-Sole units.
 
-Whether you are a first-time buyer looking for your pair of Nike TN or a repeat customer searching for a specific colorway, this guide walks you through the product lineup, quality verification process, sizing recommendations, and real order data. By the end, you will know exactly which Nike TN variant to choose and how to navigate the Fansbuy spreadsheet to find the best batch version for your budget. Before ordering, review the QC photo system through [fansbuy qc photos](fansbuy-qc-photos.md) to understand how every pair is verified.
+Whether you are a first-time buyer looking for your pair of Nike TN or a repeat customer searching for a specific colorway, this guide walks you through the product lineup, quality verification process, sizing recommendations, and real order data. By the end, you will know exactly which Nike TN variant to choose and how to navigate the Fansbuy spreadsheet to find the best batch version for your budget. Before ordering, review the QC photo system through [fansbuy qc photos](/fansbuy-qc-photos/) to understand how every pair is verified.
 
 ## The Nike TN Legacy: Design, Culture, and Why It Still Matters
 
@@ -65,7 +65,7 @@ The Nike Max Plus TN generally fits true to size for most foot shapes. However, 
 
 If you are comparing Nike TN sizing to other Nike silhouettes on Fansbuy, here is a quick reference: the TN fits similarly to the Air Max 95 (true to size for normal width, half size up for wide feet). The Air Force 1 runs slightly larger, so if you wear a US 10 in AF1, you will likely want a US 10 in TN as well, but if you wear a US 9.5 in AF1, you may want a US 9.5 or even a US 9 in TN depending on your preferred fit. The Nike Shox TL runs slightly narrower than the TN, so if you are buying both, keep this in mind.
 
-For buyers who are new to the platform, we recommend consulting the [fansbuy sizing guide](fansbuy-sizing-guide.md) for detailed measurements and brand-specific tips. The guide covers not just Nike but also Jordan, Adidas, and other brands available on Fansbuy, so it is a valuable resource for building a well-fitting collection across multiple silhouettes.
+For buyers who are new to the platform, we recommend consulting the [fansbuy sizing guide](/fansbuy-sizing-guide/) for detailed measurements and brand-specific tips. The guide covers not just Nike but also Jordan, Adidas, and other brands available on Fansbuy, so it is a valuable resource for building a well-fitting collection across multiple silhouettes.
 
 ## Product Highlights
 
@@ -102,7 +102,7 @@ We encourage you to browse the full [Fansbuy spreadsheet](https://docs.google.co
 ---
 
 **Related Guides:**
-- [Fansbuy Nike](fansbuy-nike.md) — Explore the full Nike collection on Fansbuy, including Air Max, Dunk, AF1, and more.
-- [Fansbuy Sneakers](fansbuy-sneakers.md) — Browse all verified sneakers across every brand available on the platform.
-- [Fansbuy Sizing Guide](fansbuy-sizing-guide.md) — Detailed sizing recommendations for Nike, Jordan, Adidas, and other brands.
+- [Fansbuy Nike](/fansbuy-nike/) — Explore the full Nike collection on Fansbuy, including Air Max, Dunk, AF1, and more.
+- [Fansbuy Sneakers](/fansbuy-sneakers/) — Browse all verified sneakers across every brand available on the platform.
+- [Fansbuy Sizing Guide](/fansbuy-sizing-guide/) — Detailed sizing recommendations for Nike, Jordan, Adidas, and other brands.
 

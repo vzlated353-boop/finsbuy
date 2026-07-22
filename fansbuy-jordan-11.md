@@ -15,7 +15,7 @@ The Jordan 11 remains one of the most celebrated basketball sneakers in history,
 
 This guide covers everything you need to know about purchasing Jordan 11s through Fansbuy. The platform currently features over 22,000 verified products, with the Jordan 11 collection spanning 8 to 12 colorway variations priced between $52.00 and $65.00. Based on community order data, Jordan 11 models maintain a 93% quality pass rate across verified batches, with over 380+ orders recorded for the most popular colorways. Buyer satisfaction for Jordan 11 purchases stands at approximately 92%, reflecting the platform's commitment to quality verification and transparent product listings.
 
-Whether you are a first-time buyer exploring the [fansbuy jordan](fansbuy-jordan.md) collection or a seasoned collector looking for specific retro colorways, this article will walk you through the best Jordan 11 options available, how to verify quality through QC photos, and how to navigate the ordering process with confidence. You will also learn about sizing recommendations, batch version differences, and what to expect from shipping timelines. By the end of this guide, you will have all the information needed to make an informed purchase decision on your next pair of Jordan 11s.
+Whether you are a first-time buyer exploring the [fansbuy jordan](/fansbuy-jordan/) collection or a seasoned collector looking for specific retro colorways, this article will walk you through the best Jordan 11 options available, how to verify quality through QC photos, and how to navigate the ordering process with confidence. You will also learn about sizing recommendations, batch version differences, and what to expect from shipping timelines. By the end of this guide, you will have all the information needed to make an informed purchase decision on your next pair of Jordan 11s.
 
 ## Top-Selling Fansbuy Jordan 11 Colorways
 
@@ -29,7 +29,7 @@ The fansbuy jordan 11 lineup features several highly sought-after colorways that
 
 **Jordan 11 Space Jam**: At approximately $59.99, the Space Jam edition pays homage to the iconic 1996 animated film. Featuring black patent leather with metallic silver accents and a translucent outsole, this colorway commands a slight premium due to its cultural significance. Order volumes exceed 280+ units, and the quality pass rate sits at 93%. Buyers frequently note the accurate metallic sheen and proper branding placement as highlights.
 
-When shopping through the [fansbuy sneakers](fansbuy-sneakers.md) collection, you will find these Jordan 11 colorways listed with detailed batch information, including manufacturer codes and version numbers. Each listing includes QC photo samples so you can verify details before committing to a purchase. The platform's verification system ensures that patent leather quality, stitching accuracy, and sole patterns meet established standards before products are approved for shipping.
+When shopping through the [fansbuy sneakers](/fansbuy-sneakers/) collection, you will find these Jordan 11 colorways listed with detailed batch information, including manufacturer codes and version numbers. Each listing includes QC photo samples so you can verify details before committing to a purchase. The platform's verification system ensures that patent leather quality, stitching accuracy, and sole patterns meet established standards before products are approved for shipping.
 
 One important consideration is batch version differences. Multiple factories produce Jordan 11s on Fansbuy, and quality can vary between batches. The highest-rated batches typically feature full-grain patent leather rather than synthetic alternatives, proper carbon fiber plate detailing (even if non-functional), and accurate herringbone traction patterns. Community feedback suggests requesting QC photos specific to your batch version to confirm these details before finalizing your order.
 
@@ -104,8 +104,8 @@ To explore the full Jordan 11 collection and compare batch versions side by side
 ---
 
 **Related Guides:**
-- [Fansbuy Jordan](fansbuy-jordan.md) for the complete Jordan brand collection across all silhouettes
-- [Fansbuy Sneakers](fansbuy-sneakers.md) for the full verified footwear catalog with quality data
-- [Fansbuy Sizing Guide](fansbuy-sizing-guide.md) for accurate fit recommendations across all sneaker models
+- [Fansbuy Jordan](/fansbuy-jordan/) for the complete Jordan brand collection across all silhouettes
+- [Fansbuy Sneakers](/fansbuy-sneakers/) for the full verified footwear catalog with quality data
+- [Fansbuy Sizing Guide](/fansbuy-sizing-guide/) for accurate fit recommendations across all sneaker models
 
 ---

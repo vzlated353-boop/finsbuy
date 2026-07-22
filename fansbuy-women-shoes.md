@@ -15,7 +15,7 @@ Women's footwear demands versatility, style, and comfort across diverse occasion
 
 This guide explores fansbuy women shoes based on real order data and community feedback. The platform reports a 93% buyer satisfaction rate across footwear categories, with women's models showing strong demand among fashion-conscious buyers. Most orders ship within 10-14 days to US and EU destinations, and quality pass rates for women's shoes typically exceed 90%. From designer-inspired heels to casual sneakers, this data-driven guide will help you find the perfect pair.
 
-If you're exploring women's footwear, you might also want to check our [fansbuy shoes](fansbuy-shoes.md) collection for a complete overview of all styles. For Nike-specific options that work well for women, the [fansbuy nike](fansbuy-nike.md) page covers the brand's athletic lineup in detail.
+If you're exploring women's footwear, you might also want to check our [fansbuy shoes](/fansbuy-shoes/) collection for a complete overview of all styles. For Nike-specific options that work well for women, the [fansbuy nike](/fansbuy-nike/) page covers the brand's athletic lineup in detail.
 
 ## Top Fansbuy Women Shoes by Category
 
@@ -96,8 +96,8 @@ Whether you're looking for elegant formal heels, comfortable casual sneakers, or
 ---
 
 **Related Guides:**
-- [Fansbuy heels](fansbuy-heels.md)
-- [Fansbuy reviews](fansbuy-reviews.md)
-- [Fansbuy qc photos](fansbuy-qc-photos.md)
+- [Fansbuy heels](/fansbuy-heels/)
+- [Fansbuy reviews](/fansbuy-reviews/)
+- [Fansbuy qc photos](/fansbuy-qc-photos/)
 
 ---

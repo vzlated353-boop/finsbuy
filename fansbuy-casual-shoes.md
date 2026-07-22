@@ -15,7 +15,7 @@ Finding the right pair of casual shoes that balances comfort, style, and value c
 
 This page covers everything you need to know about fansbuy casual shoes in 2026. Based on real order data from the Fansbuy community, we'll walk you through the best-selling models, quality verification processes, and sizing tips. The platform reports a 93% buyer satisfaction rate across footwear categories, with most orders shipping within 10-14 days to US and EU destinations. Whether you're looking for classic Nike Air Force 1s at around $12.86 or premium Dior B22s at approximately $45.33, this guide has the data you need to make an informed decision.
 
-If you're new to the platform, you might also want to explore our [fansbuy shoes](fansbuy-shoes.md) overview for a broader look at the entire footwear collection. For those interested in athletic styles, the [fansbuy sneakers](fansbuy-sneakers.md) page covers performance-oriented options. And before placing your first order, we strongly recommend checking the [fansbuy sizing guide](fansbuy-sizing-guide.md) to ensure the perfect fit.
+If you're new to the platform, you might also want to explore our [fansbuy shoes](/fansbuy-shoes/) overview for a broader look at the entire footwear collection. For those interested in athletic styles, the [fansbuy sneakers](/fansbuy-sneakers/) page covers performance-oriented options. And before placing your first order, we strongly recommend checking the [fansbuy sizing guide](/fansbuy-sizing-guide/) to ensure the perfect fit.
 
 ## Top-Selling Fansbuy Casual Shoes
 
@@ -39,13 +39,13 @@ The spreadsheet organizes shoes by batch version, with each version receiving a 
 
 When evaluating quality, pay attention to several key factors. First, check the stitching consistency around the toe box and heel area. Second, verify that logos and branding elements are correctly positioned and proportioned. Third, examine the sole bonding to ensure there are no gaps or weak points. The QC photos in the spreadsheet cover all these areas, giving you a comprehensive view before ordering.
 
-Community feedback plays a crucial role in quality assessment. With over 72% of buyers reordering from Fansbuy, the repeat purchase rate speaks to overall satisfaction. Buyers frequently note that the quality of casual shoes has improved over the past year, with batch versions becoming more refined and materials more durable. For detailed quality insights, you can also review the [fansbuy reviews](fansbuy-reviews.md) page where real buyers share their experiences.
+Community feedback plays a crucial role in quality assessment. With over 72% of buyers reordering from Fansbuy, the repeat purchase rate speaks to overall satisfaction. Buyers frequently note that the quality of casual shoes has improved over the past year, with batch versions becoming more refined and materials more durable. For detailed quality insights, you can also review the [fansbuy reviews](/fansbuy-reviews/) page where real buyers share their experiences.
 
 ## How to Order Fansbuy Casual Shoes
 
 Ordering fansbuy casual shoes follows a straightforward process, but there are a few steps you should follow to ensure the best experience. Start by accessing the [Fansbuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) and navigating to the shoes section. Use the filter options to narrow down by brand, price range, or quality rating.
 
-Once you've identified a model you're interested in, review the QC photos carefully. Pay attention to the batch version notes and any community comments about sizing or quality. If you're unsure about sizing, the [fansbuy sizing guide](fansbuy-sizing-guide.md) provides brand-specific recommendations. For Nike models, most buyers find they need to go half a size up, while Adidas and Asics typically run true to size.
+Once you've identified a model you're interested in, review the QC photos carefully. Pay attention to the batch version notes and any community comments about sizing or quality. If you're unsure about sizing, the [fansbuy sizing guide](/fansbuy-sizing-guide/) provides brand-specific recommendations. For Nike models, most buyers find they need to go half a size up, while Adidas and Asics typically run true to size.
 
 After selecting your size and batch version, place your order through the platform's ordering system. Payment processing usually takes 1-2 business days, after which your order enters the quality check phase. Fansbuy's QC team verifies the product against the batch specifications before shipping. Most casual shoes ship within 10-14 days to US and EU addresses, with tracking information provided once the package is dispatched.
 
@@ -86,8 +86,8 @@ Ready to find your next pair? Access the [Fansbuy spreadsheet](https://docs.goog
 ---
 
 **Related Guides:**
-- [Fansbuy Shoes](fansbuy-shoes.md)
-- [Fansbuy Sneakers](fansbuy-sneakers.md)
-- [Fansbuy Sizing Guide](fansbuy-sizing-guide.md)
+- [Fansbuy Shoes](/fansbuy-shoes/)
+- [Fansbuy Sneakers](/fansbuy-sneakers/)
+- [Fansbuy Sizing Guide](/fansbuy-sizing-guide/)
 
 ---

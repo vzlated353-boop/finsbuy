@@ -1,4 +1,4 @@
-﻿# Fansbuy Shipping Guide 2026: Complete Guide to Delivery & Customs
+# Fansbuy Shipping Guide 2026: Complete Guide to Delivery & Customs
 
 <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Fansbuy Spreadsheet</a>
 
@@ -127,4 +127,4 @@ Whether you're ordering clothing, sneakers, or accessories, understanding shippi
 **Related Guides:**
 - [Fansbuy How to Use](/fansbuy-how-to-use/)
 - [Fansbuy Reviews](/fansbuy-reviews/)
-- [Fansbuy Spreadsheet Best](spreadsheet best.md)
+- [Fansbuy Spreadsheet Best](/fansbuy-spreadsheet-best/)

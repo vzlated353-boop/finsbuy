@@ -15,7 +15,7 @@ Finding reliable phone protection at a reasonable price is a priority for most b
 
 This page covers everything you need to know about the fansbuy phone case lineup, including specific product examples, real order data, and quality pass rates drawn from the platform's spreadsheet. The phone case range includes 7 distinct variants priced between $1.30 and $4.81, with most styles averaging above a 92% quality pass rate. Buyers consistently report satisfaction with fit accuracy and material durability, making these some of the most cost-effective protective options available through any buying agent platform.
 
-If you are exploring the broader accessories ecosystem, you will find that the [fansbuy phone accessories](fansbuy-phone-accessories.md) collection extends well beyond cases to include audio gear, chargers, and more. In the sections below, we break down each case variant, share community feedback, and walk you through the ordering process so you can make a confident purchase.
+If you are exploring the broader accessories ecosystem, you will find that the [fansbuy phone accessories](/fansbuy-phone-accessories/) collection extends well beyond cases to include audio gear, chargers, and more. In the sections below, we break down each case variant, share community feedback, and walk you through the ordering process so you can make a confident purchase.
 
 ## Fansbuy Phone Case Collection: 7 Verified Variants Explained
 
@@ -37,7 +37,7 @@ Material quality varies across the range in ways that matter for daily use. The 
 
 The clear transparent variants (variant 4 at $3.30) deserve special mention. Many budget clear cases turn yellow within weeks due to UV exposure and hand oils. The fansbuy phone case variant 4 uses an anti-yellowing polymer coating that maintains clarity for months, based on buyer reports spanning 60+ days of daily use. This makes it a popular choice for buyers who want to show off their phone's original color and design.
 
-For buyers interested in expanding beyond phone protection, the [fansbuy accessories](fansbuy-accessories.md) category also includes wallets, belts, sunglasses, and bags that complement a complete everyday carry setup.
+For buyers interested in expanding beyond phone protection, the [fansbuy accessories](/fansbuy-accessories/) category also includes wallets, belts, sunglasses, and bags that complement a complete everyday carry setup.
 
 ## Why Buyers Choose Fansbuy Phone Cases
 
@@ -101,8 +101,8 @@ Whether you are an individual buyer looking for affordable protection or a resel
 ---
 
 **Related Guides:**
-- [Fansbuy Electronics](fansbuy-electronics.md) — Explore audio equipment, chargers, and tech accessories
-- [Fansbuy Budget Picks](fansbuy-budget-picks.md) — Discover the best value products under $10
-- [Fansbuy Reviews](fansbuy-reviews.md) — Read real buyer feedback and satisfaction data
+- [Fansbuy Electronics](/fansbuy-electronics/) — Explore audio equipment, chargers, and tech accessories
+- [Fansbuy Budget Picks](/fansbuy-budget-picks/) — Discover the best value products under $10
+- [Fansbuy Reviews](/fansbuy-reviews/) — Read real buyer feedback and satisfaction data
 
 ---

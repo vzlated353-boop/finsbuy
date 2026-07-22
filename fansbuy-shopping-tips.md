@@ -15,7 +15,7 @@ Smart shopping on Fansbuy is about more than finding low prices. It is about max
 
 The platform reports a 93% buyer satisfaction rate, and 72% of buyers reorder within six months. Those numbers reflect a well-functioning marketplace, but they also mask variation. Some buyers consistently get excellent results, while others experience frustration. The gap usually comes down to whether the buyer applies strategic thinking or shops impulsively.
 
-This guide covers the tactics that experienced buyers use to get the most from their budgets. From timing orders to leveraging the spreadsheet, from category-specific strategies to shipping optimization, each tip is grounded in real data and community experience. Whether you are building a sneaker collection or stocking up on everyday streetwear, these strategies will sharpen your approach. For foundational knowledge, start with our [fansbuy how to use](fansbuy-how-to-use.md) guide, then come back here for the advanced playbook.
+This guide covers the tactics that experienced buyers use to get the most from their budgets. From timing orders to leveraging the spreadsheet, from category-specific strategies to shipping optimization, each tip is grounded in real data and community experience. Whether you are building a sneaker collection or stocking up on everyday streetwear, these strategies will sharpen your approach. For foundational knowledge, start with our [fansbuy how to use](/fansbuy-how-to-use/) guide, then come back here for the advanced playbook.
 
 ## Tip 1: Use the Spreadsheet as Your Primary Shopping Tool
 
@@ -23,7 +23,7 @@ The Fansbuy spreadsheet is not just a product list. It is a decision-making engi
 
 Here is how to use it strategically. Start by sorting your target category by quality pass rate rather than price. A product with a 95% pass rate and 500+ orders is a safer bet than one with an 88% rate and 30 orders, even if the latter is $5 cheaper. For example, the Stone Island T-shirt at $14.01 has a 95% quality pass rate with 520+ orders, making it one of the safest purchases in the clothing category. In contrast, lesser-known variants might save you $2 but carry significantly higher risk.
 
-Next, use the spreadsheet to compare across categories. If your budget is $30, you could get a single pair of Nike Air Max 95s at $46.15 and stretch your budget, or you could get the Nike AF1 Low at $12.86 plus an Essentials T-shirt at $9.73 plus a Cap at $6.73, totaling $29.32 for three items. The spreadsheet makes these comparisons instant and data-driven. Explore the [fansbuy best sellers](fansbuy-best-sellers.md) section to see which products consistently rank highest across all metrics.
+Next, use the spreadsheet to compare across categories. If your budget is $30, you could get a single pair of Nike Air Max 95s at $46.15 and stretch your budget, or you could get the Nike AF1 Low at $12.86 plus an Essentials T-shirt at $9.73 plus a Cap at $6.73, totaling $29.32 for three items. The spreadsheet makes these comparisons instant and data-driven. Explore the [fansbuy best sellers](/fansbuy-best-sellers/) section to see which products consistently rank highest across all metrics.
 
 ## Tip 2: Time Your Orders Strategically
 
@@ -41,7 +41,7 @@ Shipping costs eat into your budget more than most buyers expect. A single pair 
 
 Here is the math: shipping one Nike Hoodie at $24.56 costs roughly $10. Shipping the same hoodie plus a pair of Nike Shorts at $14.18 and a Cap at $6.73 costs about $14 total. That means the per-item shipping drops from $10 to $4.67, saving you $5.33 on each item. For larger orders, the savings are even more significant.
 
-Smart buyers plan their orders in batches. Create a wishlist of items you want, wait until you have four to six items ready, then place a single consolidated order. This approach reduces shipping costs by 30-40% compared to ordering items individually. It also means fewer QC reviews to manage and fewer packages to track. Check the [fansbuy budget picks](fansbuy-budget-picks.md) guide for affordable items that pair well together.
+Smart buyers plan their orders in batches. Create a wishlist of items you want, wait until you have four to six items ready, then place a single consolidated order. This approach reduces shipping costs by 30-40% compared to ordering items individually. It also means fewer QC reviews to manage and fewer packages to track. Check the [fansbuy budget picks](/fansbuy-budget-picks/) guide for affordable items that pair well together.
 
 ## Tip 4: Apply Category-Specific Shopping Strategies
 
@@ -90,8 +90,8 @@ Start implementing these tips today. Access the Fansbuy spreadsheet, build a str
 ---
 
 **Related Guides:**
-- [Fansbuy Reviews](fansbuy-reviews.md)
-- [Fansbuy Common Mistakes](fansbuy-common-mistakes.md)
-- [Fansbuy Essential Guide](fansbuy-essential-guide.md)
+- [Fansbuy Reviews](/fansbuy-reviews/)
+- [Fansbuy Common Mistakes](/fansbuy-common-mistakes/)
+- [Fansbuy Essential Guide](/fansbuy-essential-guide/)
 
 ---

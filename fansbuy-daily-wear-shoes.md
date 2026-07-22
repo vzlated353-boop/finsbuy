@@ -15,7 +15,7 @@ When you're on your feet all day, comfort isn't a luxury—it's a necessity. Fan
 
 This guide focuses specifically on fansbuy daily wear shoes that deliver all-day comfort based on real buyer feedback and order data. The platform reports a 93% buyer satisfaction rate across footwear categories, with daily wear models showing particularly high repeat purchase rates. Most orders ship within 10-14 days to US and EU destinations, and the quality pass rate for comfort-focused shoes typically exceeds 92%. Whether you work on your feet, commute daily, or just value comfort, this data-driven guide will help you find the right pair.
 
-If you're exploring everyday footwear options, you might also want to check our [fansbuy casual shoes](fansbuy-casual-shoes.md) guide for more versatile styling options. For a complete overview of the footwear collection, the [fansbuy shoes](fansbuy-shoes.md) page covers all categories. And before ordering, make sure to review the [fansbuy sizing guide](fansbuy-sizing-guide.md) to ensure proper fit for all-day comfort.
+If you're exploring everyday footwear options, you might also want to check our [fansbuy casual shoes](/fansbuy-casual-shoes/) guide for more versatile styling options. For a complete overview of the footwear collection, the [fansbuy shoes](/fansbuy-shoes/) page covers all categories. And before ordering, make sure to review the [fansbuy sizing guide](/fansbuy-sizing-guide/) to ensure proper fit for all-day comfort.
 
 ## Best Fansbuy Daily Wear Shoes for All-Day Comfort
 
@@ -53,7 +53,7 @@ Selecting the right fansbuy daily wear shoes involves more than just picking a s
 
 **Step 2: Review QC Photos**: Access the [Fansbuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) and examine the QC photos for your chosen model. Pay attention to the midsole thickness, upper material quality, and overall construction. Compare different batch versions to select the highest-quality option within your budget.
 
-**Step 3: Check Sizing Carefully**: Proper fit is critical for comfort. The [fansbuy sizing guide](fansbuy-sizing-guide.md) provides brand-specific recommendations. Nike models typically run small, so go half a size up. Asics and Adidas usually run true to size. If you're between sizes for daily wear, sizing up is generally safer as it allows for foot swelling during long days.
+**Step 3: Check Sizing Carefully**: Proper fit is critical for comfort. The [fansbuy sizing guide](/fansbuy-sizing-guide/) provides brand-specific recommendations. Nike models typically run small, so go half a size up. Asics and Adidas usually run true to size. If you're between sizes for daily wear, sizing up is generally safer as it allows for foot swelling during long days.
 
 **Step 4: Read Community Feedback**: The spreadsheet includes comments from previous buyers about comfort levels. Look for feedback specifically mentioning all-day wear, break-in periods, and long-term durability. This real-world data is invaluable for setting realistic expectations.
 
@@ -94,8 +94,8 @@ Ready to find your perfect daily wear pair? Access the [Fansbuy spreadsheet](htt
 ---
 
 **Related Guides:**
-- [Fansbuy Casual Shoes](fansbuy-casual-shoes.md)
-- [Fansbuy Shoes](fansbuy-shoes.md)
-- [Fansbuy Sizing Guide](fansbuy-sizing-guide.md)
+- [Fansbuy Casual Shoes](/fansbuy-casual-shoes/)
+- [Fansbuy Shoes](/fansbuy-shoes/)
+- [Fansbuy Sizing Guide](/fansbuy-sizing-guide/)
 
 ---

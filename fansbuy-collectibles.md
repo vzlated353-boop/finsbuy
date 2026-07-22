@@ -15,7 +15,7 @@ Collecting is more than a hobby — it is a way to curate your personal world wi
 
 This page draws on comprehensive data from the Fansbuy spreadsheet, which tracks every collectible listing across the platform. Prices range from $4.99 for small blind box figures to $89.99 for premium boxed sets and large-scale models, with most items clustering in the $10–$40 range. The average quality pass rate for collectibles stands at 92%, and buyer satisfaction reaches 91% based on post-purchase feedback. These numbers reflect the platform's rigorous inspection standards and commitment to delivering products that meet collector expectations.
 
-In the sections below, you will explore the major collectible subcategories available on Fansbuy, learn how quality verification works for different product types, and discover practical tips for ordering and displaying your collection. We also highlight how specific subcategories connect to each other — for example, how [fansbuy lego](fansbuy-lego.md) building sets pair with die-cast cars, or how [fansbuy labubu](fansbuy-labubu.md) art toys complement vinyl figures on a themed shelf. Let us dive into the world of Fansbuy collectibles.
+In the sections below, you will explore the major collectible subcategories available on Fansbuy, learn how quality verification works for different product types, and discover practical tips for ordering and displaying your collection. We also highlight how specific subcategories connect to each other — for example, how [fansbuy lego](/fansbuy-lego/) building sets pair with die-cast cars, or how [fansbuy labubu](/fansbuy-labubu/) art toys complement vinyl figures on a themed shelf. Let us dive into the world of Fansbuy collectibles.
 
 ## Major Collectible Subcategories on Fansbuy
 
@@ -29,7 +29,7 @@ The Fansbuy collectibles category is organized into several distinct subcategori
 
 **Action Figures and Model Kits** round out the collectible categories with over 50 listings. These include superhero figures, anime characters, mecha models, and display dioramas. Prices range from $9.99 to $55.99, with quality pass rates averaging 90%. This subcategory appeals to fans of pop culture franchises who want affordable alternatives to retail-priced figures.
 
-Each subcategory connects naturally to the others. For example, a collector might combine [fansbuy hot wheels](fansbuy-hot-wheels.md) die-cast cars with [fansbuy lego](fansbuy-lego.md) building sets to create a garage diorama, or display [fansbuy labubu](fansbuy-labubu.md) art toys alongside action figures for an eclectic pop culture shelf. This cross-category flexibility is one of Fansbuy's key strengths as a collecting platform.
+Each subcategory connects naturally to the others. For example, a collector might combine [fansbuy hot wheels](/fansbuy-hot-wheels/) die-cast cars with [fansbuy lego](/fansbuy-lego/) building sets to create a garage diorama, or display [fansbuy labubu](/fansbuy-labubu/) art toys alongside action figures for an eclectic pop culture shelf. This cross-category flexibility is one of Fansbuy's key strengths as a collecting platform.
 
 ## Quality Verification Across Collectible Types
 
@@ -49,9 +49,9 @@ Community feedback reinforces these quality metrics. With over 50,000 active mem
 
 Building a collectible collection on Fansbuy starts with a clear strategy. Begin by accessing the [Fansbuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) and exploring the collectible categories. Use filters to sort by subcategory, price range, quality pass rate, or order volume. This data-driven approach helps you identify high-quality items that match your interests and budget.
 
-For new collectors, we recommend starting with one subcategory to build focus. If you are drawn to art toys, begin with a few [fansbuy labubu](fansbuy-labubu.md) blind boxes to experience the quality before investing in larger sets. If vehicles interest you, start with 3–5 [fansbuy hot wheels](fansbuy-hot-wheels.md) models in different themes to see which styles resonate most.
+For new collectors, we recommend starting with one subcategory to build focus. If you are drawn to art toys, begin with a few [fansbuy labubu](/fansbuy-labubu/) blind boxes to experience the quality before investing in larger sets. If vehicles interest you, start with 3–5 [fansbuy hot wheels](/fansbuy-hot-wheels/) models in different themes to see which styles resonate most.
 
-Once you have a foundation, expand into complementary categories. Many collectors find that mixing subcategories creates more visually interesting displays. A shelf combining brick-built structures, die-cast vehicles, and art toy figures tells a richer story than a single-category collection. Add [fansbuy accessories](fansbuy-accessories.md) like display cases, LED lighting, and themed backdrops to elevate the presentation.
+Once you have a foundation, expand into complementary categories. Many collectors find that mixing subcategories creates more visually interesting displays. A shelf combining brick-built structures, die-cast vehicles, and art toy figures tells a richer story than a single-category collection. Add [fansbuy accessories](/fansbuy-accessories/) like display cases, LED lighting, and themed backdrops to elevate the presentation.
 
 When ordering, bundle items to save on shipping. Most collectibles are compact and lightweight, so you can fit multiple items in a single parcel. Processing takes 2–4 business days, and delivery to the US or EU takes 10–14 days with tracking. Always check the batch version and quality pass rate before ordering — newer batches typically show improved manufacturing quality.
 
@@ -88,8 +88,8 @@ The key to a great collection is exploration. Do not limit yourself to one subca
 ---
 
 **Related Guides:**
-- [Fansbuy LEGO](fansbuy-lego.md) — Explore building sets and brick-compatible kits for diorama projects
-- [Fansbuy Hot Wheels](fansbuy-hot-wheels.md) — Discover die-cast vehicles in 1:64 scale for car collectors
-- [Fansbuy Labubu](fansbuy-labubu.md) — Browse designer art toys and blind box figures
+- [Fansbuy LEGO](/fansbuy-lego/) — Explore building sets and brick-compatible kits for diorama projects
+- [Fansbuy Hot Wheels](/fansbuy-hot-wheels/) — Discover die-cast vehicles in 1:64 scale for car collectors
+- [Fansbuy Labubu](/fansbuy-labubu/) — Browse designer art toys and blind box figures
 
 ---

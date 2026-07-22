@@ -17,7 +17,7 @@ The platform has processed thousands of shirt orders across all categories, main
 
 This guide covers the complete range of shirts available on Fansbuy. You'll learn about different shirt types, their best use cases, quality indicators, pricing tiers, and how to select the right style for your needs. Whether you're building a casual wardrobe, seeking streetwear statement pieces, or looking for smart-casual options, this article provides comprehensive insights to help you make informed decisions.
 
-For specific T-shirt options, explore the dedicated [fansbuy shirt](fansbuy-shirt.md) guide, which focuses on T-shirt styles and brands. For the complete clothing collection, check out [fansbuy clothes](fansbuy-clothes.md) with 127+ verified items.
+For specific T-shirt options, explore the dedicated [fansbuy shirt](/fansbuy-shirt/) guide, which focuses on T-shirt styles and brands. For the complete clothing collection, check out [fansbuy clothes](/fansbuy-clothes/) with 127+ verified items.
 
 ## Types of Shirts Available on Fansbuy
 
@@ -101,7 +101,7 @@ For active lifestyles and sport-inspired looks:
 
 The key to successful shirt selection is understanding your wardrobe needs and the occasions you're dressing for. Fansbuy's diverse range allows you to build a complete collection across all categories while maintaining quality and budget control.
 
-For sizing guidance across all shirt types, refer to the [fansbuy sizing guide](fansbuy-sizing-guide.md) to ensure proper fit.
+For sizing guidance across all shirt types, refer to the [fansbuy sizing guide](/fansbuy-sizing-guide/) to ensure proper fit.
 
 ## Quality and Pricing Across Shirt Categories
 
@@ -193,8 +193,8 @@ Explore the full Fansbuy shirts collection through the spreadsheet link above. W
 ---
 
 **Related Guides:**
-- [Fansbuy Shirt](fansbuy-shirt.md)
-- [Fansbuy T-Shirts](fansbuy-t-shirts.md)
-- [Fansbuy Sizing Guide](fansbuy-sizing-guide.md)
+- [Fansbuy Shirt](/fansbuy-shirt/)
+- [Fansbuy T-Shirts](/fansbuy-t-shirts/)
+- [Fansbuy Sizing Guide](/fansbuy-sizing-guide/)
 
 ---

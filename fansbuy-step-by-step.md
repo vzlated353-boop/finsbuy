@@ -29,7 +29,7 @@ Community feedback consistently highlights the onboarding experience as one of F
 
 With your account ready, the next step is finding the products you want. Fansbuy organizes its catalog into clear categories — Clothing (127 products), Shoes (33 products), Pants (28 products), Accessories (80 products), and Watches (8 products). You can browse by brand, category, or use the search bar for specific items.
 
-For example, if you are looking for Nike sneakers, you will find the Nike Air Max 95 at approximately $46.15, the Nike AF1 Low '07 at around $12.86, and the Nike Dunk at roughly $57.69. Each listing includes batch version information, available sizes, and colorway details. Community feedback on specific products is invaluable — checking [fansbuy reviews](fansbuy-reviews.md) before ordering helps you identify which batch versions deliver the best quality and which sellers have the most consistent track records.
+For example, if you are looking for Nike sneakers, you will find the Nike Air Max 95 at approximately $46.15, the Nike AF1 Low '07 at around $12.86, and the Nike Dunk at roughly $57.69. Each listing includes batch version information, available sizes, and colorway details. Community feedback on specific products is invaluable — checking [fansbuy reviews](/fansbuy-reviews/) before ordering helps you identify which batch versions deliver the best quality and which sellers have the most consistent track records.
 
 One feature that sets Fansbuy apart is the integrated spreadsheet — a live Google Sheets document updated regularly with the full product catalog, current pricing, and availability status. Experienced buyers often start their search here because it allows sorting, filtering, and comparison shopping in a familiar format. You can access it directly from the link at the top of this article.
 
@@ -37,7 +37,7 @@ One feature that sets Fansbuy apart is the integrated spreadsheet — a live Goo
 
 Once you have identified the items you want, add them to your cart and proceed to checkout. During this stage, you will select your size, confirm the batch version, and choose any quality inspection preferences. Fansbuy offers a tiered QC system — basic inspection is included at no extra cost, while detailed QC photos (covering stitching, materials, sole alignment, and labeling) are available for a small fee that most buyers consider well worth it.
 
-Payment options include credit card, PayPal, and cryptocurrency. The platform processes most payments within minutes, and you will receive an order confirmation email with a tracking ID for the domestic (China) leg of shipping. If you are completely new to the platform, the [fansbuy for beginners](fansbuy-for-beginners.md) resource provides helpful context on what to expect during your first purchase.
+Payment options include credit card, PayPal, and cryptocurrency. The platform processes most payments within minutes, and you will receive an order confirmation email with a tracking ID for the domestic (China) leg of shipping. If you are completely new to the platform, the [fansbuy for beginners](/fansbuy-for-beginners/) resource provides helpful context on what to expect during your first purchase.
 
 After payment, your order enters the procurement phase. Fansbuy's warehouse team sources the product, performs the initial quality check, and uploads QC photos to your dashboard within 3–5 business days. You will receive a notification to review and approve the photos before international shipping begins. This approval step is critical — it gives you the chance to request a replacement if the product does not meet expectations. Based on order data, approximately 94% of buyers approve their QC photos on the first attempt.
 
@@ -49,7 +49,7 @@ After QC approval, your package is prepared for international shipping. Fansbuy 
 - **Express Shipping (5–8 days)**: For buyers who need items quickly. Costs approximately $18–$30.
 - **Economy Shipping (15–25 days)**: The budget-friendly choice for non-urgent orders. Typically $5–$10.
 
-All packages include tracking numbers that work across major carriers. The [fansbuy how to use](fansbuy-how-to-use.md) guide provides platform navigation tips for tracking your order through the dashboard.
+All packages include tracking numbers that work across major carriers. The [fansbuy how to use](/fansbuy-how-to-use/) guide provides platform navigation tips for tracking your order through the dashboard.
 
 Once your package leaves the Fansbuy warehouse, you can track it in real time through the platform dashboard or the carrier's website. Most US and EU deliveries arrive within the estimated window, with a 96% on-time delivery rate reported across all shipping tiers.
 
@@ -88,8 +88,8 @@ Ready to get started? Access the [Fansbuy spreadsheet](https://docs.google.com/s
 ---
 
 **Related Guides:**
-- [Fansbuy First Order](fansbuy-first-order.md)
-- [Fansbuy Shipping Guide](fansbuy-shipping-guide.md)
-- [Fansbuy Order Guide](fansbuy-order-guide.md)
+- [Fansbuy First Order](/fansbuy-first-order/)
+- [Fansbuy Shipping Guide](/fansbuy-shipping-guide/)
+- [Fansbuy Order Guide](/fansbuy-order-guide/)
 
 ---

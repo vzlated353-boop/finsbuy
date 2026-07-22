@@ -21,9 +21,9 @@ In this comprehensive guide, you'll explore the full range of fansbuy basketball
 
 Our basketball equipment collection covers every aspect of the game, from performance footwear to training aids designed to improve your skills. The most popular items consistently include basketball shoes, performance apparel, and essential game equipment.
 
-**Basketball Footwear** forms the foundation of any player's setup. Our collection features performance basketball shoes ($36.26-$75.00) designed for different playing styles and positions. Guards typically prefer lighter, low-top shoes ($36.26-$48.46) that allow quick cuts and ankle mobility, while forwards and centers often opt for mid-top or high-top shoes ($48.46-$75.00) that provide additional ankle support for rebounding and post play. Our best-selling performance basketball shoes have received 410+ orders with a 93% quality pass rate, featuring responsive cushioning, durable outsoles for indoor and outdoor courts, and breathable uppers for comfort during extended play. For detailed sizing and style comparisons, check out our [fansbuy basketball shoes](fansbuy-basketball-shoes.md) guide.
+**Basketball Footwear** forms the foundation of any player's setup. Our collection features performance basketball shoes ($36.26-$75.00) designed for different playing styles and positions. Guards typically prefer lighter, low-top shoes ($36.26-$48.46) that allow quick cuts and ankle mobility, while forwards and centers often opt for mid-top or high-top shoes ($48.46-$75.00) that provide additional ankle support for rebounding and post play. Our best-selling performance basketball shoes have received 410+ orders with a 93% quality pass rate, featuring responsive cushioning, durable outsoles for indoor and outdoor courts, and breathable uppers for comfort during extended play. For detailed sizing and style comparisons, check out our [fansbuy basketball shoes](/fansbuy-basketball-shoes/) guide.
 
-**Basketball Apparel** includes performance jerseys ($11.21-$24.73), shorts ($14.18-$26.04), compression gear ($13.02-$28.85), and warm-up suits ($16.32-$42.69). Our moisture-wicking jerseys ($16.32-$19.97) feature breathable mesh panels and team-ready designs suitable for practice and game play. Basketball shorts ($14.18-$22.91) with elastic waistbands and side pockets offer unrestricted movement for driving to the basket and defensive slides. Compression shirts and leggings ($13.02-$24.73) provide muscle support and aid recovery during intense training sessions. For those building complete basketball wardrobes, our [fansbuy shorts](fansbuy-shorts.md) collection offers additional options for practice and casual wear.
+**Basketball Apparel** includes performance jerseys ($11.21-$24.73), shorts ($14.18-$26.04), compression gear ($13.02-$28.85), and warm-up suits ($16.32-$42.69). Our moisture-wicking jerseys ($16.32-$19.97) feature breathable mesh panels and team-ready designs suitable for practice and game play. Basketball shorts ($14.18-$22.91) with elastic waistbands and side pockets offer unrestricted movement for driving to the basket and defensive slides. Compression shirts and leggings ($13.02-$24.73) provide muscle support and aid recovery during intense training sessions. For those building complete basketball wardrobes, our [fansbuy shorts](/fansbuy-shorts/) collection offers additional options for practice and casual wear.
 
 **Basketballs and Training Equipment** encompasses game balls ($18.99-$34.99), training balls ($14.99-$24.99), ball pumps ($8.99-$14.99), and skill development tools ($12.99-$28.99). Our composite leather basketballs ($24.99-$29.99) feature official size and weight (29.5" for men, 28.5" for women) with deep channel designs for superior grip. These balls have seen 290+ orders with a 94% quality pass rate, performing well on both indoor hardwood and outdoor concrete courts. Training equipment includes shooting sleeves, dribble goggles for ball-handling practice, and agility ladders for footwork development.
 
@@ -31,7 +31,7 @@ Our basketball equipment collection covers every aspect of the game, from perfor
 
 **Team and Coaching Equipment** includes scorebooks ($9.99-$16.99), whistles ($6.99-$14.99), clipboards ($8.99-$12.99), and team bags ($28.99-$45.99). Our coaching essentials help organize practices and manage game operations. Team bags ($34.99-$42.75) with multiple compartments keep equipment organized for travel to away games and tournaments.
 
-For those exploring other sports or building comprehensive athletic collections, our [fansbuy sports gear](fansbuy-sports-gear.md) collection offers equipment for football, soccer, baseball, volleyball, and other team sports that complement your basketball setup.
+For those exploring other sports or building comprehensive athletic collections, our [fansbuy sports gear](/fansbuy-sports-gear/) collection offers equipment for football, soccer, baseball, volleyball, and other team sports that complement your basketball setup.
 
 ## Quality Verification and Position-Specific Selection
 
@@ -55,7 +55,7 @@ Purchasing basketball gear from Fansbuy follows our streamlined spreadsheet-base
 Begin by reviewing our comprehensive basketball gear database through the spreadsheet link provided. Filter by category (footwear, apparel, equipment, protective gear) to find relevant items. Each listing includes detailed specifications, current pricing, order counts, quality pass rates, and batch version information. Pay special attention to sizing charts for footwear and apparel—these provide measurements in both imperial and metric units.
 
 **Step 2: Verify Sizing and Fit**
-Basketball shoe sizing varies by brand and style. Our spreadsheet includes brand-specific sizing notes—some manufacturers run small, requiring half-size increases, while others fit true to size. Basketball shoes should fit snugly with room to wiggle toes, and you should try them on with the socks you plan to play in. For apparel, review chest, waist, and inseam measurements rather than relying solely on S/M/L designations. Jerseys typically have athletic cuts, so consider whether you prefer a tighter or looser fit. Our [fansbuy basketball shoes](fansbuy-basketball-shoes.md) guide provides detailed sizing guidance for different basketball shoe brands and styles.
+Basketball shoe sizing varies by brand and style. Our spreadsheet includes brand-specific sizing notes—some manufacturers run small, requiring half-size increases, while others fit true to size. Basketball shoes should fit snugly with room to wiggle toes, and you should try them on with the socks you plan to play in. For apparel, review chest, waist, and inseam measurements rather than relying solely on S/M/L designations. Jerseys typically have athletic cuts, so consider whether you prefer a tighter or looser fit. Our [fansbuy basketball shoes](/fansbuy-basketball-shoes/) guide provides detailed sizing guidance for different basketball shoe brands and styles.
 
 **Step 3: Review QC Photos**
 Before finalizing your order, examine QC photos available in the spreadsheet. For footwear, check stitching quality, sole adhesion, and material consistency. For apparel, verify seam construction, zipper quality (if applicable), and fabric appearance. For basketballs, inspect cover quality, channel depth, and valve construction. For protective gear, check strap quality, padding thickness, and closure mechanism function. This verification step helps set accurate expectations and ensures you're comfortable with product quality before purchase.
@@ -105,8 +105,8 @@ Ready to elevate your basketball game? Access the Fansbuy spreadsheet to browse 
 ---
 
 **Related Guides:**
-- [Fansbuy basketball shoes](fansbuy-basketball-shoes.md) - Find detailed sizing and style guidance for basketball footwear
-- [Fansbuy sports gear](fansbuy-sports-gear.md) - Explore additional sports and athletic equipment
-- [Fansbuy shorts](fansbuy-shorts.md) - Discover basketball shorts and athletic wear options
+- [Fansbuy basketball shoes](/fansbuy-basketball-shoes/) - Find detailed sizing and style guidance for basketball footwear
+- [Fansbuy sports gear](/fansbuy-sports-gear/) - Explore additional sports and athletic equipment
+- [Fansbuy shorts](/fansbuy-shorts/) - Discover basketball shorts and athletic wear options
 
 ---

@@ -27,7 +27,7 @@ Our fishing equipment collection spans multiple categories, each designed to mee
 
 **Specialized Equipment** caters to specific fishing styles. Fly fishing kits ($49.99-$129.99) include rods, reels, flies, and leaders. Ice fishing augers and shelters start at $59.99, while saltwater gear features corrosion-resistant components and heavier tackle rated for 30-80 lb test. Our saltwater rod and reel combos have seen 180+ orders with a 91% quality pass rate, demonstrating strong performance in harsh marine environments.
 
-When selecting fishing gear, consider your primary fishing environment. Freshwater anglers typically need lighter tackle and shorter rods, while saltwater fishing demands heavier, corrosion-resistant equipment. For those exploring different fishing styles, check out our [fansbuy outdoor gear](fansbuy-outdoor-gear.md) collection for complementary equipment like camping gear and outdoor apparel that enhances your overall outdoor experience.
+When selecting fishing gear, consider your primary fishing environment. Freshwater anglers typically need lighter tackle and shorter rods, while saltwater fishing demands heavier, corrosion-resistant equipment. For those exploring different fishing styles, check out our [fansbuy outdoor gear](/fansbuy-outdoor-gear/) collection for complementary equipment like camping gear and outdoor apparel that enhances your overall outdoor experience.
 
 ## Quality Verification and Selection Guide
 
@@ -41,7 +41,7 @@ Quality control is paramount when purchasing fishing equipment, and Fansbuy impl
 
 **Choosing the Right Gear** depends on several factors. Consider your target species—bass fishing requires different tackle than trout or catfish. Water conditions matter too; clear water calls for lighter line and natural-colored lures, while murky water benefits from heavier tackle and vibrant colors. Your experience level also influences selection; beginners often benefit from complete starter kits, while experienced anglers may prefer individual components to customize their setup.
 
-For those new to fishing or expanding into other outdoor activities, our [fansbuy sports gear](fansbuy-sports-gear.md) collection offers complementary equipment for various recreational pursuits. Many customers combine fishing gear with camping equipment, hiking supplies, or water sports accessories to create comprehensive outdoor setups.
+For those new to fishing or expanding into other outdoor activities, our [fansbuy sports gear](/fansbuy-sports-gear/) collection offers complementary equipment for various recreational pursuits. Many customers combine fishing gear with camping equipment, hiking supplies, or water sports accessories to create comprehensive outdoor setups.
 
 ## Ordering Guide and Shipping Information
 
@@ -54,7 +54,7 @@ Access our comprehensive product database through the spreadsheet link provided 
 Before finalizing your order, review QC photos available in the spreadsheet. These images show actual product condition, including any minor cosmetic variations common in manufacturing. Pay attention to guide alignment on rods, finish quality on reels, and component details on tackle items. This verification step helps set accurate expectations and reduces surprise upon delivery.
 
 **Step 3: Place Your Order**
-Once you've selected items, submit your order through our platform. Payment processing typically completes within 24 hours. Order confirmation includes estimated shipping timeline and tracking information. For first-time buyers, our [fansbuy hiking gear](fansbuy-hiking-gear.md) guide offers additional context on outdoor equipment selection and ordering best practices.
+Once you've selected items, submit your order through our platform. Payment processing typically completes within 24 hours. Order confirmation includes estimated shipping timeline and tracking information. For first-time buyers, our [fansbuy hiking gear](/fansbuy-hiking-gear/) guide offers additional context on outdoor equipment selection and ordering best practices.
 
 **Step 4: Shipping and Delivery**
 Most fishing gear orders ship within 3-5 business days of payment confirmation. Standard shipping to US and EU addresses takes 10-14 days, with expedited options available for 7-10 day delivery. All packages include tracking numbers and are insured against loss or damage. Upon arrival, inspect items immediately and report any issues within 48 hours for prompt resolution.
@@ -101,8 +101,8 @@ Ready to upgrade your fishing setup? Access the Fansbuy spreadsheet to browse ou
 ---
 
 **Related Guides:**
-- [Fansbuy outdoor gear](fansbuy-outdoor-gear.md) - Explore our complete outdoor equipment collection
-- [Fansbuy sports gear](fansbuy-sports-gear.md) - Discover additional sports and recreational equipment
-- [Fansbuy hiking gear](fansbuy-hiking-gear.md) - Find complementary outdoor adventure supplies
+- [Fansbuy outdoor gear](/fansbuy-outdoor-gear/) - Explore our complete outdoor equipment collection
+- [Fansbuy sports gear](/fansbuy-sports-gear/) - Discover additional sports and recreational equipment
+- [Fansbuy hiking gear](/fansbuy-hiking-gear/) - Find complementary outdoor adventure supplies
 
 ---

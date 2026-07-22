@@ -15,7 +15,7 @@ Adventure footwear needs to deliver reliable traction, durable construction, and
 
 This guide explores fansbuy outdoor shoes based on real order data and community feedback. The platform reports a 93% buyer satisfaction rate across footwear categories, with outdoor models showing strong demand among active buyers. Most orders ship within 10-14 days to US and EU destinations, and quality pass rates for outdoor shoes typically exceed 92%. Whether you're looking for Timberland durability, Nike Air Max cushioning, or Asics gel support, this data-driven guide will help you find the right adventure footwear.
 
-If you're looking for trail-specific options, explore our [fansbuy shoes](fansbuy-shoes.md) collection for a complete overview of all footwear categories. For Nike-specific performance options that work well on trails, the [fansbuy nike](fansbuy-nike.md) page covers the brand's athletic lineup in detail.
+If you're looking for trail-specific options, explore our [fansbuy shoes](/fansbuy-shoes/) collection for a complete overview of all footwear categories. For Nike-specific performance options that work well on trails, the [fansbuy nike](/fansbuy-nike/) page covers the brand's athletic lineup in detail.
 
 ## Top Fansbuy Outdoor Shoes for Adventure Performance
 
@@ -94,8 +94,8 @@ Whether you're looking for durable hiking boots, cushioned trail shoes, or versa
 ---
 
 **Related Guides:**
-- [Fansbuy hiking shoes](fansbuy-hiking-shoes.md)
-- [Fansbuy sizing guide](fansbuy-sizing-guide.md)
-- [Fansbuy reviews](fansbuy-reviews.md)
+- [Fansbuy hiking shoes](/fansbuy-hiking-shoes/)
+- [Fansbuy sizing guide](/fansbuy-sizing-guide/)
+- [Fansbuy reviews](/fansbuy-reviews/)
 
 ---

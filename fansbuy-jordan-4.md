@@ -18,9 +18,9 @@ The Jordan 4 is one of the most iconic and sought-after silhouettes in the entir
 
 Based on our team's hands-on experience reviewing 6+ Jordan 4 pairs and gathering feedback from over 180 buyers throughout early 2026, we have put together the most detailed Jordan 4 buying guide available on the platform. Every data point in this article comes from actual transactions, including the 650+ orders tracked on the spreadsheet, the 92 percent quality pass rate, and detailed community feedback on batch performance.
 
-The Jordan 4 on Fansbuy typically comes in multiple colorway options, with the Black Cat being one of the most popular. The construction features a combination of genuine leather and synthetic materials with plastic mesh panels on the quarter and tongue, molded wing eyelets, and a visible Air-Sole unit in the heel measuring approximately 1.5cm in thickness. The heel tab with Jumpman branding is embroidered with high-density stitching (approximately 1,200 stitches per tab), and the midsole includes a TPU shank plate for midfoot stability. For buyers exploring the broader Jordan brand, our [fansbuy jordan](fansbuy-jordan.md) page covers all available Jordan models and apparel options.
+The Jordan 4 on Fansbuy typically comes in multiple colorway options, with the Black Cat being one of the most popular. The construction features a combination of genuine leather and synthetic materials with plastic mesh panels on the quarter and tongue, molded wing eyelets, and a visible Air-Sole unit in the heel measuring approximately 1.5cm in thickness. The heel tab with Jumpman branding is embroidered with high-density stitching (approximately 1,200 stitches per tab), and the midsole includes a TPU shank plate for midfoot stability. For buyers exploring the broader Jordan brand, our [fansbuy jordan](/fansbuy-jordan/) page covers all available Jordan models and apparel options.
 
-What makes the Jordan 4 so special is the combination of its historical significance and its complex construction. This was the first Jordan designed by Tinker Hatfield, and it introduced elements that would become staples of the line: the visible Air unit, the molded wing eyelets, and the distinctive mesh paneling. Reproducing these details accurately requires precise manufacturing, which is why the fansbuy jordan 4 commands a higher price point than simpler Jordan models. In this guide, we walk through the construction details, quality verification process, sizing specifics, and everything else you need to order with confidence. If you are also interested in other sneaker options, our [fansbuy sneakers](fansbuy-sneakers.md) guide covers Nike, Adidas, New Balance, and Yeezy alternatives available on the platform.
+What makes the Jordan 4 so special is the combination of its historical significance and its complex construction. This was the first Jordan designed by Tinker Hatfield, and it introduced elements that would become staples of the line: the visible Air unit, the molded wing eyelets, and the distinctive mesh paneling. Reproducing these details accurately requires precise manufacturing, which is why the fansbuy jordan 4 commands a higher price point than simpler Jordan models. In this guide, we walk through the construction details, quality verification process, sizing specifics, and everything else you need to order with confidence. If you are also interested in other sneaker options, our [fansbuy sneakers](/fansbuy-sneakers/) guide covers Nike, Adidas, New Balance, and Yeezy alternatives available on the platform.
 
 ---
 
@@ -101,7 +101,7 @@ The Jordan 4 typically requires a short break-in period of 3 to 5 wears. The pad
 
 Compared to the Jordan 1, the Jordan 4 runs slightly smaller. If you wear the same size in Jordan 1, consider going up half a size for the Jordan 4. Compared to the Jordan 3, the sizing is similar, though the Jordan 4 feels slightly narrower through the midfoot. Compared to the Jordan 11, the Jordan 4 runs smaller; the Jordan 11 is generally more true to size.
 
-The spreadsheet includes detailed measurement charts for each Jordan 4 listing, with insole length, outsole length, and width measurements. For comprehensive sizing information across all Jordan models and other categories, the [fansbuy sizing guide](fansbuy-sizing-guide.md) provides additional measurement charts and conversion tables.
+The spreadsheet includes detailed measurement charts for each Jordan 4 listing, with insole length, outsole length, and width measurements. For comprehensive sizing information across all Jordan models and other categories, the [fansbuy sizing guide](/fansbuy-sizing-guide/) provides additional measurement charts and conversion tables.
 
 ---
 
@@ -145,7 +145,7 @@ Browse the full [Fansbuy spreadsheet](https://docs.google.com/spreadsheets/d/10e
 
 **Related Guides:**
 
-- [Fansbuy Sizing Guide](fansbuy-sizing-guide.md)
-- [Fansbuy Nike](fansbuy-nike.md)
-- [Fansbuy Reviews](fansbuy-reviews.md)
+- [Fansbuy Sizing Guide](/fansbuy-sizing-guide/)
+- [Fansbuy Nike](/fansbuy-nike/)
+- [Fansbuy Reviews](/fansbuy-reviews/)
 

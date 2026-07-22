@@ -15,7 +15,7 @@ The Jordan 3 holds a special place in sneaker history as the model that saved th
 
 This guide covers everything you need to know about purchasing Jordan 3s through Fansbuy. The platform currently features over 22,000 verified products, with the Jordan 3 collection spanning 10 to 15 colorway variations priced between $50.00 and $68.00. Community order data shows that Jordan 3 models maintain a 92% quality pass rate across verified batches, with the White Cement and Black Cement colorways each exceeding 350+ orders. Buyer satisfaction for Jordan 3 purchases stands at approximately 91%, reflecting strong appreciation for the distinctive elephant print details and overall construction quality.
 
-Whether you are drawn to the classic cement prints, the bold fire red accents, or the clean true blue tones, this article will walk you through the best Jordan 3 options available on Fansbuy, how to evaluate quality through the QC photo system, and how to navigate the ordering process with confidence. You will learn about batch version differences, the importance of elephant print accuracy, and what to expect from shipping timelines. For a broader look at the brand's full range, explore the complete [fansbuy jordan](fansbuy-jordan.md) collection. By the end of this guide, you will have all the information needed to make an informed purchase decision on your next pair of Jordan 3s.
+Whether you are drawn to the classic cement prints, the bold fire red accents, or the clean true blue tones, this article will walk you through the best Jordan 3 options available on Fansbuy, how to evaluate quality through the QC photo system, and how to navigate the ordering process with confidence. You will learn about batch version differences, the importance of elephant print accuracy, and what to expect from shipping timelines. For a broader look at the brand's full range, explore the complete [fansbuy jordan](/fansbuy-jordan/) collection. By the end of this guide, you will have all the information needed to make an informed purchase decision on your next pair of Jordan 3s.
 
 ## Top-Selling Fansbuy Jordan 3 Colorways
 
@@ -31,7 +31,7 @@ The fansbuy jordan 3 lineup features several colorways that have achieved iconic
 
 **Jordan 3 Cardinal Red**: Priced at roughly $59.99, the Cardinal Red features a white leather upper with cardinal red elephant print overlays and matching red accents. This colorway offers a distinctive look that stands out from the more common cement and fire red variants. Order counts exceed 220+ units, with a 91% quality pass rate. The Cardinal Red is particularly noted for its rich, deep red tone that maintains its vibrancy across different lighting conditions.
 
-When browsing the [fansbuy sneakers](fansbuy-sneakers.md) collection, you will find these Jordan 3 colorways listed with detailed batch information, including manufacturer codes and version numbers. Each listing includes QC photo samples so you can verify details before committing to a purchase. The platform's verification system ensures that elephant print quality, leather texture, and color accuracy meet established standards before products are approved for shipping.
+When browsing the [fansbuy sneakers](/fansbuy-sneakers/) collection, you will find these Jordan 3 colorways listed with detailed batch information, including manufacturer codes and version numbers. Each listing includes QC photo samples so you can verify details before committing to a purchase. The platform's verification system ensures that elephant print quality, leather texture, and color accuracy meet established standards before products are approved for shipping.
 
 The elephant print is the most critical quality indicator on Jordan 3s. High-quality batches feature elephant print with proper depth, texture, and the distinctive cracked mud-like pattern. The print should feel slightly raised to the touch and have consistent contrast between the raised and recessed areas. Lower-quality batches may have flat, poorly defined elephant print that lacks the characteristic texture. When reviewing QC photos, zoom in on the toe and heel elephant print panels to assess the quality of this crucial design element.
 
@@ -49,7 +49,7 @@ When reviewing QC photos for Jordan 3s, focus on these critical quality indicato
 
 **Visible Air-Sole Unit**: The Jordan 3 was the first Jordan model to feature a visible Air-Sole unit in the heel. On high-quality batches, the Air-Sole window should be clear and free of bubbles or cloudiness. The Air-Sole unit itself should be properly positioned and evenly inflated. Check the QC photos carefully to ensure the Air-Sole window is clean and the unit appears intact.
 
-**Sizing Considerations**: Jordan 3s generally fit true to size for most foot shapes. The leather upper has moderate stretch during the break-in period, and the padded collar provides additional comfort. For detailed sizing guidance across all sneaker models, refer to the [fansbuy sizing guide](fansbuy-sizing-guide.md) before placing your order. Community feedback indicates that Jordan 3s from higher-rated batches tend to have more consistent sizing compared to budget-tier options.
+**Sizing Considerations**: Jordan 3s generally fit true to size for most foot shapes. The leather upper has moderate stretch during the break-in period, and the padded collar provides additional comfort. For detailed sizing guidance across all sneaker models, refer to the [fansbuy sizing guide](/fansbuy-sizing-guide/) before placing your order. Community feedback indicates that Jordan 3s from higher-rated batches tend to have more consistent sizing compared to budget-tier options.
 
 Batch version ratings on Fansbuy typically range from budget to premium. Premium batches (often labeled with version numbers like V3 or V4) offer the closest quality to retail standards, with accurate elephant print, proper leather quality, and reliable construction. Budget batches are more affordable but may show visible differences in elephant print quality and overall finishing. Most experienced buyers recommend investing in mid-tier or premium batches for Jordan 3s, as the elephant print quality difference is particularly noticeable on this model.
 
@@ -106,7 +106,7 @@ To explore the full Jordan 3 collection and compare batch versions side by side,
 ---
 
 **Related Guides:**
-- [Fansbuy Jordan](fansbuy-jordan.md) for the complete Jordan brand collection across all silhouettes
-- [Fansbuy QC Photos](fansbuy-qc-photos.md) for detailed quality verification tips and photo review checklists
-- [Fansbuy Reviews](fansbuy-reviews.md) for real buyer feedback on Jordan 3 batches and colorways
+- [Fansbuy Jordan](/fansbuy-jordan/) for the complete Jordan brand collection across all silhouettes
+- [Fansbuy QC Photos](/fansbuy-qc-photos/) for detailed quality verification tips and photo review checklists
+- [Fansbuy Reviews](/fansbuy-reviews/) for real buyer feedback on Jordan 3 batches and colorways
 

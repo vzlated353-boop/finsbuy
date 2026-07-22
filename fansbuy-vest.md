@@ -17,7 +17,7 @@ The platform has processed thousands of vest orders, maintaining a 93% buyer sat
 
 This guide covers everything you need to know about shopping for vests on Fansbuy. You'll learn about top-selling models, how to verify quality through the spreadsheet system, sizing considerations, and the ordering process. Whether you're a first-time buyer or looking to expand your collection, this article provides the data-driven insights you need to make informed purchasing decisions.
 
-For broader options, explore the complete [fansbuy clothes](fansbuy-clothes.md) collection, which includes 127+ clothing items across all categories.
+For broader options, explore the complete [fansbuy clothes](/fansbuy-clothes/) collection, which includes 127+ clothing items across all categories.
 
 ## Top-Selling Fansbuy Vests
 
@@ -37,7 +37,7 @@ Most vests in the collection fall into two categories: down-filled options for w
 
 Quality verification is straightforward through the Fansbuy spreadsheet system. Each listing includes batch version information, QC photo availability, and real buyer feedback. The platform's 94% quality pass rate across clothing items reflects consistent manufacturing standards.
 
-For outerwear options beyond vests, check out the [fansbuy jackets](fansbuy-jackets.md) collection, which features 15+ verified jacket styles.
+For outerwear options beyond vests, check out the [fansbuy jackets](/fansbuy-jackets/) collection, which features 15+ verified jacket styles.
 
 ## Benefits of Shopping Fansbuy Vests
 
@@ -55,7 +55,7 @@ Why do buyers choose Fansbuy for vests? The platform offers several advantages t
 
 The platform's spreadsheet system allows buyers to compare multiple vest options side-by-side, examining price, order count, quality ratings, and batch versions. This data-driven approach helps buyers make informed decisions rather than relying solely on product photos.
 
-For proper fit across all clothing categories, refer to the comprehensive [fansbuy sizing guide](fansbuy-sizing-guide.md) before ordering.
+For proper fit across all clothing categories, refer to the comprehensive [fansbuy sizing guide](/fansbuy-sizing-guide/) before ordering.
 
 ## How to Order Vests on Fansbuy
 
@@ -117,8 +117,8 @@ Explore the full Fansbuy vest collection through the spreadsheet link above. Wit
 ---
 
 **Related Guides:**
-- [Fansbuy Sizing Guide](fansbuy-sizing-guide.md)
-- [Fansbuy For Beginners](fansbuy-for-beginners.md)
-- [Fansbuy Reviews](fansbuy-reviews.md)
+- [Fansbuy Sizing Guide](/fansbuy-sizing-guide/)
+- [Fansbuy For Beginners](/fansbuy-for-beginners/)
+- [Fansbuy Reviews](/fansbuy-reviews/)
 
 ---

@@ -27,13 +27,13 @@ For buyers who need heavier protection, the **Phone Case (variant)** at $2.61 fe
 
 The **Phone Case (variant 2)** at $2.47 strikes a balance between protection and aesthetics. With a matte finish and anti-slip grip texture, this case has accumulated over 280 orders and maintains a 93% quality pass rate. The anti-slip surface is particularly valued by buyers who use their phones without a grip accessory.
 
-The **Phone Case (variant 3)** at $4.81 is the premium option in the lineup. This wallet-style case features card slots, a magnetic closure, and a kickstand function. With over 190 orders and a 92% quality pass rate, it appeals to buyers who want to consolidate their phone and wallet into one carry item. The [fansbuy phone case](fansbuy-phone-case.md) guide provides a detailed comparison of all variants.
+The **Phone Case (variant 3)** at $4.81 is the premium option in the lineup. This wallet-style case features card slots, a magnetic closure, and a kickstand function. With over 190 orders and a 92% quality pass rate, it appeals to buyers who want to consolidate their phone and wallet into one carry item. The [fansbuy phone case](/fansbuy-phone-case/) guide provides a detailed comparison of all variants.
 
-For buyers looking to complement their iPhone case with other accessories, the [fansbuy phone accessories](fansbuy-phone-accessories.md) section includes compatible screen protectors, charging cables, and AirPods. The **Air Pods Pro** at $2.51 pairs perfectly with any iPhone case, creating a complete ecosystem at a total cost under $5.
+For buyers looking to complement their iPhone case with other accessories, the [fansbuy phone accessories](/fansbuy-phone-accessories/) section includes compatible screen protectors, charging cables, and AirPods. The **Air Pods Pro** at $2.51 pairs perfectly with any iPhone case, creating a complete ecosystem at a total cost under $5.
 
 Community feedback consistently highlights the precision of the case cutouts. Buyers note that the camera module opening aligns perfectly, the speaker grilles are unobstructed, and the charging port access is clean. This attention to detail is reflected in the 94% quality pass rate and the 93% overall buyer satisfaction rate. For resellers, the economics are compelling: buying cases at $1.30 and selling at $10–$15 yields a 7–10x markup, making iPhone cases one of the most profitable products on the platform.
 
-When browsing the broader [fansbuy iphone](fansbuy-iphone.md) collection, you will also find compatible accessories that enhance your iPhone experience, from earbuds to smartwatches.
+When browsing the broader [fansbuy iphone](/fansbuy-iphone/) collection, you will also find compatible accessories that enhance your iPhone experience, from earbuds to smartwatches.
 
 ## How to Choose the Right iPhone Case on Fansbuy
 
@@ -45,7 +45,7 @@ Selecting the right iPhone case depends on three factors: your iPhone model, you
 
 **Step 3: Choose your style.** Fansbuy offers cases in multiple colors and finishes. The matte variant at $2.47 is ideal for buyers who prefer a understated look, while the silicone base model comes in a wider color range. For professional settings, neutral colors like black, navy, or grey tend to perform best.
 
-**Step 4: Consider bundling.** To maximize shipping efficiency, bundle your iPhone case with other accessories from the [fansbuy accessories](fansbuy-accessories.md) section. Adding a screen protector, charging cable, or AirPods to your order spreads the shipping cost across multiple items, reducing the per-unit landed cost.
+**Step 4: Consider bundling.** To maximize shipping efficiency, bundle your iPhone case with other accessories from the [fansbuy accessories](/fansbuy-accessories/) section. Adding a screen protector, charging cable, or AirPods to your order spreads the shipping cost across multiple items, reducing the per-unit landed cost.
 
 **Step 5: Check batch information.** Fansbuy's spreadsheet tracks which batch is currently in stock. While quality is consistent across batches (94% pass rate on the base model), it is worth checking for any notes about material updates or design changes.
 
@@ -65,7 +65,7 @@ The ordering process for iPhone cases on Fansbuy is straightforward and transpar
 
 **Step 5: Ship and Track.** After approval, your order ships within 1–2 business days. Standard delivery takes 10–14 days to the US and EU. Tracking information is provided upon dispatch.
 
-For first-time buyers, the [fansbuy budget picks](fansbuy-budget-picks.md) guide recommends starting with 3–5 base cases at $1.30 each to test quality before scaling up.
+For first-time buyers, the [fansbuy budget picks](/fansbuy-budget-picks/) guide recommends starting with 3–5 base cases at $1.30 each to test quality before scaling up.
 
 ## Product Highlights
 
@@ -102,8 +102,8 @@ Whether you are protecting your personal iPhone or building inventory for resale
 ---
 
 **Related Guides:**
-- [Fansbuy Phone Case](fansbuy-phone-case.md)
-- [Fansbuy iPhone](fansbuy-iphone.md)
-- [Fansbuy Phone Accessories](fansbuy-phone-accessories.md)
+- [Fansbuy Phone Case](/fansbuy-phone-case/)
+- [Fansbuy iPhone](/fansbuy-iphone/)
+- [Fansbuy Phone Accessories](/fansbuy-phone-accessories/)
 
 ---

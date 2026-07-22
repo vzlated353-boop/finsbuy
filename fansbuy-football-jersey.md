@@ -25,7 +25,7 @@ Current pricing shows remarkable value: standard club jerseys start at $11.37 fo
 
 Quality verification is where Fansbuy excels. Each jersey undergoes inspection for fabric weight (typically 180-220 GSM), badge accuracy, stitching quality, and colorfastness. The platform maintains a 94% quality pass rate for football apparel, significantly higher than industry averages. QC photos show actual product details including collar construction, sleeve cuffs, and hem finishing, giving you confidence before purchase.
 
-Popular variants include authentic fit (slim, athletic cut) and replica fit (relaxed, fan-friendly). Authentic versions feature Dri-FIT technology and mesh ventilation panels, while replicas offer comfortable cotton-polyester blends. When browsing, check the product description for "authentic" or "replica" designations, and review QC photos to confirm the version matches your expectations. For proper footwear to complete your kit, explore our [fansbuy football boots](fansbuy-football-boots.md) guide.
+Popular variants include authentic fit (slim, athletic cut) and replica fit (relaxed, fan-friendly). Authentic versions feature Dri-FIT technology and mesh ventilation panels, while replicas offer comfortable cotton-polyester blends. When browsing, check the product description for "authentic" or "replica" designations, and review QC photos to confirm the version matches your expectations. For proper footwear to complete your kit, explore our [fansbuy football boots](/fansbuy-football-boots/) guide.
 
 ## Quality Verification and Batch Versions
 
@@ -35,7 +35,7 @@ Fabric quality varies by price point. Budget jerseys ($11-$15) use standard poly
 
 Badge accuracy is a key differentiator. Top-tier jerseys feature embroidered crests with proper thread counts and color matching. Mid-tier versions use heat-pressed badges that are durable but less authentic-looking. Budget options may have printed badges, which are suitable for casual wear but not for collectors. QC photos clearly show badge quality, allowing you to make informed decisions based on your needs.
 
-Sizing accuracy improves with each batch version. Early versions (V1-V2) often run small, requiring buyers to size up. Current versions (V3-V4) follow standard European sizing charts more closely. Always check the size chart provided in product photos and compare with your measurements. For international buyers, the platform offers detailed measurement guides in centimeters and inches. When selecting footwear to match your jersey, our [fansbuy soccer shoes](fansbuy-soccer-shoes.md) guide provides comprehensive sizing information.
+Sizing accuracy improves with each batch version. Early versions (V1-V2) often run small, requiring buyers to size up. Current versions (V3-V4) follow standard European sizing charts more closely. Always check the size chart provided in product photos and compare with your measurements. For international buyers, the platform offers detailed measurement guides in centimeters and inches. When selecting footwear to match your jersey, our [fansbuy soccer shoes](/fansbuy-soccer-shoes/) guide provides comprehensive sizing information.
 
 ## How to Order and Size Selection
 
@@ -45,7 +45,7 @@ Size selection requires careful attention. Football jerseys typically follow Eur
 
 The quality verification process happens at Fansbuy's warehouse before shipping. When your order arrives, staff pull the actual product, photograph it against a checklist, and upload QC images to your order page. You'll see detailed shots of the front, back, badges, tags, and any potential flaws. If the product doesn't match the listing photos, you can request a replacement or refund before it ships internationally.
 
-Shipping typically takes 10-14 days to US and EU addresses, with tracking provided once the package leaves the warehouse. Packaging includes protective wrapping to prevent damage during transit. For buyers ordering multiple jerseys, consolidation shipping saves on costs. When completing your football kit, consider adding appropriate [fansbuy clothes](fansbuy-clothes.md) like shorts and socks.
+Shipping typically takes 10-14 days to US and EU addresses, with tracking provided once the package leaves the warehouse. Packaging includes protective wrapping to prevent damage during transit. For buyers ordering multiple jerseys, consolidation shipping saves on costs. When completing your football kit, consider adding appropriate [fansbuy clothes](/fansbuy-clothes/) like shorts and socks.
 
 ## Product Highlights
 
@@ -84,8 +84,8 @@ Ready to find your perfect jersey? Browse the full fansbuy football jersey colle
 ---
 
 **Related Guides:**
-- [Fansbuy Football Kits](fansbuy-football-kits.md) - Complete match-day sets with jerseys and shorts
-- [Fansbuy Shoes](fansbuy-shoes.md) - Explore the full footwear collection
-- [Fansbuy Budget Picks](fansbuy-budget-picks.md) - Find affordable football gear under $15
+- [Fansbuy Football Kits](/fansbuy-football-kits/) - Complete match-day sets with jerseys and shorts
+- [Fansbuy Shoes](/fansbuy-shoes/) - Explore the full footwear collection
+- [Fansbuy Budget Picks](/fansbuy-budget-picks/) - Find affordable football gear under $15
 
 ---

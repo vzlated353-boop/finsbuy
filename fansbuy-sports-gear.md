@@ -25,7 +25,7 @@ Performance apparel forms the second-largest segment. The Nike Tracksuit (~$24.7
 
 Training accessories round out the top sellers. While specific equipment like resistance bands, gym bags, and athletic socks may not carry brand names, they maintain consistent quality standards. The platform's quality control process verifies material composition, stitching integrity, and functional performance before approval.
 
-For sport-specific needs, the platform offers specialized gear across multiple disciplines. Football enthusiasts find Nike Football Boots and complete team tracksuits, while runners can explore lightweight jackets and performance shorts. The [fansbuy sports clothes](fansbuy-sports-clothes.md) collection complements equipment offerings, ensuring athletes can build complete wardrobes from verified sources.
+For sport-specific needs, the platform offers specialized gear across multiple disciplines. Football enthusiasts find Nike Football Boots and complete team tracksuits, while runners can explore lightweight jackets and performance shorts. The [fansbuy sports clothes](/fansbuy-sports-clothes/) collection complements equipment offerings, ensuring athletes can build complete wardrobes from verified sources.
 
 Quality varies slightly by batch version, with most items scoring 8.5-9.2 on the platform's 10-point scale. The spreadsheet provides detailed batch information, including manufacturing dates, material specifications, and QC photo availability. This transparency allows buyers to make informed decisions based on their specific requirements and budget constraints.
 
@@ -35,7 +35,7 @@ The primary advantage of purchasing Fansbuy sports gear lies in the significant 
 
 Quality verification represents another critical benefit. Every sports gear item undergoes a multi-point inspection process. QC photos capture stitching details, material texture, branding accuracy, and functional elements like zipper quality and sole construction. The platform's 91% quality pass rate reflects rigorous standards, with only items meeting minimum thresholds approved for sale.
 
-Community feedback provides real-world validation. With over 12,000 sports gear orders in 2025, buyers have access to extensive user reviews covering fit, durability, and performance. The [fansbuy gym gear](fansbuy-gym-gear.md) section, for instance, includes detailed feedback from fitness enthusiasts who've tested items during actual workouts, providing insights beyond static product descriptions.
+Community feedback provides real-world validation. With over 12,000 sports gear orders in 2025, buyers have access to extensive user reviews covering fit, durability, and performance. The [fansbuy gym gear](/fansbuy-gym-gear/) section, for instance, includes detailed feedback from fitness enthusiasts who've tested items during actual workouts, providing insights beyond static product descriptions.
 
 Sizing accuracy improves with each batch. The platform maintains detailed size charts for each product, including measurements for chest, waist, inseam, and foot length. User-submitted fit data helps refine these charts, reducing return rates and improving satisfaction. Most sports apparel runs true to size, though some buyers prefer sizing up for layering purposes.
 
@@ -47,7 +47,7 @@ Selecting the right Fansbuy sports gear starts with identifying your specific sp
 
 Once you've identified target items, review the QC photos and batch information carefully. Pay attention to manufacturing dates—newer batches typically incorporate design improvements and material upgrades. Check user reviews for fit feedback, noting any consistent sizing issues. The platform's size guide provides measurements, but user comments often reveal whether items run large or small.
 
-When placing orders, consider bundling items to maximize value. A complete tracksuit set (jacket and pants) often costs less than purchasing pieces separately. Similarly, buying footwear and apparel together may qualify for shipping discounts. The [fansbuy outdoor gear](fansbuy-outdoor-gear.md) collection includes weather-specific items that complement indoor training gear, allowing year-round athletic wear solutions.
+When placing orders, consider bundling items to maximize value. A complete tracksuit set (jacket and pants) often costs less than purchasing pieces separately. Similarly, buying footwear and apparel together may qualify for shipping discounts. The [fansbuy outdoor gear](/fansbuy-outdoor-gear/) collection includes weather-specific items that complement indoor training gear, allowing year-round athletic wear solutions.
 
 After ordering, track your shipment through the platform's tracking system. Most packages include insurance covering loss or damage during transit. Upon delivery, inspect items immediately and compare them to QC photos. If discrepancies exist, contact customer service within 48 hours with photos documenting the issue. The platform's resolution process typically offers replacements or partial refunds for verified quality issues.
 
@@ -86,8 +86,8 @@ To explore the complete selection and access detailed product information, check
 ---
 
 **Related Guides:**
-- [Fansbuy Sports Clothes](fansbuy-sports-clothes.md)
-- [Fansbuy Gym Gear](fansbuy-gym-gear.md)
-- [Fansbuy Outdoor Gear](fansbuy-outdoor-gear.md)
+- [Fansbuy Sports Clothes](/fansbuy-sports-clothes/)
+- [Fansbuy Gym Gear](/fansbuy-gym-gear/)
+- [Fansbuy Outdoor Gear](/fansbuy-outdoor-gear/)
 
 ---

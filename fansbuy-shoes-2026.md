@@ -15,7 +15,7 @@ The fansbuy shoes 2026 lineup brings significant updates to one of the platform'
 
 What makes fansbuy shoes 2026 particularly noteworthy is the expanded range of options and improved quality tracking. The shoe category spans from budget-friendly Yeezy Slippers at ~$7.78 to premium Balenciaga designs at ~$115.22, with the majority of popular models falling in the $30-$60 range. Recent order data highlights strong demand: Nike Air Max 95 leads with 410+ orders and a 94% quality pass rate, followed by Jordan 4 with 320+ orders at 92% pass rate, and Nike AF1 Low '07 with 280+ orders at an impressive 95% quality pass rate. These numbers reflect consistent buyer confidence in the platform's footwear offerings.
 
-This guide walks you through the complete fansbuy shoes 2026 landscape, from understanding which models offer the best value to navigating the quality verification process with confidence. You'll learn how to select the right batch versions, interpret QC photos, and choose sizes that fit properly across different brands. For a broader look at the sneaker segment, explore our [fansbuy shoes](fansbuy-shoes.md) collection page, or dive into the [fansbuy sneakers](fansbuy-sneakers.md) guide for sneaker-specific insights and trending models.
+This guide walks you through the complete fansbuy shoes 2026 landscape, from understanding which models offer the best value to navigating the quality verification process with confidence. You'll learn how to select the right batch versions, interpret QC photos, and choose sizes that fit properly across different brands. For a broader look at the sneaker segment, explore our [fansbuy shoes](/fansbuy-shoes/) collection page, or dive into the [fansbuy sneakers](/fansbuy-sneakers/) guide for sneaker-specific insights and trending models.
 
 ## 2026 Footwear Trends and New Additions
 
@@ -94,8 +94,8 @@ To explore the full fansbuy shoes 2026 inventory with current pricing and qualit
 ---
 
 **Related Guides:**
-- [Fansbuy Sizing Guide](fansbuy-sizing-guide.md) - Brand-specific sizing recommendations
-- [Fansbuy Nike](fansbuy-nike.md) - Nike brand footwear and apparel guide
-- [Fansbuy Jordan](fansbuy-jordan.md) - Jordan brand collection overview
+- [Fansbuy Sizing Guide](/fansbuy-sizing-guide/) - Brand-specific sizing recommendations
+- [Fansbuy Nike](/fansbuy-nike/) - Nike brand footwear and apparel guide
+- [Fansbuy Jordan](/fansbuy-jordan/) - Jordan brand collection overview
 
 ---

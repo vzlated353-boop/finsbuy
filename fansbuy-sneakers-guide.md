@@ -15,7 +15,7 @@ The fansbuy sneakers guide provides everything you need to know about purchasing
 
 What makes this fansbuy sneakers guide essential is the detailed breakdown of the buying process, quality verification system, and sizing considerations that can make or break your purchase experience. Recent order data shows that Nike Air Max 95 leads with 410+ orders and a 94% quality pass rate, while Jordan 4 follows with 320+ orders at 92% pass rate. These metrics help buyers understand which models offer the most reliable quality and strongest buyer consensus. The platform's 72% repurchase rate indicates that most buyers return for additional orders after positive experiences.
 
-This comprehensive guide walks you through every step of the sneaker buying journey, from accessing the spreadsheet and interpreting quality data to reviewing QC photos and selecting the right size for different brands. Whether you're a first-time buyer or looking to refine your purchasing strategy, you'll find actionable insights based on real order data and community feedback. For specific brand information, explore our [fansbuy sneakers](fansbuy-sneakers.md) collection page, or check the [fansbuy sizing guide](fansbuy-sizing-guide.md) for detailed fit recommendations across all footwear categories.
+This comprehensive guide walks you through every step of the sneaker buying journey, from accessing the spreadsheet and interpreting quality data to reviewing QC photos and selecting the right size for different brands. Whether you're a first-time buyer or looking to refine your purchasing strategy, you'll find actionable insights based on real order data and community feedback. For specific brand information, explore our [fansbuy sneakers](/fansbuy-sneakers/) collection page, or check the [fansbuy sizing guide](/fansbuy-sizing-guide/) for detailed fit recommendations across all footwear categories.
 
 ## Understanding the Fansbuy Sneaker Inventory
 
@@ -120,8 +120,8 @@ To explore the complete sneaker inventory with current pricing, quality data, an
 ---
 
 **Related Guides:**
-- [Fansbuy QC Photos](fansbuy-qc-photos.md) - Detailed quality verification photo guide
-- [Fansbuy Reviews](fansbuy-reviews.md) - Real buyer feedback and ratings
-- [Fansbuy Legit Check](fansbuy-legit-check.md) - Authentication and verification tips
+- [Fansbuy QC Photos](/fansbuy-qc-photos/) - Detailed quality verification photo guide
+- [Fansbuy Reviews](/fansbuy-reviews/) - Real buyer feedback and ratings
+- [Fansbuy Legit Check](/fansbuy-legit-check/) - Authentication and verification tips
 
 ---

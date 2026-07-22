@@ -18,9 +18,9 @@ The Jordan 5 is one of the most distinctive and historically significant silhoue
 
 Based on our team's experience reviewing 5+ Jordan 5 pairs and collecting feedback from over 150 buyers during early 2026, we have assembled the most comprehensive Jordan 5 buying guide available. Every recommendation is backed by actual transaction data from the Fansbuy spreadsheet, including order counts, quality pass rates, and detailed community feedback on batch performance and colorway accuracy.
 
-The Jordan 5 on Fansbuy typically comes in multiple colorway options, with the Metallic, Fire Red, and Black Metallic being among the most popular. The construction features a combination of leather and synthetic upper materials, a distinctive reflective tongue panel, shark-tooth shaped midsole paint, a visible Air-Sole unit in the heel, and a translucent rubber outsole on many colorways. The upper features distinctive stitched panel lines that create the model's aggressive aesthetic, and the padded collar provides excellent ankle support and comfort. For buyers exploring the broader Jordan brand on Fansbuy, our [fansbuy jordan](fansbuy-jordan.md) page covers all available Jordan models and apparel options.
+The Jordan 5 on Fansbuy typically comes in multiple colorway options, with the Metallic, Fire Red, and Black Metallic being among the most popular. The construction features a combination of leather and synthetic upper materials, a distinctive reflective tongue panel, shark-tooth shaped midsole paint, a visible Air-Sole unit in the heel, and a translucent rubber outsole on many colorways. The upper features distinctive stitched panel lines that create the model's aggressive aesthetic, and the padded collar provides excellent ankle support and comfort. For buyers exploring the broader Jordan brand on Fansbuy, our [fansbuy jordan](/fansbuy-jordan/) page covers all available Jordan models and apparel options.
 
-What makes the fansbuy jordan 5 so compelling is the combination of its unique design history and its solid construction quality. The reflective tongue was inspired by the cockpit canopy of fighter planes, designed to reflect light and increase visibility. The shark-tooth midsole was inspired by the aggressive lines of the P-51 Mustang fighter plane. These design elements require precise manufacturing to reproduce accurately, which is why the Jordan 5 commands a premium price on Fansbuy. In this guide, we walk through the construction details, quality verification process, sizing specifics, and everything else you need to order with confidence. If you are also interested in other sneaker options, our [fansbuy sneakers](fansbuy-sneakers.md) guide covers Nike, Adidas, New Balance, and Yeezy alternatives available on the platform.
+What makes the fansbuy jordan 5 so compelling is the combination of its unique design history and its solid construction quality. The reflective tongue was inspired by the cockpit canopy of fighter planes, designed to reflect light and increase visibility. The shark-tooth midsole was inspired by the aggressive lines of the P-51 Mustang fighter plane. These design elements require precise manufacturing to reproduce accurately, which is why the Jordan 5 commands a premium price on Fansbuy. In this guide, we walk through the construction details, quality verification process, sizing specifics, and everything else you need to order with confidence. If you are also interested in other sneaker options, our [fansbuy sneakers](/fansbuy-sneakers/) guide covers Nike, Adidas, New Balance, and Yeezy alternatives available on the platform.
 
 ---
 
@@ -107,7 +107,7 @@ The Jordan 5 has a relatively short break-in period of 2 to 4 wears. The heavily
 
 Compared to the Jordan 4, the Jordan 5 runs slightly larger. If you go up half a size for the Jordan 4, you may want to stick with your regular size for the Jordan 5. Compared to the Jordan 1, the sizing is very similar, though the Jordan 5 feels slightly roomier in the toe box. Compared to the Jordan 3, the Jordan 5 runs about the same, with the main difference being the heavier padding in the collar.
 
-The spreadsheet includes detailed measurement charts for each Jordan 5 listing, with insole length, outsole length, and width measurements. For comprehensive sizing information across all categories, the [fansbuy sizing guide](fansbuy-sizing-guide.md) provides additional measurement charts and brand-specific recommendations.
+The spreadsheet includes detailed measurement charts for each Jordan 5 listing, with insole length, outsole length, and width measurements. For comprehensive sizing information across all categories, the [fansbuy sizing guide](/fansbuy-sizing-guide/) provides additional measurement charts and brand-specific recommendations.
 
 ---
 
@@ -151,7 +151,7 @@ Browse the full [Fansbuy spreadsheet](https://docs.google.com/spreadsheets/d/10e
 
 **Related Guides:**
 
-- [Fansbuy Sizing Guide](fansbuy-sizing-guide.md)
-- [Fansbuy Nike](fansbuy-nike.md)
-- [Fansbuy QC Photos](fansbuy-qc-photos.md)
+- [Fansbuy Sizing Guide](/fansbuy-sizing-guide/)
+- [Fansbuy Nike](/fansbuy-nike/)
+- [Fansbuy QC Photos](/fansbuy-qc-photos/)
 

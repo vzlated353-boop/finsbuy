@@ -15,7 +15,7 @@ If you have been searching for a reliable source to purchase Nike sneakers at ac
 
 This page covers everything you need to know about purchasing Nike products through Fansbuy. We will walk you through the available models, pricing tiers, quality verification processes, and sizing considerations. Whether you are a first-time buyer curious about what to expect or an experienced reseller looking for reliable batch data, this guide consolidates real order information and community feedback into one comprehensive resource. You will find specific product examples with actual pricing, order counts, and quality pass rates drawn from the Fansbuy spreadsheet database.
 
-Nike remains one of the most sought-after brands on the platform, with the Air Force 1, Air Max 95, Dunk, and Max Plus TN leading in popularity. Shipping typically takes 10-14 days to US and EU destinations, and approximately 72% of buyers reorder within six months. In the sections below, we will break down each aspect of the Nike buying experience on Fansbuy, helping you make informed decisions with confidence. For additional context on the broader sneaker collection, you can also explore our [fansbuy sneakers](fansbuy-sneakers.md) collection page.
+Nike remains one of the most sought-after brands on the platform, with the Air Force 1, Air Max 95, Dunk, and Max Plus TN leading in popularity. Shipping typically takes 10-14 days to US and EU destinations, and approximately 72% of buyers reorder within six months. In the sections below, we will break down each aspect of the Nike buying experience on Fansbuy, helping you make informed decisions with confidence. For additional context on the broader sneaker collection, you can also explore our [fansbuy sneakers](/fansbuy-sneakers/) collection page.
 
 ## Top-Selling Nike Models on Fansbuy
 
@@ -29,7 +29,7 @@ For those seeking a premium option, the **Nike Air Max 97** is available at appr
 
 The **Nike Dunk** at roughly $57.69 has seen a surge in popularity, with 380+ orders recorded. Its 92% quality pass rate and accurate material choices make it a strong contender for both personal wear and resale. The **Nike Max Plus TN** at $36.26 offers another popular option, particularly among buyers who appreciate the distinctive Tuned Air design and aggressive styling.
 
-When browsing these models, it is worth checking the [fansbuy nike](fansbuy-nike.md) brand page for the most current batch information and available colorways. Each product listing in the spreadsheet includes batch version notes, QC photo links, and seller ratings that help you evaluate quality before committing to a purchase. Community feedback indicates that Nike products on Fansbuy typically match or exceed the quality found on comparable platforms, with particular praise for stitching accuracy and material feel.
+When browsing these models, it is worth checking the [fansbuy nike](/fansbuy-nike/) brand page for the most current batch information and available colorways. Each product listing in the spreadsheet includes batch version notes, QC photo links, and seller ratings that help you evaluate quality before committing to a purchase. Community feedback indicates that Nike products on Fansbuy typically match or exceed the quality found on comparable platforms, with particular praise for stitching accuracy and material feel.
 
 ## Quality Verification and Batch Versions
 
@@ -39,7 +39,7 @@ Batch versions play a critical role in quality assessment. Fansbuy sources from 
 
 QC (Quality Control) photos are provided for most Nike orders, giving you a clear view of the actual product before it ships. These photos cover key areas such as the swoosh shape, stitching quality, sole attachment, heel tab proportions, and box labeling. Buyers consistently report that QC photos accurately represent the final product, with minimal variation between the images and the received item.
 
-Sizing is another area where preparation pays off. Nike models can vary slightly between batches, and some run larger or smaller than standard US sizing. The [fansbuy sizing guide](fansbuy-sizing-guide.md) provides detailed measurements for each popular Nike silhouette, including insole length comparisons and recommendations for going up or down half a size. For the Air Force 1, most buyers find true-to-size fitting works well, while the Air Max 95 may require going half a size up for optimal comfort.
+Sizing is another area where preparation pays off. Nike models can vary slightly between batches, and some run larger or smaller than standard US sizing. The [fansbuy sizing guide](/fansbuy-sizing-guide/) provides detailed measurements for each popular Nike silhouette, including insole length comparisons and recommendations for going up or down half a size. For the Air Force 1, most buyers find true-to-size fitting works well, while the Air Max 95 may require going half a size up for optimal comfort.
 
 The platform's quality system extends beyond individual inspections. Aggregate data from thousands of orders feeds into quality ratings that help future buyers make informed choices. Models with consistently high pass rates are flagged as reliable, while any batch showing quality issues is reviewed and often pulled from the active listing until improvements are made.
 
@@ -59,7 +59,7 @@ Once your order reaches the Fansbuy warehouse, the QC team inspects the product 
 **Step 4: Shipping and Tracking**
 After QC approval, your package is prepared for international shipment. A tracking number is provided, and you can monitor your package's progress through the carrier's website. Most Nike shoe orders arrive in branded boxes with appropriate padding to prevent damage during transit.
 
-For buyers new to the platform, the [fansbuy nike](fansbuy-nike.md) page offers additional context on available models and current batch recommendations. The community forums and review sections also provide real-world feedback from buyers who have recently ordered the same models.
+For buyers new to the platform, the [fansbuy nike](/fansbuy-nike/) page offers additional context on available models and current batch recommendations. The community forums and review sections also provide real-world feedback from buyers who have recently ordered the same models.
 
 ## Product Highlights
 
@@ -96,8 +96,8 @@ We encourage you to explore the full Nike collection through the spreadsheet and
 ---
 
 **Related Guides:**
-- [Fansbuy Sizing Guide](fansbuy-sizing-guide.md)
-- [Fansbuy Jordan](fansbuy-jordan.md)
-- [Fansbuy Reviews](fansbuy-reviews.md)
+- [Fansbuy Sizing Guide](/fansbuy-sizing-guide/)
+- [Fansbuy Jordan](/fansbuy-jordan/)
+- [Fansbuy Reviews](/fansbuy-reviews/)
 
 ---

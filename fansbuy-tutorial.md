@@ -17,7 +17,7 @@ Whether you are buying your first pair of sneakers or building a complete street
 
 What makes this tutorial different is its hands-on approach. Rather than just describing features in abstract terms, we walk you through each action step by step, explaining what to click, what to look for, and what to expect at each stage. By the end, you will have the practical knowledge to navigate Fansbuy confidently and make your first purchase without hesitation.
 
-For a condensed version, our [fansbuy step by step](fansbuy-step-by-step.md) guide offers a quick-reference checklist, but this tutorial provides the detailed explanations and context that help you understand not just what to do, but why. Let us begin your hands-on Fansbuy experience.
+For a condensed version, our [fansbuy step by step](/fansbuy-step-by-step/) guide offers a quick-reference checklist, but this tutorial provides the detailed explanations and context that help you understand not just what to do, but why. Let us begin your hands-on Fansbuy experience.
 
 ## Tutorial Step 1: Account Setup and Dashboard Orientation
 
@@ -34,7 +34,7 @@ For a condensed version, our [fansbuy step by step](fansbuy-step-by-step.md) gui
 - **Main panel**: Active orders summary, recent QC photos awaiting review, shipping status updates, and account balance
 - **Quick stats**: Total orders placed, items in transit, and pending QC reviews
 
-Take two minutes to click through each sidebar menu item. This familiarizes you with the layout and helps you navigate efficiently later. The [fansbuy how to use](fansbuy-how-to-use.md) guide covers each section in more detail, but this orientation gives you the mental map you need.
+Take two minutes to click through each sidebar menu item. This familiarizes you with the layout and helps you navigate efficiently later. The [fansbuy how to use](/fansbuy-how-to-use/) guide covers each section in more detail, but this orientation gives you the mental map you need.
 
 **Pro tip**: Complete your profile now by adding your shipping address and preferred sizes. This saves time during checkout and ensures accuracy on your first order.
 
@@ -82,7 +82,7 @@ Click any product to open its detail page, which includes expanded photos, batch
 
 **How to use the spreadsheet**: Sort by category, brand, or price to find what you need. Use the search function within the spreadsheet to locate specific products. Compare batch versions side by side to identify the best option for your priorities — whether that is lowest price, highest quality, or fastest availability.
 
-For a deeper dive into spreadsheet analysis, our [fansbuy first order](fansbuy-first-order.md) guide includes practical examples of using this data to make purchasing decisions.
+For a deeper dive into spreadsheet analysis, our [fansbuy first order](/fansbuy-first-order/) guide includes practical examples of using this data to make purchasing decisions.
 
 ## Tutorial Step 4: Placing Your Order
 
@@ -156,8 +156,8 @@ Ready to put this tutorial into practice? <a href="https://docs.google.com/sprea
 ---
 
 **Related Guides:**
-- [Fansbuy How to Use](fansbuy-how-to-use.md) — Complete feature reference and navigation guide
-- [Fansbuy Step by Step](fansbuy-step-by-step.md) — Quick-reference checklist for the ordering process
-- [Fansbuy First Order](fansbuy-first-order.md) — Detailed guide focused specifically on your first purchase
+- [Fansbuy How to Use](/fansbuy-how-to-use/) — Complete feature reference and navigation guide
+- [Fansbuy Step by Step](/fansbuy-step-by-step/) — Quick-reference checklist for the ordering process
+- [Fansbuy First Order](/fansbuy-first-order/) — Detailed guide focused specifically on your first purchase
 
 ---

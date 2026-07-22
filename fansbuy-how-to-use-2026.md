@@ -45,7 +45,7 @@ The Fansbuy dashboard has received significant improvements in 2026, focusing on
 
 Popular items like the Nike Air Max 95 (~$46.15), Essentials Hoodie (~$31.15), and Stone Island T-shirt (~$14.01) are prominently displayed with quality badges and order counts. The integrated spreadsheet viewer allows you to <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Fansbuy Spreadsheet</a> directly from the dashboard for side-by-side product comparisons.
 
-For users transitioning from older versions, the 2026 dashboard maintains the same core functionality while improving the user experience. If you need a refresher on basic navigation, our [fansbuy how to use](fansbuy-how-to-use.md) guide covers the fundamentals, but this 2026 version includes all the latest enhancements.
+For users transitioning from older versions, the 2026 dashboard maintains the same core functionality while improving the user experience. If you need a refresher on basic navigation, our [fansbuy how to use](/fansbuy-how-to-use/) guide covers the fundamentals, but this 2026 version includes all the latest enhancements.
 
 ## Enhanced Quality Verification System
 
@@ -69,7 +69,7 @@ The quality verification system is the cornerstone of Fansbuy's reputation, and 
 
 **Batch version tracking**: The 2026 system provides more detailed batch version information. You can see when each batch was produced, what materials were used, and any known variations from previous batches. This transparency helps you make informed decisions about which batch to select.
 
-For detailed guidance on interpreting QC photos and understanding quality metrics, the [fansbuy reviews](fansbuy-reviews.md) section includes user feedback and real-world examples of the quality verification process in action.
+For detailed guidance on interpreting QC photos and understanding quality metrics, the [fansbuy reviews](/fansbuy-reviews/) section includes user feedback and real-world examples of the quality verification process in action.
 
 ## 2026 Shipping Options and Payment Methods
 
@@ -97,7 +97,7 @@ All payment methods use encrypted gateways and industry-standard security protoc
 
 **Consolidation services**: For buyers ordering multiple items, the consolidation service remains available. Items can be combined into a single shipment, reducing total shipping costs. This is particularly valuable for resellers or buyers building a larger wardrobe.
 
-For complete shipping details including customs considerations, packaging options, and international delivery tips, the [fansbuy shipping guide](fansbuy-shipping-guide.md) provides comprehensive coverage of all logistics aspects.
+For complete shipping details including customs considerations, packaging options, and international delivery tips, the [fansbuy shipping guide](/fansbuy-shipping-guide/) provides comprehensive coverage of all logistics aspects.
 
 ## 2026 Product Catalog and New Features
 
@@ -165,8 +165,8 @@ Whether you are a new buyer or a returning user, the 2026 Fansbuy experience is 
 ---
 
 **Related Guides:**
-- [Fansbuy How to Use](fansbuy-how-to-use.md) — Original platform guide with fundamental features
-- [Fansbuy Shipping Guide](fansbuy-shipping-guide.md) — Complete shipping options, timelines, and tracking details
-- [Fansbuy Reviews](fansbuy-reviews.md) — Real user feedback and community experiences with 2026 updates
+- [Fansbuy How to Use](/fansbuy-how-to-use/) — Original platform guide with fundamental features
+- [Fansbuy Shipping Guide](/fansbuy-shipping-guide/) — Complete shipping options, timelines, and tracking details
+- [Fansbuy Reviews](/fansbuy-reviews/) — Real user feedback and community experiences with 2026 updates
 
 ---

@@ -17,7 +17,7 @@ The platform has processed thousands of shirt orders, maintaining a 93% buyer sa
 
 This guide covers everything you need to know about shopping for shirts on Fansbuy. You'll learn about top-selling models, how to verify quality through the spreadsheet system, sizing considerations, and the ordering process. Whether you're a first-time buyer or looking to expand your wardrobe, this article provides the data-driven insights you need to make informed purchasing decisions.
 
-For more shirt options across all styles, explore the complete [fansbuy shirts](fansbuy-shirts.md) collection, which includes T-shirts, polos, and various shirt types from 20+ brands.
+For more shirt options across all styles, explore the complete [fansbuy shirts](/fansbuy-shirts/) collection, which includes T-shirts, polos, and various shirt types from 20+ brands.
 
 ## Top-Selling Fansbuy Shirts
 
@@ -39,7 +39,7 @@ Most shirts in the collection fall into three categories: basic tees ($9-$16 ran
 
 Quality verification is straightforward through the Fansbuy spreadsheet system. Each listing includes batch version information, QC photo availability, and real buyer feedback. The platform's 94% quality pass rate across clothing items reflects consistent manufacturing standards.
 
-For broader clothing options, check out the complete [fansbuy clothes](fansbuy-clothes.md) collection, which includes 127+ verified clothing items across all categories.
+For broader clothing options, check out the complete [fansbuy clothes](/fansbuy-clothes/) collection, which includes 127+ verified clothing items across all categories.
 
 ## Benefits of Shopping Fansbuy Shirts
 
@@ -59,7 +59,7 @@ Why do buyers choose Fansbuy for shirts? The platform offers several advantages 
 
 The platform's spreadsheet system allows buyers to compare multiple shirt options side-by-side, examining price, order count, quality ratings, and batch versions. This data-driven approach helps buyers make informed decisions rather than relying solely on product photos.
 
-For proper fit across all clothing categories, refer to the comprehensive [fansbuy sizing guide](fansbuy-sizing-guide.md) before ordering.
+For proper fit across all clothing categories, refer to the comprehensive [fansbuy sizing guide](/fansbuy-sizing-guide/) before ordering.
 
 ## How to Order Shirts on Fansbuy
 
@@ -121,8 +121,8 @@ Explore the full Fansbuy shirt collection through the spreadsheet link above. Wi
 ---
 
 **Related Guides:**
-- [Fansbuy Sizing Guide](fansbuy-sizing-guide.md)
-- [Fansbuy Clothes](fansbuy-clothes.md)
-- [Fansbuy Shirts](fansbuy-shirts.md)
+- [Fansbuy Sizing Guide](/fansbuy-sizing-guide/)
+- [Fansbuy Clothes](/fansbuy-clothes/)
+- [Fansbuy Shirts](/fansbuy-shirts/)
 
 ---

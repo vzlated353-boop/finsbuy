@@ -15,7 +15,7 @@ There are guides, and then there is the definitive resource. This **fansbuy ulti
 
 But numbers alone do not tell the full story. What makes Fansbuy stand out in a crowded marketplace is its commitment to transparency and data-driven shopping. The spreadsheet system, QC photo verification, and active community feedback loops create an ecosystem where informed buyers consistently achieve excellent results. The 72% repurchase rate reflects this: buyers who have a good first experience keep coming back.
 
-This guide is structured to serve both newcomers and experienced shoppers. Newcomers will find a complete orientation to the platform, while veterans will discover advanced tactics for optimizing every purchase. We cover everything from the granular details of batch selection to the strategic considerations of order timing and bundling. For platform navigation basics, our [fansbuy how to use](fansbuy-how-to-use.md) guide provides a quick-start companion to this comprehensive resource.
+This guide is structured to serve both newcomers and experienced shoppers. Newcomers will find a complete orientation to the platform, while veterans will discover advanced tactics for optimizing every purchase. We cover everything from the granular details of batch selection to the strategic considerations of order timing and bundling. For platform navigation basics, our [fansbuy how to use](/fansbuy-how-to-use/) guide provides a quick-start companion to this comprehensive resource.
 
 ## The Complete Product Landscape
 
@@ -31,7 +31,7 @@ Fansbuy organizes its catalog into five primary categories, each with distinct c
 
 **Watches (8 products)** represent the premium tier, with Rolex ($42.86 to $98.90), Cartier ($26.37 to $76.65), Audemars Piguet ($67.58), and Tissot ($79.67). Watches require the most thorough QC inspection and carry higher per-item risk, but the savings compared to retail are enormous.
 
-For curated recommendations across these categories, explore the [fansbuy reviews](fansbuy-reviews.md) section where real buyers share their experiences with specific products and batches.
+For curated recommendations across these categories, explore the [fansbuy reviews](/fansbuy-reviews/) section where real buyers share their experiences with specific products and batches.
 
 ## Advanced Buying Strategies
 
@@ -39,7 +39,7 @@ Experienced buyers develop systems that consistently deliver superior results. H
 
 **Batch Intelligence.** The spreadsheet tracks multiple batch versions for popular products. Each batch has its own quality pass rate, order count, and price. Smart buyers do not just pick the highest pass rate; they analyze the trend. If Batch A has a 92% pass rate with 200 orders and Batch B has a 95% pass rate with 50 orders, Batch B might be newer and still building its order count. Community feedback often reveals whether the improvement is real or statistical noise. For high-volume products like the Nike Air Max 95 at $46.15 with 410+ orders, batch differences are well-documented and easy to navigate.
 
-**QC Photo Mastery.** Beyond basic inspection, experienced buyers develop a keen eye for specific quality indicators. On sneakers, they check sole flexibility, glue residue, and insole printing. On clothing, they examine tag fonts, wash label accuracy, and zipper brand markings. On watches, they inspect dial printing quality, hand alignment, and case-back engraving. This level of detail comes with experience, but the [fansbuy shipping guide](fansbuy-shipping-guide.md) and QC resources provide checklists that accelerate the learning curve.
+**QC Photo Mastery.** Beyond basic inspection, experienced buyers develop a keen eye for specific quality indicators. On sneakers, they check sole flexibility, glue residue, and insole printing. On clothing, they examine tag fonts, wash label accuracy, and zipper brand markings. On watches, they inspect dial printing quality, hand alignment, and case-back engraving. This level of detail comes with experience, but the [fansbuy shipping guide](/fansbuy-shipping-guide/) and QC resources provide checklists that accelerate the learning curve.
 
 **Strategic Bundling.** Top buyers plan their orders weeks in advance. They maintain a running wishlist, track price fluctuations in the spreadsheet, and time their orders to coincide with optimal batch availability and shipping windows. A typical strategic order might include two t-shirts, one hoodie, one pair of shorts, and a belt, totaling $60 to $80 in products with $12 to $15 in shipping. This approach maximizes the value of each shipping payment and reduces the per-item cost significantly.
 
@@ -92,8 +92,8 @@ Start your journey today. Access the Fansbuy spreadsheet, explore the product ca
 ---
 
 **Related Guides:**
-- [Fansbuy Budget Picks](fansbuy-budget-picks.md)
-- [Fansbuy Common Mistakes](fansbuy-common-mistakes.md)
-- [Fansbuy Essential Guide](fansbuy-essential-guide.md)
+- [Fansbuy Budget Picks](/fansbuy-budget-picks/)
+- [Fansbuy Common Mistakes](/fansbuy-common-mistakes/)
+- [Fansbuy Essential Guide](/fansbuy-essential-guide/)
 
 ---

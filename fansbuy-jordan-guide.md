@@ -18,9 +18,9 @@ Air Jordan sneakers have dominated sneaker culture for over three decades, and f
 
 Based on our team's experience reviewing 9+ Jordan items and collecting feedback from over 200 buyers throughout early 2026, we have assembled the most thorough Jordan reference guide available on the platform. Every recommendation here is grounded in actual transaction data, including order counts, quality pass rates, and buyer satisfaction scores tracked through the Fansbuy system. The spreadsheet consolidates pricing, batch details, QC photos, and community ratings into one place, eliminating the need to jump between forums and group chats to verify quality.
 
-The Jordan category on Fansbuy covers four main silhouettes: Jordan 1 Low, Jordan 3, Jordan 4, and Jordan 11, plus apparel options like the Jordan Hoodie (~$20.47) and Jordan Shorts (~$17.97). Price points for sneakers range from ~$17.97 to ~$55.38, which is significantly lower than retail for comparable releases. Quality pass rates consistently sit above 91 percent when buyers follow the recommended QC photo review process, and order volumes on top listings frequently exceed 600 purchases. For buyers exploring the broader sneaker landscape, our [fansbuy jordan](fansbuy-jordan.md) page provides additional context on the full Jordan brand presence on Fansbuy.
+The Jordan category on Fansbuy covers four main silhouettes: Jordan 1 Low, Jordan 3, Jordan 4, and Jordan 11, plus apparel options like the Jordan Hoodie (~$20.47) and Jordan Shorts (~$17.97). Price points for sneakers range from ~$17.97 to ~$55.38, which is significantly lower than retail for comparable releases. Quality pass rates consistently sit above 91 percent when buyers follow the recommended QC photo review process, and order volumes on top listings frequently exceed 600 purchases. For buyers exploring the broader sneaker landscape, our [fansbuy jordan](/fansbuy-jordan/) page provides additional context on the full Jordan brand presence on Fansbuy.
 
-What makes this fansbuy jordan guide different from other resources is the depth of real transaction data behind every recommendation. We do not just describe the products; we analyze order patterns, quality trends, and buyer feedback to tell you exactly what is worth buying and what to watch out for. In this guide, we walk through each major Jordan model, the quality verification system, sizing specifics, and practical ordering tips. If you are also interested in other sneaker brands, our [fansbuy sneakers](fansbuy-sneakers.md) guide covers Nike, Adidas, New Balance, and Yeezy options available on the platform.
+What makes this fansbuy jordan guide different from other resources is the depth of real transaction data behind every recommendation. We do not just describe the products; we analyze order patterns, quality trends, and buyer feedback to tell you exactly what is worth buying and what to watch out for. In this guide, we walk through each major Jordan model, the quality verification system, sizing specifics, and practical ordering tips. If you are also interested in other sneaker brands, our [fansbuy sneakers](/fansbuy-sneakers/) guide covers Nike, Adidas, New Balance, and Yeezy options available on the platform.
 
 ---
 
@@ -92,7 +92,7 @@ Jordan models fit slightly differently from standard Nike sizing, and getting th
 
 **Jordan 11:** Typically runs true to size, but the patent leather has limited stretch. Buyers with wider feet often report that going up half a size provides more comfort, especially during extended wear.
 
-The most important step is reviewing the sizing documentation in the spreadsheet, which includes detailed measurement charts and conversion tables. For comprehensive sizing information across all categories including clothing and accessories, refer to the [fansbuy sizing guide](fansbuy-sizing-guide.md) for additional measurement charts and brand-specific recommendations.
+The most important step is reviewing the sizing documentation in the spreadsheet, which includes detailed measurement charts and conversion tables. For comprehensive sizing information across all categories including clothing and accessories, refer to the [fansbuy sizing guide](/fansbuy-sizing-guide/) for additional measurement charts and brand-specific recommendations.
 
 ---
 
@@ -136,7 +136,7 @@ Browse the full [Fansbuy spreadsheet](https://docs.google.com/spreadsheets/d/10e
 
 **Related Guides:**
 
-- [Fansbuy Sizing Guide](fansbuy-sizing-guide.md)
-- [Fansbuy Nike](fansbuy-nike.md)
-- [Fansbuy QC Photos](fansbuy-qc-photos.md)
+- [Fansbuy Sizing Guide](/fansbuy-sizing-guide/)
+- [Fansbuy Nike](/fansbuy-nike/)
+- [Fansbuy QC Photos](/fansbuy-qc-photos/)
 

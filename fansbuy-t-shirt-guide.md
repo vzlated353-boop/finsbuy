@@ -27,7 +27,7 @@ The mid-range tier includes the **Stone Island T-shirt** (~$14.01), **Palm Angel
 
 At the premium end, the **Burberry T-shirt** (~$21.26), **Moncler T-shirt** (~$24.73), and **Balenciaga T-shirt** (~$24.56) offer the highest perceived quality and luxury branding. The Moncler T-shirt is especially popular among buyers who appreciate the brand's premium reputation and attention to detail.
 
-When exploring the full [fansbuy t-shirt](fansbuy-t-shirt.md) collection, pay attention to the batch version information provided in the spreadsheet. Different batches can vary in fabric composition, print method, and overall finish. The spreadsheet consolidates this data so you can compare options side by side. For buyers interested in building a complete wardrobe, the platform also includes hoodies, tracksuits, sweatshirts, and more.
+When exploring the full [fansbuy t-shirt](/fansbuy-t-shirt/) collection, pay attention to the batch version information provided in the spreadsheet. Different batches can vary in fabric composition, print method, and overall finish. The spreadsheet consolidates this data so you can compare options side by side. For buyers interested in building a complete wardrobe, the platform also includes hoodies, tracksuits, sweatshirts, and more.
 
 ## Quality Verification: What to Check Before Ordering
 
@@ -39,7 +39,7 @@ The second layer is the QC photo system. Before shipping, the platform typically
 
 Community data suggests that the overall quality pass rate for t-shirts on Fansbuy sits at approximately 92–94%. This means that the vast majority of buyers receive items that meet their expectations. However, it is still important to do your homework. Check the spreadsheet for batch-specific feedback, read community reviews, and review QC photos carefully. If something looks off in the photos, you can usually request additional images or clarification before approving the shipment.
 
-For buyers who want to dig deeper into the quality verification process, we recommend also checking the [fansbuy sizing guide](fansbuy-sizing-guide.md) to understand how sizing consistency fits into the overall quality picture. A t-shirt that fits well is just as important as one that looks good in photos.
+For buyers who want to dig deeper into the quality verification process, we recommend also checking the [fansbuy sizing guide](/fansbuy-sizing-guide/) to understand how sizing consistency fits into the overall quality picture. A t-shirt that fits well is just as important as one that looks good in photos.
 
 ## Sizing and Fit: Getting It Right the First Time
 
@@ -102,8 +102,8 @@ By following this guide, you can select the right brand, size, and batch version
 ---
 
 **Related Guides:**
-- [Fansbuy T-Shirts](fansbuy-t-shirts.md)
-- [Fansbuy Palm Angels](fansbuy-palm-angels.md)
-- [Fansbuy Essentials](fansbuy-essentials.md)
+- [Fansbuy T-Shirts](/fansbuy-t-shirts/)
+- [Fansbuy Palm Angels](/fansbuy-palm-angels/)
+- [Fansbuy Essentials](/fansbuy-essentials/)
 
 ---

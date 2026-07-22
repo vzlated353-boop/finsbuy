@@ -15,7 +15,7 @@ Welcome to the definitive **fansbuy complete guide** for 2026. If you have been 
 
 Fansbuy currently operates one of the largest verified product catalogs in the replica space, with over 22,000 items spanning clothing (127 products), shoes (33 products), pants (28 products), accessories (80 products), and watches (8 products). Prices range from budget-friendly options like the $1.30 phone case to premium items like the $164.67 Syna World Tracksuit. The platform reports a 93% buyer satisfaction rate, with 72% of customers placing repeat orders within six months of their first purchase.
 
-This guide covers every aspect of the Fansbuy experience — from account creation and product discovery to quality verification, shipping selection, and post-delivery support. Whether you are a first-time buyer or an experienced reseller, you will find actionable information to make informed purchasing decisions. For delivery timelines and carrier options, the [fansbuy reviews](fansbuy-reviews.md) page includes real buyer feedback on shipping experiences, while the [fansbuy sizing guide](fansbuy-sizing-guide.md) helps you get measurements right before ordering.
+This guide covers every aspect of the Fansbuy experience — from account creation and product discovery to quality verification, shipping selection, and post-delivery support. Whether you are a first-time buyer or an experienced reseller, you will find actionable information to make informed purchasing decisions. For delivery timelines and carrier options, the [fansbuy reviews](/fansbuy-reviews/) page includes real buyer feedback on shipping experiences, while the [fansbuy sizing guide](/fansbuy-sizing-guide/) helps you get measurements right before ordering.
 
 ## Fansbuy Complete Guide: Platform Overview and Product Catalog
 
@@ -35,7 +35,7 @@ The QC photo system is tiered. Basic inspection (included at no extra cost) cove
 
 If a product does not meet your expectations during QC review, you can request a replacement at no additional product cost. The warehouse team typically sources a replacement within 2–3 business days. This approval-before-shipping model significantly reduces the risk of receiving unsatisfactory items, especially for higher-value purchases like the $85.85 Rolex Watch or $78.57 Moncler Down Jacket.
 
-The platform also maintains batch version transparency. Each product listing specifies which batch version is currently available, allowing buyers to make informed decisions based on community reviews of specific batches. For a detailed walkthrough of how to evaluate QC photos and verify product authenticity, the [fansbuy legit check](fansbuy-legit-check.md) resource covers the key details to examine.
+The platform also maintains batch version transparency. Each product listing specifies which batch version is currently available, allowing buyers to make informed decisions based on community reviews of specific batches. For a detailed walkthrough of how to evaluate QC photos and verify product authenticity, the [fansbuy legit check](/fansbuy-legit-check/) resource covers the key details to examine.
 
 ## Shipping Methods and Global Delivery
 
@@ -92,8 +92,8 @@ The 72% repurchase rate demonstrates that most buyers return for additional orde
 ---
 
 **Related Guides:**
-- [Fansbuy How to Use](fansbuy-how-to-use.md)
-- [Fansbuy for Beginners](fansbuy-for-beginners.md)
-- [Fansbuy QC Photos](fansbuy-qc-photos.md)
+- [Fansbuy How to Use](/fansbuy-how-to-use/)
+- [Fansbuy for Beginners](/fansbuy-for-beginners/)
+- [Fansbuy QC Photos](/fansbuy-qc-photos/)
 
 ---

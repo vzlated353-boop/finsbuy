@@ -21,13 +21,13 @@ In this comprehensive guide, you'll explore the full range of fansbuy hiking gea
 
 Our hiking equipment collection covers every aspect of outdoor adventure, from base layers to technical gear designed for challenging terrain. The most popular items consistently include hiking footwear, weather-resistant apparel, and essential safety equipment.
 
-**Hiking Footwear** forms the foundation of any hiking setup. Our collection features trail running shoes ($36.26-$57.69), mid-cut hiking boots ($48.46-$75.00), and backpacking boots ($65.93-$95.93) designed for multi-day treks with heavy loads. The best-selling mid-cut hiking boots have received 380+ orders with a 93% quality pass rate, featuring waterproof membranes, Vibram-style outsoles, and reinforced toe caps. For those exploring our broader footwear selection, check out our [fansbuy hiking shoes](fansbuy-hiking-shoes.md) guide for detailed sizing information and style comparisons.
+**Hiking Footwear** forms the foundation of any hiking setup. Our collection features trail running shoes ($36.26-$57.69), mid-cut hiking boots ($48.46-$75.00), and backpacking boots ($65.93-$95.93) designed for multi-day treks with heavy loads. The best-selling mid-cut hiking boots have received 380+ orders with a 93% quality pass rate, featuring waterproof membranes, Vibram-style outsoles, and reinforced toe caps. For those exploring our broader footwear selection, check out our [fansbuy hiking shoes](/fansbuy-hiking-shoes/) guide for detailed sizing information and style comparisons.
 
 **Hiking Apparel** includes moisture-wicking base layers ($11.21-$24.73), insulating mid-layers ($16.32-$35.60), and weather-resistant outer shells ($26.21-$68.68). Our top-selling softshell jackets ($35.60-$52.75) feature DWR (Durable Water Repellent) treatment and articulated sleeves for unrestricted movement. Quick-dry hiking pants ($17.97-$32.97) with zip-off legs offer versatility across changing conditions. The North Face down jackets ($21.26) provide excellent warmth-to-weight ratios for cold-weather hiking, with 290+ orders and consistent quality feedback.
 
 **Technical Equipment** encompasses trekking poles ($18.99-$34.99), hydration packs ($24.99-$49.99), headlamps ($12.99-$28.99), and navigation tools ($9.99-$19.99). Our carbon fiber trekking poles ($34.99) have seen 220+ orders with a 92% quality pass rate, featuring adjustable length, cork grips, and carbide tips for reliable traction. Hydration systems include 2L and 3L reservoirs with bite valves and insulated tubes to prevent freezing in cold conditions.
 
-**Backpacks and Bags** range from daypacks ($28.99-$45.99) to multi-day packs ($59.99-$115.22). Our 40L hiking backpacks ($45.99) feature padded hip belts, ventilation systems, and multiple compartments for organized gear storage. These packs have received 310+ orders with a 91% quality pass rate, demonstrating strong performance on weekend backpacking trips. For those building comprehensive outdoor setups, our [fansbuy outdoor gear](fansbuy-outdoor-gear.md) collection offers complementary equipment for camping, climbing, and water sports.
+**Backpacks and Bags** range from daypacks ($28.99-$45.99) to multi-day packs ($59.99-$115.22). Our 40L hiking backpacks ($45.99) feature padded hip belts, ventilation systems, and multiple compartments for organized gear storage. These packs have received 310+ orders with a 91% quality pass rate, demonstrating strong performance on weekend backpacking trips. For those building comprehensive outdoor setups, our [fansbuy outdoor gear](/fansbuy-outdoor-gear/) collection offers complementary equipment for camping, climbing, and water sports.
 
 ## Quality Verification and Selection Guide
 
@@ -41,7 +41,7 @@ Selecting the right hiking gear requires understanding both your needs and the q
 
 **Choosing Gear by Terrain** requires matching equipment to your hiking environment. Day hiking on well-maintained trails calls for lighter footwear and smaller packs (20-30L). Multi-day backpacking demands supportive boots, larger packs (40-65L), and comprehensive layering systems. Technical terrain with scrambling or off-trail navigation requires sturdy footwear with aggressive tread, trekking poles for stability, and reliable navigation tools. Consider your typical hiking conditions when selecting gear—investing in appropriate equipment enhances both safety and enjoyment.
 
-For those expanding into other outdoor activities, our [fansbuy sports gear](fansbuy-sports-gear.md) collection offers equipment for running, cycling, and water sports that complement your hiking setup. Many customers build versatile outdoor gear collections that serve multiple recreational pursuits.
+For those expanding into other outdoor activities, our [fansbuy sports gear](/fansbuy-sports-gear/) collection offers equipment for running, cycling, and water sports that complement your hiking setup. Many customers build versatile outdoor gear collections that serve multiple recreational pursuits.
 
 ## Ordering Guide and Sizing Considerations
 
@@ -51,7 +51,7 @@ Purchasing hiking gear from Fansbuy follows our streamlined spreadsheet-based pr
 Begin by reviewing our comprehensive hiking gear database through the spreadsheet link provided. Filter by category (footwear, apparel, equipment, packs) to find relevant items. Each listing includes detailed specifications, current pricing, order counts, quality pass rates, and batch version information. Pay special attention to sizing charts for footwear and apparel—these provide measurements in both imperial and metric units.
 
 **Step 2: Verify Sizing and Fit**
-Hiking footwear sizing varies by brand and style. Our spreadsheet includes brand-specific sizing notes—some manufacturers run small, requiring half-size increases, while others fit true to size. For apparel, review chest, waist, hip, and inseam measurements rather than relying solely on S/M/L designations. Layering considerations matter too; if you plan to wear multiple layers, you may need to size up outer shells. Our [fansbuy outdoor gear](fansbuy-outdoor-gear.md) guide provides additional context on layering systems and fit considerations.
+Hiking footwear sizing varies by brand and style. Our spreadsheet includes brand-specific sizing notes—some manufacturers run small, requiring half-size increases, while others fit true to size. For apparel, review chest, waist, hip, and inseam measurements rather than relying solely on S/M/L designations. Layering considerations matter too; if you plan to wear multiple layers, you may need to size up outer shells. Our [fansbuy outdoor gear](/fansbuy-outdoor-gear/) guide provides additional context on layering systems and fit considerations.
 
 **Step 3: Review QC Photos**
 Before finalizing your order, examine QC photos available in the spreadsheet. For footwear, check stitching quality, sole adhesion, and material consistency. For apparel, verify seam construction, zipper quality, and fabric appearance. For equipment, inspect component assembly and finish quality. This verification step helps set accurate expectations and ensures you're comfortable with the product before purchase.
@@ -101,8 +101,8 @@ Ready to gear up for your next adventure? Access the Fansbuy spreadsheet to brow
 ---
 
 **Related Guides:**
-- [Fansbuy outdoor gear](fansbuy-outdoor-gear.md) - Explore our complete outdoor equipment collection
-- [Fansbuy hiking shoes](fansbuy-hiking-shoes.md) - Find detailed sizing and style information for hiking footwear
-- [Fansbuy sports gear](fansbuy-sports-gear.md) - Discover additional sports and recreational equipment
+- [Fansbuy outdoor gear](/fansbuy-outdoor-gear/) - Explore our complete outdoor equipment collection
+- [Fansbuy hiking shoes](/fansbuy-hiking-shoes/) - Find detailed sizing and style information for hiking footwear
+- [Fansbuy sports gear](/fansbuy-sports-gear/) - Discover additional sports and recreational equipment
 
 ---

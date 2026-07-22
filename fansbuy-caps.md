@@ -16,7 +16,7 @@ Baseball caps are a staple accessory that can elevate any casual outfit, and the
 
 The fansbuy caps range spans from approximately $6.18 for budget variants up to $11.37 for premium options, giving you choices for different budgets and quality expectations. Community data shows that cap items maintain a 92% quality pass rate, with buyer satisfaction around 93%. Shipping typically takes 10–14 days to the US and EU, and the platform's transparent QC photo system lets you verify quality before your order ships. With over 22,000 verified products across all categories, Fansbuy has built a reputation for reliability that extends to its cap collection.
 
-In this guide, we will walk you through the complete fansbuy caps lineup, highlight the top-selling products with real pricing and order data, explain how to choose the right style for your needs, and give you a clear path to placing your first order. Whether you are buying for personal use or sourcing for resale, this page has the information you need to make confident decisions. For the most current pricing and availability, you can also check the [fansbuy accessories](fansbuy-accessories.md) section of the spreadsheet.
+In this guide, we will walk you through the complete fansbuy caps lineup, highlight the top-selling products with real pricing and order data, explain how to choose the right style for your needs, and give you a clear path to placing your first order. Whether you are buying for personal use or sourcing for resale, this page has the information you need to make confident decisions. For the most current pricing and availability, you can also check the [fansbuy accessories](/fansbuy-accessories/) section of the spreadsheet.
 
 ## Fansbuy Caps Collection Overview
 
@@ -28,7 +28,7 @@ Moving up, cap variant 1 is priced at $8.23 and offers slightly upgraded materia
 
 Cap variant 2 sits at $11.37, representing the premium end of the fansbuy caps collection. This option features the highest quality materials and the most accurate detailing. With over 200 orders and a 94% quality pass rate, variant 2 is popular among buyers who want a cap that closely matches retail quality. The structured front panel holds its shape well, and the adjustable closure is durable and smooth-operating. This is the go-to choice for resellers targeting customers who prioritize quality.
 
-For buyers interested in branded headwear, the [fansbuy hats](fansbuy-hats.md) collection includes some overlapping styles with sportswear branding. While the caps collection focuses primarily on unbranded or subtly branded options, the hats category includes beanies and other headwear styles that complement the cap lineup. Pairing a cap with items from the [fansbuy clothes](fansbuy-clothes.md) collection — such as t-shirts, hoodies, or tracksuits — creates a cohesive streetwear look without breaking the bank.
+For buyers interested in branded headwear, the [fansbuy hats](/fansbuy-hats/) collection includes some overlapping styles with sportswear branding. While the caps collection focuses primarily on unbranded or subtly branded options, the hats category includes beanies and other headwear styles that complement the cap lineup. Pairing a cap with items from the [fansbuy clothes](/fansbuy-clothes/) collection — such as t-shirts, hoodies, or tracksuits — creates a cohesive streetwear look without breaking the bank.
 
 Across all cap variants, Fansbuy maintains consistent quality standards. The QC photo system ensures you can verify the product before it ships, and the 10–14 day shipping window to US and EU addresses is competitive with many domestic suppliers. The 93% buyer satisfaction rate for caps reflects the platform's commitment to delivering accurate representations and reliable quality. One advantage of shopping for caps on Fansbuy is the ability to compare multiple options side by side using the spreadsheet, making it easy to identify which styles offer the best value for your needs.
 
@@ -64,7 +64,7 @@ Once you have selected your product, place your order through the platform's sta
 
 After you approve the QC photos, your order is packed and shipped. Most caps ship within 10–14 days to US and EU addresses. Tracking information is provided so you can monitor your delivery. When your package arrives, inspect it carefully. The vast majority of orders — roughly 92% — pass quality inspection on arrival, but the platform does offer support if you encounter any issues.
 
-For first-time buyers, we recommend starting with a mid-range option in the $8–$11 range. This gives you a good sense of the quality without a large upfront investment. If you are satisfied, you can explore the premium variant or stock up on multiple styles. The spreadsheet is the best tool for comparing options and tracking price changes over time. Pairing your cap with other items from the [fansbuy accessories](fansbuy-accessories.md) collection — such as belts, wallets, or sunglasses — can help you create a complete look.
+For first-time buyers, we recommend starting with a mid-range option in the $8–$11 range. This gives you a good sense of the quality without a large upfront investment. If you are satisfied, you can explore the premium variant or stock up on multiple styles. The spreadsheet is the best tool for comparing options and tracking price changes over time. Pairing your cap with other items from the [fansbuy accessories](/fansbuy-accessories/) collection — such as belts, wallets, or sunglasses — can help you create a complete look.
 
 ## Product Highlights
 
@@ -100,8 +100,8 @@ From the base cap at $6.73 to the premium variant 2 at $11.37, the fansbuy caps 
 
 **Related Guides:**
 
-- [Fansbuy Hats](fansbuy-hats.md) — Explore beanies and other headwear styles to complement your cap collection
-- [Fansbuy Accessories](fansbuy-accessories.md) — Browse all 80+ accessory listings including belts, wallets, and sunglasses
-- [Fansbuy Clothes](fansbuy-clothes.md) — Complete your look with t-shirts, hoodies, and tracksuits
+- [Fansbuy Hats](/fansbuy-hats/) — Explore beanies and other headwear styles to complement your cap collection
+- [Fansbuy Accessories](/fansbuy-accessories/) — Browse all 80+ accessory listings including belts, wallets, and sunglasses
+- [Fansbuy Clothes](/fansbuy-clothes/) — Complete your look with t-shirts, hoodies, and tracksuits
 
 ---

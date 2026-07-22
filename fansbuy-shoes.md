@@ -15,7 +15,7 @@ The fansbuy shoes collection offers 33 verified footwear models spanning sneaker
 
 What sets fansbuy shoes apart is the combination of variety, competitive pricing, and transparent quality data. The shoe category represents approximately 12% of total inventory, with most models falling in the $30-$60 premium range. Popular choices include Nike Air Max 95 (~$46.15, 410+ orders, 94% quality pass rate), Jordan 4 (~$55.38, 320+ orders, 92% quality pass rate), and Nike AF1 Low '07 (~$12.86, 280+ orders, 95% quality pass rate). These data points help buyers make informed decisions based on real order volume and quality verification results.
 
-This comprehensive guide covers everything you need to know about shopping for fansbuy shoes, from understanding the different shoe types available to navigating the quality verification process. Whether you're seeking everyday sneakers, luxury-inspired designer shoes, or comfortable slippers, you'll find detailed information on pricing, quality ratings, and sizing considerations. For sneaker-specific guidance, explore our [fansbuy sneakers](fansbuy-sneakers.md) collection, or check the [fansbuy sizing guide](fansbuy-sizing-guide.md) for brand-specific fit recommendations.
+This comprehensive guide covers everything you need to know about shopping for fansbuy shoes, from understanding the different shoe types available to navigating the quality verification process. Whether you're seeking everyday sneakers, luxury-inspired designer shoes, or comfortable slippers, you'll find detailed information on pricing, quality ratings, and sizing considerations. For sneaker-specific guidance, explore our [fansbuy sneakers](/fansbuy-sneakers/) collection, or check the [fansbuy sizing guide](/fansbuy-sizing-guide/) for brand-specific fit recommendations.
 
 ## Types of Shoes Available on Fansbuy
 
@@ -47,7 +47,7 @@ Selecting the right shoes from the fansbuy collection involves considering your 
 
 **Step 1: Identify Your Needs**: Determine what type of shoes you're looking for—everyday sneakers, designer-inspired styles, boots, or slippers. Consider the occasions where you'll wear them and the level of comfort required. For athletic or daily wear, Nike models like Air Max 95 or AF1 offer excellent comfort. For fashion-forward styling, designer options like Dior B22 or Balenciaga provide luxury aesthetics.
 
-**Step 2: Check the Spreadsheet**: Access the Fansbuy spreadsheet to view current inventory, pricing, and quality data. The shoe section is organized by brand and model, making it easy to locate specific styles. Filter by price range or quality ratings to narrow down options. For Nike-specific searches, the [fansbuy nike](fansbuy-nike.md) guide provides focused listings and brand information.
+**Step 2: Check the Spreadsheet**: Access the Fansbuy spreadsheet to view current inventory, pricing, and quality data. The shoe section is organized by brand and model, making it easy to locate specific styles. Filter by price range or quality ratings to narrow down options. For Nike-specific searches, the [fansbuy nike](/fansbuy-nike/) guide provides focused listings and brand information.
 
 **Step 3: Review Batch Versions**: Different production batches can have varying quality levels. The spreadsheet includes batch identifiers and quality pass rates, helping you select the best value. Higher-rated batches typically offer better materials and construction, though they may cost slightly more. Community feedback often includes specific batch recommendations based on real buyer experiences.
 
@@ -90,8 +90,8 @@ To explore the full collection and access current pricing, quality data, and bat
 ---
 
 **Related Guides:**
-- [Fansbuy QC Photos](fansbuy-qc-photos.md) - Quality verification photo guide
-- [Fansbuy Reviews](fansbuy-reviews.md) - Real buyer feedback and ratings
-- [Fansbuy Legit Check](fansbuy-legit-check.md) - Authentication and verification tips
+- [Fansbuy QC Photos](/fansbuy-qc-photos/) - Quality verification photo guide
+- [Fansbuy Reviews](/fansbuy-reviews/) - Real buyer feedback and ratings
+- [Fansbuy Legit Check](/fansbuy-legit-check/) - Authentication and verification tips
 
 ---

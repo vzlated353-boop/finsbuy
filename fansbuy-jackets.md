@@ -15,7 +15,7 @@ Outerwear completes every wardrobe, and fansbuy jackets have become a trusted ch
 
 This guide explores fansbuy jackets based on real order data and community feedback. The platform reports a 94% buyer satisfaction rate across clothing categories, with jackets showing strong demand among fashion-conscious buyers. Most orders ship within 10-14 days to US and EU destinations, and quality pass rates for jackets typically exceed 91%. From luxury Moncler pieces to performance-oriented Under Armour designs, this data-driven guide will help you find the perfect outerwear.
 
-If you're exploring outerwear, you might also want to check our [fansbuy jacket](fansbuy-jacket.md) collection for detailed product reviews. For a complete overview of all clothing categories, explore the [fansbuy clothes](fansbuy-clothes.md) page. And before ordering, make sure to review the [fansbuy sizing guide](fansbuy-sizing-guide.md) to ensure proper fit for outerwear.
+If you're exploring outerwear, you might also want to check our [fansbuy jacket](/fansbuy-jacket/) collection for detailed product reviews. For a complete overview of all clothing categories, explore the [fansbuy clothes](/fansbuy-clothes/) page. And before ordering, make sure to review the [fansbuy sizing guide](/fansbuy-sizing-guide/) to ensure proper fit for outerwear.
 
 ## Top Fansbuy Jackets by Category
 
@@ -97,8 +97,8 @@ Whether you're looking for luxury winter coats, durable everyday outerwear, or p
 ---
 
 **Related Guides:**
-- [Fansbuy hoodies](fansbuy-hoodies.md)
-- [Fansbuy reviews](fansbuy-reviews.md)
-- [Fansbuy qc photos](fansbuy-qc-photos.md)
+- [Fansbuy hoodies](/fansbuy-hoodies/)
+- [Fansbuy reviews](/fansbuy-reviews/)
+- [Fansbuy qc photos](/fansbuy-qc-photos/)
 
 ---

@@ -25,7 +25,7 @@ Another top performer is the Nike AF1 Low '07, available at just $12.86. This cl
 
 For those interested in designer-inspired footwear, the Dior B22 offers luxury aesthetics at $45.33. This model has gained traction with 280+ orders and maintains a 91% quality pass rate, featuring the chunky silhouette and premium materials that characterize high-end sneakers. The Nike Dunk series, ranging from $57.69 to $75.00 depending on the variant, rounds out the top sellers with its bold colorways and skate-inspired heritage. These models typically see 250-300 orders each, with quality pass rates consistently above 90%.
 
-What makes these models particularly appealing is the transparency Fansbuy provides. Each listing includes batch version information, allowing you to understand exactly what you're getting. The platform's quality verification system ensures that products meet specific standards before shipping, and the spreadsheet data lets you track order volumes and satisfaction rates in real-time. When exploring [fansbuy sneakers](fansbuy-sneakers.md), you'll find these same quality standards apply across the entire collection, giving you confidence regardless of which model you choose.
+What makes these models particularly appealing is the transparency Fansbuy provides. Each listing includes batch version information, allowing you to understand exactly what you're getting. The platform's quality verification system ensures that products meet specific standards before shipping, and the spreadsheet data lets you track order volumes and satisfaction rates in real-time. When exploring [fansbuy sneakers](/fansbuy-sneakers/), you'll find these same quality standards apply across the entire collection, giving you confidence regardless of which model you choose.
 
 ## Quality Verification and Batch Versions
 
@@ -35,7 +35,7 @@ The quality pass rate across the men's shoe collection averages 93%, with most p
 
 Batch versions also help you understand pricing variations. You might notice that the same model has slightly different prices depending on the batch—this typically reflects material upgrades or production improvements rather than quality differences. The Dior B22, for instance, has three batch versions available, with the latest version featuring enhanced stitching accuracy and better material quality, justifying a modest price increase. This level of detail allows you to choose the version that best fits your budget and quality expectations.
 
-The verification process includes checking for proper stitching, material quality, sole construction, and overall finish. Products that don't meet the 90% quality threshold are flagged for review, ensuring that only items meeting Fansbuy's standards reach customers. When you're ready to order, checking the [fansbuy sizing guide](fansbuy-sizing-guide.md) helps ensure you select the right size, as fit can vary slightly between batches and models. This attention to detail in both quality control and sizing information reduces the likelihood of returns and increases overall buyer satisfaction.
+The verification process includes checking for proper stitching, material quality, sole construction, and overall finish. Products that don't meet the 90% quality threshold are flagged for review, ensuring that only items meeting Fansbuy's standards reach customers. When you're ready to order, checking the [fansbuy sizing guide](/fansbuy-sizing-guide/) helps ensure you select the right size, as fit can vary slightly between batches and models. This attention to detail in both quality control and sizing information reduces the likelihood of returns and increases overall buyer satisfaction.
 
 ## How to Order Fansbuy Men Shoes
 
@@ -43,7 +43,7 @@ Ordering fansbuy men shoes follows a straightforward process designed to give yo
 
 Once you've identified potential options, review the detailed information for each listing. Pay attention to the order count—higher order volumes typically indicate reliable quality and buyer satisfaction. Check the quality pass rate; anything above 90% is generally safe, though the most popular models often exceed 93%. Note the batch version and any special characteristics mentioned. If you're comparing similar models, the spreadsheet makes it easy to see side-by-side differences in pricing and quality metrics.
 
-After selecting your preferred model and size, follow the platform's ordering instructions. Most buyers find it helpful to cross-reference their usual size with the sizing chart provided in the [fansbuy sizing guide](fansbuy-sizing-guide.md), as fit can vary between brands and even between different models from the same brand. For instance, Nike models typically run true to size, while some designer-inspired models may run slightly small, requiring you to size up by half a size.
+After selecting your preferred model and size, follow the platform's ordering instructions. Most buyers find it helpful to cross-reference their usual size with the sizing chart provided in the [fansbuy sizing guide](/fansbuy-sizing-guide/), as fit can vary between brands and even between different models from the same brand. For instance, Nike models typically run true to size, while some designer-inspired models may run slightly small, requiring you to size up by half a size.
 
 Once your order is placed, you'll receive tracking information and regular updates on shipping status. The typical delivery timeline is 10-14 days to US and EU destinations, though this can vary based on your location and current shipping volumes. Throughout the process, the Fansbuy community and support team remain available to answer questions and address any concerns, ensuring a smooth purchasing experience from selection to delivery.
 
@@ -84,8 +84,8 @@ Ready to explore the complete collection? Access the Fansbuy spreadsheet to brow
 ---
 
 **Related Guides:**
-- [Fansbuy Shoes](fansbuy-shoes.md) - Explore the complete footwear collection across all categories
-- [Fansbuy Sneakers](fansbuy-sneakers.md) - Discover our extensive sneaker selection with quality data
-- [Fansbuy Sizing Guide](fansbuy-sizing-guide.md) - Find your perfect fit with our comprehensive sizing resource
+- [Fansbuy Shoes](/fansbuy-shoes/) - Explore the complete footwear collection across all categories
+- [Fansbuy Sneakers](/fansbuy-sneakers/) - Discover our extensive sneaker selection with quality data
+- [Fansbuy Sizing Guide](/fansbuy-sizing-guide/) - Find your perfect fit with our comprehensive sizing resource
 
 ---

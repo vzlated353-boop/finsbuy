@@ -15,7 +15,7 @@ Streetwear culture has transformed footwear from simple athletic gear into state
 
 This guide explores fansbuy streetwear shoes that deliver authentic urban style based on real order data and community feedback. The platform reports a 93% buyer satisfaction rate across footwear categories, with streetwear models showing strong demand among style-conscious buyers. Most orders ship within 10-14 days to US and EU destinations, and quality pass rates for streetwear shoes typically exceed 91%. Whether you're into classic Nike Dunks, bold Balenciaga designs, or Off-white collaborations, this data-driven guide will help you build your streetwear footwear collection.
 
-If you're building a streetwear wardrobe, you might also want to check our [fansbuy sneakers](fansbuy-sneakers.md) collection for performance-inspired styles. For brand-specific options, the [fansbuy nike](fansbuy-nike.md) page covers Nike's streetwear offerings in detail. And for a complete overview of all footwear categories, the [fansbuy shoes](fansbuy-shoes.md) page covers everything from casual to designer styles.
+If you're building a streetwear wardrobe, you might also want to check our [fansbuy sneakers](/fansbuy-sneakers/) collection for performance-inspired styles. For brand-specific options, the [fansbuy nike](/fansbuy-nike/) page covers Nike's streetwear offerings in detail. And for a complete overview of all footwear categories, the [fansbuy shoes](/fansbuy-shoes/) page covers everything from casual to designer styles.
 
 ## Top Fansbuy Streetwear Shoes for Urban Style
 
@@ -53,7 +53,7 @@ Building your streetwear footwear collection through Fansbuy requires careful se
 
 **Step 2: Study QC Photos Carefully**: For streetwear shoes, details matter immensely. Access the [Fansbuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) and examine QC photos for your chosen model. Look for accurate logo placement, correct colorways, proper material texture, and clean construction. Compare different batch versions to select the highest-quality option.
 
-**Step 3: Check Sizing and Fit**: Streetwear shoes often have specific fit requirements. Nike Dunks typically run true to size, while Balenciaga chunky sneakers may require sizing up. Jordan 4s usually fit true to size with adequate room. Refer to the [fansbuy sizing guide](fansbuy-sizing-guide.md) for brand-specific recommendations to ensure proper fit.
+**Step 3: Check Sizing and Fit**: Streetwear shoes often have specific fit requirements. Nike Dunks typically run true to size, while Balenciaga chunky sneakers may require sizing up. Jordan 4s usually fit true to size with adequate room. Refer to the [fansbuy sizing guide](/fansbuy-sizing-guide/) for brand-specific recommendations to ensure proper fit.
 
 **Step 4: Review Community Feedback**: The spreadsheet includes comments about streetwear shoe quality, accuracy, and real-world wear. Look for feedback specifically mentioning design accuracy, material quality, and how the shoes compare to retail versions. This information helps set realistic expectations.
 
@@ -94,8 +94,8 @@ Ready to elevate your streetwear game? Access the [Fansbuy spreadsheet](https://
 ---
 
 **Related Guides:**
-- [Fansbuy Sneakers](fansbuy-sneakers.md)
-- [Fansbuy Shoes](fansbuy-shoes.md)
-- [Fansbuy Nike](fansbuy-nike.md)
+- [Fansbuy Sneakers](/fansbuy-sneakers/)
+- [Fansbuy Shoes](/fansbuy-shoes/)
+- [Fansbuy Nike](/fansbuy-nike/)
 
 ---

@@ -15,7 +15,7 @@ Spring dressing requires versatility — layers that transition from cool mornin
 
 This page covers everything you need to know about building a spring wardrobe through Fansbuy, including specific product examples, real order data, and quality metrics from the platform's spreadsheet. The clothing category spans T-shirts (44 products), hoodies (19 products), sweatshirts (10 products), tracksuits (21 products), and lightweight jackets (3 products), with prices that make seasonal refreshes accessible. Buyer satisfaction rates average 93% across the clothing category, with most spring-appropriate items maintaining quality pass rates above 92%.
 
-If you are specifically interested in layering pieces, the [fansbuy clothes](fansbuy-clothes.md) collection offers 127 verified options across multiple categories. For warmer-weather basics, the [fansbuy jackets](fansbuy-jackets.md) page covers lightweight outerwear perfect for transitional spring weather. In the sections below, we break down the best spring clothing options, share community feedback, and walk you through the ordering process so you can build a seasonal wardrobe with confidence.
+If you are specifically interested in layering pieces, the [fansbuy clothes](/fansbuy-clothes/) collection offers 127 verified options across multiple categories. For warmer-weather basics, the [fansbuy jackets](/fansbuy-jackets/) page covers lightweight outerwear perfect for transitional spring weather. In the sections below, we break down the best spring clothing options, share community feedback, and walk you through the ordering process so you can build a seasonal wardrobe with confidence.
 
 ## Fansbuy Spring Clothes: Top Categories and Products
 
@@ -99,8 +99,8 @@ Whether you need basic T-shirts for layering, hoodies for transitional weather, 
 ---
 
 **Related Guides:**
-- [Fansbuy Hoodies](fansbuy-hoodies.md) — Explore 19 verified hoodie options for spring layering
-- [Fansbuy T-Shirts](fansbuy-t-shirts.md) — Browse 44 verified T-shirt styles from streetwear and designer brands
-- [Fansbuy Budget Picks](fansbuy-budget-picks.md) — Discover the best value clothing items under $20
+- [Fansbuy Hoodies](/fansbuy-hoodies/) — Explore 19 verified hoodie options for spring layering
+- [Fansbuy T-Shirts](/fansbuy-t-shirts/) — Browse 44 verified T-shirt styles from streetwear and designer brands
+- [Fansbuy Budget Picks](/fansbuy-budget-picks/) — Discover the best value clothing items under $20
 
 ---
