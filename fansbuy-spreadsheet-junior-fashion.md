@@ -36,7 +36,7 @@ Material quality is paramount for junior fashion. The spreadsheet specifies fabr
 
 Construction quality is equally important. The spreadsheet details stitching quality, seam reinforcement, and hardware durability. Reinforced seams, double-stitching, and quality zippers indicate higher construction standards. Products with these features typically achieve higher quality ratings and customer satisfaction.
 
-Supplier ratings provide additional quality context. Each supplier receives a composite score based on delivery timeliness, product accuracy, material quality, and customer feedback. Suppliers specializing in junior fashion often have distinct ratings from those focusing on other categories. Look for suppliers with ratings above 4.5 and quality pass rates above 94% for reliable results. For comprehensive guidance on evaluating suppliers, our [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) guide provides additional frameworks.
+Supplier ratings provide additional quality context. Each supplier receives a composite score based on delivery timeliness, product accuracy, material quality, and customer feedback. Suppliers specializing in junior fashion often have distinct ratings from those focusing on other categories. Look for suppliers with ratings above 4.5 and quality pass rates above 94% for reliable results. For comprehensive guidance on evaluating suppliers, our [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) guide provides additional frameworks.
 
 ## Pricing Analysis and Seasonal Trends
 
@@ -80,10 +80,10 @@ The Fansbuy spreadsheet junior fashion database provides everything you need to 
 
 Success in junior fashion sourcing requires systematic analysis of quality data, trend identification, supplier performance, and seasonal demand. The Fansbuy spreadsheet consolidates all these data points in one accessible location, giving you a significant competitive advantage. By following the frameworks and strategies outlined in this guide, you can build a profitable, trend-driven junior fashion product line.
 
-Start leveraging the Fansbuy spreadsheet today to transform your junior fashion sourcing. Use the quality metrics to identify reliable products, analyze pricing to optimize margins, and track trends to stay ahead of the market. For additional resources, explore our guides on [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/).
+Start leveraging the Fansbuy spreadsheet today to transform your junior fashion sourcing. Use the quality metrics to identify reliable products, analyze pricing to optimize margins, and track trends to stay ahead of the market. For additional resources, explore our guides on [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and [fansbuy spreadsheet finder](/fansbuy-spreadsheet/).
 
 ## Related Guides
 
 - [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/)
 - [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/)
-- [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/)
+- [fansbuy spreadsheet finder](/fansbuy-spreadsheet/)

@@ -46,7 +46,7 @@ The Fansbuy community excels at onboarding new members and helping them develop 
 
 Educational resources are readily available within the community. Tutorials on using the spreadsheet's search and filtering capabilities, understanding quality ratings, and identifying value opportunities help new members quickly become proficient in leveraging the resource. This educational support accelerates the learning curve and improves purchasing outcomes from the start.
 
-The [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) functionality is particularly valuable for newcomers. When new members describe what they're looking for, experienced community members can quickly locate relevant products and provide context about quality expectations, pricing norms, and potential issues. This personalized assistance helps newcomers avoid common pitfalls and make better decisions from their first purchases.
+The [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) functionality is particularly valuable for newcomers. When new members describe what they're looking for, experienced community members can quickly locate relevant products and provide context about quality expectations, pricing norms, and potential issues. This personalized assistance helps newcomers avoid common pitfalls and make better decisions from their first purchases.
 
 Community forums and discussion channels provide ongoing support as members navigate their shopping journey. Questions about specific products, sellers, or purchasing strategies receive prompt responses from experienced members who understand the challenges involved. This responsive support system creates a welcoming environment that encourages participation and knowledge sharing.
 
@@ -96,4 +96,4 @@ Join this thriving community today and contribute to the resource that thousands
 
 - [Fansbuy Spreadsheet Best](/fansbuy-spreadsheet-best/)
 - [Fansbuy Spreadsheet With QC](/fansbuy-spreadsheet-with-qc/)
-- [Fansbuy Spreadsheet Finder](/fansbuy-spreadsheet-finder/)
+- [Fansbuy Spreadsheet Finder](/fansbuy-spreadsheet/)

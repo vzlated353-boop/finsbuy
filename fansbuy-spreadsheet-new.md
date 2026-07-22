@@ -82,7 +82,7 @@ To make the most of new products in the spreadsheet, follow these strategies:
 
 **Monitor Performance Over Time**: The spreadsheet updates quality metrics as new products accumulate orders and feedback. Monitor these updates to see how the product performs over time. Products that maintain high quality ratings as they gain more orders are generally safe bets.
 
-For help discovering new products and trending items, the [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) tool is designed to surface emerging products and hidden gems that match your preferences and quality standards.
+For help discovering new products and trending items, the [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) tool is designed to surface emerging products and hidden gems that match your preferences and quality standards.
 
 ## FAQ
 
@@ -104,4 +104,4 @@ The fansbuy spreadsheet new edition is an invaluable resource for shoppers who w
 
 To get started, access the spreadsheet using the link above and explore the new product filter and trending products section. Use the evaluation strategies outlined in this guide to assess new products effectively, and always check seller reputation and specifications before making a purchase. With the right approach, you can use the spreadsheet to discover exciting new products, stay ahead of trends, and make informed decisions that maximize your satisfaction and minimize your risk.
 
-For more resources, check out our guides on the [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), the [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and the [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) to enhance your shopping strategy and maximize your success in discovering and evaluating new products.
+For more resources, check out our guides on the [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), the [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and the [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) to enhance your shopping strategy and maximize your success in discovering and evaluating new products.

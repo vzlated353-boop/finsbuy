@@ -46,7 +46,7 @@ Quality pass rates require context to interpret effectively. A 90% pass rate mig
 
 Order volume affects the reliability of pass rates. Products with thousands of orders provide highly reliable quality assessments because they reflect diverse buyer experiences. Items with only dozens of orders have greater uncertainty, as their pass rates may not represent typical outcomes across larger populations.
 
-The [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) helps shoppers filter products by pass rate thresholds, allowing them to prioritize items meeting their quality standards. This filtering capability is particularly valuable when shopping for critical items where quality consistency is essential.
+The [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) helps shoppers filter products by pass rate thresholds, allowing them to prioritize items meeting their quality standards. This filtering capability is particularly valuable when shopping for critical items where quality consistency is essential.
 
 Pass rates also vary by product category. Electronics typically have lower pass rates than simple accessories due to their complexity and higher failure potential. Understanding category norms helps shoppers set appropriate expectations and evaluate products relative to category standards rather than absolute metrics.
 
@@ -96,4 +96,4 @@ Access the Fansbuy spreadsheet today and leverage comprehensive QC data to make 
 
 - [Fansbuy Spreadsheet Best](/fansbuy-spreadsheet-best/)
 - [Fansbuy Spreadsheet With QC](/fansbuy-spreadsheet-with-qc/)
-- [Fansbuy Spreadsheet Finder](/fansbuy-spreadsheet-finder/)
+- [Fansbuy Spreadsheet Finder](/fansbuy-spreadsheet/)

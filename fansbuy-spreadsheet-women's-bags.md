@@ -82,7 +82,7 @@ When using the fansbuy spreadsheet women's bags edition to shop, consider these 
 
 **Check Capacity and Dimensions**: Make sure the bag you're considering can hold everything you need to carry. The spreadsheet includes capacity dimensions and notes what items fit inside (laptop size, water bottle, makeup bag, etc.). This helps you avoid bags that are too small or unnecessarily large.
 
-The [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) tool can help you navigate the spreadsheet more efficiently and find bags that match your specific criteria.
+The [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) tool can help you navigate the spreadsheet more efficiently and find bags that match your specific criteria.
 
 ## Frequently Asked Questions
 
@@ -114,4 +114,4 @@ Ready to start exploring? <a href="https://docs.google.com/spreadsheets/d/10e9eu
 
 - [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/)
 - [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/)
-- [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/)
+- [fansbuy spreadsheet finder](/fansbuy-spreadsheet/)

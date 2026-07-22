@@ -36,7 +36,7 @@ Material safety is paramount. The spreadsheet specifies fabric composition, dye 
 
 Size accuracy is critical for kids' fashion since children grow quickly and fit expectations vary by age. The spreadsheet includes detailed size charts with measurements for each age group. Products with consistent sizing across batches receive higher quality ratings. Understanding size availability helps you match products to your target market and reduce return rates.
 
-Supplier ratings provide additional quality context. Each supplier receives a composite score based on delivery timeliness, product accuracy, material safety compliance, and customer feedback. Look for suppliers with ratings above 4.5 and quality pass rates above 95% for reliable results. For comprehensive guidance on evaluating suppliers, our [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) guide provides additional frameworks.
+Supplier ratings provide additional quality context. Each supplier receives a composite score based on delivery timeliness, product accuracy, material safety compliance, and customer feedback. Look for suppliers with ratings above 4.5 and quality pass rates above 95% for reliable results. For comprehensive guidance on evaluating suppliers, our [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) guide provides additional frameworks.
 
 ## Pricing Analysis and Seasonal Trends
 
@@ -80,10 +80,10 @@ The Fansbuy spreadsheet kids fashion database provides everything you need to so
 
 Success in kids' fashion sourcing requires systematic analysis of safety data, quality metrics, supplier performance, pricing trends, and market demand. The Fansbuy spreadsheet consolidates all these data points in one accessible location, giving you a significant competitive advantage. By following the frameworks and strategies outlined in this guide, you can build a profitable, safety-conscious kids' fashion product line.
 
-Start leveraging the Fansbuy spreadsheet today to transform your kids' fashion sourcing. Use the quality metrics to identify reliable products, analyze pricing to optimize margins, and track trends to stay ahead of the market. For additional resources, explore our guides on [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/).
+Start leveraging the Fansbuy spreadsheet today to transform your kids' fashion sourcing. Use the quality metrics to identify reliable products, analyze pricing to optimize margins, and track trends to stay ahead of the market. For additional resources, explore our guides on [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and [fansbuy spreadsheet finder](/fansbuy-spreadsheet/).
 
 ## Related Guides
 
 - [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/)
 - [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/)
-- [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/)
+- [fansbuy spreadsheet finder](/fansbuy-spreadsheet/)

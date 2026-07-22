@@ -36,7 +36,7 @@ Jewelry forms another major category, with necklaces, bracelets, rings, and earr
 
 Belts, wallets, and small leather goods maintain steady demand for both men and women. The spreadsheet includes genuine leather options, synthetic alternatives, and various buckle and closure styles. These items often show strong profit margins with 40-70% markup potential. Understanding the quality levels and material specifications helps you match products to your target market and price point.
 
-For buyers interested in sunglasses, hats, and other fashion accessories, the spreadsheet includes polarized sunglasses, baseball caps, beanies, scarves, and ties. These items typically command good profit margins and show seasonal demand patterns. You can explore specialized options in more detail through our [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) guide, which highlights top-performing products across all categories.
+For buyers interested in sunglasses, hats, and other fashion accessories, the spreadsheet includes polarized sunglasses, baseball caps, beanies, scarves, and ties. These items typically command good profit margins and show seasonal demand patterns. You can explore specialized options in more detail through our [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) guide, which highlights top-performing products across all categories.
 
 ## Analyzing Quality Metrics and Supplier Performance
 
@@ -80,10 +80,10 @@ The Fansbuy spreadsheet accessories collection provides an invaluable resource f
 
 Success in accessory sourcing requires careful analysis of quality data, material specifications, market trends, and supplier performance. The Fansbuy spreadsheet consolidates all this information in one accessible location, saving you time and reducing risk. Whether you're an experienced buyer or just starting, leveraging this tool effectively can improve your product selection, reduce quality issues, and increase profit margins.
 
-Start exploring the Fansbuy spreadsheet today to discover the best accessory products for your business. Use the quality metrics and supplier ratings to identify reliable partners, analyze pricing to maximize your margins, and stay ahead of market trends. For more guidance on sourcing strategies, explore our related guides on [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/).
+Start exploring the Fansbuy spreadsheet today to discover the best accessory products for your business. Use the quality metrics and supplier ratings to identify reliable partners, analyze pricing to maximize your margins, and stay ahead of market trends. For more guidance on sourcing strategies, explore our related guides on [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and [fansbuy spreadsheet finder](/fansbuy-spreadsheet/).
 
 ## Related Guides
 
 - [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/)
 - [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/)
-- [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/)
+- [fansbuy spreadsheet finder](/fansbuy-spreadsheet/)

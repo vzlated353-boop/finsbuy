@@ -36,7 +36,7 @@ For backpacks, key quality factors include fabric denier, stitching reinforcemen
 
 For leather bags like briefcases and messenger bags, material quality is paramount. The spreadsheet specifies leather type (full-grain, top-grain, genuine, PU), stitching quality, and hardware durability. Full-grain leather products typically achieve 95%+ quality pass rates, while PU alternatives range from 89-93%. Understanding these material differences helps you set appropriate price points and manage customer expectations.
 
-Supplier ratings provide additional quality context. Each supplier receives a composite score based on delivery timeliness, product accuracy, material quality, and customer feedback. Suppliers specializing in bags often have distinct ratings from those focusing on clothing or footwear. Look for suppliers with ratings above 4.5 and quality pass rates above 93% for reliable results. For comprehensive guidance on evaluating suppliers, our [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) guide provides additional frameworks.
+Supplier ratings provide additional quality context. Each supplier receives a composite score based on delivery timeliness, product accuracy, material quality, and customer feedback. Suppliers specializing in bags often have distinct ratings from those focusing on clothing or footwear. Look for suppliers with ratings above 4.5 and quality pass rates above 93% for reliable results. For comprehensive guidance on evaluating suppliers, our [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) guide provides additional frameworks.
 
 ## Pricing Analysis and Profit Margins
 
@@ -80,10 +80,10 @@ The Fansbuy spreadsheet men's bags database is an essential tool for bag sourcin
 
 Success in men's bag sourcing requires careful analysis of quality data, material specifications, supplier performance, and market trends. The Fansbuy spreadsheet consolidates all these data points in one accessible location, giving you a significant competitive advantage. Whether you're sourcing everyday backpacks, professional briefcases, or travel luggage, the data-driven approach outlined in this guide helps you build a profitable product line.
 
-Start leveraging the Fansbuy spreadsheet today to transform your men's bag sourcing. Use the quality metrics to identify reliable products, analyze pricing to optimize margins, and track trends to stay ahead of the market. For additional resources, explore our guides on [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/).
+Start leveraging the Fansbuy spreadsheet today to transform your men's bag sourcing. Use the quality metrics to identify reliable products, analyze pricing to optimize margins, and track trends to stay ahead of the market. For additional resources, explore our guides on [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and [fansbuy spreadsheet finder](/fansbuy-spreadsheet/).
 
 ## Related Guides
 
 - [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/)
 - [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/)
-- [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/)
+- [fansbuy spreadsheet finder](/fansbuy-spreadsheet/)

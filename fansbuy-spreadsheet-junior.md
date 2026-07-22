@@ -36,7 +36,7 @@ Sneakers represent a significant portion of the junior shoe category. The spread
 
 Accessories and bags form another important category. Items like backpacks, crossbody bags, hats, and jewelry show strong profit margins and consistent demand among junior shoppers. The spreadsheet provides detailed specifications for these items, including materials, dimensions, and available colors. This level of detail helps you make informed purchasing decisions and avoid potential quality issues.
 
-For buyers interested in premium or trendy items, the spreadsheet includes a curated selection of fashion-forward products. These items typically command higher prices but offer better profit margins. You can explore premium options in more detail through our [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) guide, which highlights top-performing products across all categories.
+For buyers interested in premium or trendy items, the spreadsheet includes a curated selection of fashion-forward products. These items typically command higher prices but offer better profit margins. You can explore premium options in more detail through our [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) guide, which highlights top-performing products across all categories.
 
 ## Analyzing Quality Metrics and Supplier Performance
 
@@ -80,10 +80,10 @@ The Fansbuy spreadsheet junior collection provides an invaluable resource for an
 
 Success in junior fashion sourcing requires careful analysis of quality data, market trends, and supplier performance. The Fansbuy spreadsheet consolidates all this information in one accessible location, saving you time and reducing risk. Whether you're an experienced buyer or just starting, leveraging this tool effectively can improve your product selection, reduce quality issues, and increase profit margins.
 
-Start exploring the Fansbuy spreadsheet today to discover the best junior fashion products for your business. Use the quality metrics and supplier ratings to identify reliable partners, analyze pricing to maximize your margins, and stay ahead of market trends. For more guidance on sourcing strategies, explore our related guides on [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/).
+Start exploring the Fansbuy spreadsheet today to discover the best junior fashion products for your business. Use the quality metrics and supplier ratings to identify reliable partners, analyze pricing to maximize your margins, and stay ahead of market trends. For more guidance on sourcing strategies, explore our related guides on [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and [fansbuy spreadsheet finder](/fansbuy-spreadsheet/).
 
 ## Related Guides
 
 - [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/)
 - [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/)
-- [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/)
+- [fansbuy spreadsheet finder](/fansbuy-spreadsheet/)

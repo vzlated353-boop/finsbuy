@@ -38,7 +38,7 @@ The hub's organizational structure supports both focused research and explorator
 
 Cross-referencing capabilities enable buyers to validate information across multiple data points. A product's quality rating can be checked against buyer reviews, QC photos, and order volume to build a comprehensive picture of its actual performance. This cross-referencing reduces the risk of relying on any single data point that might be inaccurate or misleading.
 
-The hub also supports ongoing research through regular updates and additions. New products are added as they become available, quality ratings are updated based on recent buyer feedback, and seller information is refreshed to reflect current performance. This continuous improvement ensures the hub remains current and reliable. Visit the [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) for streamlined navigation through the hub's extensive data.
+The hub also supports ongoing research through regular updates and additions. New products are added as they become available, quality ratings are updated based on recent buyer feedback, and seller information is refreshed to reflect current performance. This continuous improvement ensures the hub remains current and reliable. Visit the [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) for streamlined navigation through the hub's extensive data.
 
 ## Using the Hub as Your Research Starting Point
 
@@ -88,4 +88,4 @@ Access the Fansbuy spreadsheet hub today and streamline your replica market rese
 
 - [Fansbuy Spreadsheet Best Sellers](/fansbuy-spreadsheet-best/)
 - [Fansbuy Spreadsheet with QC Photos](/fansbuy-spreadsheet-with-qc/)
-- [Fansbuy Spreadsheet Finder Tool](/fansbuy-spreadsheet-finder/)
+- [Fansbuy Spreadsheet Finder Tool](/fansbuy-spreadsheet/)

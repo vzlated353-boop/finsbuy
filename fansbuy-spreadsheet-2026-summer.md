@@ -62,7 +62,7 @@ Timing your purchases can also make a significant difference. Many summer produc
 
 Another tip is to cross-reference products across multiple categories. For example, a product listed under both "outdoor gear" and "camping" might appear in two different sections with slightly different pricing. The spreadsheet's search function helps you find all instances of a product so you can choose the best deal.
 
-For help discovering new products and sellers, the [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) tool is designed to streamline your search process. It works alongside the main spreadsheet to surface hidden gems that might otherwise go unnoticed.
+For help discovering new products and sellers, the [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) tool is designed to streamline your search process. It works alongside the main spreadsheet to surface hidden gems that might otherwise go unnoticed.
 
 ## FAQ
 
@@ -84,4 +84,4 @@ The fansbuy spreadsheet 2026 summer edition is an indispensable tool for anyone 
 
 To get started, simply access the spreadsheet using the link above and begin exploring the categories that interest you. Use the filtering and sorting tools to narrow down your options, and always pay attention to the quality pass rate and order volume metrics. With the right approach, you can save significant time and money while enjoying a smoother, more confident shopping experience this summer.
 
-For more resources, check out our guides on the [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), the [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and the [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) to enhance your shopping strategy even further.
+For more resources, check out our guides on the [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), the [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and the [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) to enhance your shopping strategy even further.

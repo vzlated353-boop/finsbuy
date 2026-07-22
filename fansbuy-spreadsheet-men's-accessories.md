@@ -36,7 +36,7 @@ For watches, key quality factors include movement type (quartz vs mechanical), c
 
 For leather goods like belts and wallets, material quality is paramount. The spreadsheet specifies leather type (full-grain, top-grain, genuine, synthetic), stitching quality, and hardware durability. Full-grain leather products typically achieve 95%+ quality pass rates, while synthetic alternatives range from 88-93%. Understanding these material differences helps you set appropriate price points and manage customer expectations.
 
-Supplier ratings provide additional quality context. Each supplier receives a composite score based on delivery timeliness, product accuracy, material quality, and customer feedback. Suppliers specializing in accessories often have distinct ratings from those focusing on clothing or footwear. Look for suppliers with ratings above 4.5 and quality pass rates above 93% for reliable results. For comprehensive guidance on evaluating suppliers, our [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) guide provides additional frameworks.
+Supplier ratings provide additional quality context. Each supplier receives a composite score based on delivery timeliness, product accuracy, material quality, and customer feedback. Suppliers specializing in accessories often have distinct ratings from those focusing on clothing or footwear. Look for suppliers with ratings above 4.5 and quality pass rates above 93% for reliable results. For comprehensive guidance on evaluating suppliers, our [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) guide provides additional frameworks.
 
 ## Pricing Analysis and Profit Optimization
 
@@ -80,10 +80,10 @@ The Fansbuy spreadsheet men's accessories database provides an unparalleled reso
 
 Success in men's accessories sourcing requires careful analysis of quality data, material specifications, supplier performance, and market trends. The Fansbuy spreadsheet consolidates all these data points in one accessible location, giving you a significant competitive advantage. Accessories offer some of the highest profit margins in fashion, making them essential for building a profitable product line.
 
-Start leveraging the Fansbuy spreadsheet today to transform your men's accessories sourcing. Use the quality metrics to identify reliable products, analyze pricing to optimize margins, and track trends to stay ahead of the market. For additional resources, explore our guides on [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/).
+Start leveraging the Fansbuy spreadsheet today to transform your men's accessories sourcing. Use the quality metrics to identify reliable products, analyze pricing to optimize margins, and track trends to stay ahead of the market. For additional resources, explore our guides on [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and [fansbuy spreadsheet finder](/fansbuy-spreadsheet/).
 
 ## Related Guides
 
 - [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/)
 - [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/)
-- [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/)
+- [fansbuy spreadsheet finder](/fansbuy-spreadsheet/)

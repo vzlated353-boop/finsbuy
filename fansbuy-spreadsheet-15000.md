@@ -72,7 +72,7 @@ Another strategy is to use the spreadsheet's search function to find products by
 
 Pay attention to the order volume metric. Products with higher order counts tend to have more reliable quality ratings because they're based on larger sample sizes. Products with 5,000+ orders have been tested by thousands of buyers, giving you high confidence in their quality ratings. Products with lower order counts may still be good choices, but the quality data is less statistically reliable.
 
-For help discovering products you might have missed, the [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) tool complements the main database by surfacing trending products and hidden gems that match your preferences and shopping history.
+For help discovering products you might have missed, the [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) tool complements the main database by surfacing trending products and hidden gems that match your preferences and shopping history.
 
 ## FAQ
 
@@ -94,4 +94,4 @@ The fansbuy spreadsheet 15000 product database is an invaluable resource for onl
 
 To get started, access the spreadsheet using the link above and begin exploring the categories that interest you. Use the filtering and search tools to narrow down your options, and always pay attention to the quality pass rate and order volume metrics. With the right approach, you can navigate the 15,000 product database efficiently and identify products that meet your needs and budget.
 
-For more resources, check out our guides on the [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), the [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and the [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) to enhance your product research strategy and shopping success.
+For more resources, check out our guides on the [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), the [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and the [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) to enhance your product research strategy and shopping success.

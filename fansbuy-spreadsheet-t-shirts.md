@@ -36,7 +36,7 @@ Graphic tees form another major category, with screen-printed designs, digital p
 
 Oversized and streetwear t-shirts maintain strong demand among younger demographics. The spreadsheet includes drop-shoulder designs, boxy fits, and vintage wash options. These items often command higher prices and offer better profit margins. Understanding the quality levels and fabric specifications helps you match products to your target market and price point.
 
-For buyers interested in performance or specialty t-shirts, the spreadsheet includes moisture-wicking fabrics, organic cotton options, and blended materials. These items typically command premium prices but offer excellent profit margins. You can explore premium options in more detail through our [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) guide, which highlights top-performing products across all categories.
+For buyers interested in performance or specialty t-shirts, the spreadsheet includes moisture-wicking fabrics, organic cotton options, and blended materials. These items typically command premium prices but offer excellent profit margins. You can explore premium options in more detail through our [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) guide, which highlights top-performing products across all categories.
 
 ## Analyzing Quality Metrics and Supplier Performance
 
@@ -80,10 +80,10 @@ The Fansbuy spreadsheet t-shirts collection provides an invaluable resource for 
 
 Success in t-shirt sourcing requires careful analysis of quality data, fabric specifications, market trends, and supplier performance. The Fansbuy spreadsheet consolidates all this information in one accessible location, saving you time and reducing risk. Whether you're an experienced buyer or just starting, leveraging this tool effectively can improve your product selection, reduce quality issues, and increase profit margins.
 
-Start exploring the Fansbuy spreadsheet today to discover the best t-shirt products for your business. Use the quality metrics and supplier ratings to identify reliable partners, analyze pricing to maximize your margins, and stay ahead of market trends. For more guidance on sourcing strategies, explore our related guides on [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/).
+Start exploring the Fansbuy spreadsheet today to discover the best t-shirt products for your business. Use the quality metrics and supplier ratings to identify reliable partners, analyze pricing to maximize your margins, and stay ahead of market trends. For more guidance on sourcing strategies, explore our related guides on [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and [fansbuy spreadsheet finder](/fansbuy-spreadsheet/).
 
 ## Related Guides
 
 - [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/)
 - [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/)
-- [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/)
+- [fansbuy spreadsheet finder](/fansbuy-spreadsheet/)

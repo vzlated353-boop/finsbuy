@@ -36,7 +36,7 @@ Sizing accuracy is crucial for junior footwear since this age group experiences 
 
 Material quality is paramount for junior shoes. The spreadsheet specifies materials used in uppers, linings, and soles. Breathable mesh, durable canvas, and quality synthetic leathers are common in junior footwear. Products with pass rates above 95% typically use higher-quality materials that withstand active wear. Construction quality is equally important, with reinforced stitching, secure sole attachment, and quality hardware indicating better durability.
 
-Supplier ratings provide additional quality context. Each supplier receives a composite score based on delivery timeliness, product accuracy, material quality, and customer feedback. Look for suppliers with ratings above 4.5 and quality pass rates above 94% for reliable results. For comprehensive guidance on evaluating suppliers, our [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) guide provides additional frameworks.
+Supplier ratings provide additional quality context. Each supplier receives a composite score based on delivery timeliness, product accuracy, material quality, and customer feedback. Look for suppliers with ratings above 4.5 and quality pass rates above 94% for reliable results. For comprehensive guidance on evaluating suppliers, our [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) guide provides additional frameworks.
 
 ## Pricing Analysis and Market Trends
 
@@ -80,10 +80,10 @@ The Fansbuy spreadsheet junior shoes database is an essential tool for junior fo
 
 Success in junior shoe sourcing requires careful analysis of quality data, sizing accuracy, supplier performance, and market trends. The Fansbuy spreadsheet consolidates all these data points in one accessible location, giving you a significant competitive advantage. Whether you're sourcing trendy sneakers, casual shoes, or athletic footwear, the data-driven approach outlined in this guide helps you build a profitable product line.
 
-Start leveraging the Fansbuy spreadsheet today to transform your junior shoe sourcing. Use the quality metrics to identify reliable products, analyze pricing to optimize margins, and track trends to stay ahead of the market. For additional resources, explore our guides on [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/).
+Start leveraging the Fansbuy spreadsheet today to transform your junior shoe sourcing. Use the quality metrics to identify reliable products, analyze pricing to optimize margins, and track trends to stay ahead of the market. For additional resources, explore our guides on [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and [fansbuy spreadsheet finder](/fansbuy-spreadsheet/).
 
 ## Related Guides
 
 - [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/)
 - [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/)
-- [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/)
+- [fansbuy spreadsheet finder](/fansbuy-spreadsheet/)

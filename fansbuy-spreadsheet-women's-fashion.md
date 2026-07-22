@@ -84,7 +84,7 @@ When using the fansbuy spreadsheet women's fashion edition to build your wardrob
 
 **Consider Care Requirements**: Different fabrics and items have different care requirements. Consider whether you're willing to hand-wash delicate items or dry-clean certain fabrics, and choose items that fit your lifestyle and care preferences.
 
-For help discovering trending fashion products and building your wardrobe, the [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) tool can surface popular items and hidden gems that match current fashion trends and quality standards.
+For help discovering trending fashion products and building your wardrobe, the [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) tool can surface popular items and hidden gems that match current fashion trends and quality standards.
 
 ## FAQ
 
@@ -106,4 +106,4 @@ The fansbuy spreadsheet women's fashion edition is an invaluable resource for wo
 
 To get started, access the spreadsheet using the link above and begin exploring the clothing categories that match your needs. Use the filtering tools to focus on products with high quality pass rates, positive style feedback, and prices within your budget. Pay attention to sizing information, material composition, and occasion appropriateness to ensure you're choosing clothing that will meet your expectations. With the right approach, you can use the spreadsheet to build a versatile, stylish wardrobe that satisfies your fashion desires while staying within your budget and meeting your quality standards.
 
-For more resources, check out our guides on the [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), the [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and the [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) to enhance your fashion shopping strategy and maximize your success in finding stylish, quality clothing.
+For more resources, check out our guides on the [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), the [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and the [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) to enhance your fashion shopping strategy and maximize your success in finding stylish, quality clothing.

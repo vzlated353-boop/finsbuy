@@ -38,7 +38,7 @@ Batch performance analysis identifies which sellers are delivering consistent qu
 
 The spreadsheet tracks batch release timing, helping buyers understand production cycles and anticipate new releases. Most sellers operate on 4-6 week batch cycles, with new products becoming available regularly throughout the year. This timing information helps buyers plan purchases and avoid missing limited releases.
 
-For buyers using [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) tools to locate specific products, batch performance data provides essential context for evaluating current availability. A product from a strong 2026 batch with comprehensive QC documentation represents a lower-risk purchase than older inventory with limited quality evidence.
+For buyers using [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) tools to locate specific products, batch performance data provides essential context for evaluating current availability. A product from a strong 2026 batch with comprehensive QC documentation represents a lower-risk purchase than older inventory with limited quality evidence.
 
 ## Real-Time Quality Updates
 
@@ -88,4 +88,4 @@ Access the Fansbuy spreadsheet 2026 with QC documentation today and join thousan
 
 - [Fansbuy Spreadsheet Best 2026 Options](/fansbuy-spreadsheet-best/)
 - [Fansbuy Spreadsheet With QC Photos](/fansbuy-spreadsheet-with-qc/)
-- [Fansbuy Spreadsheet Finder for 2026 Products](/fansbuy-spreadsheet-finder/)
+- [Fansbuy Spreadsheet Finder for 2026 Products](/fansbuy-spreadsheet/)

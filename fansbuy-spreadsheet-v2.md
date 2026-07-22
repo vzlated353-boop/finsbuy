@@ -76,7 +76,7 @@ Use the enhanced visual indicators to quickly assess product quality. The gradie
 
 Explore the expanded product data to make more informed decisions. Price history data helps you identify the best times to buy, while batch information helps you understand quality variations. Seller performance metrics provide additional context for evaluating product reliability. This richer data allows you to make more confident purchasing decisions.
 
-For help discovering new products and sellers, the [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) tool complements the V2 spreadsheet by surfacing trending products and hidden gems that match your preferences and shopping patterns.
+For help discovering new products and sellers, the [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) tool complements the V2 spreadsheet by surfacing trending products and hidden gems that match your preferences and shopping patterns.
 
 ## FAQ
 
@@ -98,4 +98,4 @@ The fansbuy spreadsheet V2 represents a significant upgrade that makes the alrea
 
 To get started with V2, access the spreadsheet using the link above and explore the enhanced features. Use the advanced filtering system to narrow down your options with greater precision, take advantage of the improved sorting options to identify the best value products, and leverage the enhanced visual indicators to quickly assess product quality. With the right approach, you can use V2 to find the perfect products more efficiently and make purchasing decisions with greater confidence.
 
-For more resources, check out our guides on the [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), the [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and the [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) to enhance your shopping strategy and maximize your success with the V2 spreadsheet.
+For more resources, check out our guides on the [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), the [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and the [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) to enhance your shopping strategy and maximize your success with the V2 spreadsheet.

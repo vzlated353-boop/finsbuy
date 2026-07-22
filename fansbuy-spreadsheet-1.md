@@ -76,7 +76,7 @@ The fansbuy spreadsheet #1 remains the best resource for online shoppers for sev
 
 **Proven Track Record**: The #1 spreadsheet has helped thousands of shoppers make informed decisions and avoid costly mistakes. This track record of reliability has established it as the most trusted resource in the online shopping community.
 
-For help discovering new products and sellers, the [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) tool complements the #1 spreadsheet by surfacing trending products and hidden gems that match your preferences and shopping patterns.
+For help discovering new products and sellers, the [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) tool complements the #1 spreadsheet by surfacing trending products and hidden gems that match your preferences and shopping patterns.
 
 ## FAQ
 
@@ -98,4 +98,4 @@ The fansbuy spreadsheet #1 remains the original and most trusted resource for on
 
 To get started, access the spreadsheet using the link above and begin exploring the categories that interest you. Use the filtering and search tools to narrow down your options, and always pay attention to the quality pass rate and order volume metrics. With the right approach, you can leverage the #1 spreadsheet's comprehensive data to find the best products at the best prices while minimizing your risk of disappointment.
 
-For more resources, check out our guides on the [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), the [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and the [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) to enhance your shopping strategy and maximize your success with the #1 spreadsheet.
+For more resources, check out our guides on the [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), the [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and the [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) to enhance your shopping strategy and maximize your success with the #1 spreadsheet.

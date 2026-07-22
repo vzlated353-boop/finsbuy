@@ -38,7 +38,7 @@ When a Reddit thread recommends a specific seller, check the spreadsheet for tha
 
 Conversely, when browsing the spreadsheet for products, check Reddit for recent community discussions about the sellers and products you're considering. Recent buyer reports may reveal quality changes, shipping issues, or other developments not yet reflected in the spreadsheet's data. This real-time intelligence supplements the spreadsheet's more structured but potentially less current information.
 
-The [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) tool can help you quickly locate spreadsheet entries for products mentioned in Reddit discussions, streamlining the cross-referencing process.
+The [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) tool can help you quickly locate spreadsheet entries for products mentioned in Reddit discussions, streamlining the cross-referencing process.
 
 ## Navigating Reddit for Spreadsheet References
 
@@ -88,4 +88,4 @@ Access the Fansbuy spreadsheet today and benefit from the most comprehensive com
 
 - [Fansbuy Spreadsheet Best Sellers](/fansbuy-spreadsheet-best/)
 - [Fansbuy Spreadsheet with QC Photos](/fansbuy-spreadsheet-with-qc/)
-- [Fansbuy Spreadsheet Finder Tool](/fansbuy-spreadsheet-finder/)
+- [Fansbuy Spreadsheet Finder Tool](/fansbuy-spreadsheet/)

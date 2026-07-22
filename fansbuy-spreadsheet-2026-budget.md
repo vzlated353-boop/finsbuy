@@ -64,7 +64,7 @@ Timing your purchases can also make a significant difference. Many products see 
 
 Another strategy is to bundle purchases when possible. Many sellers offer discounts for multiple items, and the spreadsheet notes which products are eligible for bundle pricing. Combining related items (like phone accessories or clothing basics) can yield additional savings of 10-20%.
 
-For help discovering new budget-friendly products, the [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) tool is designed to streamline your search process. It works alongside the main spreadsheet to surface hidden gems that offer exceptional value but might not be immediately obvious.
+For help discovering new budget-friendly products, the [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) tool is designed to streamline your search process. It works alongside the main spreadsheet to surface hidden gems that offer exceptional value but might not be immediately obvious.
 
 ## FAQ
 
@@ -86,4 +86,4 @@ The fansbuy spreadsheet 2026 budget edition is the ultimate tool for value-consc
 
 To get started, access the spreadsheet using the link above and begin exploring the value scores and price tiers for your favorite product categories. Use the filtering tools to focus on products within your budget range, and always pay attention to the quality pass rate and order volume metrics. With the right approach, you can save significant money while still enjoying high-quality products that meet your needs.
 
-For more resources, check out our guides on the [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), the [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and the [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) to enhance your budget shopping strategy even further.
+For more resources, check out our guides on the [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), the [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and the [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) to enhance your budget shopping strategy even further.

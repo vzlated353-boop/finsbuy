@@ -88,4 +88,4 @@ Whether you're researching seller history, comparing quality trends, or identify
 
 - [Fansbuy Spreadsheet Best Sellers](/fansbuy-spreadsheet-best/)
 - [Fansbuy Spreadsheet with QC Photos](/fansbuy-spreadsheet-with-qc/)
-- [Fansbuy Spreadsheet Finder Tool](/fansbuy-spreadsheet-finder/)
+- [Fansbuy Spreadsheet Finder Tool](/fansbuy-spreadsheet/)

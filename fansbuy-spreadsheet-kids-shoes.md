@@ -36,7 +36,7 @@ Sizing accuracy is critical for kids' shoes since improper fit can affect foot d
 
 Material safety is paramount for kids' footwear. The spreadsheet specifies materials used in uppers, linings, and soles. Non-toxic materials, breathable fabrics, and hypoallergenic linings are clearly marked. Products with pass rates above 96% typically use certified safe materials. Construction quality is equally important, with reinforced stitching, secure sole attachment, and rounded toe boxes for comfort.
 
-Supplier ratings provide additional quality context. Each supplier receives a composite score based on delivery timeliness, product accuracy, material safety compliance, and customer feedback. Look for suppliers with ratings above 4.5 and quality pass rates above 95% for reliable results. For comprehensive guidance on evaluating suppliers, our [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) guide provides additional frameworks.
+Supplier ratings provide additional quality context. Each supplier receives a composite score based on delivery timeliness, product accuracy, material safety compliance, and customer feedback. Look for suppliers with ratings above 4.5 and quality pass rates above 95% for reliable results. For comprehensive guidance on evaluating suppliers, our [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) guide provides additional frameworks.
 
 ## Pricing Analysis and Seasonal Demand
 
@@ -80,10 +80,10 @@ The Fansbuy spreadsheet kids shoes database is an essential tool for children's 
 
 Success in kids' shoe sourcing requires careful analysis of quality data, sizing accuracy, supplier performance, and seasonal demand. The Fansbuy spreadsheet consolidates all these data points in one accessible location, giving you a significant competitive advantage. Whether you're sourcing infant first-walkers, toddler sneakers, or youth athletic shoes, the data-driven approach outlined in this guide helps you build a profitable product line.
 
-Start leveraging the Fansbuy spreadsheet today to transform your kids' shoe sourcing. Use the quality metrics to identify reliable products, analyze pricing to optimize margins, and track trends to stay ahead of the market. For additional resources, explore our guides on [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/).
+Start leveraging the Fansbuy spreadsheet today to transform your kids' shoe sourcing. Use the quality metrics to identify reliable products, analyze pricing to optimize margins, and track trends to stay ahead of the market. For additional resources, explore our guides on [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and [fansbuy spreadsheet finder](/fansbuy-spreadsheet/).
 
 ## Related Guides
 
 - [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/)
 - [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/)
-- [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/)
+- [fansbuy spreadsheet finder](/fansbuy-spreadsheet/)

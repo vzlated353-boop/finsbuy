@@ -36,7 +36,7 @@ Camping equipment forms another major category, with tents, sleeping bags, cooki
 
 Outdoor clothing maintains steady demand across all seasons. The spreadsheet includes waterproof jackets, insulated layers, base layers, and quick-dry pants. These items often command good profit margins with 70-120% markup potential. Understanding the quality levels and technical specifications (waterproof ratings, breathability, insulation types) helps you match products to your target market and climate needs.
 
-For buyers interested in backpacks, outdoor footwear, and adventure accessories, the spreadsheet includes hiking backpacks, trail running shoes, headlamps, water filters, and multi-tools. These items typically show strong demand and good profit margins. You can explore specialized options in more detail through our [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) guide, which highlights top-performing products across all categories.
+For buyers interested in backpacks, outdoor footwear, and adventure accessories, the spreadsheet includes hiking backpacks, trail running shoes, headlamps, water filters, and multi-tools. These items typically show strong demand and good profit margins. You can explore specialized options in more detail through our [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) guide, which highlights top-performing products across all categories.
 
 ## Analyzing Quality Metrics and Supplier Performance
 
@@ -82,10 +82,10 @@ The Fansbuy spreadsheet outdoor collection provides an invaluable resource for a
 
 Success in outdoor product sourcing requires careful analysis of quality data, durability specifications, weather resistance ratings, market trends, and supplier performance. The Fansbuy spreadsheet consolidates all this information in one accessible location, saving you time and reducing risk. Whether you're an experienced buyer or just starting, leveraging this tool effectively can improve your product selection, reduce quality issues, and increase profit margins in the outdoor segment.
 
-Start exploring the Fansbuy spreadsheet today to discover the best outdoor products for your business. Use the quality metrics and supplier ratings to identify reliable partners, analyze pricing to maximize your margins, and stay ahead of market trends. For more guidance on sourcing strategies, explore our related guides on [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/).
+Start exploring the Fansbuy spreadsheet today to discover the best outdoor products for your business. Use the quality metrics and supplier ratings to identify reliable partners, analyze pricing to maximize your margins, and stay ahead of market trends. For more guidance on sourcing strategies, explore our related guides on [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and [fansbuy spreadsheet finder](/fansbuy-spreadsheet/).
 
 ## Related Guides
 
 - [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/)
 - [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/)
-- [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/)
+- [fansbuy spreadsheet finder](/fansbuy-spreadsheet/)

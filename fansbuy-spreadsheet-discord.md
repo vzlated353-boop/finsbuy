@@ -38,7 +38,7 @@ The [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/) integration is 
 
 Advanced bot functionality includes price tracking and alert systems. Members can set up notifications for specific products or categories, receiving Discord messages when prices drop below certain thresholds or when new items matching their criteria are added to the spreadsheet. This proactive alert system ensures that community members never miss opportunities for exceptional value.
 
-The [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) functionality is enhanced through Discord's search capabilities. Members can describe what they're looking for in natural language, and bots can search the spreadsheet to provide relevant matches ranked by quality ratings and value metrics. This conversational interface makes the spreadsheet's comprehensive data accessible to users regardless of their technical proficiency.
+The [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) functionality is enhanced through Discord's search capabilities. Members can describe what they're looking for in natural language, and bots can search the spreadsheet to provide relevant matches ranked by quality ratings and value metrics. This conversational interface makes the spreadsheet's comprehensive data accessible to users regardless of their technical proficiency.
 
 ## Community Moderation and Quality Verification
 
@@ -96,4 +96,4 @@ Join these thriving communities today and experience the difference that data-dr
 
 - [Fansbuy Spreadsheet Best](/fansbuy-spreadsheet-best/)
 - [Fansbuy Spreadsheet With QC](/fansbuy-spreadsheet-with-qc/)
-- [Fansbuy Spreadsheet Finder](/fansbuy-spreadsheet-finder/)
+- [Fansbuy Spreadsheet Finder](/fansbuy-spreadsheet/)

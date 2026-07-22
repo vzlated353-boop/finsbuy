@@ -36,7 +36,7 @@ Hoodies and sweatshirts form another major category, with heavyweight fleece, ov
 
 Joggers and sweatpants maintain steady demand for both casual and athletic wear. The spreadsheet includes tapered joggers, cargo pants, and track pants in various materials (cotton, polyester blends, technical fabrics). These items often command good profit margins with 50-80% markup potential. Understanding the quality levels and material specifications helps you match products to your target market and price point.
 
-For buyers interested in sneakers, caps, and accessories, the spreadsheet includes lifestyle sneakers, snapback caps, beanies, backpacks, and crossbody bags. These items typically show strong demand and good profit margins. You can explore specialized options in more detail through our [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) guide, which highlights top-performing products across all categories.
+For buyers interested in sneakers, caps, and accessories, the spreadsheet includes lifestyle sneakers, snapback caps, beanies, backpacks, and crossbody bags. These items typically show strong demand and good profit margins. You can explore specialized options in more detail through our [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) guide, which highlights top-performing products across all categories.
 
 ## Analyzing Quality Metrics and Supplier Performance
 
@@ -80,10 +80,10 @@ The Fansbuy spreadsheet streetwear collection provides an invaluable resource fo
 
 Success in streetwear sourcing requires careful analysis of quality data, material specifications, market trends, and supplier performance. The Fansbuy spreadsheet consolidates all this information in one accessible location, saving you time and reducing risk. Whether you're an experienced buyer or just starting, leveraging this tool effectively can improve your product selection, reduce quality issues, and increase profit margins in the streetwear segment.
 
-Start exploring the Fansbuy spreadsheet today to discover the best streetwear products for your business. Use the quality metrics and supplier ratings to identify reliable partners, analyze pricing to maximize your margins, and stay ahead of market trends. For more guidance on sourcing strategies, explore our related guides on [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/).
+Start exploring the Fansbuy spreadsheet today to discover the best streetwear products for your business. Use the quality metrics and supplier ratings to identify reliable partners, analyze pricing to maximize your margins, and stay ahead of market trends. For more guidance on sourcing strategies, explore our related guides on [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and [fansbuy spreadsheet finder](/fansbuy-spreadsheet/).
 
 ## Related Guides
 
 - [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/)
 - [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/)
-- [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/)
+- [fansbuy spreadsheet finder](/fansbuy-spreadsheet/)

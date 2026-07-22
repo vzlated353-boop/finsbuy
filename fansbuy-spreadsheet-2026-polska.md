@@ -64,7 +64,7 @@ Pay attention to the currency conversion notes. The spreadsheet provides approxi
 
 Another important tip is to check the customs notes for your product category. While most items clear customs without issues, being aware of potential duties or restrictions helps you avoid surprises. The spreadsheet notes which product categories are most likely to incur customs fees, allowing you to make informed decisions.
 
-For help finding sellers with reliable delivery to Poland, the [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) tool can surface sellers who have proven track records of successful deliveries to your region.
+For help finding sellers with reliable delivery to Poland, the [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) tool can surface sellers who have proven track records of successful deliveries to your region.
 
 ## FAQ
 
@@ -86,4 +86,4 @@ The fansbuy spreadsheet 2026 Polska edition is an invaluable resource for Polish
 
 To get started, access the spreadsheet using the link above and begin exploring products with shipping options that match your needs. Use the filtering tools to focus on items with reliable delivery to Poland, and always check the quality pass rate and order volume metrics. With the right approach, you can enjoy the benefits of international shopping while minimizing risks and maximizing value.
 
-For more resources, check out our guides on the [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), the [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and the [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) to enhance your shopping strategy from Poland.
+For more resources, check out our guides on the [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), the [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and the [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) to enhance your shopping strategy from Poland.

@@ -28,7 +28,7 @@ Language considerations are minimal, as the spreadsheet uses English for all pro
 
 Internet connectivity in Poland supports reliable access to the spreadsheet, with most urban areas offering high-speed broadband and mobile data. The spreadsheet's efficient design ensures quick loading times even on moderate connections, enabling productive research sessions without frustrating delays.
 
-For Polish buyers new to the spreadsheet, starting with category browsing helps build familiarity with the database structure. The hierarchical organization (main categories > subcategories > individual products) provides an intuitive navigation path that works regardless of language or prior experience. The [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) tool can help Polish buyers quickly locate specific products or sellers.
+For Polish buyers new to the spreadsheet, starting with category browsing helps build familiarity with the database structure. The hierarchical organization (main categories > subcategories > individual products) provides an intuitive navigation path that works regardless of language or prior experience. The [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) tool can help Polish buyers quickly locate specific products or sellers.
 
 ## Shipping and Logistics for Polish Buyers
 
@@ -98,4 +98,4 @@ Access the Fansbuy spreadsheet today and leverage the most comprehensive replica
 
 - [Fansbuy Spreadsheet Best Sellers](/fansbuy-spreadsheet-best/)
 - [Fansbuy Spreadsheet with QC Photos](/fansbuy-spreadsheet-with-qc/)
-- [Fansbuy Spreadsheet Finder Tool](/fansbuy-spreadsheet-finder/)
+- [Fansbuy Spreadsheet Finder Tool](/fansbuy-spreadsheet/)

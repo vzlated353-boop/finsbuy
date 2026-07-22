@@ -70,7 +70,7 @@ When comparing similar products, create a shortlist of 3-5 options and compare t
 
 Another strategy is to use the spreadsheet's search function to find products by specific keywords. If you're looking for a particular feature (like "waterproof" or "wireless"), searching by keyword can help you find all products with that feature across multiple categories. You can then filter the results by quality and price to identify the best options.
 
-For help discovering products you might have missed, the [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) tool complements the main database by surfacing trending products and hidden gems that match your preferences.
+For help discovering products you might have missed, the [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) tool complements the main database by surfacing trending products and hidden gems that match your preferences.
 
 ## FAQ
 
@@ -92,4 +92,4 @@ The fansbuy spreadsheet 20000 product database is the most comprehensive resourc
 
 To get started, access the spreadsheet using the link above and begin exploring the categories that interest you. Use the filtering and search tools to narrow down your options, and always pay attention to the quality pass rate and order volume metrics. With the right approach, you can navigate the 20,000 product database efficiently and identify the best products for your needs.
 
-For more resources, check out our guides on the [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), the [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and the [fansbuy spreadsheet finder](/fansbuy-spreadsheet-finder/) to enhance your product research strategy.
+For more resources, check out our guides on the [fansbuy spreadsheet best](/fansbuy-spreadsheet-best/), the [fansbuy spreadsheet with qc](/fansbuy-spreadsheet-with-qc/), and the [fansbuy spreadsheet finder](/fansbuy-spreadsheet/) to enhance your product research strategy.
