@@ -83,12 +83,5 @@ export default defineConfig({
     'fansbuy-product-reference.md',
     'fansbuy-review-report.md',
     'fansbuy-topic-list.md',
-    'flexible-article-generator.md',
-    'topic-matrix.md',
-    'ideas.md',
-    'CONTENT_CHECKLIST.md',
-    'LOCAL_SETUP.md',
-    'PRODUCT_WORKFLOW.md',
-    'WEBSITE_STRUCTURE.md',
   ],
 })

@@ -4,6 +4,7 @@ import './custom.css'
 import GlobalNavbar from './components/GlobalNavbar.vue'
 import SiteFooter from './components/SiteFooter.vue'
 import ArticleNavigation from './components/ArticleNavigation.vue'
+import ArticleCTAButtons from './components/ArticleCTAButtons.vue'
 
 export default {
   ...DefaultTheme,
@@ -11,7 +12,8 @@ export default {
     return h(Fragment, [
       h(GlobalNavbar),
       h(DefaultTheme.Layout, null, {
-        'doc-after': () => h(ArticleNavigation)
+        'doc-after': () => h(ArticleNavigation),
+        'doc-bottom': () => h(ArticleCTAButtons)
       }),
       h(SiteFooter)
     ])

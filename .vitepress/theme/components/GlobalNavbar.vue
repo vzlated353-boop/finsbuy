@@ -3,6 +3,8 @@
     <div class="navbar-container">
       <a href="/" class="navbar-brand">{{ brand.logoText }}</a>
 
+      <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="nav-shopping-btn">Start shopping</a>
+
       <div class="navbar-menu">
         <a
           v-for="item in nav"
