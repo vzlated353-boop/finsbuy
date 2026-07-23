@@ -967,6 +967,13 @@ footer.VPFooter,
   margin: 0 10px;
 }
 
+/* ===== Navbar Actions (right side buttons) ===== */
+.navbar-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
 /* ===== Navbar Start Shopping Button ===== */
 .nav-shopping-btn {
   background-color: #8b0000;
@@ -978,7 +985,6 @@ footer.VPFooter,
   text-decoration: none;
   transition: all 0.3s ease;
   white-space: nowrap;
-  margin-right: 15px;
 }
 
 .nav-shopping-btn:hover {
@@ -987,13 +993,16 @@ footer.VPFooter,
 }
 
 @media (max-width: 1024px) {
-  .nav-shopping-btn { padding: 8px 15px; font-size: 13px; margin-right: 10px; }
+  .navbar-actions { gap: 8px; }
+  .nav-shopping-btn { padding: 8px 15px; font-size: 13px; }
 }
 
 @media (max-width: 768px) {
-  .nav-shopping-btn { padding: 6px 12px; font-size: 12px; margin-right: 8px; }
+  .navbar-actions { gap: 6px; }
+  .nav-shopping-btn { padding: 6px 12px; font-size: 12px; }
 }
 
 @media (max-width: 480px) {
-  .nav-shopping-btn { padding: 5px 10px; font-size: 11px; margin-right: 5px; }
+  .navbar-actions { gap: 5px; }
+  .nav-shopping-btn { padding: 5px 10px; font-size: 11px; }
 }
